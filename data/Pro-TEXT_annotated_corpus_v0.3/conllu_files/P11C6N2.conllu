@@ -1,0 +1,1961 @@
+# text_version = 0
+# sent_id = 0_1
+1	la	le	DET	DET	_	0	x	_	=|1=l__False|2=a__False|g=f|n=s
+
+# text_version = 2
+# sent_id = 2_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	x	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	0	x	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	c'	ce	CLS	CLS	_	0	x	_	=|26=c__True|27='__False
+
+# text_version = 3
+# sent_id = 3_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	x	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	0	x	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	c	_	X	ADV	_	0	x	_	=|26=c__True
+
+# text_version = 4
+# sent_id = 4_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	x	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	0	x	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	DET	_	0	x	_	=|26=c__True|29=e__True|g=m|n=s
+6	nn	ne	ADV	NC	_	0	x	_	=|31=n__True|32=n__False
+
+# text_version = 5
+# sent_id = 5_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	x	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	0	x	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	DET	_	0	x	_	=|26=c__True|29=e__True|g=m|n=s
+6	n	_	X	NC	_	0	x	_	=|31=n__True
+
+# text_version = 6
+# sent_id = 6_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ca	ça	PRO	P	_	0	x	_	=|52=c__False|53=a__False
+
+# text_version = 7
+# sent_id = 7_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+
+# text_version = 8
+# sent_id = 8_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à+le	P+D	P+D	_	12	a_obj	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	18	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	0	root	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	VINF	V	_	18	obj	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	s	_	X	NC	_	0	x	_	=|93=s__False
+
+# text_version = 9
+# sent_id = 9_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	17	mod	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	15	prep	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	0	root	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	VS	VS	_	18	mod	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 10
+# sent_id = 10_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	17	mod	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	15	prep	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	7	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	7	mod	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+
+# text_version = 11
+# sent_id = 11_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à+le	P+D	P+D	_	12	a_obj	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	peut	pouvoir	V	V	_	0	root	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+18	crée	créer	VINF	V	_	17	obj	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+19	des	un	DET	DET	_	20	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+20	histoires	histoire	NC	NC	_	18	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+21	et	et	CC	CC	_	12	coord	_	=|109=e__True|110=t__True
+22	ça	ça	PRO	PRO	_	17	suj	_	=|112=ç__True|113=a__True|n=s
+23	tça	ça	PRO	ADV	_	22	dep_coord	_	=|115=t__False|80=ç__True|81=a__True
+
+# text_version = 12
+# sent_id = 12_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	22	dep_coord	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	7	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	7	mod	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	12	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	22	dep_coord	_	=|112=ç__True|113=a__True|n=s
+
+# text_version = 13
+# sent_id = 13_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à+le	P+D	P+D	_	12	a_obj	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	peut	pouvoir	V	V	_	25	dep_coord	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+18	crée	créer	VINF	V	_	17	obj	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+19	des	un	DET	DET	_	20	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+20	histoires	histoire	NC	NC	_	18	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+21	et	et	CC	CC	_	12	coord	_	=|109=e__True|110=t__True
+22	ça	ça	PRO	PRO	_	23	suj	_	=|112=ç__True|113=a__True|n=s
+23	peut	pouvoir	V	V	_	21	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+24	faire	faire	VINF	VINF	_	23	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+25	maiça	mais_ça	CC	NPP	_	0	root	_	=|128=m__True|129=a__True|130=i__False|80=ç__True|81=a__True
+
+# text_version = 14
+# sent_id = 14_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à+le	P+D	P+D	_	12	a_obj	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	peut	pouvoir	V	V	_	25	dep_coord	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+18	crée	créer	VINF	V	_	17	obj	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+19	des	un	DET	DET	_	20	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+20	histoires	histoire	NC	NC	_	18	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+21	et	et	CC	CC	_	12	coord	_	=|109=e__True|110=t__True
+22	ça	ça	PRO	PRO	_	23	suj	_	=|112=ç__True|113=a__True|n=s
+23	peut	pouvoir	V	V	_	21	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+24	faire	faire	VINF	VINF	_	23	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+25	maça	mais_ça	CC	NPP	_	0	root	_	=|128=m__True|129=a__True|80=ç__True|81=a__True
+
+# text_version = 15
+# sent_id = 15_1
+1	La	le	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	7	mod	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj_impers	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à+le	P+D	P+D	_	12	a_obj	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	peut	pouvoir	V	NC	_	0	root	_	=|83=p__True|84=e__True|85=u__True|86=t__True
+18	crée	créer	VINF	V	_	17	obj	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+19	des	un	DET	DET	_	20	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+20	histoires	histoire	NC	NC	_	18	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+21	et	et	CC	CC	_	12	coord	_	=|109=e__True|110=t__True
+22	ça	ça	PRO	PRO	_	23	suj	_	=|112=ç__True|113=a__True|n=s
+23	peut	pouvoir	V	V	_	21	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+24	faire	faire	VINF	VINF	_	23	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+25	mal	mal	NC	ADV	_	24	obj	_	=|128=m__True|129=a__True|132=l__True
+26	aça	ça	PRO	ADV	_	17	suj	_	=|134=a__False|80=ç__True|81=a__True
+
+# text_version = 16
+# sent_id = 16_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	25	obj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	7	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	7	mod	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	ADV	ADV	_	25	mod	_	=|128=m__True|129=a__True|132=l__True
+
+# text_version = 17
+# sent_id = 17_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	mod	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+
+# text_version = 18
+# sent_id = 18_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	mod	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+
+# text_version = 19
+# sent_id = 19_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 19
+# sent_id = 19_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|176=t__False|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|178=a__False|179=v__False|180=o__False|181=i__False|182=r__False|t=W
+6	des	de	DET	P+D	_	0	x	_	=|184=d__False|185=e__False|186=s__False|n=p
+
+# text_version = 20
+# sent_id = 20_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 20
+# sent_id = 20_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	DET	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s
+4	peu	pouvoir	V	ADV	_	0	root	_	=|173=p__True|174=e__True|175=u__True
+
+# text_version = 21
+# sent_id = 21_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 21
+# sent_id = 21_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	se	se	CLR	CLR	_	6	aff	_	=|202=s__False|203=e__False|n=p,s|p=3
+6	faire	faire	VINF	VINF	_	4	obj	_	=|205=f__False|206=a__False|207=i__False|208=r__False|209=e__False|t=W
+
+# text_version = 22
+# sent_id = 22_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 22
+# sent_id = 22_2
+1	Celui	celui	PRO	PRO	_	0	root	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	suj	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	4	obj	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	1	mod_rel	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+
+# text_version = 23
+# sent_id = 23_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 23
+# sent_id = 23_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avi	_	X	NC	_	0	x	_	=|220=a__True|221=v__True|222=i__False
+
+# text_version = 24
+# sent_id = 24_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 24
+# sent_id = 24_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	av	_	X	ADV	_	0	x	_	=|220=a__True|221=v__True
+
+# text_version = 25
+# sent_id = 25_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 25
+# sent_id = 25_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avio	avoir	VINF	NC	_	4	obj	_	=|220=a__True|221=v__True|224=i__False|225=o__False
+
+# text_version = 26
+# sent_id = 26_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 26
+# sent_id = 26_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	0	x	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	0	x	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	av	_	X	ADV	_	0	x	_	=|220=a__True|221=v__True
+
+# text_version = 27
+# sent_id = 27_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 27
+# sent_id = 27_2
+1	Celui	celui	PRO	PRO	_	0	root	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	suj	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	CLO	CLO	_	4	obj	_	=|170=l__True|171=e__True|g=m|n=s|p=3
+4	peut	pouvoir	V	V	_	1	mod_rel	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+
+# text_version = 28
+# sent_id = 28_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 28
+# sent_id = 28_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+
+# text_version = 29
+# sent_id = 29_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 29
+# sent_id = 29_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+
+# text_version = 30
+# sent_id = 30_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 30
+# sent_id = 30_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 30
+# sent_id = 30_3
+1	C	_	X	VPR	_	0	x	_	=|255=C__False
+
+# text_version = 31
+# sent_id = 31_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 31
+# sent_id = 31_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 32
+# sent_id = 32_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 32
+# sent_id = 32_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 32
+# sent_id = 32_3
+1	La	le	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	5	suj	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	ce	CLS	CLR	_	5	suj_impers	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	ats	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	VINF	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	un	DET	P+D	_	11	det	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoire	histoire	NC	NC	_	9	obj	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|313=e__False|g=f|n=s
+
+# text_version = 33
+# sent_id = 33_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 33
+# sent_id = 33_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 33
+# sent_id = 33_3
+1	La	le	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	5	suj	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	ce	CLS	CLR	_	5	suj_impers	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	ats	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	VINF	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	un	DET	P+D	_	11	det	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoir	histoire	NC	NC	_	9	obj	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True
+
+# text_version = 34
+# sent_id = 34_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 34
+# sent_id = 34_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 34
+# sent_id = 34_3
+1	La	le	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	5	suj	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	ce	CLS	CLR	_	5	suj_impers	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	ats	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	VINF	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	un	DET	P+D	_	11	det	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoirs	histoire	NC	NC	_	9	obj	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|315=s__False
+
+# text_version = 35
+# sent_id = 35_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 35
+# sent_id = 35_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 35
+# sent_id = 35_3
+1	La	le	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	5	suj	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	ce	CLS	CLR	_	5	suj_impers	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	ats	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	VINF	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	un	DET	P+D	_	11	det	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoir	histoire	NC	NC	_	9	obj	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True
+
+# text_version = 36
+# sent_id = 36_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 36
+# sent_id = 36_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 36
+# sent_id = 36_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 36
+# sent_id = 36_4
+1	On	on	CLS	CLS	_	2	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VINF	VPP	_	2	obj	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	où	ou	CC	PROREL	_	3	coord	_	=|336=o__True|337=ù__False
+
+# text_version = 37
+# sent_id = 37_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 37
+# sent_id = 37_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 37
+# sent_id = 37_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 37
+# sent_id = 37_4
+1	On	on	CLS	CLS	_	2	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VINF	VPP	_	2	obj	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	o	_	X	NC	_	0	x	_	=|336=o__True
+
+# text_version = 38
+# sent_id = 38_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+
+# text_version = 38
+# sent_id = 38_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 38
+# sent_id = 38_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 38
+# sent_id = 38_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 38
+# sent_id = 38_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	un	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|392=n__False|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|393=.__False
+
+# text_version = 39
+# sent_id = 39_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 39
+# sent_id = 39_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 39
+# sent_id = 39_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 39
+# sent_id = 39_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 39
+# sent_id = 39_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	un	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|392=n__False|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|393=.__False
+
+# text_version = 40
+# sent_id = 40_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 40
+# sent_id = 40_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 40
+# sent_id = 40_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 40
+# sent_id = 40_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 40
+# sent_id = 40_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	un	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|392=n__False|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|393=.__False
+
+# text_version = 40
+# sent_id = 40_6
+1	Pour	pour	P	P	_	2	mod	_	=|398=P__False|399=o__False|400=u__False|401=r__False
+2	qu'	que	CS	CS	_	0	root	_	=|403=q__False|404=u__False|405='__False
+3	il	il	CLS	CLS	_	4	suj_impers	_	=|406=i__False|407=l__False|g=m|n=s|p=3
+4	est	avoir	V	V	_	2	sub	_	=|409=e__False|410=s__False|411=t__False|n=s|p=3|t=P
+5	moins	moins	ADV	ADV	_	4	obj	_	=|413=m__False|414=o__False|415=i__False|416=n__False|417=s__False
+6	de	de	P	P	_	5	dep	_	=|419=d__False|420=e__False
+7	violen	violence	NC	NC	_	6	prep	_	=|422=v__False|423=i__False|424=o__False|425=l__False|426=e__False|427=n__False
+
+# text_version = 41
+# sent_id = 41_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 41
+# sent_id = 41_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 41
+# sent_id = 41_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 41
+# sent_id = 41_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 41
+# sent_id = 41_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	un	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punitio	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True
+
+# text_version = 42
+# sent_id = 42_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 42
+# sent_id = 42_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 42
+# sent_id = 42_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 42
+# sent_id = 42_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 42
+# sent_id = 42_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	des	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|461=n__True|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|462=.__True
+7	On	on	CLS	CLS	_	8	suj	_	=|463=O__False|464=n__False|n=s|p=3
+8	est	être	V	V	_	2	mod	_	=|466=e__False|467=s__False|468=t__False|n=s|p=3|t=P
+
+# text_version = 43
+# sent_id = 43_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 43
+# sent_id = 43_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 43
+# sent_id = 43_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 43
+# sent_id = 43_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 43
+# sent_id = 43_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	des	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|461=n__True|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|462=.__True
+
+# text_version = 44
+# sent_id = 44_1
+1	La	la	DET	DET	_	2	det	_	=|5=L__True|6=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	7	suj	_	=|10=o__True|11=l__True|12=e__True|13=n__True|14=c__True|15=e__True|8=v__True|9=i__True|g=f|n=s
+3	pour	pour	P	P	_	2	dep	_	=|17=p__True|18=o__True|19=u__True|20=r__True
+4	moi	moi	PRO	PRO	_	3	prep	_	=|22=m__True|23=o__True|24=i__True|n=s|p=1
+5	ce	ce	CLS	CLS	_	7	suj	_	=|26=c__True|29=e__True
+6	n'	ne	ADV	ADV	_	7	mod	_	=|31=n__True|34='__True
+7	est	être	V	V	_	0	root	_	=|35=e__True|36=s__True|37=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|39=p__True|40=a__True|41=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|43=b__True|44=i__True|45=e__True|46=n__True
+10	car	car	CS	CS	_	7	mod	_	=|48=c__True|49=a__True|50=r__True
+11	ça	ça	PRO	PRO	_	12	suj	_	=|56=ç__True|57=a__True|n=s
+12	fait	faire	V	V	_	10	sub	_	=|59=f__True|60=a__True|61=i__True|62=t__True|n=s|p=3|t=P
+13	du	du	DET	DET	_	14	det	_	=|64=d__True|65=u__True|g=m|n=s
+14	mal	mal	NC	NC	_	12	obj	_	=|67=m__True|68=a__True|69=l__True|g=m|n=s
+15	au	à	P+D	P+D	_	12	mod	_	=|71=a__True|72=u__True|g=m|n=s
+16	autre	autre	ADJ	ADJ	_	15	prep	_	=|74=a__True|75=u__True|76=t__True|77=r__True|78=e__True|n=s
+17	ça	ça	PRO	PRO	_	19	suj	_	=|80=ç__True|81=a__True|n=s
+18	peut	pouvoir	V	V	_	19	mod	_	=|83=p__True|84=e__True|85=u__True|86=t__True|n=s|p=3|t=P
+19	crée	créer	V	V	_	28	mod_rel	_	=|88=c__True|89=r__True|90=é__True|91=e__True|n=s|p=1,3|t=P,S
+20	des	des	DET	DET	_	21	det	_	=|95=d__True|96=e__True|97=s__True|n=p
+21	histoires	histoire	NC	NC	_	19	obj	_	=|100=i__True|101=s__True|102=t__True|103=o__True|104=i__True|105=r__True|106=e__True|107=s__True|99=h__True|g=f|n=p
+22	et	et	CC	CC	_	7	coord	_	=|109=e__True|110=t__True
+23	ça	ça	PRO	PRO	_	24	suj	_	=|112=ç__True|113=a__True|n=s
+24	peut	pouvoir	V	V	_	22	dep_coord	_	=|117=p__True|118=e__True|119=u__True|120=t__True|n=s|p=3|t=P
+25	faire	faire	VINF	VINF	_	24	obj	_	=|122=f__True|123=a__True|124=i__True|125=r__True|126=e__True|t=W
+26	mal	mal	NC	NC	_	25	obj	_	=|128=m__True|129=a__True|132=l__True|g=m|n=s
+27	à	à	P	P	_	24	mod	_	=|136=à__True
+28	celui	celui	PRO	PRO	_	27	prep	_	=|138=c__True|139=e__True|140=l__True|141=u__True|142=i__True|g=m|n=s
+29	qui	qui	PROREL	PROREL	_	19	mod	_	=|144=q__True|145=u__True|146=i__True|n=s
+30	le	le	DET	DET	_	31	det	_	=|148=l__True|149=e__True|g=m|n=s
+31	fait	fait	NC	NC	_	19	suj	_	=|151=f__True|152=a__True|153=i__True|154=t__True|g=m|n=s
+32	,	,	PONCT	PONCT	_	31	ponct	_	=|156=,__True
+33	.	.	PONCT	PONCT	_	21	ponct	_	=|158=.__True
+34	du	du	DET	DET	_	26	det	_	=|395=d__True|396=u__True|g=m|n=s
+
+# text_version = 44
+# sent_id = 44_2
+1	Celui	celui	PRO	PRO	_	4	suj	_	=|160=C__True|161=e__True|162=l__True|163=u__True|164=i__True|g=m|n=s
+2	qui	qui	PROREL	PROREL	_	4	mod	_	=|166=q__True|167=u__True|168=i__True|n=s
+3	le	le	DET	DET	_	8	det	_	=|170=l__True|171=e__True|g=m|n=s
+4	peut	pouvoir	V	V	_	0	root	_	=|173=p__True|174=e__True|175=u__True|200=t__True|n=s|p=3|t=P
+5	avoir	avoir	VINF	VINF	_	4	obj	_	=|220=a__True|221=v__True|228=o__True|229=i__True|230=r__True|t=W
+6	des	des	DET	DET	_	7	det	_	=|232=d__True|233=e__True|234=s__True|n=p
+7	probléme	_	NC	NC	_	5	obj	_	=|236=p__True|237=r__True|238=o__True|239=b__True|240=l__True|241=é__True|242=m__True|243=e__True
+8	fait	fait	NC	NC	_	4	suj	_	=|246=f__True|247=a__True|248=i__True|249=t__True|g=m|n=s
+9	.	.	PONCT	PONCT	_	7	ponct	_	=|252=.__True
+
+# text_version = 44
+# sent_id = 44_3
+1	La	la	DET	DET	_	2	det	_	=|257=L__True|258=a__True|g=f|n=s
+2	violence	violence	NC	NC	_	0	root	_	=|260=v__True|261=i__True|262=o__True|263=l__True|264=e__True|265=n__True|266=c__True|267=e__True|g=f|n=s
+3	se	se	CLR	CLR	_	0	root	_	=|269=s__True|270=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|272=n__True|273='__True
+5	est	être	V	V	_	0	root	_	=|274=e__True|275=s__True|276=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|278=p__True|279=a__True|280=s__True
+7	solution	solution	NC	NC	_	5	obj	_	=|282=s__True|283=o__True|284=l__True|285=u__True|286=t__True|287=i__True|288=o__True|289=n__True|g=f|n=s
+8	pour	pour	P	P	_	5	mod	_	=|291=p__True|292=o__True|293=u__True|294=r__True
+9	réglé	régler	ADJ	ADJ	_	8	prep	_	=|296=r__True|297=é__True|298=g__True|299=l__True|300=é__True|g=m|n=s|t=K
+10	des	de	P+D	P+D	_	5	mod	_	=|302=d__True|303=e__True|304=s__True|n=p
+11	histoires	histoire	NC	NC	_	10	prep	_	=|306=h__True|307=i__True|308=s__True|309=t__True|310=o__True|311=i__True|312=r__True|317=e__True|318=s__True|g=f|n=p
+12	.	.	PONCT	PONCT	_	11	ponct	_	=|320=.__True
+
+# text_version = 44
+# sent_id = 44_4
+1	On	on	CLS	CLS	_	3	suj	_	=|322=O__True|323=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	3	aux_tps	_	=|325=p__True|326=e__True|327=u__True|328=t__True|n=s|p=3|t=P
+3	parlé	parler	VPP	VPP	_	0	root	_	=|330=p__True|331=a__True|332=r__True|333=l__True|334=é__True|g=m|n=s|t=K
+4	ou	ou	CC	CC	_	3	coord	_	=|336=o__True|341=u__True
+5	le	le	DET	DET	_	6	det	_	=|343=l__True|344=e__True|g=m|n=s
+6	dire	dire	NC	NC	_	0	root	_	=|346=d__True|347=i__True|348=r__True|349=e__True|g=m|n=s
+7	à	à	P	P	_	6	dep	_	=|351=à__True
+8	des	des	DET	DET	_	9	det	_	=|353=d__True|354=e__True|355=s__True|n=p
+9	adultes	adulte	NC	NC	_	7	prep	_	=|357=a__True|358=d__True|359=u__True|360=l__True|361=t__True|362=e__True|363=s__True|n=p
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|364=.__True
+
+# text_version = 44
+# sent_id = 44_5
+1	On	on	CLS	CLS	_	2	suj	_	=|367=O__True|368=n__True|n=s|p=3
+2	peut	pouvoir	V	V	_	0	root	_	=|370=p__True|371=e__True|372=u__True|373=t__True|n=s|p=3|t=P
+3	avoir	avoir	VINF	VINF	_	2	obj	_	=|375=a__True|376=v__True|377=o__True|378=i__True|379=r__True|t=W
+4	des	des	DET	DET	_	5	det	_	=|381=d__True|382=e__True|383=s__True|n=p
+5	punition	punition	NC	NC	_	3	obj	_	=|385=p__True|386=u__True|387=n__True|388=i__True|389=t__True|390=i__True|391=o__True|461=n__True|g=f|n=s
+6	.	.	PONCT	PONCT	_	5	ponct	_	=|462=.__True
+

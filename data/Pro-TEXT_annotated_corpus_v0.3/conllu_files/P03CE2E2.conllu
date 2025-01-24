@@ -1,0 +1,2205 @@
+# text_version = 0
+# sent_id = 0_1
+1	m	_	X	NC	_	0	x	_	=|1=m__False
+
+# text_version = 2
+# sent_id = 2_1
+1	J	_	X	NC	_	0	x	_	=|3=J__False
+
+# text_version = 4
+# sent_id = 4_1
+1	Jj	_	X	NC	_	0	x	_	=|5=J__True|6=j__False
+
+# text_version = 5
+# sent_id = 5_1
+1	J	_	X	NC	_	0	x	_	=|5=J__True
+
+# text_version = 6
+# sent_id = 6_1
+1	Je	je	CLS	CLS	_	0	x	_	=|5=J__True|8=e__True|n=s|p=1
+2	ped	_	X	NPP	_	0	x	_	=|10=p__True|11=e__True|12=d__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Je	je	CLS	CLS	_	0	x	_	=|5=J__True|8=e__True|n=s|p=1
+2	pe	_	X	ADV	_	0	x	_	=|10=p__True|11=e__True
+
+# text_version = 8
+# sent_id = 8_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	;	;	PONCT	PONCT	_	9	ponct	_	=|48=;__False
+
+# text_version = 9
+# sent_id = 9_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+
+# text_version = 10
+# sent_id = 10_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conse	_	X	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|62=s__False|63=e__False
+
+# text_version = 11
+# sent_id = 11_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	x	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	cons	con	NC	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|62=s__False|g=m|n=p
+
+# text_version = 12
+# sent_id = 12_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	consé	_	X	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|62=s__False|65=é__False
+
+# text_version = 13
+# sent_id = 13_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	con	con	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|g=m|n=s
+
+# text_version = 14
+# sent_id = 14_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssé	_	X	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True
+
+# text_version = 15
+# sent_id = 15_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	0	x	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssé	_	X	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True
+
+# text_version = 16
+# sent_id = 16_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécens	conséquence	NC	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True
+14	'	'	PONCT	PONCT	_	13	ponct	_	=|77='__False
+15	e	_	X	NC	_	0	x	_	=|78=e__False
+
+# text_version = 17
+# sent_id = 17_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécens	conséquence	NC	NC	_	0	x	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True
+
+# text_version = 18
+# sent_id = 18_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	wsa	_	X	NC	_	0	x	_	=|92=w__False|93=s__False|94=a__False
+
+# text_version = 19
+# sent_id = 19_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+
+# text_version = 20
+# sent_id = 20_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	ça	PRO	DET	_	17	suj	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	pe	pouvoir	V	NC	_	15	dep_coord	_	=|101=p__True|102=e__True
+18	terminer	terminer	VINF	VINF	_	17	obj	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+19	enperison	en+prison	NC	NC	_	18	mod	_	=|114=e__True|115=n__True|116=p__True|117=e__False|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True
+20	;	;	PONCT	PONCT	_	19	ponct	_	=|123=;__False
+
+# text_version = 21
+# sent_id = 21_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	ça	PRO	DET	_	17	suj	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	pe	pouvoir	V	NC	_	15	dep_coord	_	=|101=p__True|102=e__True
+18	terminer	terminer	VINF	VINF	_	17	obj	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+19	enperison	en+prison	NC	NC	_	18	mod	_	=|114=e__True|115=n__True|116=p__True|117=e__False|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True
+
+# text_version = 22
+# sent_id = 22_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	ça	PRO	DET	_	17	suj	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	pe	pouvoir	V	NC	_	15	dep_coord	_	=|101=p__True|102=e__True
+18	terminer	terminer	VINF	VINF	_	17	obj	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+19	enperison	en+prison	NC	NC	_	18	mod	_	=|114=e__True|115=n__True|116=p__True|117=e__False|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True
+20	.	.	PONCT	PONCT	_	19	ponct	_	=|125=.__True
+
+# text_version = 23
+# sent_id = 23_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	ça	PRO	DET	_	17	suj	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	pe	pouvoir	V	NC	_	15	dep_coord	_	=|101=p__True|102=e__True
+18	terminer	terminer	VINF	VINF	_	17	obj	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+19	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+20	en	en	P	P	_	18	mod	_	=|114=e__True|115=n__True
+21	perison	prison	NC	NC	_	20	prep	_	=|116=p__True|117=e__False|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True
+
+# text_version = 24
+# sent_id = 24_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|18=q__True|19=u__True|20=e__True
+4	la	le	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj_impers	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	comp	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	ats	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	2	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	un	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	conséquence	NC	NC	_	11	sub	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	ça	PRO	DET	_	21	suj	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	21	obj	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	20	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	perison	prison	NC	NC	_	19	prep	_	=|116=p__True|117=e__False|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True
+21	peut	pouvoir	V	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+
+# text_version = 25
+# sent_id = 25_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 26
+# sent_id = 26_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 26
+# sent_id = 26_2
+1	Alor	alors	ADV	NPP	_	0	x	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	0	x	_	=|136=j__True|137=e__True|n=s|p=1
+3	pes	_	X	NPP	_	0	root	_	=|139=p__True|140=e__True|141=s__False
+
+# text_version = 27
+# sent_id = 27_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 27
+# sent_id = 27_2
+1	Alor	alors	ADV	NPP	_	0	x	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	0	x	_	=|136=j__True|137=e__True|n=s|p=1
+3	pe	_	X	ADV	_	0	x	_	=|139=p__True|140=e__True
+
+# text_version = 28
+# sent_id = 28_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 28
+# sent_id = 28_2
+1	Alor	alors	ADV	NPP	_	3	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	3	suj	_	=|136=j__True|137=e__True|n=s|p=1
+3	pesnse	penser	V	ADV	_	0	root	_	=|139=p__True|140=e__True|143=s__False|144=n__True|145=s__True|146=e__True
+4	que	que	CS	PROREL	_	3	obj	_	=|148=q__True|149=u__True|150=e__False
+5	ont	on	PRO	V	_	6	suj	_	=|152=o__True|153=n__True|154=t__False|n=p|p=3|t=P
+6	devrait	devoir	V	NC	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True
+
+# text_version = 29
+# sent_id = 29_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 29
+# sent_id = 29_2
+1	Alor	alors	ADV	NPP	_	3	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	3	suj	_	=|136=j__True|137=e__True|n=s|p=1
+3	pesnse	penser	V	ADV	_	0	root	_	=|139=p__True|140=e__True|143=s__False|144=n__True|145=s__True|146=e__True
+4	que	que	CS	CS	_	3	obj	_	=|148=q__True|149=u__True|150=e__False
+5	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+6	on	on	CLS	CLS	_	5	suj	_	=|152=o__True|153=n__True|n=s|p=3
+
+# text_version = 30
+# sent_id = 30_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 30
+# sent_id = 30_2
+1	Alor	alors	ADV	NPP	_	3	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	3	suj	_	=|136=j__True|137=e__True|n=s|p=1
+3	pesnse	penser	V	NPP	_	0	root	_	=|139=p__True|140=e__True|143=s__False|144=n__True|145=s__True|146=e__True
+4	devrait	devoir	V	V	_	6	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+5	on	on	CLS	CLS	_	4	suj	_	=|152=o__True|153=n__True|n=s|p=3
+6	qu	que	CS	NPP	_	3	mod	_	=|148=q__True|149=u__True
+
+# text_version = 31
+# sent_id = 31_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 31
+# sent_id = 31_2
+1	Alor	alors	ADV	NPP	_	3	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	3	suj	_	=|136=j__True|137=e__True|n=s|p=1
+3	pesnse	penser	V	ADV	_	0	root	_	=|139=p__True|140=e__True|143=s__False|144=n__True|145=s__True|146=e__True
+4	devrait	devoir	V	V	_	6	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+5	on	on	CLS	CLS	_	4	suj	_	=|152=o__True|153=n__True|n=s|p=3
+6	qu'	que	CS	CS	_	3	obj	_	=|148=q__True|149=u__True|166='__True
+
+# text_version = 32
+# sent_id = 32_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 32
+# sent_id = 32_2
+1	Alor	alors	ADV	NPP	_	6	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True
+2	je	je	CLS	CLS	_	6	suj	_	=|136=j__True|137=e__True|n=s|p=1
+3	devrait	devoir	V	V	_	5	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+4	on	on	CLS	CLS	_	3	suj	_	=|152=o__True|153=n__True|n=s|p=3
+5	qu'	que	CS	CS	_	6	obj	_	=|148=q__True|149=u__True|166='__True
+6	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 33
+# sent_id = 33_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 33
+# sent_id = 33_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	mod	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+
+# text_version = 34
+# sent_id = 34_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 34
+# sent_id = 34_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	0	x	_	=|173=l__True|174=a__True|g=f|n=s
+9	pe	_	X	NC	_	0	x	_	=|176=p__True|177=e__False
+
+# text_version = 35
+# sent_id = 35_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 35
+# sent_id = 35_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	0	x	_	=|173=l__True|174=a__True|g=f|n=s
+9	p	_	X	NC	_	0	x	_	=|176=p__True
+
+# text_version = 36
+# sent_id = 36_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 36
+# sent_id = 36_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	are	_	X	NC	_	0	x	_	=|184=a__True|185=r__True|186=e__False|g=m|n=s
+
+# text_version = 37
+# sent_id = 37_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 37
+# sent_id = 37_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	ar	_	X	NC	_	0	x	_	=|184=a__True|185=r__True
+
+# text_version = 38
+# sent_id = 38_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 38
+# sent_id = 38_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	ar	_	X	NPP	_	0	x	_	=|184=a__True|185=r__True
+12	"	"	PONCT	PONCT	_	0	x	_	=|188="__False
+
+# text_version = 39
+# sent_id = 39_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 39
+# sent_id = 39_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	ar	_	X	NC	_	0	x	_	=|184=a__True|185=r__True
+
+# text_version = 40
+# sent_id = 40_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 40
+# sent_id = 40_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	arété	arrêter	VPP	NC	_	10	dep_coord	_	=|184=a__True|185=r__True|190=é__False|191=t__True|192=é__False
+
+# text_version = 41
+# sent_id = 41_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 41
+# sent_id = 41_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	arét	arrêt	NC	NC	_	0	x	_	=|184=a__True|185=r__True|190=é__False|191=t__True
+
+# text_version = 42
+# sent_id = 42_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 42
+# sent_id = 42_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	aréter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|190=é__False|191=t__True|196=e__True|197=r__True
+12	de	de	P	P	_	11	obj	_	=|199=d__True|200=e__True
+13	se	se	CLR	CLR	_	14	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+14	battre	battre	VINF	VINF	_	12	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+
+# text_version = 43
+# sent_id = 43_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 43
+# sent_id = 43_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	aréter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|190=é__False|191=t__True|196=e__True|197=r__True
+12	de	de	P	P	_	11	obj	_	=|199=d__True|200=e__True
+13	se	se	CLR	CLR	_	14	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+14	battre	battre	VINF	VINF	_	12	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+
+# text_version = 44
+# sent_id = 44_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 44
+# sent_id = 44_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	aréter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|190=é__False|191=t__True|196=e__True|197=r__True
+12	de	de	P	P	_	11	obj	_	=|199=d__True|200=e__True
+13	se	se	CLR	CLR	_	14	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+14	battre	battre	VINF	VINF	_	12	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+15	.	.	PONCT	PONCT	_	14	ponct	_	=|213=.__False
+
+# text_version = 45
+# sent_id = 45_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 45
+# sent_id = 45_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	15	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	.	.	PONCT	PONCT	_	13	ponct	_	=|213=.__False
+15	arter	arrêter	VINF	NC	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True
+
+# text_version = 46
+# sent_id = 46_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 46
+# sent_id = 46_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	15	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	.	.	PONCT	PONCT	_	13	ponct	_	=|213=.__False
+15	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 47
+# sent_id = 47_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 47
+# sent_id = 47_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	15	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	.	.	PONCT	PONCT	_	13	ponct	_	=|213=.__False
+15	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 48
+# sent_id = 48_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 48
+# sent_id = 48_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 49
+# sent_id = 49_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 49
+# sent_id = 49_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	/	/	PONCT	PONCT	_	13	ponct	_	=|219=/__False
+
+# text_version = 50
+# sent_id = 50_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 50
+# sent_id = 50_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 51
+# sent_id = 51_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 51
+# sent_id = 51_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	.	.	PONCT	PONCT	_	13	ponct	_	=|221=.__False
+
+# text_version = 52
+# sent_id = 52_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 52
+# sent_id = 52_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 53
+# sent_id = 53_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 53
+# sent_id = 53_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	;	;	PONCT	PONCT	_	13	ponct	_	=|223=;__False
+
+# text_version = 54
+# sent_id = 54_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 54
+# sent_id = 54_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 55
+# sent_id = 55_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 55
+# sent_id = 55_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	.	.	PONCT	PONCT	_	13	ponct	_	=|225=.__False
+
+# text_version = 56
+# sent_id = 56_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 56
+# sent_id = 56_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+
+# text_version = 57
+# sent_id = 57_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 57
+# sent_id = 57_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	'	'	PONCT	PONCT	_	13	ponct	_	=|227='__False
+
+# text_version = 58
+# sent_id = 58_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 58
+# sent_id = 58_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	'	'	PONCT	PONCT	_	13	ponct	_	=|227='__False
+
+# text_version = 59
+# sent_id = 59_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 59
+# sent_id = 59_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	'	'	PONCT	PONCT	_	13	ponct	_	=|227='__False
+16	'	'	PONCT	PONCT	_	13	ponct	_	=|230='__False
+
+# text_version = 60
+# sent_id = 60_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 60
+# sent_id = 60_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	'	'	PONCT	PONCT	_	13	ponct	_	=|227='__False
+
+# text_version = 61
+# sent_id = 61_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 61
+# sent_id = 61_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	'	'	PONCT	PONCT	_	13	ponct	_	=|227='__False
+16	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+17	aussi	aussi	ADV	ADV	_	0	x	_	=|233=a__False|234=u__False|235=s__False|236=s__False|237=i__False
+
+# text_version = 62
+# sent_id = 62_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 62
+# sent_id = 62_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	aussi	aussi	ADV	ADV	_	0	x	_	=|233=a__False|234=u__False|235=s__False|236=s__False|237=i__False
+
+# text_version = 63
+# sent_id = 63_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 63
+# sent_id = 63_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	aussi	aussi	ADV	ADV	_	0	x	_	=|233=a__False|234=u__False|235=s__False|236=s__False|237=i__False
+17	et	et	CC	CC	_	14	coord	_	=|240=e__True|241=t__True
+
+# text_version = 64
+# sent_id = 64_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 64
+# sent_id = 64_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	aussi	aussi	ADV	ADV	_	0	x	_	=|233=a__False|234=u__False|235=s__False|236=s__False|237=i__False
+17	et	et	CC	CC	_	14	coord	_	=|240=e__True|241=t__True
+
+# text_version = 65
+# sent_id = 65_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 65
+# sent_id = 65_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	aussi	aussi	ADV	ADV	_	0	x	_	=|233=a__False|234=u__False|235=s__False|236=s__False|237=i__False
+17	et	et	CC	CC	_	14	coord	_	=|240=e__True|241=t__True
+
+# text_version = 66
+# sent_id = 66_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 66
+# sent_id = 66_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	5	coord	_	=|240=e__True|241=t__True
+
+# text_version = 67
+# sent_id = 67_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 67
+# sent_id = 67_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	14	coord	_	=|240=e__True|241=t__True
+17	plutot	plutôt	ADV	ADV	_	18	mod	_	=|251=p__True|252=l__True|253=u__True|254=t__True|255=o__True|256=t__True
+18	jouer	jouer	VINF	VINF	_	16	dep_coord	_	=|258=j__True|259=o__True|260=u__True|261=e__True|262=r__True|t=W
+19	enssemvb	ensemble	ADV	ADV	_	18	mod	_	=|264=e__True|265=n__True|266=s__True|267=s__True|268=e__True|269=m__True|270=v__False|271=b__False
+
+# text_version = 68
+# sent_id = 68_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 68
+# sent_id = 68_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	comp	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	faire	VINF	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	le	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	paix	NC	NPP	_	7	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	7	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	14	obj	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	arrêter	VINF	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	14	coord	_	=|240=e__True|241=t__True
+17	plutot	plutôt	ADV	ADV	_	18	mod	_	=|251=p__True|252=l__True|253=u__True|254=t__True|255=o__True|256=t__True
+18	jouer	jouer	VINF	VINF	_	16	dep_coord	_	=|258=j__True|259=o__True|260=u__True|261=e__True|262=r__True|t=W
+19	enssem	ensemble	ADV	ADV	_	18	mod	_	=|264=e__True|265=n__True|266=s__True|267=s__True|268=e__True|269=m__True
+
+# text_version = 69
+# sent_id = 69_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 69
+# sent_id = 69_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	5	coord	_	=|240=e__True|241=t__True
+17	plutot	_	ADV	ADV	_	18	mod	_	=|251=p__True|252=l__True|253=u__True|254=t__True|255=o__True|256=t__True
+18	jouer	jouer	VINF	VINF	_	16	dep_coord	_	=|258=j__True|259=o__True|260=u__True|261=e__True|262=r__True|t=W
+19	enssemble	_	ADV	ADV	_	18	mod	_	=|264=e__True|265=n__True|266=s__True|267=s__True|268=e__True|269=m__True|274=b__True|275=l__True|276=e__True
+20	.	.	PONCT	PONCT	_	19	ponct	_	=|277=.__True
+21	$	$	NC	NC	_	18	mod	_	=|278=$__False|g=m
+
+# text_version = 70
+# sent_id = 70_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 70
+# sent_id = 70_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	5	coord	_	=|240=e__True|241=t__True
+17	plutot	_	ADV	ADV	_	18	mod	_	=|251=p__True|252=l__True|253=u__True|254=t__True|255=o__True|256=t__True
+18	jouer	jouer	VINF	VINF	_	16	dep_coord	_	=|258=j__True|259=o__True|260=u__True|261=e__True|262=r__True|t=W
+19	enssemble	_	ADV	ADV	_	18	mod	_	=|264=e__True|265=n__True|266=s__True|267=s__True|268=e__True|269=m__True|274=b__True|275=l__True|276=e__True
+20	.	.	PONCT	PONCT	_	19	ponct	_	=|277=.__True
+
+# text_version = 71
+# sent_id = 71_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|5=J__True|8=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|10=p__True|11=e__True|14=n__True|15=s__True|16=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|18=q__True|19=u__True|20=e__True
+4	la	la	DET	DET	_	5	det	_	=|22=l__True|23=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|25=v__True|26=i__True|27=o__True|28=l__True|29=e__True|30=n__True|31=s__True|32=e__True
+6	c'	ce	CLS	CLS	_	7	suj	_	=|34=c__True|35='__True
+7	est	être	V	V	_	3	sub	_	=|36=e__True|37=s__True|38=t__True|n=s|p=3|t=P
+8	pas	pas	ADV	ADV	_	7	mod	_	=|40=p__True|41=a__True|42=s__True
+9	bien	bien	ADV	ADV	_	7	mod	_	=|44=b__True|45=i__True|46=e__True|47=n__True
+10	,	,	PONCT	PONCT	_	9	ponct	_	=|50=,__True
+11	car	car	CS	CS	_	7	mod	_	=|51=c__True|52=a__True|53=r__True
+12	des	des	DET	DET	_	13	det	_	=|55=d__True|56=e__True|57=s__True|n=p
+13	conssécense	_	NC	NC	_	0	root	_	=|59=c__True|60=o__True|61=n__True|68=s__True|69=s__True|70=é__True|73=c__True|74=e__True|75=n__True|76=s__True|81=e__True
+14	grave	grave	ADJ	ADJ	_	13	mod	_	=|83=g__True|84=r__True|85=a__True|86=v__True|87=e__True|n=s
+15	et	et	CC	CC	_	13	coord	_	=|89=e__True|90=t__True
+16	sa	sa	DET	DET	_	20	det	_	=|98=s__True|99=a__True|g=f|n=s|p=3|poss=s
+17	terminer	terminer	VINF	VINF	_	15	dep_coord	_	=|104=t__True|105=e__True|106=r__True|107=m__True|108=i__True|109=n__True|110=e__True|111=r__True|t=W
+18	.	.	PONCT	PONCT	_	21	ponct	_	=|125=.__True
+19	en	en	P	P	_	17	mod	_	=|114=e__True|115=n__True
+20	peut	_	NC	NC	_	15	dep_coord	_	=|101=p__True|102=e__True|127=u__True|128=t__True
+21	prison	prison	NC	NC	_	19	prep	_	=|116=p__True|118=r__True|119=i__True|120=s__True|121=o__True|122=n__True|g=f|n=s
+
+# text_version = 71
+# sent_id = 71_2
+1	je	je	CLS	CLS	_	5	suj	_	=|136=j__True|137=e__True|n=s|p=1
+2	devrait	devoir	V	V	_	4	sub	_	=|156=d__True|157=e__True|158=v__True|159=r__True|160=a__True|161=i__True|162=t__True|n=s|p=3|t=C
+3	on	on	CLS	CLS	_	2	suj	_	=|152=o__True|153=n__True|n=s|p=3
+4	qu'	que	CS	CS	_	5	obj	_	=|148=q__True|149=u__True|166='__True
+5	pense	penser	V	V	_	0	root	_	=|139=p__True|140=e__True|144=n__True|145=s__True|146=e__True|n=s|p=1,3|t=P,S
+6	Alors	alors	ADV	ADV	_	5	mod	_	=|131=A__True|132=l__True|133=o__True|134=r__True|168=s__True
+7	fer	fer	NC	NC	_	2	obj	_	=|169=f__True|170=e__True|171=r__True|g=m|n=s
+8	la	la	DET	DET	_	9	det	_	=|173=l__True|174=a__True|g=f|n=s
+9	pé	_	NPP	NPP	_	2	obj	_	=|176=p__True|179=é__True
+10	et	et	CC	CC	_	5	coord	_	=|181=e__True|182=t__True
+11	de	de	P	P	_	5	mod	_	=|199=d__True|200=e__True
+12	se	se	CLR	CLR	_	13	aff	_	=|202=s__True|203=e__True|n=p,s|p=3
+13	battre	battre	VINF	VINF	_	11	prep	_	=|205=b__True|206=a__True|207=t__True|208=t__True|209=r__True|210=e__True|t=W
+14	arèter	_	NPP	NPP	_	10	dep_coord	_	=|184=a__True|185=r__True|191=t__True|196=e__True|197=r__True|215=è__True
+15	,	,	PONCT	PONCT	_	13	ponct	_	=|232=,__True
+16	et	et	CC	CC	_	5	coord	_	=|240=e__True|241=t__True
+17	plutot	_	ADV	ADV	_	18	mod	_	=|251=p__True|252=l__True|253=u__True|254=t__True|255=o__True|256=t__True
+18	jouer	jouer	VINF	VINF	_	16	dep_coord	_	=|258=j__True|259=o__True|260=u__True|261=e__True|262=r__True|t=W
+19	enssemble	_	ADV	ADV	_	18	mod	_	=|264=e__True|265=n__True|266=s__True|267=s__True|268=e__True|269=m__True|274=b__True|275=l__True|276=e__True
+20	.	.	PONCT	PONCT	_	19	ponct	_	=|277=.__True
+

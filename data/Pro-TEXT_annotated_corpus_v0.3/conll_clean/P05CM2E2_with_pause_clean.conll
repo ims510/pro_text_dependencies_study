@@ -1,0 +1,999 @@
+# text_version=0
+# sentence_id=1
+# text = JE
+1	JE	JE	NOUN	_	Number=Sing	0	root	_	charID=1__char=J__charStatus=True__pause=na|charID=2__char=E__charStatus=False__pause=328
+
+# text_version=1
+# sentence_id=1
+# text = J
+1	J	J	NOUN	_	None	0	root	_	charID=1__char=J__charStatus=True__pause=na
+
+# text_version=2
+# sentence_id=1
+# text = JE P
+1	JE	JE	PROPN	_	None	0	root	_	charID=1__char=J__charStatus=True__pause=na|charID=4__char=E__charStatus=False__pause=2012
+2	P	P	NOUN	_	None	1	nmod	_	charID=6__char=P__charStatus=False__pause=2231
+
+# text_version=3
+# sentence_id=1
+# text = J
+1	J	J	NOUN	_	None	0	root	_	charID=1__char=J__charStatus=True__pause=na
+
+# text_version=4
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=4
+# sentence_id=2
+# text = pou
+1	pou	pou	INTJ	_	None	0	root	_	charID=39__char=p__charStatus=False__pause=4430|charID=40__char=o__charStatus=False__pause=453|charID=41__char=u__charStatus=False__pause=515
+
+# text_version=5
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=6
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=6
+# sentence_id=2
+# text = Pour que la violence arrete il faut q '
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	q	q	SYM	_	None	7	obj	_	charID=81__char=q__charStatus=True__pause=7488
+9	'	'	PUNCT	_	None	7	punct	_	charID=82__char='__charStatus=False__pause=1123
+
+# text_version=7
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=7
+# sentence_id=2
+# text = Pour que la violence arrete il faut q
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	q	q	SYM	_	None	7	obj	_	charID=81__char=q__charStatus=True__pause=7488
+
+# text_version=8
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=8
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=8
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital /
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	ADV	_	None	4	advmod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	/	/	SYM	_	None	2	punct	_	charID=167__char=/__charStatus=False__pause=8455
+
+# text_version=9
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=9
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=9
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+
+# text_version=10
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=10
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=10
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=10
+# sentence_id=4
+# text = Il fai
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	fai	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=176__char=i__charStatus=False__pause=125
+
+# text_version=11
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=11
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=11
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=11
+# sentence_id=4
+# text = Il fa
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	fa	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092
+
+# text_version=12
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=12
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=12
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=12
+# sentence_id=4
+# text = Il fat
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	fat	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=178__char=t__charStatus=False__pause=1061
+
+# text_version=13
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=13
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=13
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=13
+# sentence_id=4
+# text = Il fa
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	fa	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092
+
+# text_version=14
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=14
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=14
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=14
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=14
+# sentence_id=5
+# text = Il faut etre in peux plus inte
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	VERB	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	obj	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	X	_	Foreign=Yes	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inte	inte	ADJ	_	Gender=Fem|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421
+
+# text_version=15
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=15
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=15
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=15
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=15
+# sentence_id=5
+# text = Il faut etre in peux plus inte
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	VERB	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	obj	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	X	_	Foreign=Yes	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inte	inte	ADJ	_	Gender=Fem|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421
+
+# text_version=16
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=16
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=16
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=16
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=16
+# sentence_id=5
+# text = Il faut etre in peux plus inteligent et plus soit meme .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	AUX	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	advmod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inteligent	inteligent	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+8	et	et	CCONJ	_	None	11	cc	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+9	plus	plus	ADV	_	None	11	advmod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+10	soit	soit	CCONJ	_	None	11	cc	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+11	meme	même	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+12	.	.	PUNCT	_	None	2	punct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# text_version=16
+# sentence_id=6
+# text = Il fai
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+2	fai	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=278__char=i__charStatus=False__pause=499
+
+# text_version=17
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=17
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=17
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=17
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=17
+# sentence_id=5
+# text = Il faut etre in peux plus inteligent et plus soit meme .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	AUX	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	advmod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inteligent	inteligent	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+8	et	et	CCONJ	_	None	11	cc	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+9	plus	plus	ADV	_	None	11	advmod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+10	soit	soit	CCONJ	_	None	11	cc	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+11	meme	même	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+12	.	.	PUNCT	_	None	2	punct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# text_version=17
+# sentence_id=6
+# text = Il fa
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+2	fa	aller	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419
+
+# text_version=18
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=18
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=18
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=18
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=18
+# sentence_id=5
+# text = Il faut etre in peux plus inteligent et plus soit meme .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	AUX	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	advmod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inteligent	inteligent	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+8	et	et	CCONJ	_	None	11	cc	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+9	plus	plus	ADV	_	None	11	advmod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+10	soit	soit	CCONJ	_	None	11	cc	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+11	meme	même	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+12	.	.	PUNCT	_	None	2	punct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# text_version=18
+# sentence_id=6
+# text = Il faut etre respansable de ses acte ;
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+3	etre	être	AUX	_	VerbForm=Inf	4	cop	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+4	respansable	respansable	ADJ	_	Gender=Masc|Number=Sing	2	ccomp	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+5	de	de	ADP	_	None	7	case	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+6	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+7	acte	acte	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+8	;	;	PUNCT	_	None	2	punct	_	charID=312__char=;__charStatus=False__pause=1513
+
+# text_version=19
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=19
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=19
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=19
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=19
+# sentence_id=5
+# text = Il faut etre in peux plus inteligent et plus soit meme .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	AUX	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	advmod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inteligent	inteligent	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+8	et	et	CCONJ	_	None	11	cc	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+9	plus	plus	ADV	_	None	11	advmod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+10	soit	soit	CCONJ	_	None	11	cc	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+11	meme	même	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+12	.	.	PUNCT	_	None	2	punct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# text_version=19
+# sentence_id=6
+# text = Il faut etre respansable de ses acte
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+3	etre	être	AUX	_	VerbForm=Inf	4	cop	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+4	respansable	respansable	ADJ	_	Gender=Masc|Number=Sing	2	xcomp	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+5	de	de	ADP	_	None	7	case	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+6	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+7	acte	acte	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+
+# text_version=20
+# sentence_id=1
+# text = Je pense que c' est pas bien .
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+2	pense	penser	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+3	que	que	SCONJ	_	None	7	mark	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+4	c'	ce	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Dem	7	nsubj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	cop	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+7	bien	bien	ADV	_	None	2	ccomp	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+8	.	.	PUNCT	_	None	2	punct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=20
+# sentence_id=2
+# text = Pour que la violence arrete il faut qu' on joue a des jeux pas violent .
+1	Pour	pour	ADP	_	None	5	mark	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+2	que	que	SCONJ	_	None	5	mark	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+3	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+4	violence	violence	NOUN	_	Gender=Fem|Number=Sing	5	nsubj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+5	arrete	arreter	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+6	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	expl:subj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+7	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+8	qu'	que	SCONJ	_	None	10	mark	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+9	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	10	nsubj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+10	joue	jouer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+11	a	à	ADP	_	Typo=Yes	13	case	_	charID=94__char=a__charStatus=True__pause=780
+12	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	13	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+13	jeux	jeu	NOUN	_	Gender=Masc|Number=Plur	10	obl:arg	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+14	pas	pas	ADV	_	Polarity=Neg	15	advmod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+15	violent	violent	ADJ	_	Gender=Masc|Number=Plur	13	amod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+16	.	.	PUNCT	_	None	7	punct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# text_version=20
+# sentence_id=3
+# text = On peux se faire mal ou meme d' aller a l' hopital .
+1	On	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	2	nsubj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+2	peux	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+4	faire	faire	VERB	_	VerbForm=Inf	2	xcomp	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+5	mal	mal	NOUN	_	Gender=Masc|Number=Sing	4	obj:lvc	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+6	ou	ou	CCONJ	_	None	7	cc	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+7	meme	même	NOUN	_	Gender=Masc|Number=Sing	5	conj	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+8	d'	de	ADP	_	None	9	mark	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+9	aller	aller	VERB	_	VerbForm=Inf	4	xcomp	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+10	a	à	ADP	_	Typo=Yes	12	case	_	charID=155__char=a__charStatus=True__pause=811
+11	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	12	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+12	hopital	hopital	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+13	.	.	PUNCT	_	None	2	punct	_	charID=169__char=.__charStatus=True__pause=639
+
+# text_version=20
+# sentence_id=4
+# text = Il faut plus se bagarer , se frape . ..
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+3	plus	plus	ADV	_	None	2	advmod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+4	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	5	obj	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+5	bagarer	bagarer	VERB	_	VerbForm=Inf	2	ccomp	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+6	,	,	PUNCT	_	None	8	punct	_	charID=199__char=,__charStatus=True__pause=8003
+7	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	obj	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+8	frape	fraper	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+9	...	...	PUNCT	_	None	2	punct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# text_version=20
+# sentence_id=5
+# text = Il faut etre in peux plus inteligent et plus soit meme .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+3	etre	être	AUX	_	VerbForm=Inf	2	ccomp	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+4	in	in	X	_	Foreign=Yes	3	advmod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+5	peux	pouvoir	NOUN	_	Gender=Masc|Number=Sing	4	fixed	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+6	plus	plus	ADV	_	None	7	advmod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+7	inteligent	inteligent	ADJ	_	Gender=Masc|Number=Sing	3	xcomp	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+8	et	et	CCONJ	_	None	11	cc	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+9	plus	plus	ADV	_	None	11	advmod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+10	soit	soit	CCONJ	_	None	11	cc	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+11	meme	même	NOUN	_	Gender=Masc|Number=Sing	7	conj	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+12	.	.	PUNCT	_	None	2	punct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# text_version=20
+# sentence_id=6
+# text = Il faut etre respansable de ses acte .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	expl:subj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+2	faut	falloir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+3	etre	être	AUX	_	VerbForm=Inf	4	cop	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+4	respansable	respansable	ADJ	_	Gender=Masc|Number=Sing	2	ccomp	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+5	de	de	ADP	_	None	7	case	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+6	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	7	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+7	acte	acte	NOUN	_	Gender=Masc|Number=Plur	4	obl:mod	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+8	.	.	PUNCT	_	None	2	punct	_	charID=314__char=.__charStatus=True__pause=1545
+

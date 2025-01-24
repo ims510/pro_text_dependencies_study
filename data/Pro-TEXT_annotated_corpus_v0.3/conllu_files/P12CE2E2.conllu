@@ -1,0 +1,273 @@
+# text_version = 0
+# sent_id = 0_1
+1	IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII	_	X	NC	_	0	root	_	=|1=I__False|10=I__False|11=I__False|12=I__False|13=I__False|14=I__False|15=I__False|16=I__False|17=I__False|18=I__False|19=I__False|2=I__False|20=I__False|21=I__False|22=I__False|23=I__False|24=I__False|25=I__False|26=I__False|27=I__False|28=I__False|29=I__False|3=I__False|30=I__False|31=I__False|32=I__False|33=I__False|34=I__False|35=I__False|36=I__False|37=I__False|38=I__False|39=I__False|4=I__False|40=I__False|41=I__False|42=I__False|5=I__False|6=I__False|7=I__False|8=I__False|9=I__False
+
+# text_version = 2
+# sent_id = 2_1
+1	FHQFJKPKLFJQIYQFMHSRFMURYHUMY	_	X	NC	_	0	root	_	=|100=F__False|101=M__False|102=H__False|103=S__False|104=R__False|105=F__False|106=M__False|107=U__False|108=R__False|109=Y__False|110=H__False|111=U__False|112=M__False|113=Y__False|85=F__False|86=H__False|87=Q__False|88=F__False|89=J__False|90=K__False|91=P__False|92=K__False|93=L__False|94=F__False|95=J__False|96=Q__False|97=I__False|98=Y__False|99=Q__False
+
+# text_version = 4
+# sent_id = 4_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANA	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|182=A__False
+
+# text_version = 5
+# sent_id = 5_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLAN	violence	NC	NC	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True
+
+# text_version = 6
+# sent_id = 6_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLAN	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True
+7	A	à	P	P	_	0	x	_	=|200=A__False
+
+# text_version = 7
+# sent_id = 7_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	7	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	A	à	P	P	_	3	mod	_	=|200=A__False
+7	VIOLANSE	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+
+# text_version = 8
+# sent_id = 8_1
+1	IL	il	CLS	CLS	_	3	suj	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	mod	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	3	dep	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NC	NC	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+
+# text_version = 9
+# sent_id = 9_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	3	mod	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	x	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	ne	ADV	NPP	_	0	x	_	=|217=N__False
+
+# text_version = 10
+# sent_id = 10_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	root	_	=|213=O__True|214=N__True|n=s|p=3
+
+# text_version = 11
+# sent_id = 11_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	root	_	=|213=O__True|214=N__True|n=s|p=3
+
+# text_version = 12
+# sent_id = 12_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	root	_	=|213=O__True|214=N__True|n=s|p=3
+
+# text_version = 13
+# sent_id = 13_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	3	mod	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	x	_	=|213=O__True|214=N__True|n=s|p=3
+9	VJNFJGKMJLFNJ	_	X	NPP	_	0	unknown	_	=|233=V__False|234=J__False|235=N__False|236=F__False|237=J__False|238=G__False|239=K__False|240=M__False|241=J__False|242=L__False|243=F__False|244=N__False|245=J__False
+
+# text_version = 14
+# sent_id = 14_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	0	root	_	=|213=O__True|214=N__True|n=s|p=3
+
+# text_version = 15
+# sent_id = 15_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|150=Y__True
+3	A	avoir	V	P	_	0	root	_	=|156=A__True
+4	DE	de+le	P	P	_	6	det	_	=|164=D__True|165=E__True
+5	LA	_	_	DET	_	4	fixed	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	violence	NC	NPP	_	3	obj	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	3	mod	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	10	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	ne	ADV	NPP	_	10	mod	_	=|262=N__True
+10	ES	être	V	V	_	7	sub	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	jamais	ADV	NPP	_	10	mod	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	de_accord	P	NPP	_	10	ats	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	JE	je	CLS	CLS	_	14	suj	_	=|302=J__False|303=E__False|n=s|p=1
+14	DAITAISTE	détester	V	V	_	0	x	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+15	LA	le	DET	DET	_	16	det	_	=|330=L__True|331=A__True|g=f|n=s
+16	VIOLANSE	violence	NC	NPP	_	14	obj	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+17	A	à	P	P	_	14	mod	_	=|355=A__True
+18	L	le	DET	NC	_	19	det	_	=|362=L__True
+19	ECOLE	école	NC	NPP	_	17	prep	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+
+# text_version = 16
+# sent_id = 16_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	21	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	_	NPP	NPP	_	21	suj	_	=|262=N__True
+10	ES	être	V	V	_	21	mod	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	_	NPP	NPP	_	10	obj	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	_	NPP	NPP	_	11	mod	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	JE	je	CLS	CLS	_	21	suj	_	=|302=J__False|303=E__False|n=s|p=1
+14	DAITAISTE	_	NPP	NPP	_	21	obj	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+15	LA	la	DET	DET	_	16	det	_	=|330=L__True|331=A__True|g=f|n=s
+16	VIOLANSE	_	NPP	NPP	_	21	mod	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+17	A	à	P	P	_	21	mod	_	=|355=A__True
+18	L	_	NC	NC	_	17	prep	_	=|362=L__True
+19	ECOLE	Ecole	NPP	NPP	_	18	mod	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+20	C	femelle	ADJ	ADJ	_	11	mod	_	=|392=C__True
+21	EST	être	V	V	_	7	sub	_	=|397=E__True|398=S__True|399=T__True|n=s|p=3|t=P
+
+# text_version = 17
+# sent_id = 17_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	20	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	_	NPP	NPP	_	20	suj	_	=|262=N__True
+10	ES	être	V	V	_	20	mod	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	_	NPP	NPP	_	10	obj	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	_	NPP	NPP	_	11	mod	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	DAITAISTE	_	ADV	ADV	_	20	mod	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+14	LA	la	DET	DET	_	15	det	_	=|330=L__True|331=A__True|g=f|n=s
+15	VIOLANSE	_	NPP	NPP	_	20	obj	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+16	A	à	P	P	_	20	mod	_	=|355=A__True
+17	L	_	NC	NC	_	16	prep	_	=|362=L__True
+18	ECOLE	Ecole	NPP	NPP	_	17	mod	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+19	C	femelle	ADJ	ADJ	_	11	mod	_	=|392=C__True
+20	EST	être	V	V	_	7	sub	_	=|397=E__True|398=S__True|399=T__True|n=s|p=3|t=P
+
+# text_version = 18
+# sent_id = 18_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	20	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	_	NPP	NPP	_	20	suj	_	=|262=N__True
+10	ES	être	V	V	_	20	mod	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	_	NPP	NPP	_	10	obj	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	_	NPP	NPP	_	11	mod	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	DAITAISTE	_	NPP	NPP	_	20	mod	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+14	LA	la	DET	DET	_	15	det	_	=|330=L__True|331=A__True|g=f|n=s
+15	VIOLANSE	_	NPP	NPP	_	20	mod	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+16	A	à	P	P	_	20	mod	_	=|355=A__True
+17	L	_	NC	NC	_	16	prep	_	=|362=L__True
+18	ECOLE	Ecole	NPP	NPP	_	17	mod	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+19	C	femelle	ADJ	ADJ	_	11	mod	_	=|392=C__True
+20	EST	être	V	V	_	7	sub	_	=|397=E__True|398=S__True|399=T__True|n=s|p=3|t=P
+21	POUR	pour	P	P	_	20	mod	_	=|408=P__True|409=O__True|410=U__True|411=R__True
+22	SA	sa	DET	DET	_	23	det	_	=|416=S__True|417=A__True|g=f|n=s|p=3|poss=s
+23	QUE	que	CS	CS	_	21	prep	_	=|424=Q__True|425=U__True|426=E__True
+
+# text_version = 19
+# sent_id = 19_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	20	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	_	NPP	NPP	_	20	suj	_	=|262=N__True
+10	ES	être	V	V	_	20	mod	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	_	NPP	NPP	_	10	obj	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	_	NPP	NPP	_	11	mod	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	DAITAISTE	_	V	V	_	23	root	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+14	LA	la	DET	DET	_	15	det	_	=|330=L__True|331=A__True|g=f|n=s
+15	VIOLANSE	_	NPP	NPP	_	13	obj	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+16	A	à	P	P	_	13	mod	_	=|355=A__True
+17	L	_	NC	NC	_	16	prep	_	=|362=L__True
+18	ECOLE	Ecole	NPP	NPP	_	17	mod	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+19	C	femelle	ADJ	ADJ	_	11	mod	_	=|392=C__True
+20	EST	être	V	V	_	7	sub	_	=|397=E__True|398=S__True|399=T__True|n=s|p=3|t=P
+21	POUR	pour	P	P	_	20	mod	_	=|408=P__True|409=O__True|410=U__True|411=R__True
+22	SA	sa	DET	DET	_	0	root	_	=|416=S__True|417=A__True|g=f|n=s|p=3|poss=s
+23	QUE	que	CS	CS	_	0	root	_	=|424=Q__True|425=U__True|426=E__True
+24	JE	je	CLS	CLS	_	13	suj	_	=|427=J__True|428=E__True|n=s|p=1
+
+# text_version = 20
+# sent_id = 20_1
+1	IL	il	CLS	CLS	_	0	root	_	=|143=I__True|144=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	0	root	_	=|150=Y__True
+3	A	à	P	P	_	0	root	_	=|156=A__True
+4	DE	de	P	P	_	0	root	_	=|164=D__True|165=E__True
+5	LA	la	DET	DET	_	6	det	_	=|170=L__True|171=A__True|g=f|n=s
+6	VIOLANSE	_	NPP	NPP	_	4	prep	_	=|176=V__True|177=I__True|178=O__True|179=L__True|180=A__True|181=N__True|201=S__True|202=E__True
+7	CAR	car	CS	CS	_	0	root	_	=|206=C__True|207=A__True|208=R__True
+8	ON	on	CLS	CLS	_	20	suj	_	=|213=O__True|214=N__True|n=s|p=3
+9	N	_	NPP	NPP	_	20	suj	_	=|262=N__True
+10	ES	être	V	V	_	20	mod	_	=|267=E__True|268=S__True|n=s|p=2|t=P
+11	JAMAI	_	NPP	NPP	_	10	obj	_	=|274=J__True|275=A__True|276=M__True|277=A__True|278=I__True
+12	DACOR	_	NPP	NPP	_	11	mod	_	=|283=D__True|284=A__True|285=C__True|286=O__True|287=R__True
+13	DAITAISTE	_	V	V	_	23	root	_	=|315=D__True|316=A__True|317=I__True|318=T__True|319=A__True|320=I__True|321=S__True|322=T__True|323=E__True
+14	LA	la	DET	DET	_	15	det	_	=|330=L__True|331=A__True|g=f|n=s
+15	VIOLANSE	_	NPP	NPP	_	13	obj	_	=|341=V__True|342=I__True|343=O__True|344=L__True|345=A__True|346=N__True|347=S__True|348=E__True
+16	A	à	P	P	_	13	mod	_	=|355=A__True
+17	L	_	NC	NC	_	16	prep	_	=|362=L__True
+18	ECOLE	Ecole	NPP	NPP	_	17	mod	_	=|365=E__True|366=C__True|367=O__True|368=L__True|369=E__True|g=m|n=s
+19	C	femelle	ADJ	ADJ	_	11	mod	_	=|392=C__True
+20	EST	être	V	V	_	7	sub	_	=|397=E__True|398=S__True|399=T__True|n=s|p=3|t=P
+21	POUR	pour	P	P	_	20	mod	_	=|408=P__True|409=O__True|410=U__True|411=R__True
+22	SA	sa	DET	DET	_	0	root	_	=|416=S__True|417=A__True|g=f|n=s|p=3|poss=s
+23	QUE	que	CS	CS	_	0	root	_	=|424=Q__True|425=U__True|426=E__True
+24	JE	je	CLS	CLS	_	13	suj	_	=|427=J__True|428=E__True|n=s|p=1
+25	FIN	fin	NC	NC	_	17	mod	_	=|431=F__True|432=I__True|433=N__True|n=s
+

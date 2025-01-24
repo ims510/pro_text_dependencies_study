@@ -1,0 +1,1209 @@
+# text_version = 0
+# sent_id = 0_1
+1	l	_	X	NC	_	0	x	_	=|1=l__False
+
+# text_version = 2
+# sent_id = 2_1
+1	LA	le	DET	DET	_	0	x	_	=|3=L__True|4=A__True|g=f|n=s
+2	V	_	X	NC	_	0	x	_	=|7=V__False
+
+# text_version = 3
+# sent_id = 3_1
+1	LA	la	DET	DET	_	0	root	_	=|3=L__True|4=A__True|g=f|n=s
+
+# text_version = 4
+# sent_id = 4_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	j	_	X	NC	_	0	x	_	=|43=j__False
+
+# text_version = 5
+# sent_id = 5_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	0	root	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	0	root	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+
+# text_version = 6
+# sent_id = 6_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	que	PROREL	ADV	_	12	comp	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	4	mod_cleft	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	supporter	VINF	ADJ	_	12	obj	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	.	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Ungarcon	un_garçon	NC	NC	_	0	x	_	=|73=U__True|74=n__True|75=g__False|76=a__False|77=r__False|78=c__False|79=o__False|80=n__False
+
+# text_version = 7
+# sent_id = 7_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	0	root	_	=|73=U__True|74=n__True|g=m|n=s
+
+# text_version = 8
+# sent_id = 8_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	que	PROREL	ADV	_	12	comp	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	4	mod_cleft	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	supporter	VINF	ADJ	_	12	obj	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	.	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	18	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	V	VPP	_	0	root	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	à	P	V	_	18	a_obj	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	21	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	PRO	ADJ	_	19	prep	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	filer	VIMP	NC	_	18	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	moi	PRO	VPP	_	22	a_obj	_	=|116=m__True|117=o__True|118=i__True
+24	tes	ton	DET	DET	_	25	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	becou	bec_ou	_	NPP	_	23	obj	_	=|124=b__True|125=e__True|126=c__True|127=o__True|128=u__True
+26	sinon	sinon	ADV	CC	_	0	x	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+27	je	je	CLS	CLS	_	0	x	_	=|136=j__True|137=e__True|n=s|p=1
+28	te	te	CLO	CLO	_	0	x	_	=|139=t__True|140=e__True|n=s|p=2
+29	te	te	CLO	CLO	_	28	dep_coord	_	=|142=t__True|143=e__False|n=s|p=2
+
+# text_version = 9
+# sent_id = 9_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	que	PROREL	ADV	_	12	comp	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	4	mod_cleft	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	supporter	VINF	ADJ	_	12	obj	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	.	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	18	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	V	VPP	_	0	root	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	à	P	V	_	18	a_obj	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	21	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	PRO	ADJ	_	19	prep	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	filer	VIMP	NC	_	18	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	moi	PRO	VPP	_	22	a_obj	_	=|116=m__True|117=o__True|118=i__True
+24	tes	ton	DET	DET	_	25	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	becou	bec_ou	_	NPP	_	23	obj	_	=|124=b__True|125=e__True|126=c__True|127=o__True|128=u__True
+26	sinon	sinon	ADV	CC	_	0	x	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+27	je	je	CLS	CLS	_	0	x	_	=|136=j__True|137=e__True|n=s|p=1
+28	te	te	CLO	CLO	_	0	x	_	=|139=t__True|140=e__True|n=s|p=2
+29	t	_	X	VPR	_	0	x	_	=|142=t__True
+
+# text_version = 10
+# sent_id = 10_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	que	PROREL	ADV	_	12	comp	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	4	mod_cleft	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	supporter	VINF	ADJ	_	12	obj	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	.	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	18	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	V	VPP	_	0	root	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	à	P	V	_	18	a_obj	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	21	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	PRO	ADJ	_	19	prep	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	filer	VIMP	NC	_	18	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	moi	PRO	VPP	_	22	a_obj	_	=|116=m__True|117=o__True|118=i__True
+24	tes	ton	DET	DET	_	25	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	becou	bec_ou	_	NPP	_	23	obj	_	=|124=b__True|125=e__True|126=c__True|127=o__True|128=u__True
+26	sinon	sinon	ADV	CC	_	29	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+27	je	je	CLS	CLS	_	29	suj	_	=|136=j__True|137=e__True|n=s|p=1
+28	te	te	CLO	CLO	_	29	obj	_	=|139=t__True|140=e__True|n=s|p=2
+29	tabasse	tabasser	V	V	_	25	dep_coord	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+30	.	.	PONCT	PONCT	_	29	ponct	_	=|151=.__True
+
+# text_version = 10
+# sent_id = 10_2
+1	mais	mais	CC	CC	_	0	root	_	=|153=m__False|154=a__False|155=i__False|156=s__False
+2	l	_	NC	NC	_	0	x	_	=|158=l__False
+
+# text_version = 11
+# sent_id = 11_1
+1	LA	le	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	ce	CLS	NPP	_	4	suj_impers	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	quelque	DET	ADV	_	8	det	_	=|25=q__True|26=u__True
+6	elle	_	_	PRO	_	5	goeswith	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	_	_	PROREL	_	6	goeswith	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	4	ats	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	que	PROREL	ADV	_	12	comp	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	4	mod_cleft	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	supporter	VINF	ADJ	_	12	obj	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	.	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	18	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	V	VPP	_	0	root	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	à	P	V	_	18	a_obj	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	21	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	PRO	ADJ	_	19	prep	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	filer	VIMP	NC	_	18	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	moi	PRO	VPP	_	22	a_obj	_	=|116=m__True|117=o__True|118=i__True
+24	tes	ton	DET	DET	_	25	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	becou	bec_ou	_	NPP	_	23	obj	_	=|124=b__True|125=e__True|126=c__True|127=o__True|128=u__True
+26	sinon	sinon	ADV	CC	_	29	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+27	je	je	CLS	CLS	_	29	suj	_	=|136=j__True|137=e__True|n=s|p=1
+28	te	te	CLO	CLO	_	29	obj	_	=|139=t__True|140=e__True|n=s|p=2
+29	tabasse	tabasser	V	V	_	25	dep_coord	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+30	.	.	PONCT	PONCT	_	29	ponct	_	=|151=.__True
+
+# text_version = 12
+# sent_id = 12_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 13
+# sent_id = 13_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 13
+# sent_id = 13_2
+1	MA	ma	DET	DET	_	0	x	_	=|168=M__False|169=A__False|g=f|n=s|p=1|poss=s
+
+# text_version = 14
+# sent_id = 14_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 15
+# sent_id = 15_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 15
+# sent_id = 15_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	la	la	DET	DET	_	0	x	_	=|178=l__True|179=a__False|g=f|n=s
+
+# text_version = 16
+# sent_id = 16_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 16
+# sent_id = 16_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	_	NC	NC	_	0	root	_	=|178=l__True
+
+# text_version = 17
+# sent_id = 17_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 17
+# sent_id = 17_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	0	x	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	de	de	P	P	_	3	mod	_	=|188=d__True|189=e__False
+
+# text_version = 18
+# sent_id = 18_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 18
+# sent_id = 18_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	PRO	ADJ	_	0	x	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	d	_	X	NC	_	0	x	_	=|188=d__True
+
+# text_version = 19
+# sent_id = 19_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 19
+# sent_id = 19_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	PRO	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sal	sale	ADJ	NC	_	0	x	_	=|203=s__True|204=a__True|205=l__False|g=m|n=s
+
+# text_version = 20
+# sent_id = 20_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 20
+# sent_id = 20_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sa	sa	DET	DET	_	0	x	_	=|203=s__True|204=a__True|g=f|n=s|p=3|poss=s
+
+# text_version = 21
+# sent_id = 21_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 21
+# sent_id = 21_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clocare	clochard	NC	NC	_	6	suj	_	=|210=c__True|211=l__True|212=o__True|213=c__True|214=a__False|215=r__False|216=e__False
+
+# text_version = 22
+# sent_id = 22_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 22
+# sent_id = 22_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	cloc	_	X	NC	_	6	suj	_	=|210=c__True|211=l__True|212=o__True|213=c__True
+
+# text_version = 23
+# sent_id = 23_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 23
+# sent_id = 23_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochard	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True|245=d__False|g=m|n=s
+
+# text_version = 24
+# sent_id = 24_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 24
+# sent_id = 24_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	_	ADV	ADV	_	3	mod	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	mod	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	V	V	_	4	mod	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	tant	ADV	ADV	_	6	mod	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	_	NC	NC	_	6	obj	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ces	DET	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	0	root	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	_	NC	NC	_	12	mod	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+
+# text_version = 25
+# sent_id = 25_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 25
+# sent_id = 25_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	0	root	_	=|248=e__True|249=t__True
+16	apres	après	ADV	NC	_	18	mod	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	ça	PRO	P	_	18	suj_impers	_	=|257=c__True|258=a__True
+18	degener	dégénérer	V	NC	_	15	dep_coord	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	18	mod	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	20	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	19	coord	_	=|287=o__True|288=u__True
+24	aves	avec	P	NC	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|293=s__False
+
+# text_version = 26
+# sent_id = 26_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 26
+# sent_id = 26_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	0	root	_	=|248=e__True|249=t__True
+16	apres	après	ADV	NC	_	18	mod	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	ça	PRO	P	_	18	suj_impers	_	=|257=c__True|258=a__True
+18	degener	dégénérer	V	NC	_	15	dep_coord	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	18	mod	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	20	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	19	coord	_	=|287=o__True|288=u__True
+24	ave	avec	P	NC	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|g=m
+
+# text_version = 27
+# sent_id = 27_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 27
+# sent_id = 27_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	0	root	_	=|248=e__True|249=t__True
+16	apres	après	ADV	NC	_	18	mod	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	ça	PRO	P	_	18	suj_impers	_	=|257=c__True|258=a__True
+18	degener	dégénérer	V	NC	_	15	dep_coord	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	18	mod	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	20	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	19	coord	_	=|287=o__True|288=u__True
+24	avec	avec	P	P	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|295=c__True
+25	de	un	DET	DET	_	0	x	_	=|297=d__True|298=e__True|n=p
+
+# text_version = 28
+# sent_id = 28_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 28
+# sent_id = 28_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	0	root	_	=|248=e__True|249=t__True
+16	apres	après	ADV	NC	_	18	mod	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	ça	PRO	P	_	18	suj_impers	_	=|257=c__True|258=a__True
+18	degener	dégénérer	V	NC	_	15	dep_coord	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	18	mod	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	20	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	19	coord	_	=|287=o__True|288=u__True
+24	avec	avec	P	P	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|295=c__True
+25	de	un	DET	DET	_	0	x	_	=|297=d__True|298=e__True|n=p
+
+# text_version = 29
+# sent_id = 29_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 29
+# sent_id = 29_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	le	DET	ADV	_	3	det	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	suj	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	VIMP	V	_	4	obj	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	t'_en	CLO	ADV	_	6	fixed	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	clochard	NC	NC	_	6	detachement	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	"	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ce_être	V	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	11	ats	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	clochard	NC	NC	_	11	suj	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	0	root	_	=|248=e__True|249=t__True
+16	apres	après	ADV	NC	_	18	mod	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	ça	PRO	P	_	18	suj_impers	_	=|257=c__True|258=a__True
+18	degener	dégénérer	V	NC	_	15	dep_coord	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	18	mod	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	20	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	19	coord	_	=|287=o__True|288=u__True
+24	avec	avec	P	P	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|295=c__True
+25	des	un	DET	DET	_	26	det	_	=|297=d__True|298=e__True|301=s__True|n=p
+26	claque	claque	NC	NC	_	24	prep	_	=|303=c__True|304=l__True|305=a__True|306=q__True|307=u__True|308=e__True|n=s
+27	.	.	PONCT	PONCT	_	26	ponct	_	=|310=.__True
+28	apre	après	ADV	ADV	_	0	x	_	=|312=a__True|313=p__True|314=r__True|315=e__False
+29	les	le	DET	CLO	_	0	x	_	=|317=l__False|318=e__False|319=s__False|n=p|p=3
+
+# text_version = 30
+# sent_id = 30_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 30
+# sent_id = 30_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	_	ADV	ADV	_	3	mod	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	mod	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	V	V	_	4	mod	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	tant	ADV	ADV	_	6	mod	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	_	NC	NC	_	6	obj	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ces	DET	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	0	root	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	_	NC	NC	_	12	mod	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	14	coord	_	=|248=e__True|249=t__True
+16	apres	_	NC	NC	_	15	dep_coord	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	circa	P	P	_	14	dep	_	=|257=c__True|258=a__True
+18	degener	_	NC	NC	_	17	prep	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	14	dep	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	14	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	14	coord	_	=|287=o__True|288=u__True
+24	avec	avec	P	P	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|295=c__True
+25	des	des	DET	DET	_	26	det	_	=|297=d__True|298=e__True|301=s__True|n=p
+26	claque	claque	NC	NC	_	24	prep	_	=|303=c__True|304=l__True|305=a__True|306=q__True|307=u__True|308=e__True|n=s
+27	.	.	PONCT	PONCT	_	26	ponct	_	=|310=.__True
+28	apr	_	NC	NC	_	12	mod	_	=|312=a__True|313=p__True|314=r__True
+
+# text_version = 31
+# sent_id = 31_1
+1	LA	la	DET	DET	_	2	det	_	=|3=L__True|4=A__True|g=f|n=s
+2	bagarre	bagarre	NC	NC	_	4	suj	_	=|11=b__True|12=a__True|13=g__True|14=a__True|15=r__True|16=r__True|17=e__True|g=f|n=s
+3	c	_	NPP	NPP	_	2	mod	_	=|19=c__True
+4	est	être	V	V	_	0	root	_	=|21=e__True|22=s__True|23=t__True|n=s|p=3|t=P
+5	qu	_	ADV	ADV	_	4	mod	_	=|25=q__True|26=u__True
+6	elle	elle	PRO	PRO	_	4	obj	_	=|28=e__True|29=l__True|30=l__True|31=e__True|g=f|n=s|p=3
+7	que	que	PROREL	PROREL	_	12	mod	_	=|33=q__True|34=u__True|35=e__True
+8	chose	chose	NC	NC	_	12	suj	_	=|37=c__True|38=h__True|39=o__True|40=s__True|41=e__True|g=f|n=s
+9	qu	_	ADV	ADV	_	12	mod	_	=|46=q__True|47=u__True
+10	on	on	CLS	CLS	_	12	suj	_	=|49=o__True|50=n__True|n=s|p=3
+11	ne	ne	ADV	ADV	_	12	mod	_	=|52=n__True|53=e__True
+12	peut	pouvoir	V	V	_	6	mod_rel	_	=|55=p__True|56=e__True|57=u__True|58=t__True|n=s|p=3|t=P
+13	pas	pas	ADV	ADV	_	12	mod	_	=|60=p__True|61=a__True|62=s__True
+14	suporte	_	ADJ	ADJ	_	12	ats	_	=|64=s__True|65=u__True|66=p__True|67=o__True|68=r__True|69=t__True|70=e__True
+15	:	:	PONCT	PONCT	_	14	ponct	_	=|72=:__True
+16	Un	un	DET	DET	_	17	det	_	=|73=U__True|74=n__True|g=m|n=s
+17	garçon	garçon	NC	NC	_	19	suj	_	=|88=g__True|89=a__True|90=r__True|91=ç__True|92=o__True|93=n__True|g=m|n=s
+18	dit	dire	VPP	VPP	_	17	mod	_	=|95=d__True|96=i__True|97=t__True|g=m|n=s|t=K
+19	a	avoir	V	V	_	4	mod	_	=|99=a__True|n=s|p=3|t=P
+20	un	un	DET	DET	_	22	det	_	=|101=u__True|102=n__True|g=m|n=s
+21	autre	autre	ADJ	ADJ	_	22	mod	_	=|104=a__True|105=u__True|106=t__True|107=r__True|108=e__True|n=s
+22	fil	fil	NC	NC	_	19	obj	_	=|111=f__True|112=i__True|113=l__True|g=m|n=s
+23	moi	_	VPP	VPP	_	22	mod	_	=|116=m__True|117=o__True|118=i__True
+24	tes	tes	DET	DET	_	30	det	_	=|120=t__True|121=e__True|122=s__True|n=p|p=2|poss=s
+25	sinon	sinon	CS	CS	_	19	mod	_	=|130=s__True|131=i__True|132=n__True|133=o__True|134=n__True
+26	je	je	CLS	CLS	_	28	suj	_	=|136=j__True|137=e__True|n=s|p=1
+27	te	te	CLO	CLO	_	28	aff	_	=|139=t__True|140=e__True|n=s|p=2
+28	tabasse	tabasser	V	V	_	25	sub	_	=|142=t__True|145=a__True|146=b__True|147=a__True|148=s__True|149=s__True|150=e__True|n=s|p=1,3|t=P,S
+29	.	.	PONCT	PONCT	_	28	ponct	_	=|151=.__True
+30	bec	bec	NC	NC	_	23	mod	_	=|124=b__True|125=e__True|126=c__True|g=m|n=s
+31	ou	ou	CC	CC	_	19	coord	_	=|127=o__True|128=u__True
+
+# text_version = 31
+# sent_id = 31_2
+1	Mais	mais	CC	CC	_	0	root	_	=|172=M__True|173=a__True|174=i__True|175=s__True
+2	l	_	ADV	ADV	_	3	mod	_	=|178=l__True
+3	autre	autre	ADJ	ADJ	_	4	mod	_	=|182=a__True|183=u__True|184=t__True|185=r__True|186=e__True|n=s
+4	dit	dire	V	V	_	1	dep_coord	_	=|188=d__True|191=i__True|192=t__True|n=s|p=3|t=J,P
+5	:	:	PONCT	PONCT	_	4	ponct	_	=|194=:__True
+6	va	aller	V	V	_	4	mod	_	=|195=v__True|196=a__True|n=s|p=3|t=P
+7	tant	tant	ADV	ADV	_	6	mod	_	=|198=t__True|199=a__True|200=n__True|201=t__True
+8	sale	sale	ADJ	ADJ	_	9	mod	_	=|203=s__True|204=a__True|207=l__True|208=e__True|n=s
+9	clochare	_	NC	NC	_	6	obj	_	=|210=c__True|211=l__True|212=o__True|213=c__True|220=h__True|221=a__True|222=r__True|223=e__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|225=.__True
+11	ces	ces	DET	DET	_	0	root	_	=|227=c__True|228=e__True|229=s__True|n=p
+12	moi	moi	PRO	PRO	_	0	root	_	=|231=m__True|232=o__True|233=i__True|n=s|p=1
+13	le	le	DET	DET	_	14	det	_	=|235=l__True|236=e__True|g=m|n=s
+14	clochar	_	NC	NC	_	12	mod	_	=|238=c__True|239=l__True|240=o__True|241=c__True|242=h__True|243=a__True|244=r__True
+15	et	et	CC	CC	_	14	coord	_	=|248=e__True|249=t__True
+16	apres	_	NC	NC	_	15	dep_coord	_	=|251=a__True|252=p__True|253=r__True|254=e__True|255=s__True
+17	ca	circa	P	P	_	14	dep	_	=|257=c__True|258=a__True
+18	degener	_	NC	NC	_	17	prep	_	=|260=d__True|261=e__True|262=g__True|263=e__True|264=n__True|265=e__True|266=r__True
+19	en	en	P	P	_	14	dep	_	=|269=e__True|270=n__True
+20	coup	coup	NC	NC	_	19	prep	_	=|272=c__True|273=o__True|274=u__True|275=p__True|g=m|n=s
+21	de	de	P	P	_	14	dep	_	=|277=d__True|278=e__True
+22	pieds	pied	NC	NC	_	21	prep	_	=|280=p__True|281=i__True|282=e__True|283=d__True|284=s__True|n=p
+23	ou	ou	CC	CC	_	14	coord	_	=|287=o__True|288=u__True
+24	avec	avec	P	P	_	23	dep_coord	_	=|290=a__True|291=v__True|292=e__True|295=c__True
+25	des	des	DET	DET	_	26	det	_	=|297=d__True|298=e__True|301=s__True|n=p
+26	claque	claque	NC	NC	_	24	prep	_	=|303=c__True|304=l__True|305=a__True|306=q__True|307=u__True|308=e__True|n=s
+27	.	.	PONCT	PONCT	_	26	ponct	_	=|310=.__True
+28	aprés	_	ADV	ADV	_	14	mod	_	=|312=a__True|313=p__True|314=r__True|327=é__True|328=s__True
+29	les	les	DET	DET	_	30	det	_	=|330=l__True|331=e__True|332=s__True|n=p
+30	surveillent	_	NC	NC	_	14	mod	_	=|334=s__True|335=u__True|336=r__True|337=v__True|338=e__True|339=i__True|340=l__True|341=l__True|342=e__True|343=n__True|344=t__True
+31	inter	_	ADJ	ADJ	_	30	mod	_	=|346=i__True|347=n__True|348=t__True|349=e__True|350=r__True
+32	vienne	venir	VS	VS	_	14	ponct	_	=|352=v__True|353=i__True|354=e__True|355=n__True|356=n__True|357=e__True|n=s|p=1,3|t=S
+33	et	et	CC	CC	_	32	coord	_	=|360=e__True|361=t__True
+34	les	les	DET	DET	_	35	det	_	=|363=l__True|364=e__True|365=s__True|n=p
+35	separent	_	NC	NC	_	33	dep_coord	_	=|367=s__True|368=e__True|369=p__True|370=a__True|371=r__True|372=e__True|373=n__True|374=t__True
+36	.	.	PONCT	PONCT	_	35	ponct	_	=|375=.__True
+

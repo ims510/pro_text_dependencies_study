@@ -1,0 +1,178 @@
+# text_version = 0
+# sent_id = 0_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bbagar	bagarrer	NC	NC	_	0	root	_	=|12=b__True|13=b__False|14=a__False|15=g__False|16=a__False|17=r__False
+
+# text_version = 1
+# sent_id = 1_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	b	bagarre	V	NC	_	0	root	_	=|12=b__True
+
+# text_version = 2
+# sent_id = 2_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	q	Côme	NPP	NC	_	4	prep	_	=|34=q__False
+
+# text_version = 3
+# sent_id = 3_1
+1	AIECIA	_	ADV	ADV	_	0	root	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+
+# text_version = 4
+# sent_id = 4_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	c	Côme	NPP	NC	_	4	prep	_	=|36=c__False
+
+# text_version = 5
+# sent_id = 5_1
+1	AIECIA	_	ADV	ADV	_	0	root	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+
+# text_version = 6
+# sent_id = 6_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	Côme	NPP	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	et	et	CC	CC	_	5	coord	_	=|44=e__False|45=t__False
+7	aminn	Amine	NC	NC	_	6	dep_coord	_	=|47=a__False|48=m__False|49=i__False|50=n__False|51=n__False
+
+# text_version = 7
+# sent_id = 7_1
+1	AIECIA	_	ADV	ADV	_	0	root	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	_	NC	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+
+# text_version = 8
+# sent_id = 8_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	Côme	NPP	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	Amine	NPP	NC	_	5	dep_coord	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	6	coord	_	=|68=e__True|69=t__True
+8	tobiace	Tobias	NPP	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	0	root	_	=|79=e__True|80=t__True
+10	alicia	Alicia	NPP	NC	_	0	x	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vavs	aller	V	NC	_	0	x	_	=|89=v__True|90=a__True|91=v__False|92=s__False
+
+# text_version = 9
+# sent_id = 9_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	Côme	NPP	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	Amine	NPP	NC	_	5	dep_coord	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	6	coord	_	=|68=e__True|69=t__True
+8	tobiace	Tobias	NPP	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	0	root	_	=|79=e__True|80=t__True
+10	alicia	Alicia	NPP	NPP	_	0	x	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	va	aller	V	VIMP	_	0	x	_	=|89=v__True|90=a__True|n=s|p=2|t=Y
+
+# text_version = 10
+# sent_id = 10_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	Côme	NPP	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	Amine	NPP	NC	_	5	dep_coord	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	6	coord	_	=|68=e__True|69=t__True
+8	tobiace	Tobias	NPP	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	0	root	_	=|79=e__True|80=t__True
+10	alicia	Alicia	NPP	NPP	_	13	suj	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vas	aller	V	V	_	13	aux_tps	_	=|89=v__True|90=a__True|97=s__True|n=s|p=2|t=P
+12	le	le	CLO	DET	_	13	obj	_	=|100=e__True|99=l__True|g=m|n=s
+13	dire	dire	VINF	NC	_	9	dep_coord	_	=|102=d__True|103=i__True|104=r__True|105=e__True|g=m|n=s
+14	aux	à+le	P+D	P+D	_	13	a_obj	_	=|107=a__True|108=u__True|109=x__True|n=p
+15	adil	adulte	NC	NC	_	14	prep	_	=|111=a__True|112=d__True|113=i__False|114=l__False
+
+# text_version = 11
+# sent_id = 11_1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	se	CLR	DET	_	3	aff	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	bagarrer	V	NC	_	0	root	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	mod	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	Côme	NPP	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	Amine	NPP	NC	_	5	dep_coord	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	6	coord	_	=|68=e__True|69=t__True
+8	tobiace	Tobias	NPP	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	0	root	_	=|79=e__True|80=t__True
+10	alicia	Alicia	NPP	NPP	_	13	suj	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vas	aller	V	V	_	13	aux_tps	_	=|89=v__True|90=a__True|97=s__True|n=s|p=2|t=P
+12	le	le	CLO	DET	_	13	obj	_	=|100=e__True|99=l__True|g=m|n=s
+13	dire	dire	VINF	NC	_	9	dep_coord	_	=|102=d__True|103=i__True|104=r__True|105=e__True|g=m|n=s
+14	aux	à+le	P+D	P+D	_	13	a_obj	_	=|107=a__True|108=u__True|109=x__True|n=p
+15	ad	adulte	NC	NC	_	14	prep	_	=|111=a__True|112=d__True
+
+# text_version = 12
+# sent_id = 12_1
+1	AIECIA	_	ADV	ADV	_	11	mod	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	11	suj	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	_	NC	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	amine	NC	NC	_	5	mod	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	3	coord	_	=|68=e__True|69=t__True
+8	tobiace	_	NC	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	3	coord	_	=|79=e__True|80=t__True
+10	alicia	_	NPP	NPP	_	3	mod	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vas	aller	V	V	_	0	root	_	=|89=v__True|90=a__True|97=s__True|n=s|p=2|t=P
+12	le	le	DET	DET	_	13	det	_	=|100=e__True|99=l__True|g=m|n=s
+13	dire	dire	NC	NC	_	11	obj	_	=|102=d__True|103=i__True|104=r__True|105=e__True|g=m|n=s
+14	aux	à	P+D	P+D	_	11	mod	_	=|107=a__True|108=u__True|109=x__True|n=p
+15	adulte	adulte	NC	NC	_	14	prep	_	=|111=a__True|112=d__True|117=u__True|118=l__True|119=t__True|120=e__True|n=s
+
+# text_version = 13
+# sent_id = 13_1
+1	AIECIA	_	ADV	ADV	_	11	mod	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	11	suj	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	_	NC	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	amine	NC	NC	_	5	mod	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	3	coord	_	=|68=e__True|69=t__True
+8	tobiace	_	NC	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	3	coord	_	=|79=e__True|80=t__True
+10	alicia	_	NPP	NPP	_	3	mod	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vas	aller	V	V	_	0	root	_	=|89=v__True|90=a__True|97=s__True|n=s|p=2|t=P
+12	le	le	DET	DET	_	13	det	_	=|100=e__True|99=l__True|g=m|n=s
+13	dire	dire	NC	NC	_	11	obj	_	=|102=d__True|103=i__True|104=r__True|105=e__True|g=m|n=s
+14	aux	à	P+D	P+D	_	11	mod	_	=|107=a__True|108=u__True|109=x__True|n=p
+15	adulte	adulte	NC	NC	_	14	prep	_	=|111=a__True|112=d__True|117=u__True|118=l__True|119=t__True|120=e__True|n=s
+
+# text_version = 14
+# sent_id = 14_1
+1	AIECIA	_	ADV	ADV	_	11	mod	_	=|1=A__True|2=I__True|3=E__True|4=C__True|5=I__True|6=A__True
+2	ce	ce	DET	DET	_	3	det	_	=|10=e__True|9=c__True|g=m|n=s
+3	bagard	_	NC	NC	_	11	suj	_	=|12=b__True|23=a__True|24=g__True|25=a__True|26=r__True|27=d__True
+4	avec	avec	P	P	_	3	dep	_	=|29=a__True|30=v__True|31=e__True|32=c__True
+5	quome	_	NC	NC	_	4	prep	_	=|38=q__True|39=u__True|40=o__True|41=m__True|42=e__True
+6	amine	amine	NC	NC	_	5	mod	_	=|62=a__True|63=m__True|64=i__True|65=n__True|66=e__True|g=f|n=s
+7	et	et	CC	CC	_	3	coord	_	=|68=e__True|69=t__True
+8	tobiace	_	NC	NC	_	7	dep_coord	_	=|71=t__True|72=o__True|73=b__True|74=i__True|75=a__True|76=c__True|77=e__True
+9	et	et	CC	CC	_	3	coord	_	=|79=e__True|80=t__True
+10	alicia	_	NPP	NPP	_	3	mod	_	=|82=a__True|83=l__True|84=i__True|85=c__True|86=i__True|87=a__True
+11	vas	aller	V	V	_	0	root	_	=|89=v__True|90=a__True|97=s__True|n=s|p=2|t=P
+12	le	le	DET	DET	_	13	det	_	=|100=e__True|99=l__True|g=m|n=s
+13	dire	dire	NC	NC	_	11	obj	_	=|102=d__True|103=i__True|104=r__True|105=e__True|g=m|n=s
+14	aux	à	P+D	P+D	_	11	mod	_	=|107=a__True|108=u__True|109=x__True|n=p
+15	adultes	adulte	NC	NC	_	14	prep	_	=|111=a__True|112=d__True|117=u__True|118=l__True|119=t__True|120=e__True|123=s__True|n=p
+

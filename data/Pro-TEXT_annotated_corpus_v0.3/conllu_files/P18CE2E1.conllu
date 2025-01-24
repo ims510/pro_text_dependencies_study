@@ -1,0 +1,767 @@
+# text_version = 0
+# sent_id = 0_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj_impers	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	comp	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	2	mod	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj_impers	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	problème	NC	ADV	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj_impers	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	fixed	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	CLO	DET	_	14	obj	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoyu	résoudre	VINF	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|83=y__False|84=u__False
+
+# text_version = 1
+# sent_id = 1_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj_impers	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	comp	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	2	mod	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj_impers	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	problème	NC	ADV	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj_impers	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	fixed	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	CLO	DET	_	14	obj	_	=|75=l__True|76=e__True|g=m|n=s
+14	reso	résoudre	VINF	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True
+
+# text_version = 2
+# sent_id = 2_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	ADV	ADV	_	8	mod	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	0	root	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	14	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+
+# text_version = 3
+# sent_id = 3_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	ADV	ADV	_	8	mod	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	0	root	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	14	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+
+# text_version = 4
+# sent_id = 4_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj_impers	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	comp	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	2	mod	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj_impers	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	problème	NC	ADV	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj_impers	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	fixed	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	CLO	DET	_	14	obj	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	résoudre	VINF	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	14	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grande	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perr	_	X	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|114=r__False
+
+# text_version = 5
+# sent_id = 5_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj_impers	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	comp	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	2	mod	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj_impers	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	problème	NC	ADV	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj_impers	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	fixed	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	CLO	DET	_	14	obj	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	résoudre	VINF	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	14	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grande	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	per	_	X	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True
+
+# text_version = 6
+# sent_id = 6_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	ADV	ADV	_	8	mod	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	0	root	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	14	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+
+# text_version = 7
+# sent_id = 7_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj_impers	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	comp	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	2	mod	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj_impers	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	problème	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj_impers	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	0	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	fixed	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	CLO	DET	_	14	obj	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	résoudre	VINF	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	14	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grande	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	personne	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	une	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|125=e__False|g=f|n=s
+
+# text_version = 8
+# sent_id = 8_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 9
+# sent_id = 9_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 9
+# sent_id = 9_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	0	x	_	=|160=s__True|161=i__True
+7	cè	ce + être	V	NC	_	6	sub	_	=|164=c__True|165=è__False
+
+# text_version = 10
+# sent_id = 10_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 10
+# sent_id = 10_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	0	x	_	=|160=s__True|161=i__True
+7	c	ce + être	V	NC	_	6	sub	_	=|164=c__True
+
+# text_version = 11
+# sent_id = 11_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 11
+# sent_id = 11_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	0	x	_	=|160=s__True|161=i__True
+7	c	ce + être	V	NPP	_	6	sub	_	=|164=c__True
+8	&und;	un	DET	PONCT	_	0	x	_	=|169=___False
+
+# text_version = 12
+# sent_id = 12_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 12
+# sent_id = 12_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	0	x	_	=|160=s__True|161=i__True
+7	c	ce + être	V	NC	_	6	sub	_	=|164=c__True
+
+# text_version = 13
+# sent_id = 13_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 13
+# sent_id = 13_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+
+# text_version = 14
+# sent_id = 14_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 14
+# sent_id = 14_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+
+# text_version = 15
+# sent_id = 15_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 15
+# sent_id = 15_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	0	x	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	10	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	violance	violence	NC	NC	_	8	obj	_	=|186=v__False|187=i__False|188=o__False|189=l__False|190=a__False|191=n__False|192=c__False|193=e__False
+
+# text_version = 16
+# sent_id = 16_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 16
+# sent_id = 16_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	une	DET	DET	_	0	root	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+
+# text_version = 17
+# sent_id = 17_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 17
+# sent_id = 17_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	12	mod	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	violence	NC	NC	_	8	ats	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	valoir	V	NC	_	5	dep_coord	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	12	fixed	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	12	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	un	DET	P	_	16	det	_	=|241=d__True|242=e__True
+16	perr	_	X	NC	_	14	obj	_	=|245=p__True|246=e__True|247=r__True|248=r__False
+
+# text_version = 18
+# sent_id = 18_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 18
+# sent_id = 18_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	12	mod	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	violence	NC	NC	_	8	ats	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	valoir	V	NC	_	5	dep_coord	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	12	fixed	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	12	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	un	DET	P	_	16	det	_	=|241=d__True|242=e__True
+16	per	_	X	NC	_	14	obj	_	=|245=p__True|246=e__True|247=r__True
+
+# text_version = 19
+# sent_id = 19_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 19
+# sent_id = 19_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	12	mod	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	violence	NC	NC	_	8	ats	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	valoir	V	NC	_	5	dep_coord	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	12	fixed	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	12	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	un	DET	P	_	16	det	_	=|241=d__True|242=e__True
+16	persone	personne	NC	NC	_	14	obj	_	=|245=p__True|246=e__True|247=r__True|250=s__False|251=o__False|252=n__False|253=e__False
+
+# text_version = 20
+# sent_id = 20_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 20
+# sent_id = 20_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	12	mod	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	violence	NC	NC	_	8	ats	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	valoir	V	NC	_	5	dep_coord	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	12	fixed	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	12	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	un	DET	P	_	16	det	_	=|241=d__True|242=e__True
+16	per	_	X	NC	_	14	obj	_	=|245=p__True|246=e__True|247=r__True
+
+# text_version = 21
+# sent_id = 21_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 21
+# sent_id = 21_2
+1	pour	pour	P	P	_	0	x	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	éviter	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	le	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	violence	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	0	root	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	12	mod	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj_impers	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	un	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	violence	NC	NC	_	8	ats	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	valoir	V	NC	_	5	dep_coord	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	12	fixed	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	12	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	un	DET	P	_	16	det	_	=|241=d__True|242=e__True
+16	perssone	personne	NC	NC	_	14	obj	_	=|245=p__True|246=e__True|247=r__True|258=s__True|259=s__True|260=o__True|261=n__True|262=e__True
+17	poure	pour	P	ADV	_	14	mod	_	=|265=p__True|266=o__True|267=u__True|268=r__True|269=e__False
+18	les	les	CLO	CLO	_	19	obj	_	=|272=l__False|273=e__False|274=s__False|n=p|p=3
+19	s'	séparer	VINF	CLR	_	17	prep	_	=|279=s__False|280='__False|n=p,s|p=3
+20	èpparer	_	_	NC	_	19	goeswith	_	=|281=è__False|282=p__False|283=p__False|284=a__False|285=r__False|286=e__False|287=r__False
+
+# text_version = 22
+# sent_id = 22_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 22
+# sent_id = 22_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	une	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	_	NC	NC	_	8	obj	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	vau	NC	NC	_	11	mod	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	8	mod	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	8	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	de	P	P	_	14	mod	_	=|241=d__True|242=e__True
+16	perssone	_	NC	NC	_	15	prep	_	=|245=p__True|246=e__True|247=r__True|258=s__True|259=s__True|260=o__True|261=n__True|262=e__True
+17	pour	pour	P	P	_	14	mod	_	=|265=p__True|266=o__True|267=u__True|268=r__True
+
+# text_version = 23
+# sent_id = 23_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 23
+# sent_id = 23_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	une	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	_	NC	NC	_	8	obj	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	vau	NC	NC	_	11	mod	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	8	mod	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	8	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	de	P	P	_	14	mod	_	=|241=d__True|242=e__True
+16	perssone	_	NC	NC	_	15	prep	_	=|245=p__True|246=e__True|247=r__True|258=s__True|259=s__True|260=o__True|261=n__True|262=e__True
+17	pour	pour	P	P	_	14	mod	_	=|265=p__True|266=o__True|267=u__True|268=r__True
+
+# text_version = 23
+# sent_id = 23_3
+1	les	les	DET	DET	_	3	det	_	=|310=l__True|311=e__True|312=s__True|n=p
+2	s'	se	CLR	CLR	_	3	aff	_	=|315=s__True|316='__True|n=p,s|p=3
+3	epparere	_	NC	NC	_	0	root	_	=|317=e__True|318=p__True|319=p__True|320=a__True|321=r__True|322=e__True|323=r__True|324=e__False
+
+# text_version = 24
+# sent_id = 24_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|5=p__True|6=e__True|7=n__True|8=s__True|9=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	mod	_	=|12=q__True|13=u__True|14=e__True
+4	il	il	CLS	CLS	_	5	suj	_	=|18=i__True|19=l__True|g=m|n=s|p=3
+5	faut	falloir	V	V	_	3	sub	_	=|23=f__True|24=a__True|25=u__True|26=t__True|n=s|p=3|t=P
+6	si	si	CS	CS	_	5	obj	_	=|29=s__True|30=i__True
+7	il	il	CLS	CLS	_	8	suj	_	=|33=i__True|34=l__True|g=m|n=s|p=3
+8	faut	falloir	V	V	_	6	sub	_	=|38=f__True|39=a__True|40=u__True|41=t__True|n=s|p=3|t=P
+9	praublème	_	NC	NC	_	8	obj	_	=|45=p__True|46=r__True|47=a__True|48=u__True|49=b__True|50=l__True|51=è__True|52=m__True|53=e__True
+10	il	il	CLS	CLS	_	11	suj	_	=|57=i__True|58=l__True|g=m|n=s|p=3
+11	vaut	valoir	V	V	_	6	root	_	=|61=v__True|62=a__True|63=u__True|64=t__True|n=s|p=3|t=P
+12	mieux	mieux	ADV	ADV	_	11	mod	_	=|68=m__True|69=i__True|70=e__True|71=u__True|72=x__True
+13	le	le	DET	DET	_	14	det	_	=|75=l__True|76=e__True|g=m|n=s
+14	resoudre	_	NC	NC	_	11	obj	_	=|79=r__True|80=e__True|81=s__True|82=o__True|89=u__True|90=d__True|91=r__True|92=e__True
+15	avec	avec	P	P	_	11	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+16	grande	grand	ADJ	ADJ	_	17	mod	_	=|103=g__True|104=r__True|105=a__True|106=n__True|107=d__True|108=e__True|g=f|n=s
+17	perssone	_	NC	NC	_	15	prep	_	=|111=p__True|112=e__True|113=r__True|118=s__True|119=s__True|120=o__True|121=n__True|122=e__True
+18	un	un	DET	DET	_	9	det	_	=|123=u__True|124=n__True|g=m|n=s
+
+# text_version = 24
+# sent_id = 24_2
+1	pour	pour	P	P	_	0	root	_	=|128=p__True|129=o__True|130=u__True|131=r__True
+2	eviter	_	VINF	VINF	_	1	prep	_	=|134=e__True|135=v__True|136=i__True|137=t__True|138=e__True|139=r__True
+3	la	la	DET	DET	_	4	det	_	=|142=l__True|143=a__True|g=f|n=s
+4	violance	_	NC	NC	_	2	obj	_	=|146=v__True|147=i__True|148=o__True|149=l__True|150=a__True|151=n__True|152=c__True|153=e__True
+5	et	et	CC	CC	_	2	coord	_	=|156=e__True|157=t__True
+6	si	si	CS	CS	_	5	dep_coord	_	=|160=s__True|161=i__True
+7	c'	ce	CLS	CLS	_	8	suj	_	=|164=c__True|173='__True
+8	est	être	V	V	_	6	sub	_	=|174=e__True|175=s__True|176=t__True|n=s|p=3|t=P
+9	une	une	DET	DET	_	11	det	_	=|181=u__True|182=n__True|183=e__True|g=f|n=s
+10	grande	grand	ADJ	ADJ	_	11	mod	_	=|202=g__True|203=r__True|204=a__True|205=n__True|206=d__True|207=e__True|g=f|n=s
+11	violance	_	NC	NC	_	8	obj	_	=|210=v__True|211=i__True|212=o__True|213=l__True|214=a__True|215=n__True|216=c__True|217=e__True
+12	vau	vau	NC	NC	_	11	mod	_	=|220=v__True|221=a__True|222=u__True|g=m|n=s
+13	mieux	mieux	ADV	ADV	_	8	mod	_	=|225=m__True|226=i__True|227=e__True|228=u__True|229=x__True
+14	appeler	appeler	VINF	VINF	_	8	obj	_	=|232=a__True|233=p__True|234=p__True|235=e__True|236=l__True|237=e__True|238=r__True|t=W
+15	de	de	P	P	_	14	mod	_	=|241=d__True|242=e__True
+16	perssone	_	NC	NC	_	15	prep	_	=|245=p__True|246=e__True|247=r__True|258=s__True|259=s__True|260=o__True|261=n__True|262=e__True
+17	pour	pour	P	P	_	14	mod	_	=|265=p__True|266=o__True|267=u__True|268=r__True
+
+# text_version = 24
+# sent_id = 24_3
+1	les	les	DET	DET	_	3	det	_	=|310=l__True|311=e__True|312=s__True|n=p
+2	s'	se	CLR	CLR	_	3	aff	_	=|315=s__True|316='__True|n=p,s|p=3
+3	epparer	_	NC	NC	_	0	root	_	=|317=e__True|318=p__True|319=p__True|320=a__True|321=r__True|322=e__True|323=r__True
+

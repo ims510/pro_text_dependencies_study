@@ -1,0 +1,292 @@
+# text_version=0
+# sentence_id=1
+# text = IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
+1	IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII	IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII	ADJ	_	None	0	root	_	charID=1__char=I__charStatus=False__pause=na|charID=2__char=I__charStatus=False__pause=499|charID=3__char=I__charStatus=False__pause=47|charID=4__char=I__charStatus=False__pause=46|charID=5__char=I__charStatus=False__pause=32|charID=6__char=I__charStatus=False__pause=46|charID=7__char=I__charStatus=False__pause=32|charID=8__char=I__charStatus=False__pause=46|charID=9__char=I__charStatus=False__pause=47|charID=10__char=I__charStatus=False__pause=31|charID=11__char=I__charStatus=False__pause=47|charID=12__char=I__charStatus=False__pause=47|charID=13__char=I__charStatus=False__pause=31|charID=14__char=I__charStatus=False__pause=47|charID=15__char=I__charStatus=False__pause=31|charID=16__char=I__charStatus=False__pause=47|charID=17__char=I__charStatus=False__pause=47|charID=18__char=I__charStatus=False__pause=31|charID=19__char=I__charStatus=False__pause=47|charID=20__char=I__charStatus=False__pause=31|charID=21__char=I__charStatus=False__pause=47|charID=22__char=I__charStatus=False__pause=47|charID=23__char=I__charStatus=False__pause=31|charID=24__char=I__charStatus=False__pause=47|charID=25__char=I__charStatus=False__pause=46|charID=26__char=I__charStatus=False__pause=32|charID=27__char=I__charStatus=False__pause=46|charID=28__char=I__charStatus=False__pause=32|charID=29__char=I__charStatus=False__pause=46|charID=30__char=I__charStatus=False__pause=47|charID=31__char=I__charStatus=False__pause=31|charID=32__char=I__charStatus=False__pause=47|charID=33__char=I__charStatus=False__pause=31|charID=34__char=I__charStatus=False__pause=47|charID=35__char=I__charStatus=False__pause=47|charID=36__char=I__charStatus=False__pause=31|charID=37__char=I__charStatus=False__pause=47|charID=38__char=I__charStatus=False__pause=47|charID=39__char=I__charStatus=False__pause=31|charID=40__char=I__charStatus=False__pause=1653|charID=41__char=I__charStatus=False__pause=94|charID=42__char=I__charStatus=False__pause=78
+
+# text_version=2
+# sentence_id=1
+# text = FHQFJKPKLFJQIYQFMHSRFMURYHUMY
+1	FHQFJKPKLFJQIYQFMHSRFMURYHUMY	FHQFJKPKLFJQIYQFMHSRFMURYHUMY	PROPN	_	None	0	root	_	charID=85__char=F__charStatus=False__pause=11092|charID=86__char=H__charStatus=False__pause=na|charID=87__char=Q__charStatus=False__pause=na|charID=88__char=F__charStatus=False__pause=na|charID=89__char=J__charStatus=False__pause=na|charID=90__char=K__charStatus=False__pause=na|charID=91__char=P__charStatus=False__pause=78|charID=92__char=K__charStatus=False__pause=125|charID=93__char=L__charStatus=False__pause=na|charID=94__char=F__charStatus=False__pause=47|charID=95__char=J__charStatus=False__pause=na|charID=96__char=Q__charStatus=False__pause=63|charID=97__char=I__charStatus=False__pause=na|charID=98__char=Y__charStatus=False__pause=46|charID=99__char=Q__charStatus=False__pause=na|charID=100__char=F__charStatus=False__pause=na|charID=101__char=M__charStatus=False__pause=na|charID=102__char=H__charStatus=False__pause=na|charID=103__char=S__charStatus=False__pause=na|charID=104__char=R__charStatus=False__pause=31|charID=105__char=F__charStatus=False__pause=na|charID=106__char=M__charStatus=False__pause=na|charID=107__char=U__charStatus=False__pause=na|charID=108__char=R__charStatus=False__pause=na|charID=109__char=Y__charStatus=False__pause=na|charID=110__char=H__charStatus=False__pause=31|charID=111__char=U__charStatus=False__pause=47|charID=112__char=M__charStatus=False__pause=na|charID=113__char=Y__charStatus=False__pause=na
+
+# text_version=4
+# sentence_id=1
+# text = IL Y A DE LA VIOLANA
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANA	violana	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=182__char=A__charStatus=False__pause=6100
+
+# text_version=5
+# sentence_id=1
+# text = IL Y A DE LA VIOLAN
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLAN	violan	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717
+
+# text_version=6
+# sentence_id=1
+# text = IL Y A DE LA VIOLAN A
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLAN	violan	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717
+7	A	A	NOUN	_	None	6	nmod	_	charID=200__char=A__charStatus=False__pause=655
+
+# text_version=7
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE A
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	A	A	NOUN	_	None	6	nmod	_	charID=200__char=A__charStatus=False__pause=655
+
+# text_version=8
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+
+# text_version=9
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N
+1	IL	IL	PROPN	_	None	3	nsubj	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	3	iobj	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	obl:arg	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	8	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	ON	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	None	8	flat:name	_	charID=217__char=N__charStatus=False__pause=4352
+
+# text_version=10
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	à	ADP	_	None	6	case	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	CAR	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+
+# text_version=11
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	à	ADP	_	None	6	case	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	CAR	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+
+# text_version=12
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	à	ADP	_	None	6	case	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	CAR	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+
+# text_version=13
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON VJNFJGKMJLFNJ
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	9	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	VJNFJGKMJLFNJ	vjnfjgkmjlfnj	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	charID=233__char=V__charStatus=False__pause=5350|charID=234__char=J__charStatus=False__pause=na|charID=235__char=N__charStatus=False__pause=na|charID=236__char=F__charStatus=False__pause=187|charID=237__char=J__charStatus=False__pause=na|charID=238__char=G__charStatus=False__pause=46|charID=239__char=K__charStatus=False__pause=na|charID=240__char=M__charStatus=False__pause=na|charID=241__char=J__charStatus=False__pause=na|charID=242__char=L__charStatus=False__pause=na|charID=243__char=F__charStatus=False__pause=na|charID=244__char=N__charStatus=False__pause=na|charID=245__char=J__charStatus=False__pause=62
+
+# text_version=14
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	à	ADP	_	None	6	case	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	CAR	NOUN	_	Gender=Fem|Number=Sing	6	nmod	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+
+# text_version=15
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR JE DAITAISTE LA VIOLANSE A L ECOLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	à	ADP	_	None	6	case	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	JAMAI	ADJ	_	Gender=Fem|Number=Sing	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	14	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	JE	un	DET	_	Gender=Masc|Number=Sing	14	det	_	charID=302__char=J__charStatus=False__pause=1762|charID=303__char=E__charStatus=False__pause=218
+14	DAITAISTE	daitaiste	NOUN	_	Gender=Masc|Number=Sing	11	obl:arg	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+15	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	16	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+16	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	14	nmod	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+17	A	à	ADP	_	None	19	case	_	charID=355__char=A__charStatus=True__pause=1264
+18	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	19	det	_	charID=362__char=L__charStatus=True__pause=2636
+19	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+
+# text_version=16
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR C EST JE DAITAISTE LA VIOLANSE A L ECOLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	éavoir	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	13	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	C	C	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	charID=392__char=C__charStatus=True__pause=42447
+14	EST	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=397__char=E__charStatus=True__pause=2979|charID=398__char=S__charStatus=True__pause=406|charID=399__char=T__charStatus=True__pause=904
+15	JE	un	DET	_	Gender=Masc|Number=Sing|PronType=Neg	16	det	_	charID=302__char=J__charStatus=False__pause=1762|charID=303__char=E__charStatus=False__pause=218
+16	DAITAISTE	daitaiste	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+17	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+18	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	16	nmod	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+19	A	à	ADP	_	None	21	case	_	charID=355__char=A__charStatus=True__pause=1264
+20	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	21	det	_	charID=362__char=L__charStatus=True__pause=2636
+21	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+
+# text_version=17
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR C EST DAITAISTE LA VIOLANSE A L ECOLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	éavoir	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	13	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	C	C	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	charID=392__char=C__charStatus=True__pause=42447
+14	EST	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	charID=397__char=E__charStatus=True__pause=2979|charID=398__char=S__charStatus=True__pause=406|charID=399__char=T__charStatus=True__pause=904
+15	DAITAISTE	daitaister	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	11	conj	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+16	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	17	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+17	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	15	nsubj:pass	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+18	A	à	ADP	_	None	20	case	_	charID=355__char=A__charStatus=True__pause=1264
+19	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	20	det	_	charID=362__char=L__charStatus=True__pause=2636
+20	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	17	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+
+# text_version=18
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR C EST POUR SA QUE DAITAISTE LA VIOLANSE A L ECOLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	éavoir	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	13	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	C	C	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	charID=392__char=C__charStatus=True__pause=42447
+14	EST	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=397__char=E__charStatus=True__pause=2979|charID=398__char=S__charStatus=True__pause=406|charID=399__char=T__charStatus=True__pause=904
+15	POUR	pour	ADP	_	None	16	case	_	charID=408__char=P__charStatus=True__pause=13198|charID=409__char=O__charStatus=True__pause=296|charID=410__char=U__charStatus=True__pause=297|charID=411__char=R__charStatus=True__pause=1856
+16	SA	SA	PROPN	_	None	14	obl:arg	_	charID=416__char=S__charStatus=True__pause=1794|charID=417__char=A__charStatus=True__pause=296
+17	QUE	que	SCONJ	_	None	18	case	_	charID=424__char=Q__charStatus=True__pause=10312|charID=425__char=U__charStatus=True__pause=2028|charID=426__char=E__charStatus=True__pause=5336
+18	DAITAISTE	daitaiste	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+19	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	20	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+20	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	18	nmod	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+21	A	à	ADP	_	None	23	case	_	charID=355__char=A__charStatus=True__pause=1264
+22	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	23	det	_	charID=362__char=L__charStatus=True__pause=2636
+23	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	20	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+
+# text_version=19
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR C EST POUR SA QUE JE DAITAISTE LA VIOLANSE A L ECOLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	éavoir	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	13	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	C	C	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	charID=392__char=C__charStatus=True__pause=42447
+14	EST	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=397__char=E__charStatus=True__pause=2979|charID=398__char=S__charStatus=True__pause=406|charID=399__char=T__charStatus=True__pause=904
+15	POUR	pour	ADP	_	None	16	case	_	charID=408__char=P__charStatus=True__pause=13198|charID=409__char=O__charStatus=True__pause=296|charID=410__char=U__charStatus=True__pause=297|charID=411__char=R__charStatus=True__pause=1856
+16	SA	SA	PROPN	_	None	11	obl:mod	_	charID=416__char=S__charStatus=True__pause=1794|charID=417__char=A__charStatus=True__pause=296
+17	QUE	que	SCONJ	_	None	19	mark	_	charID=424__char=Q__charStatus=True__pause=10312|charID=425__char=U__charStatus=True__pause=2028|charID=426__char=E__charStatus=True__pause=5336
+18	JE	moi	PRON	_	Number=Sing|Person=3|PronType=Prs	19	nsubj	_	charID=427__char=J__charStatus=True__pause=6068|charID=428__char=E__charStatus=True__pause=203
+19	DAITAISTE	daitaiste	NOUN	_	Gender=Masc|Number=Sing	16	advcl:cleft	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+20	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+21	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+22	A	à	ADP	_	None	24	case	_	charID=355__char=A__charStatus=True__pause=1264
+23	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	24	det	_	charID=362__char=L__charStatus=True__pause=2636
+24	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+
+# text_version=20
+# sentence_id=1
+# text = IL Y A DE LA VIOLANSE CAR ON N ES JAMAI DACOR C EST POUR SA QUE JE DAITAISTE LA VIOLANSE A L ECOLE FIN
+1	IL	IL	PROPN	_	None	0	root	_	charID=143__char=I__charStatus=True__pause=4587|charID=144__char=L__charStatus=True__pause=na
+2	Y	y	PRON	_	Person=3|PronType=Prs	1	nmod	_	charID=150__char=Y__charStatus=True__pause=2215
+3	A	A	SYM	_	None	1	nmod	_	charID=156__char=A__charStatus=True__pause=281
+4	DE	de	ADP	_	None	6	case	_	charID=164__char=D__charStatus=True__pause=1201|charID=165__char=E__charStatus=True__pause=156
+5	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	6	det	_	charID=170__char=L__charStatus=True__pause=1154|charID=171__char=A__charStatus=True__pause=312
+6	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	3	nmod	_	charID=176__char=V__charStatus=True__pause=8221|charID=177__char=I__charStatus=True__pause=920|charID=178__char=O__charStatus=True__pause=702|charID=179__char=L__charStatus=True__pause=1373|charID=180__char=A__charStatus=True__pause=951|charID=181__char=N__charStatus=True__pause=717|charID=201__char=S__charStatus=True__pause=16256|charID=202__char=E__charStatus=True__pause=78
+7	CAR	car	CCONJ	_	None	11	cc	_	charID=206__char=C__charStatus=True__pause=2059|charID=207__char=A__charStatus=True__pause=203|charID=208__char=R__charStatus=True__pause=187
+8	ON	on	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	9	case	_	charID=213__char=O__charStatus=True__pause=2215|charID=214__char=N__charStatus=True__pause=468
+9	N	N	NOUN	_	Gender=Masc|Number=Sing	11	nsubj:pass	_	charID=262__char=N__charStatus=True__pause=624
+10	ES	ES	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=267__char=E__charStatus=True__pause=1591|charID=268__char=S__charStatus=True__pause=327
+11	JAMAI	éavoir	VERB	_	Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	charID=274__char=J__charStatus=True__pause=2138|charID=275__char=A__charStatus=True__pause=437|charID=276__char=M__charStatus=True__pause=1779|charID=277__char=A__charStatus=True__pause=2200|charID=278__char=I__charStatus=True__pause=141
+12	DACOR	dacor	ADP	_	None	13	case	_	charID=283__char=D__charStatus=True__pause=3666|charID=284__char=A__charStatus=True__pause=280|charID=285__char=C__charStatus=True__pause=1716|charID=286__char=O__charStatus=True__pause=998|charID=287__char=R__charStatus=True__pause=656
+13	C	C	NOUN	_	Gender=Masc|Number=Sing	11	obl:mod	_	charID=392__char=C__charStatus=True__pause=42447
+14	EST	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:pass	_	charID=397__char=E__charStatus=True__pause=2979|charID=398__char=S__charStatus=True__pause=406|charID=399__char=T__charStatus=True__pause=904
+15	POUR	pour	ADP	_	None	16	case	_	charID=408__char=P__charStatus=True__pause=13198|charID=409__char=O__charStatus=True__pause=296|charID=410__char=U__charStatus=True__pause=297|charID=411__char=R__charStatus=True__pause=1856
+16	SA	SA	PROPN	_	None	11	obl:mod	_	charID=416__char=S__charStatus=True__pause=1794|charID=417__char=A__charStatus=True__pause=296
+17	QUE	que	SCONJ	_	None	19	mark	_	charID=424__char=Q__charStatus=True__pause=10312|charID=425__char=U__charStatus=True__pause=2028|charID=426__char=E__charStatus=True__pause=5336
+18	JE	moi	PRON	_	Number=Sing|Person=3|PronType=Prs	19	nsubj	_	charID=427__char=J__charStatus=True__pause=6068|charID=428__char=E__charStatus=True__pause=203
+19	DAITAISTE	daitaiste	NOUN	_	Gender=Masc|Number=Sing	16	advcl:cleft	_	charID=315__char=D__charStatus=True__pause=1279|charID=316__char=A__charStatus=True__pause=296|charID=317__char=I__charStatus=True__pause=827|charID=318__char=T__charStatus=True__pause=2371|charID=319__char=A__charStatus=True__pause=873|charID=320__char=I__charStatus=True__pause=202|charID=321__char=S__charStatus=True__pause=1372|charID=322__char=T__charStatus=True__pause=390|charID=323__char=E__charStatus=True__pause=1654
+20	LA	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	21	det	_	charID=330__char=L__charStatus=True__pause=1404|charID=331__char=A__charStatus=True__pause=266
+21	VIOLANSE	violanse	NOUN	_	Gender=Fem|Number=Sing	19	obj	_	charID=341__char=V__charStatus=True__pause=3557|charID=342__char=I__charStatus=True__pause=765|charID=343__char=O__charStatus=True__pause=265|charID=344__char=L__charStatus=True__pause=3479|charID=345__char=A__charStatus=True__pause=437|charID=346__char=N__charStatus=True__pause=328|charID=347__char=S__charStatus=True__pause=1513|charID=348__char=E__charStatus=True__pause=93
+22	A	à	ADP	_	None	24	case	_	charID=355__char=A__charStatus=True__pause=1264
+23	L	le	DET	_	Definite=Def|Number=Sing|PronType=Art	24	det	_	charID=362__char=L__charStatus=True__pause=2636
+24	ECOLE	ecole	NOUN	_	Gender=Fem|Number=Sing	21	nmod	_	charID=365__char=E__charStatus=True__pause=1591|charID=366__char=C__charStatus=True__pause=2309|charID=367__char=O__charStatus=True__pause=281|charID=368__char=L__charStatus=True__pause=2028|charID=369__char=E__charStatus=True__pause=203
+25	FIN	FIN	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	charID=431__char=F__charStatus=True__pause=4322|charID=432__char=I__charStatus=True__pause=328|charID=433__char=N__charStatus=True__pause=297
+

@@ -1,0 +1,576 @@
+# text_version = 0
+# sent_id = 0_1
+1	j	_	X	NC	_	0	x	_	=|1=j__False
+
+# text_version = 1
+# sent_id = 1_1
+1	j	_	X	NC	_	0	x	_	=|1=j__False
+
+# text_version = 2
+# sent_id = 2_1
+1	j	_	X	NC	_	0	x	_	=|1=j__False
+
+# text_version = 4
+# sent_id = 4_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+2	hhhhhhh	_	X	ADV	_	0	x	_	=|100=h__False|101=h__False|102=h__False|103=h__False|104=h__False|105=h__False|99=h__False
+
+# text_version = 5
+# sent_id = 5_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+
+# text_version = 6
+# sent_id = 6_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+2	aa	_	X	ADV	_	0	x	_	=|176=a__False|177=a__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+
+# text_version = 8
+# sent_id = 8_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|35=J__False|36=e__False|n=s|p=1
+2	joux	jouer	V	ADV	_	0	root	_	=|182=j__False|183=o__False|184=u__False|185=x__False
+3	au	à+le	P+D	P+D	_	2	a_obj	_	=|187=a__False|188=u__False|g=m|n=s
+4	foot	foot	NC	NC	_	3	prep	_	=|190=f__False|191=o__False|192=o__False|193=t__False|g=m|n=s
+
+# text_version = 9
+# sent_id = 9_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|35=J__False|36=e__False|n=s|p=1
+2	joux	jouer	V	ADV	_	0	root	_	=|182=j__False|183=o__False|184=u__False|185=x__False
+3	au	à+le	P+D	P+D	_	2	a_obj	_	=|187=a__False|188=u__False|g=m|n=s
+4	foot	foot	NC	NC	_	3	prep	_	=|190=f__False|191=o__False|192=o__False|193=t__False|g=m|n=s
+
+# text_version = 10
+# sent_id = 10_1
+1	Je	je	CLS	CLS	_	2	suj	_	=|35=J__False|36=e__False|n=s|p=1
+2	joux	jouer	V	ADV	_	0	root	_	=|182=j__False|183=o__False|184=u__False|185=x__False
+3	au	à+le	P+D	P+D	_	2	a_obj	_	=|187=a__False|188=u__False|g=m|n=s
+4	foot	foot	NC	NC	_	3	prep	_	=|190=f__False|191=o__False|192=o__False|193=t__False|g=m|n=s
+
+# text_version = 11
+# sent_id = 11_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+
+# text_version = 12
+# sent_id = 12_1
+1	Je	je	CLS	CLS	_	0	root	_	=|35=J__False|36=e__False|n=s|p=1
+
+# text_version = 14
+# sent_id = 14_1
+1	IL	il	CLS	CLS	_	0	x	_	=|217=I__False|218=L__False|g=m|n=s|p=3
+2	2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222	2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222	NUM	V	_	0	x	_	=|220=2__False|221=2__False|222=2__False|223=2__False|224=2__False|225=2__False|226=2__False|227=2__False|228=2__False|229=2__False|230=2__False|231=2__False|232=2__False|233=2__False|234=2__False|235=2__False|236=2__False|237=2__False|238=2__False|239=2__False|240=2__False|241=2__False|242=2__False|243=2__False|244=2__False|245=2__False|246=2__False|247=2__False|248=2__False|249=2__False|250=2__False|251=2__False|252=2__False|253=2__False|254=2__False|255=2__False|256=2__False|257=2__False|258=2__False|259=2__False|260=2__False|261=2__False|262=2__False|263=2__False|264=2__False|265=2__False|266=2__False|267=2__False|268=2__False|269=2__False|270=2__False|271=2__False|272=2__False|273=2__False|274=2__False|275=2__False|276=2__False|277=2__False|278=2__False|279=2__False|280=2__False|281=2__False|282=2__False|283=2__False|284=2__False|285=2__False|286=2__False|287=2__False|288=2__False|289=2__False|290=2__False|291=2__False|292=2__False|293=2__False|294=2__False|295=2__False|296=2__False|297=2__False|298=2__False|299=2__False|300=2__False|301=2__False|302=2__False|303=2__False|304=2__False|305=2__False|306=2__False|307=2__False|308=2__False|309=2__False|310=2__False|311=2__False|312=2__False|313=2__False|314=2__False|315=2__False|316=2__False|317=2__False|318=2__False|319=2__False|320=2__False|321=2__False|322=2__False|323=2__False|324=2__False|325=2__False|326=2__False|327=2__False|328=2__False|329=2__False|330=2__False|331=2__False|332=2__False|333=2__False|334=2__False|335=2__False|336=2__False|337=2__False|338=2__False|339=2__False|340=2__False|341=2__False|342=2__False|343=2__False|344=2__False|345=2__False|346=2__False|347=2__False|348=2__False|349=2__False|350=2__False|351=2__False|352=2__False|353=2__False|354=2__False|355=2__False|356=2__False|357=2__False|358=2__False|359=2__False|360=2__False|361=2__False|362=2__False|363=2__False|364=2__False|365=2__False|366=2__False|367=2__False|368=2__False|369=2__False|370=2__False|371=2__False|372=2__False|373=2__False|374=2__False|375=2__False|376=2__False|377=2__False|378=2__False|379=2__False|380=2__False|381=2__False|382=2__False|383=2__False|384=2__False|385=2__False|386=2__False|387=2__False|388=2__False|389=2__False|390=2__False|391=2__False|392=2__False|393=2__False|394=2__False|395=2__False|396=2__False|397=2__False|398=2__False|399=2__False|400=2__False|401=2__False|402=2__False|403=2__False|404=2__False|405=2__False|406=2__False|407=2__False|408=2__False|409=2__False|410=2__False|411=2__False|412=2__False|413=2__False|414=2__False|415=2__False|416=2__False|417=2__False|418=2__False|419=2__False|420=2__False|421=2__False|422=2__False|423=2__False|424=2__False|425=2__False|426=2__False|427=2__False|428=2__False|429=2__False|430=2__False|431=2__False|432=2__False|433=2__False|434=2__False|435=2__False|436=2__False|437=2__False|438=2__False|439=2__False|440=2__False|441=2__False|442=2__False|443=2__False|444=2__False|445=2__False|446=2__False|447=2__False|448=2__False|449=2__False|450=2__False|451=2__False|452=2__False|453=2__False|454=2__False|455=2__False|456=2__False|457=2__False
+
+# text_version = 16
+# sent_id = 16_1
+1	IL	il	CLS	CLS	_	0	x	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	é	_	X	ADV	_	0	x	_	=|702=é__True
+
+# text_version = 17
+# sent_id = 17_1
+1	IL	il	CLS	CLS	_	0	x	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	é	_	X	ADV	_	0	x	_	=|702=é__True
+
+# text_version = 18
+# sent_id = 18_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LIN	lin	NC	NC	_	0	root	_	=|721=L__True|722=I__False|723=N__False|g=m|n=s
+
+# text_version = 19
+# sent_id = 19_1
+1	IL	il	CLS	CLS	_	6	det	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	L	_	X	NC	_	0	root	_	=|721=L__True
+
+# text_version = 20
+# sent_id = 20_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	O	à+le	P+D	VIMP	_	8	a_obj	_	=|740=O__False
+
+# text_version = 21
+# sent_id = 21_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	0	root	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	0	root	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	0	root	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	0	root	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+
+# text_version = 22
+# sent_id = 22_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|761=V__False|762=E__False
+
+# text_version = 23
+# sent_id = 23_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAV	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True
+
+# text_version = 24
+# sent_id = 24_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DEN	dans	P	NPP	_	0	x	_	=|790=D__True|791=E__False|792=N__False
+
+# text_version = 25
+# sent_id = 25_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	D	_	X	NC	_	0	x	_	=|790=D__True
+
+# text_version = 26
+# sent_id = 26_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DAND	dans	P	VS	_	0	x	_	=|790=D__True|795=A__True|796=N__True|797=D__False
+
+# text_version = 27
+# sent_id = 27_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DAN	dans	P	NC	_	0	x	_	=|790=D__True|795=A__True|796=N__True|g=m
+
+# text_version = 28
+# sent_id = 28_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	0	x	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NE	école	NC	VIMP	_	19	prep	_	=|805=N__False|806=E__False
+22	COLE	_	_	VPR	_	21	goeswith	_	=|808=C__False|809=O__False|810=L__False|811=E__False
+
+# text_version = 29
+# sent_id = 29_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	0	root	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+
+# text_version = 30
+# sent_id = 30_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	0	x	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	école	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	il	CLS	CLS	_	0	x	_	=|826=I__True|827=L__True|g=m|n=s|p=3
+23	A	à	P	P	_	0	x	_	=|829=A__False
+
+# text_version = 31
+# sent_id = 31_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+
+# text_version = 32
+# sent_id = 32_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	0	x	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	école	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	il	CLS	NPP	_	0	x	_	=|826=I__True|827=L__True
+23	à	à	P	P	_	0	x	_	=|831=à__False
+
+# text_version = 33
+# sent_id = 33_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+
+# text_version = 34
+# sent_id = 34_1
+1	IL	il	CLS	CLS	_	6	mod	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	être	V	ADV	_	1	fixed	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	un	DET	DET	_	2	fixed	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	3	fixed	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	0	root	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	8	suj	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	jouer	V	NPP	_	6	mod_rel	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à+le	P+D	P+D	_	8	a_obj	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	et	CC	V	_	8	coord	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	13	suj	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	savoir	V	NPP	_	11	dep_coord	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	13	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	jouer	VINF	NPP	_	13	obj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à+le	P+D	P+D	_	15	a_obj	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	basket	NC	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	et	CC	V	_	0	root	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	23	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	école	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	il	CLS	NPP	_	23	suj_impers	_	=|826=I__True|827=L__True
+23	avec	avoir	V	P	_	18	dep_coord	_	=|833=a__True|834=v__True|835=e__True|836=c__True
+24	de	de+le	DET	P	_	26	det	_	=|838=d__True|839=e__True
+25	la	_	_	DET	_	24	fixed	_	=|841=l__True|842=a__True|g=f|n=s
+26	violense	violence	NC	NC	_	23	obj	_	=|844=v__True|845=i__True|846=o__True|847=l__True|848=e__True|849=n__True|850=s__True|851=e__True
+27	;	;	PONCT	PONCT	_	26	ponct	_	=|852=;__False
+28	;	;	PONCT	PONCT	_	26	ponct	_	=|853=;__False
+
+# text_version = 35
+# sent_id = 35_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+23	avec	avec	P	P	_	18	mod	_	=|833=a__True|834=v__True|835=e__True|836=c__True
+24	de	de	P	P	_	23	prep	_	=|838=d__True|839=e__True
+25	la	la	DET	DET	_	26	det	_	=|841=l__True|842=a__True|g=f|n=s
+26	violense	_	NC	NC	_	24	prep	_	=|844=v__True|845=i__True|846=o__True|847=l__True|848=e__True|849=n__True|850=s__True|851=e__True
+
+# text_version = 36
+# sent_id = 36_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+23	avec	avec	P	P	_	18	mod	_	=|833=a__True|834=v__True|835=e__True|836=c__True
+24	de	de	P	P	_	23	prep	_	=|838=d__True|839=e__True
+25	la	la	DET	DET	_	26	det	_	=|841=l__True|842=a__True|g=f|n=s
+26	violense	_	NC	NC	_	24	prep	_	=|844=v__True|845=i__True|846=o__True|847=l__True|848=e__True|849=n__True|850=s__True|851=e__True
+27	)	)	PONCT	PONCT	_	26	ponct	_	=|856=)__False
+28	)	)	PONCT	PONCT	_	26	ponct	_	=|857=)__False
+29	)	)	PONCT	PONCT	_	26	ponct	_	=|858=)__False
+30	)	)	PONCT	PONCT	_	26	ponct	_	=|859=)__False
+31	)	)	PONCT	PONCT	_	26	ponct	_	=|860=)__False
+32	)	)	PONCT	PONCT	_	26	ponct	_	=|861=)__False
+33	)	)	PONCT	PONCT	_	26	ponct	_	=|862=)__False
+34	)	)	PONCT	PONCT	_	26	ponct	_	=|863=)__False
+35	)	)	PONCT	PONCT	_	26	ponct	_	=|864=)__False
+36	)	)	PONCT	PONCT	_	26	ponct	_	=|865=)__False
+37	)	)	PONCT	PONCT	_	26	ponct	_	=|866=)__False
+38	)	)	PONCT	PONCT	_	26	ponct	_	=|867=)__False
+39	)	)	PONCT	PONCT	_	26	ponct	_	=|868=)__False
+40	)	)	PONCT	PONCT	_	26	ponct	_	=|869=)__False
+41	)	)	PONCT	PONCT	_	26	ponct	_	=|870=)__False
+42	)	)	PONCT	PONCT	_	26	ponct	_	=|871=)__False
+43	)	)	PONCT	PONCT	_	26	ponct	_	=|872=)__False
+44	)	)	PONCT	PONCT	_	26	ponct	_	=|873=)__False
+45	)	)	PONCT	PONCT	_	26	ponct	_	=|874=)__False
+46	)	)	PONCT	PONCT	_	26	ponct	_	=|875=)__False
+47	)	)	PONCT	PONCT	_	26	ponct	_	=|876=)__False
+48	)	)	PONCT	PONCT	_	26	ponct	_	=|877=)__False
+49	)	)	PONCT	PONCT	_	26	ponct	_	=|878=)__False
+50	)	)	PONCT	PONCT	_	26	ponct	_	=|879=)__False
+51	)	)	PONCT	PONCT	_	26	ponct	_	=|880=)__False
+52	)	)	PONCT	PONCT	_	26	ponct	_	=|881=)__False
+53	)	)	PONCT	PONCT	_	26	ponct	_	=|882=)__False
+54	)	)	PONCT	PONCT	_	26	ponct	_	=|883=)__False
+55	)	)	PONCT	PONCT	_	26	ponct	_	=|884=)__False
+56	)	)	PONCT	PONCT	_	26	ponct	_	=|885=)__False
+57	)	)	PONCT	PONCT	_	26	ponct	_	=|886=)__False
+58	)	)	PONCT	PONCT	_	26	ponct	_	=|887=)__False
+59	)	)	PONCT	PONCT	_	26	ponct	_	=|888=)__False
+60	)	)	PONCT	PONCT	_	26	ponct	_	=|889=)__False
+61	)	)	PONCT	PONCT	_	26	ponct	_	=|890=)__False
+62	)	)	PONCT	PONCT	_	26	ponct	_	=|891=)__False
+63	)	)	PONCT	PONCT	_	26	ponct	_	=|892=)__False
+64	)	)	PONCT	PONCT	_	26	ponct	_	=|893=)__False
+65	)	)	PONCT	PONCT	_	26	ponct	_	=|894=)__False
+66	)	)	PONCT	PONCT	_	26	ponct	_	=|895=)__False
+67	)	)	PONCT	PONCT	_	26	ponct	_	=|896=)__False
+68	)	)	PONCT	PONCT	_	26	ponct	_	=|897=)__False
+69	)	)	PONCT	PONCT	_	26	ponct	_	=|898=)__False
+
+# text_version = 37
+# sent_id = 37_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+23	avec	avec	P	P	_	18	mod	_	=|833=a__True|834=v__True|835=e__True|836=c__True
+24	de	de	P	P	_	23	prep	_	=|838=d__True|839=e__True
+25	la	la	DET	DET	_	26	det	_	=|841=l__True|842=a__True|g=f|n=s
+26	violense	_	NC	NC	_	24	prep	_	=|844=v__True|845=i__True|846=o__True|847=l__True|848=e__True|849=n__True|850=s__True|851=e__True
+
+# text_version = 38
+# sent_id = 38_1
+1	IL	il	CLS	CLS	_	0	root	_	=|699=I__True|700=L__True|g=m|n=s|p=3
+2	éTAI	_	ADV	ADV	_	11	mod	_	=|702=é__True|705=T__True|706=A__True|707=I__True
+3	UNE	une	DET	DET	_	4	det	_	=|709=U__True|710=N__True|711=E__True|g=f|n=s
+4	FOIS	fois	NC	NC	_	11	suj	_	=|713=F__True|714=O__True|715=I__True|716=S__True|g=f
+5	UN	un	DET	DET	_	6	det	_	=|718=U__True|719=N__True|g=m|n=s
+6	LAPIN	lapin	NC	NC	_	4	mod	_	=|721=L__True|726=A__True|727=P__True|728=I__True|729=N__True|g=m|n=s
+7	QUI	qui	PROREL	PROREL	_	11	mod	_	=|731=Q__True|732=U__True|733=I__True|n=s
+8	JOUX	Joux	NPP	NPP	_	11	suj	_	=|735=J__True|736=O__True|737=U__True|738=X__True|g=m|n=s
+9	AU	à	P+D	P+D	_	8	dep	_	=|742=A__True|743=U__True|g=m|n=s
+10	FOOT	foot	NC	NC	_	9	prep	_	=|745=F__True|746=O__True|747=O__True|748=T__True|g=m|n=s
+11	EST	être	V	V	_	0	root	_	=|750=E__True|751=S__True|752=T__True|n=s|p=3|t=P
+12	QUI	qui	PROREL	PROREL	_	18	mod	_	=|754=Q__True|755=U__True|756=I__True|n=s
+13	SAVE	_	NPP	NPP	_	18	suj	_	=|758=S__True|759=A__True|760=V__True|765=E__True
+14	PAS	pas	ADV	ADV	_	18	mod	_	=|767=P__True|768=A__True|769=S__True
+15	JOUX	Joux	NPP	NPP	_	18	suj	_	=|771=J__True|772=O__True|773=U__True|774=X__True|g=m|n=s
+16	AU	à	P+D	P+D	_	15	dep	_	=|776=A__True|777=U__True|g=m|n=s
+17	BASCKE	_	NPP	NPP	_	16	prep	_	=|779=B__True|780=A__True|781=S__True|782=C__True|783=K__True|784=E__True
+18	EST	être	V	V	_	11	mod	_	=|786=E__True|787=S__True|788=T__True|n=s|p=3|t=P
+19	DANS	dans	P	P	_	18	mod	_	=|790=D__True|795=A__True|796=N__True|799=S__True
+20	SON	son	DET	DET	_	21	det	_	=|801=S__True|802=O__True|803=N__True|g=m|n=s|p=3|poss=s
+21	NéCOLE	_	NC	NC	_	19	prep	_	=|819=N__True|820=é__True|821=C__True|822=O__True|823=L__True|824=E__True
+22	IL	_	NPP	NPP	_	21	mod	_	=|826=I__True|827=L__True
+23	avec	avec	P	P	_	18	mod	_	=|833=a__True|834=v__True|835=e__True|836=c__True
+24	de	de	P	P	_	23	prep	_	=|838=d__True|839=e__True
+25	la	la	DET	DET	_	26	det	_	=|841=l__True|842=a__True|g=f|n=s
+26	violense	_	NC	NC	_	24	prep	_	=|844=v__True|845=i__True|846=o__True|847=l__True|848=e__True|849=n__True|850=s__True|851=e__True
+27	.	.	PONCT	PONCT	_	26	ponct	_	=|942=.__True
+

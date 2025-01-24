@@ -1,0 +1,483 @@
+# text_version = 0
+# sent_id = 0_1
+1	il	il	CLS	CLS	_	0	x	_	=|1=i__False|2=l__False|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|4=e__False|5=t__False|6=a__False|7=i__False|8=t__False
+3	une	une	DET	DET	_	2	fixed	_	=|10=u__False|11=n__False|12=e__False|g=f|n=s
+4	foi	fois	NC	NC	_	3	fixed	_	=|14=f__False|15=o__False|16=i__False|g=f|n=s
+
+# text_version = 2
+# sent_id = 2_1
+1	i	_	X	NC	_	0	x	_	=|33=i__False
+
+# text_version = 4
+# sent_id = 4_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	ue	_	X	ADV	_	0	x	_	=|44=u__True|45=e__False
+
+# text_version = 5
+# sent_id = 5_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	u	_	X	ADV	_	0	x	_	=|44=u__True
+
+# text_version = 6
+# sent_id = 6_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copinee	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|111=e__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+
+# text_version = 8
+# sent_id = 8_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	touta	_	X	NC	_	0	x	_	=|117=t__True|118=o__True|119=u__True|120=t__True|121=a__False
+
+# text_version = 8
+# sent_id = 8_2
+1	a	avoir	V	VPR	_	0	x	_	=|124=a__False
+
+# text_version = 9
+# sent_id = 9_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	ADV	_	0	root	_	=|117=t__True|118=o__True|119=u__True|120=t__True
+
+# text_version = 10
+# sent_id = 10_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	ADV	_	0	x	_	=|117=t__True|118=o__True|119=u__True|120=t__True
+19	aje	_	X	ADV	_	0	x	_	=|130=a__True|131=j__False|132=e__False
+
+# text_version = 11
+# sent_id = 11_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	PRO	PRO	_	17	dep_coord	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	avoir	V	V	_	0	root	_	=|130=a__True|n=s|p=3|t=P
+
+# text_version = 12
+# sent_id = 12_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	PRO	_	0	x	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	à	P	V	_	0	x	_	=|130=a__True|n=s|p=3|t=P
+20	je	je	CLS	CLS	_	0	x	_	=|136=j__False|137=e__False|n=s|p=1
+21	mm	_	X	NC	_	0	x	_	=|139=m__False|140=m__False|g=m
+
+# text_version = 13
+# sent_id = 13_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	PRO	_	0	x	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	à	P	V	_	0	x	_	=|130=a__True|n=s|p=3|t=P
+20	je	je	CLS	CLS	_	0	x	_	=|136=j__False|137=e__False|n=s|p=1
+21	m	_	X	ADV	_	0	x	_	=|139=m__False
+
+# text_version = 14
+# sent_id = 14_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	PRO	_	0	x	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	à	P	V	_	0	x	_	=|130=a__True|n=s|p=3|t=P
+20	je	je	CLS	CLS	_	0	x	_	=|136=j__False|137=e__False|n=s|p=1
+21	me	me	CLR	CLR	_	0	x	_	=|139=m__False|142=e__False|n=s|p=1
+22	suis	être	V	V	_	0	x	_	=|144=s__False|145=u__False|146=i__False|147=s__False|n=s|p=1|t=P
+23	retour	retour	NC	NC	_	0	x	_	=|149=r__False|150=e__False|151=t__False|152=o__False|153=u__False|154=r__False|g=m|n=s
+
+# text_version = 15
+# sent_id = 15_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	PRO	PRO	_	17	dep_coord	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	avoir	V	V	_	0	root	_	=|130=a__True|n=s|p=3|t=P
+
+# text_version = 16
+# sent_id = 16_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	PRO	_	24	mod	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	à	P	V	_	18	fixed	_	=|130=a__True|n=s|p=3|t=P
+20	cout	coup	NC	ADV	_	19	fixed	_	=|176=c__True|177=o__True|178=u__True|179=t__True
+21	je	je	CLS	CLS	_	24	suj	_	=|181=j__True|182=e__True|n=s|p=1
+22	me	me	CLO	CLR	_	24	obj	_	=|184=m__True|185=e__True|n=s|p=1
+23	suis	être	V	V	_	24	aux_tps	_	=|187=s__True|188=u__True|189=i__True|190=s__True|n=s|p=1|t=P
+24	retour	retourner	VPP	NC	_	17	dep_coord	_	=|192=r__True|193=e__True|194=t__True|195=o__True|196=u__True|197=r__True|g=m|n=s
+25	nait	_	_	NPP	_	24	goeswith	_	=|199=n__True|200=a__True|201=i__True|202=t__True
+26	et	et	CC	CC	_	0	root	_	=|204=e__True|205=t__True
+27	il	il	CLS	CLS	_	29	suj_impers	_	=|207=i__True|208=l__True|g=m|n=s|p=3
+28	y	y	PRO	CLO	_	29	aff	_	=|210=y__True
+29	a	avoir	V	V	_	26	dep_coord	_	=|212=a__True|n=s|p=3|t=P
+30	un	un	DET	DET	_	31	det	_	=|214=u__True|215=n__True|g=m|n=s
+31	eleve	élève	NC	NPP	_	29	obj	_	=|217=e__True|218=l__True|219=e__True|220=v__True|221=e__True
+32	qui	qui	PROREL	PROREL	_	34	suj	_	=|223=q__True|224=u__True|225=i__True|n=s
+33	ma	me_avoir	CLO	DET	_	34	aux_tps	_	=|227=m__True|228=a__True|g=f|n=s|p=1|poss=s
+34	tape	avoir	V	NC	_	31	mod_rel	_	=|230=t__True|231=a__True|232=p__True|233=e__True|g=f|n=s
+35	la	là	ADV	DET	_	34	mod	_	=|235=l__True|236=a__True|g=f|n=s
+36	et	et	CC	CC	_	34	coord	_	=|238=e__True|239=t__True
+37	qui	qui	PROREL	PROREL	_	39	suj	_	=|241=q__True|242=u__True|243=i__True|n=s
+38	ma	me_avoir	V	DET	_	39	aux_tps	_	=|245=m__True|246=a__True|g=f|n=s|p=1|poss=s
+39	pousse	pousser	VPP	NC	_	36	dep_coord	_	=|248=p__True|249=o__True|250=u__True|251=s__True|252=s__True|253=e__True|g=f|n=s
+40	par	par	P	P	_	39	mod	_	=|255=p__True|256=a__True|257=r__True
+41	terre	terre	NC	NC	_	40	prep	_	=|260=t__True|261=e__False|262=r__False|263=r__False|264=e__False|g=f|n=s
+42	.	.	PONCT	PONCT	_	41	ponct	_	=|265=.__False
+43	n	_	X	NC	_	0	x	_	=|266=n__False
+
+# text_version = 17
+# sent_id = 17_1
+1	Il	il	CLS	CLS	_	13	mod	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	être	V	V	_	1	fixed	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	un	DET	DET	_	2	fixed	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	3	fixed	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	quand	CS	NPP	_	13	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	5	sub	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	de_obj	_	=|71=d__True|72=e__True
+9	la	le	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	13	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	13	aux_tps	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VPP	VINF	_	0	root	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	mon	DET	NC	_	16	det	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	14	prep	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	0	root	_	=|114=e__True|115=t__True
+18	tout	tout	ADV	PRO	_	24	mod	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	à	P	V	_	18	fixed	_	=|130=a__True|n=s|p=3|t=P
+20	cout	coup	NC	ADV	_	19	fixed	_	=|176=c__True|177=o__True|178=u__True|179=t__True
+21	je	je	CLS	CLS	_	24	suj	_	=|181=j__True|182=e__True|n=s|p=1
+22	me	me	CLO	CLR	_	24	obj	_	=|184=m__True|185=e__True|n=s|p=1
+23	suis	être	V	V	_	24	aux_tps	_	=|187=s__True|188=u__True|189=i__True|190=s__True|n=s|p=1|t=P
+24	retour	retourner	VPP	NC	_	17	dep_coord	_	=|192=r__True|193=e__True|194=t__True|195=o__True|196=u__True|197=r__True|g=m|n=s
+25	nait	_	_	NPP	_	24	goeswith	_	=|199=n__True|200=a__True|201=i__True|202=t__True
+26	et	et	CC	CC	_	0	root	_	=|204=e__True|205=t__True
+27	il	il	CLS	CLS	_	29	suj_impers	_	=|207=i__True|208=l__True|g=m|n=s|p=3
+28	y	y	PRO	CLO	_	29	aff	_	=|210=y__True
+29	a	avoir	V	V	_	26	dep_coord	_	=|212=a__True|n=s|p=3|t=P
+30	un	un	DET	DET	_	31	det	_	=|214=u__True|215=n__True|g=m|n=s
+31	eleve	élève	NC	NPP	_	29	obj	_	=|217=e__True|218=l__True|219=e__True|220=v__True|221=e__True
+32	qui	qui	PROREL	PROREL	_	34	suj	_	=|223=q__True|224=u__True|225=i__True|n=s
+33	ma	me_avoir	CLO	DET	_	34	aux_tps	_	=|227=m__True|228=a__True|g=f|n=s|p=1|poss=s
+34	tape	avoir	V	NC	_	31	mod_rel	_	=|230=t__True|231=a__True|232=p__True|233=e__True|g=f|n=s
+35	la	là	ADV	DET	_	34	mod	_	=|235=l__True|236=a__True|g=f|n=s
+36	et	et	CC	CC	_	34	coord	_	=|238=e__True|239=t__True
+37	qui	qui	PROREL	PROREL	_	39	suj	_	=|241=q__True|242=u__True|243=i__True|n=s
+38	ma	me_avoir	V	DET	_	39	aux_tps	_	=|245=m__True|246=a__True|g=f|n=s|p=1|poss=s
+39	pousse	pousser	VPP	NC	_	36	dep_coord	_	=|248=p__True|249=o__True|250=u__True|251=s__True|252=s__True|253=e__True|g=f|n=s
+40	par	par	P	P	_	39	mod	_	=|255=p__True|256=a__True|257=r__True
+41	t	_	X	NC	_	0	x	_	=|260=t__True
+
+# text_version = 18
+# sent_id = 18_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	PRO	PRO	_	19	suj	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	avoir	V	V	_	17	dep_coord	_	=|130=a__True|n=s|p=3|t=P
+20	cout	_	ADV	ADV	_	0	root	_	=|176=c__True|177=o__True|178=u__True|179=t__True
+21	je	je	CLS	CLS	_	0	root	_	=|181=j__True|182=e__True|n=s|p=1
+22	me	me	CLR	CLR	_	0	root	_	=|184=m__True|185=e__True|n=s|p=1
+23	suis	être	V	V	_	0	root	_	=|187=s__True|188=u__True|189=i__True|190=s__True|n=s|p=1|t=P
+24	retour	retour	NC	NC	_	23	suj	_	=|192=r__True|193=e__True|194=t__True|195=o__True|196=u__True|197=r__True|g=m|n=s
+25	nait	_	NPP	NPP	_	24	mod	_	=|199=n__True|200=a__True|201=i__True|202=t__True
+26	et	et	CC	CC	_	23	coord	_	=|204=e__True|205=t__True
+27	il	il	CLS	CLS	_	0	root	_	=|207=i__True|208=l__True|g=m|n=s|p=3
+28	y	y	CLO	CLO	_	0	root	_	=|210=y__True
+29	a	avoir	V	V	_	0	root	_	=|212=a__True|n=s|p=3|t=P
+30	un	un	DET	DET	_	31	det	_	=|214=u__True|215=n__True|g=m|n=s
+31	eleve	_	NPP	NPP	_	29	obj	_	=|217=e__True|218=l__True|219=e__True|220=v__True|221=e__True
+32	qui	qui	PROREL	PROREL	_	0	root	_	=|223=q__True|224=u__True|225=i__True|n=s
+33	ma	ma	DET	DET	_	34	det	_	=|227=m__True|228=a__True|g=f|n=s|p=1|poss=s
+34	tape	tape	NC	NC	_	0	root	_	=|230=t__True|231=a__True|232=p__True|233=e__True|g=f|n=s
+35	la	la	DET	DET	_	0	root	_	=|235=l__True|236=a__True|g=f|n=s
+36	et	et	CC	CC	_	35	coord	_	=|238=e__True|239=t__True
+37	qui	qui	PROREL	PROREL	_	0	root	_	=|241=q__True|242=u__True|243=i__True|n=s
+38	ma	ma	DET	DET	_	39	det	_	=|245=m__True|246=a__True|g=f|n=s|p=1|poss=s
+39	pousse	pousse	NC	NC	_	0	root	_	=|248=p__True|249=o__True|250=u__True|251=s__True|252=s__True|253=e__True|g=f|n=s
+40	par	par	P	P	_	39	dep	_	=|255=p__True|256=a__True|257=r__True
+41	terre	terre	NC	NC	_	40	prep	_	=|260=t__True|291=e__True|292=r__True|293=r__True|294=e__True|g=f|n=s
+42	.	.	PONCT	PONCT	_	41	ponct	_	=|295=.__True
+43	Etpui	_	NC	NC	_	39	mod	_	=|296=E__True|297=t__True|298=p__False|299=u__False|300=i__False
+
+# text_version = 19
+# sent_id = 19_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	PRO	PRO	_	19	suj	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	avoir	V	V	_	17	dep_coord	_	=|130=a__True|n=s|p=3|t=P
+20	cout	_	ADV	ADV	_	0	root	_	=|176=c__True|177=o__True|178=u__True|179=t__True
+21	je	je	CLS	CLS	_	0	root	_	=|181=j__True|182=e__True|n=s|p=1
+22	me	me	CLR	CLR	_	0	root	_	=|184=m__True|185=e__True|n=s|p=1
+23	suis	être	V	V	_	0	root	_	=|187=s__True|188=u__True|189=i__True|190=s__True|n=s|p=1|t=P
+24	retour	retour	NC	NC	_	23	suj	_	=|192=r__True|193=e__True|194=t__True|195=o__True|196=u__True|197=r__True|g=m|n=s
+25	nait	_	NPP	NPP	_	24	mod	_	=|199=n__True|200=a__True|201=i__True|202=t__True
+26	et	et	CC	CC	_	23	coord	_	=|204=e__True|205=t__True
+27	il	il	CLS	CLS	_	0	root	_	=|207=i__True|208=l__True|g=m|n=s|p=3
+28	y	y	CLO	CLO	_	0	root	_	=|210=y__True
+29	a	avoir	V	V	_	0	root	_	=|212=a__True|n=s|p=3|t=P
+30	un	un	DET	DET	_	31	det	_	=|214=u__True|215=n__True|g=m|n=s
+31	eleve	_	NPP	NPP	_	29	obj	_	=|217=e__True|218=l__True|219=e__True|220=v__True|221=e__True
+32	qui	qui	PROREL	PROREL	_	0	root	_	=|223=q__True|224=u__True|225=i__True|n=s
+33	ma	ma	DET	DET	_	34	det	_	=|227=m__True|228=a__True|g=f|n=s|p=1|poss=s
+34	tape	tape	NC	NC	_	0	root	_	=|230=t__True|231=a__True|232=p__True|233=e__True|g=f|n=s
+35	la	la	DET	DET	_	0	root	_	=|235=l__True|236=a__True|g=f|n=s
+36	et	et	CC	CC	_	35	coord	_	=|238=e__True|239=t__True
+37	qui	qui	PROREL	PROREL	_	0	root	_	=|241=q__True|242=u__True|243=i__True|n=s
+38	ma	ma	DET	DET	_	39	det	_	=|245=m__True|246=a__True|g=f|n=s|p=1|poss=s
+39	pousse	pousse	NC	NC	_	0	root	_	=|248=p__True|249=o__True|250=u__True|251=s__True|252=s__True|253=e__True|g=f|n=s
+40	par	par	P	P	_	39	dep	_	=|255=p__True|256=a__True|257=r__True
+41	terre	terre	NC	NC	_	40	prep	_	=|260=t__True|291=e__True|292=r__True|293=r__True|294=e__True|g=f|n=s
+42	.	.	PONCT	PONCT	_	41	ponct	_	=|295=.__True
+43	Et	et	CC	CC	_	39	coord	_	=|296=E__True|297=t__True
+
+# text_version = 20
+# sent_id = 20_1
+1	Il	il	CLS	CLS	_	2	suj	_	=|35=I__True|36=l__True|g=m|n=s|p=3
+2	etait	_	V	V	_	0	root	_	=|38=e__True|39=t__True|40=a__True|41=i__True|42=t__True
+3	une	une	DET	DET	_	4	det	_	=|44=u__True|47=n__True|48=e__True|g=f|n=s
+4	fois	fois	NC	NC	_	2	obj	_	=|50=f__True|51=o__True|52=i__True|53=s__True|g=f
+5	cans	_	NPP	NPP	_	4	mod	_	=|55=c__True|56=a__True|57=n__True|58=s__True
+6	on	on	CLS	CLS	_	7	suj	_	=|60=o__True|61=n__True|n=s|p=3
+7	sortait	sortir	V	V	_	2	mod	_	=|63=s__True|64=o__True|65=r__True|66=t__True|67=a__True|68=i__True|69=t__True|n=s|p=3|t=I
+8	de	de	P	P	_	7	mod	_	=|71=d__True|72=e__True
+9	la	la	DET	DET	_	10	det	_	=|74=l__True|75=a__True|g=f|n=s
+10	classe	classe	NC	NC	_	8	prep	_	=|77=c__True|78=l__True|79=a__True|80=s__True|81=s__True|82=e__True|g=f|n=s
+11	j'	je	CLS	CLS	_	12	suj	_	=|84=j__True|85='__True|n=s|p=1
+12	ai	avoir	V	V	_	2	mod	_	=|86=a__True|87=i__True|n=s|p=1|t=P
+13	jouer	jouer	VINF	VINF	_	12	obj	_	=|89=j__True|90=o__True|91=u__True|92=e__True|93=r__True|t=W
+14	avec	avec	P	P	_	13	mod	_	=|95=a__True|96=v__True|97=e__True|98=c__True
+15	mait	_	NC	NC	_	14	prep	_	=|100=m__True|101=a__True|102=i__True|103=t__True
+16	copine	copine	NC	NC	_	15	mod	_	=|105=c__True|106=o__True|107=p__True|108=i__True|109=n__True|110=e__True|g=f|n=s
+17	et	et	CC	CC	_	12	coord	_	=|114=e__True|115=t__True
+18	tout	tout	PRO	PRO	_	19	suj	_	=|117=t__True|118=o__True|119=u__True|120=t__True|g=m|n=s
+19	a	avoir	V	V	_	17	dep_coord	_	=|130=a__True|n=s|p=3|t=P
+20	cout	_	ADV	ADV	_	0	root	_	=|176=c__True|177=o__True|178=u__True|179=t__True
+21	je	je	CLS	CLS	_	0	root	_	=|181=j__True|182=e__True|n=s|p=1
+22	me	me	CLR	CLR	_	0	root	_	=|184=m__True|185=e__True|n=s|p=1
+23	suis	être	V	V	_	0	root	_	=|187=s__True|188=u__True|189=i__True|190=s__True|n=s|p=1|t=P
+24	retour	retour	NC	NC	_	23	suj	_	=|192=r__True|193=e__True|194=t__True|195=o__True|196=u__True|197=r__True|g=m|n=s
+25	nait	_	NPP	NPP	_	24	mod	_	=|199=n__True|200=a__True|201=i__True|202=t__True
+26	et	et	CC	CC	_	23	coord	_	=|204=e__True|205=t__True
+27	il	il	CLS	CLS	_	0	root	_	=|207=i__True|208=l__True|g=m|n=s|p=3
+28	y	y	CLO	CLO	_	0	root	_	=|210=y__True
+29	a	avoir	V	V	_	0	root	_	=|212=a__True|n=s|p=3|t=P
+30	un	un	DET	DET	_	31	det	_	=|214=u__True|215=n__True|g=m|n=s
+31	eleve	_	NPP	NPP	_	29	obj	_	=|217=e__True|218=l__True|219=e__True|220=v__True|221=e__True
+32	qui	qui	PROREL	PROREL	_	0	root	_	=|223=q__True|224=u__True|225=i__True|n=s
+33	ma	ma	DET	DET	_	34	det	_	=|227=m__True|228=a__True|g=f|n=s|p=1|poss=s
+34	tape	tape	NC	NC	_	0	root	_	=|230=t__True|231=a__True|232=p__True|233=e__True|g=f|n=s
+35	la	la	DET	DET	_	0	root	_	=|235=l__True|236=a__True|g=f|n=s
+36	et	et	CC	CC	_	35	coord	_	=|238=e__True|239=t__True
+37	qui	qui	PROREL	PROREL	_	0	root	_	=|241=q__True|242=u__True|243=i__True|n=s
+38	ma	ma	DET	DET	_	39	det	_	=|245=m__True|246=a__True|g=f|n=s|p=1|poss=s
+39	pousse	pousse	NC	NC	_	0	root	_	=|248=p__True|249=o__True|250=u__True|251=s__True|252=s__True|253=e__True|g=f|n=s
+40	par	par	P	P	_	39	dep	_	=|255=p__True|256=a__True|257=r__True
+41	terre	terre	NC	NC	_	40	prep	_	=|260=t__True|291=e__True|292=r__True|293=r__True|294=e__True|g=f|n=s
+42	.	.	PONCT	PONCT	_	41	ponct	_	=|295=.__True
+43	Et	et	CC	CC	_	39	coord	_	=|296=E__True|297=t__True
+44	puis	_	ADV	ADV	_	43	mod	_	=|305=p__True|306=u__True|307=i__True|308=s__True
+45	je	je	CLS	CLS	_	48	suj	_	=|310=j__True|311=e__True|n=s|p=1
+46	l'	le	DET	DET	_	47	det	_	=|313=l__True|314='__True|n=s
+47	ave	ave	NC	NC	_	48	suj	_	=|315=a__True|316=v__True|317=e__True|g=m
+48	dis	dire	V	V	_	43	dep_coord	_	=|319=d__True|320=i__True|321=s__True|n=s|p=1,2|t=J,P
+49	au	à	P+D	P+D	_	48	mod	_	=|323=a__True|324=u__True|g=m|n=s
+50	metre	_	NC	NC	_	49	prep	_	=|326=m__True|327=e__True|328=t__True|329=r__True|330=e__True
+51	.	.	PONCT	PONCT	_	50	ponct	_	=|331=.__True
+

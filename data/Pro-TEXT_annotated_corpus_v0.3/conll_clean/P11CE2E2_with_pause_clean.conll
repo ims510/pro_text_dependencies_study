@@ -1,0 +1,830 @@
+# text_version=0
+# sentence_id=1
+# text = Al '
+1	Al	Al	PROPN	_	None	0	root	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=l__charStatus=False__pause=8955
+2	'	'	PUNCT	_	None	1	punct	_	charID=3__char='__charStatus=False__pause=1232
+
+# text_version=1
+# sentence_id=1
+# text = A
+1	A	à	ADP	_	None	0	root	_	charID=1__char=A__charStatus=True__pause=na
+
+# text_version=2
+# sentence_id=1
+# text = A l' ècoleil
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècoleil	ècoleil	NOUN	_	Gender=Masc|Number=Sing	0	root	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929|charID=14__char=i__charStatus=False__pause=54070|charID=15__char=l__charStatus=False__pause=343
+
+# text_version=3
+# sentence_id=1
+# text = A l' ècole
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+
+# text_version=4
+# sentence_id=1
+# text = A l' ècoleil
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècoleil	ècoleil	NOUN	_	Gender=Masc|Number=Sing	0	root	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929|charID=18__char=i__charStatus=False__pause=858|charID=19__char=l__charStatus=False__pause=203
+
+# text_version=5
+# sentence_id=1
+# text = A l' ècole
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+
+# text_version=6
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violent
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violent	violent	ADJ	_	Gender=Masc|Number=Sing	7	amod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=47__char=t__charStatus=False__pause=999
+
+# text_version=7
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violen
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violen	violen	NOUN	_	Gender=Masc|Number=Sing	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561
+
+# text_version=8
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens il4
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	il4	il4	X	_	None	9	appos	_	charID=51__char=i__charStatus=False__pause=4446|charID=52__char=l__charStatus=False__pause=1154|charID=53__char=4__charStatus=False__pause=6193
+
+# text_version=9
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+
+# text_version=10
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=10
+# sentence_id=2
+# text = i
+1	i	i	INTJ	_	None	0	root	_	charID=58__char=i__charStatus=False__pause=7503
+
+# text_version=11
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=12
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=12
+# sentence_id=2
+# text = IL
+1	IL	IL	NOUN	_	None	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=61__char=L__charStatus=False__pause=406
+
+# text_version=13
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=13
+# sentence_id=2
+# text = I
+1	I	I	ADJ	_	None	0	root	_	charID=60__char=I__charStatus=True__pause=2371
+
+# text_version=14
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=14
+# sentence_id=2
+# text = Ifo
+1	Ifo	ifofe	NOUN	_	Gender=Masc|Number=Sing	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=63__char=f__charStatus=False__pause=8455|charID=64__char=o__charStatus=False__pause=421
+
+# text_version=15
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=15
+# sentence_id=2
+# text = I
+1	I	I	ADJ	_	None	0	root	_	charID=60__char=I__charStatus=True__pause=2371
+
+# text_version=16
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=16
+# sentence_id=2
+# text = Il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=67__char=l__charStatus=False__pause=1981
+
+# text_version=17
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=17
+# sentence_id=2
+# text = I
+1	I	I	ADJ	_	None	0	root	_	charID=60__char=I__charStatus=True__pause=2371
+
+# text_version=18
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=18
+# sentence_id=2
+# text = Il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=69__char=l__charStatus=False__pause=2387
+
+# text_version=19
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=19
+# sentence_id=2
+# text = I
+1	I	I	ADJ	_	None	0	root	_	charID=60__char=I__charStatus=True__pause=2371
+
+# text_version=20
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=20
+# sentence_id=2
+# text = Ilfodré
+1	Ilfodré	ilfodré	NOUN	_	Gender=Masc|Number=Sing	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422|charID=72__char=f__charStatus=False__pause=5694|charID=73__char=o__charStatus=False__pause=390|charID=74__char=d__charStatus=False__pause=5429|charID=75__char=r__charStatus=False__pause=468|charID=76__char=é__charStatus=False__pause=608
+
+# text_version=21
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=21
+# sentence_id=2
+# text = Il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+
+# text_version=22
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=22
+# sentence_id=2
+# text = Il fodré quil
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154|charID=92__char=l__charStatus=False__pause=312
+
+# text_version=23
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=23
+# sentence_id=2
+# text = Il fodré qui
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	2	obj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+
+# text_version=24
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=24
+# sentence_id=2
+# text = Il fodré qui li ya
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	2	nsubj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+4	li	li	X	_	None	3	flat:name	_	charID=97__char=l__charStatus=False__pause=562|charID=98__char=i__charStatus=False__pause=312
+5	ya	ya	X	_	None	3	flat:name	_	charID=100__char=y__charStatus=False__pause=374|charID=101__char=a__charStatus=False__pause=484
+
+# text_version=25
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=25
+# sentence_id=2
+# text = Il fodré qui li y
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+4	li	li	X	_	None	2	obj	_	charID=97__char=l__charStatus=False__pause=562|charID=98__char=i__charStatus=False__pause=312
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	2	obl:mod	_	charID=100__char=y__charStatus=False__pause=374
+
+# text_version=26
+# sentence_id=1
+# text = A l' ècole il y a beaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	beaucou	beaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=26
+# sentence_id=2
+# text = Il fodré qui li y
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+4	li	li	X	_	None	2	obj	_	charID=97__char=l__charStatus=False__pause=562|charID=98__char=i__charStatus=False__pause=312
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	2	obl:mod	_	charID=100__char=y__charStatus=False__pause=374
+
+# text_version=27
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=27
+# sentence_id=2
+# text = Il fodré qui li y
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	4	nsubj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+4	li	li	X	_	None	2	obj	_	charID=97__char=l__charStatus=False__pause=562|charID=98__char=i__charStatus=False__pause=312
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	2	obl:mod	_	charID=100__char=y__charStatus=False__pause=374
+
+# text_version=28
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=28
+# sentence_id=2
+# text = Il fodré qui li y a
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	qui	qui	PRON	_	PronType=Rel	6	nsubj	_	charID=89__char=q__charStatus=False__pause=36489|charID=90__char=u__charStatus=False__pause=2995|charID=91__char=i__charStatus=False__pause=1154
+4	li	li	X	_	None	6	nsubj	_	charID=97__char=l__charStatus=False__pause=562|charID=98__char=i__charStatus=False__pause=312
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	iobj	_	charID=100__char=y__charStatus=False__pause=374
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	charID=106__char=a__charStatus=False__pause=1748
+
+# text_version=29
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=29
+# sentence_id=2
+# text = Il fodré
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+
+# text_version=30
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=30
+# sentence_id=2
+# text = Il fodré quil arreé
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreé	arreé	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514
+
+# text_version=31
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=31
+# sentence_id=2
+# text = Il fodré quil arreé
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreé	arreé	ADJ	_	Gender=Masc|Number=Sing	3	amod	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514
+
+# text_version=32
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=32
+# sentence_id=2
+# text = Il fodré quil arreét deta
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	X	_	None	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	arreét	X	_	None	3	flat:name	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	deta	deta	X	_	None	3	flat:name	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172|charID=133__char=t__charStatus=False__pause=11575|charID=134__char=a__charStatus=False__pause=468
+
+# text_version=33
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=33
+# sentence_id=2
+# text = Il fodré quil arreét de
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	2	obl:arg	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+
+# text_version=34
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=34
+# sentence_id=2
+# text = Il fodré quil arreét de tape
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	case	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tape	tape	NOUN	_	Gender=Fem|Number=Sing	4	obl:mod	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=141__char=e__charStatus=False__pause=1061
+
+# text_version=35
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=35
+# sentence_id=2
+# text = Il fodré quil arreét de tap
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	case	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tap	tap	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482
+
+# text_version=36
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=36
+# sentence_id=2
+# text = Il fodré quil arreét de tapéet
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	case	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapéet	tapéet	NOUN	_	Gender=Masc|Number=Sing	4	obl:arg	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827|charID=144__char=e__charStatus=False__pause=11482|charID=145__char=t__charStatus=False__pause=172
+
+# text_version=37
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=37
+# sentence_id=2
+# text = Il fodré quil arreét de tapé
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	mark	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+
+# text_version=38
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=38
+# sentence_id=2
+# text = Il fodré quil arreét de tapé et de doné de les coup de
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	case	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+7	et	et	CCONJ	_	None	9	cc	_	charID=149__char=e__charStatus=True__pause=344|charID=150__char=t__charStatus=True__pause=374
+8	de	de	ADP	_	None	9	case	_	charID=152__char=d__charStatus=True__pause=9797|charID=153__char=e__charStatus=True__pause=281
+9	doné	doné	NOUN	_	Gender=Masc|Number=Sing	6	conj	_	charID=155__char=d__charStatus=True__pause=18393|charID=156__char=o__charStatus=True__pause=686|charID=157__char=n__charStatus=True__pause=796|charID=158__char=é__charStatus=True__pause=6318
+10	des	un	ADP	_	None	12	case	_	charID=160__char=d__charStatus=True__pause=8315|charID=161__char=e__charStatus=True__pause=156|charID=162__char=s__charStatus=True__pause=202
+11	coup	coup	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	charID=164__char=c__charStatus=True__pause=13885|charID=165__char=o__charStatus=True__pause=514|charID=166__char=u__charStatus=True__pause=328|charID=167__char=p__charStatus=True__pause=14055
+12	de	de	NOUN	_	Gender=Masc|Number=Sing	9	nmod	_	charID=169__char=d__charStatus=True__pause=13167|charID=170__char=e__charStatus=True__pause=187
+
+# text_version=39
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=39
+# sentence_id=2
+# text = Il fodré quil arreét de tapé et de donné de les coup de
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	mark	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+7	et	et	CCONJ	_	None	9	cc	_	charID=149__char=e__charStatus=True__pause=344|charID=150__char=t__charStatus=True__pause=374
+8	de	de	ADP	_	None	9	mark	_	charID=152__char=d__charStatus=True__pause=9797|charID=153__char=e__charStatus=True__pause=281
+9	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	charID=155__char=d__charStatus=True__pause=18393|charID=156__char=o__charStatus=True__pause=686|charID=157__char=n__charStatus=True__pause=796|charID=171__char=n__charStatus=True__pause=23479|charID=158__char=é__charStatus=True__pause=6318
+10	des	de	ADP	_	None	12	case	_	charID=160__char=d__charStatus=True__pause=8315|charID=161__char=e__charStatus=True__pause=156|charID=162__char=s__charStatus=True__pause=202
+11	coup	coup	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	charID=164__char=c__charStatus=True__pause=13885|charID=165__char=o__charStatus=True__pause=514|charID=166__char=u__charStatus=True__pause=328|charID=167__char=p__charStatus=True__pause=14055
+12	de	de	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=169__char=d__charStatus=True__pause=13167|charID=170__char=e__charStatus=True__pause=187
+
+# text_version=40
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=40
+# sentence_id=2
+# text = Il fodré quil arreét de tapé et de donné des coup depie
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	mark	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+7	et	et	CCONJ	_	None	9	cc	_	charID=149__char=e__charStatus=True__pause=344|charID=150__char=t__charStatus=True__pause=374
+8	de	de	ADP	_	None	9	mark	_	charID=152__char=d__charStatus=True__pause=9797|charID=153__char=e__charStatus=True__pause=281
+9	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	charID=155__char=d__charStatus=True__pause=18393|charID=156__char=o__charStatus=True__pause=686|charID=157__char=n__charStatus=True__pause=796|charID=171__char=n__charStatus=True__pause=23479|charID=158__char=é__charStatus=True__pause=6318
+10	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	11	det	_	charID=160__char=d__charStatus=True__pause=8315|charID=161__char=e__charStatus=True__pause=156|charID=162__char=s__charStatus=True__pause=202
+11	coup	coup	NOUN	_	Gender=Masc|Number=Plur	9	obj	_	charID=164__char=c__charStatus=True__pause=13885|charID=165__char=o__charStatus=True__pause=514|charID=166__char=u__charStatus=True__pause=328|charID=167__char=p__charStatus=True__pause=14055
+12	depie	depie	NOUN	_	Gender=Masc|Number=Sing	11	nmod	_	charID=169__char=d__charStatus=True__pause=13167|charID=170__char=e__charStatus=True__pause=187|charID=172__char=p__charStatus=False__pause=16817|charID=173__char=i__charStatus=False__pause=296|charID=174__char=e__charStatus=False__pause=468
+
+# text_version=41
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=41
+# sentence_id=2
+# text = Il fodré quil arreét de tapé et de donné de les coup de
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	mark	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+7	et	et	CCONJ	_	None	9	cc	_	charID=149__char=e__charStatus=True__pause=344|charID=150__char=t__charStatus=True__pause=374
+8	de	de	ADP	_	None	9	mark	_	charID=152__char=d__charStatus=True__pause=9797|charID=153__char=e__charStatus=True__pause=281
+9	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	charID=155__char=d__charStatus=True__pause=18393|charID=156__char=o__charStatus=True__pause=686|charID=157__char=n__charStatus=True__pause=796|charID=171__char=n__charStatus=True__pause=23479|charID=158__char=é__charStatus=True__pause=6318
+10	des	de	ADP	_	None	12	case	_	charID=160__char=d__charStatus=True__pause=8315|charID=161__char=e__charStatus=True__pause=156|charID=162__char=s__charStatus=True__pause=202
+11	coup	coup	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	charID=164__char=c__charStatus=True__pause=13885|charID=165__char=o__charStatus=True__pause=514|charID=166__char=u__charStatus=True__pause=328|charID=167__char=p__charStatus=True__pause=14055
+12	de	de	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=169__char=d__charStatus=True__pause=13167|charID=170__char=e__charStatus=True__pause=187
+
+# text_version=42
+# sentence_id=1
+# text = A l' ècole il y a abeaucou de violens .
+1	A	à	ADP	_	None	3	case	_	charID=1__char=A__charStatus=True__pause=na
+2	l'	le	DET	_	Definite=Def|Number=Sing|PronType=Art	3	det	_	charID=7__char=l__charStatus=True__pause=9547|charID=8__char='__charStatus=True__pause=374
+3	ècole	ècole	NOUN	_	Gender=Fem|Number=Sing	6	obl:mod	_	charID=9__char=è__charStatus=True__pause=4695|charID=10__char=c__charStatus=True__pause=6693|charID=11__char=o__charStatus=True__pause=468|charID=12__char=l__charStatus=True__pause=3728|charID=13__char=e__charStatus=True__pause=4929
+4	il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	6	expl:subj	_	charID=23__char=i__charStatus=True__pause=374|charID=24__char=l__charStatus=True__pause=234
+5	y	y	PRON	_	Emph=No|Person=3|PronType=Prs	6	expl:comp	_	charID=26__char=y__charStatus=True__pause=296
+6	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=28__char=a__charStatus=True__pause=203
+7	abeaucou	abeaucou	NOUN	_	Gender=Masc|Number=Sing	6	obj	_	charID=104__char=a__charStatus=True__pause=530|charID=30__char=b__charStatus=True__pause=48283|charID=31__char=e__charStatus=True__pause=3884|charID=32__char=a__charStatus=True__pause=343|charID=33__char=u__charStatus=True__pause=437|charID=34__char=c__charStatus=True__pause=6256|charID=35__char=o__charStatus=True__pause=374|charID=36__char=u__charStatus=True__pause=265
+8	de	de	ADP	_	None	9	case	_	charID=38__char=d__charStatus=True__pause=343|charID=39__char=e__charStatus=True__pause=187
+9	violens	violen	NOUN	_	Gender=Masc|Number=Plur	7	nmod	_	charID=41__char=v__charStatus=True__pause=4243|charID=42__char=i__charStatus=True__pause=297|charID=43__char=o__charStatus=True__pause=4914|charID=44__char=l__charStatus=True__pause=4649|charID=45__char=e__charStatus=True__pause=3994|charID=46__char=n__charStatus=True__pause=561|charID=49__char=s__charStatus=True__pause=499
+10	.	.	PUNCT	_	None	6	punct	_	charID=57__char=.__charStatus=True__pause=2028
+
+# text_version=42
+# sentence_id=2
+# text = Il fodré quil arreét de tapé et de donné de les coup de pied .
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=60__char=I__charStatus=True__pause=2371|charID=71__char=l__charStatus=True__pause=422
+2	fodré	fodrer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=83__char=f__charStatus=True__pause=5351|charID=84__char=o__charStatus=True__pause=93|charID=85__char=d__charStatus=True__pause=12605|charID=86__char=r__charStatus=True__pause=1731|charID=87__char=é__charStatus=True__pause=1357
+3	quil	quil	NOUN	_	Gender=Masc|Number=Sing	2	obj	_	charID=117__char=q__charStatus=True__pause=10296|charID=118__char=u__charStatus=True__pause=484|charID=119__char=i__charStatus=True__pause=1404|charID=120__char=l__charStatus=True__pause=297
+4	arreét	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	xcomp	_	charID=122__char=a__charStatus=True__pause=812|charID=123__char=r__charStatus=True__pause=639|charID=124__char=r__charStatus=True__pause=188|charID=125__char=e__charStatus=True__pause=2449|charID=126__char=é__charStatus=True__pause=514|charID=129__char=t__charStatus=True__pause=3666
+5	de	de	ADP	_	None	6	mark	_	charID=131__char=d__charStatus=True__pause=187|charID=132__char=e__charStatus=True__pause=172
+6	tapé	taper	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	4	xcomp	_	charID=138__char=t__charStatus=True__pause=951|charID=139__char=a__charStatus=True__pause=1123|charID=140__char=p__charStatus=True__pause=11482|charID=143__char=é__charStatus=True__pause=827
+7	et	et	CCONJ	_	None	9	cc	_	charID=149__char=e__charStatus=True__pause=344|charID=150__char=t__charStatus=True__pause=374
+8	de	de	ADP	_	None	9	mark	_	charID=152__char=d__charStatus=True__pause=9797|charID=153__char=e__charStatus=True__pause=281
+9	donné	donner	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	charID=155__char=d__charStatus=True__pause=18393|charID=156__char=o__charStatus=True__pause=686|charID=157__char=n__charStatus=True__pause=796|charID=171__char=n__charStatus=True__pause=23479|charID=158__char=é__charStatus=True__pause=6318
+10	des	de	ADP	_	None	12	case	_	charID=160__char=d__charStatus=True__pause=8315|charID=161__char=e__charStatus=True__pause=156|charID=162__char=s__charStatus=True__pause=202
+11	coup	coup	DET	_	Definite=Def|Number=Plur|PronType=Art	12	det	_	charID=164__char=c__charStatus=True__pause=13885|charID=165__char=o__charStatus=True__pause=514|charID=166__char=u__charStatus=True__pause=328|charID=167__char=p__charStatus=True__pause=14055
+12	de	de	NOUN	_	Gender=Masc|Number=Sing	9	obl:arg	_	charID=169__char=d__charStatus=True__pause=13167|charID=170__char=e__charStatus=True__pause=187
+13	pied	pied	ADP	_	None	14	case	_	charID=179__char=p__charStatus=True__pause=5539|charID=180__char=i__charStatus=True__pause=281|charID=181__char=e__charStatus=True__pause=468|charID=182__char=d__charStatus=True__pause=4431
+14	.	.	NOUN	_	Gender=Masc|Number=Sing	12	nmod	_	charID=183__char=.__charStatus=True__pause=3900

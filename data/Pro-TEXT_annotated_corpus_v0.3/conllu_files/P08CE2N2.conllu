@@ -1,0 +1,1135 @@
+# text_version = 0
+# sent_id = 0_1
+1	i	_	X	NC	_	0	x	_	=|1=i__False
+
+# text_version = 2
+# sent_id = 2_1
+1	i	_	X	NC	_	0	x	_	=|3=i__False
+
+# text_version = 4
+# sent_id = 4_1
+1	iiiiiiiiii	_	X	NC	_	0	x	_	=|10=i__False|11=i__False|12=i__False|13=i__False|14=i__False|5=i__False|6=i__False|7=i__False|8=i__False|9=i__False
+
+# text_version = 6
+# sent_id = 6_1
+1	i	_	X	NC	_	0	x	_	=|25=i__False
+
+# text_version = 8
+# sent_id = 8_1
+1	iL	il	CLS	NC	_	0	x	_	=|27=i__False|28=L__False
+
+# text_version = 10
+# sent_id = 10_1
+1	IL	il	CLS	CLS	_	0	x	_	=|31=I__False|32=L__False|g=m|n=s|p=3
+
+# text_version = 11
+# sent_id = 11_1
+1	I	_	X	NC	_	0	x	_	=|31=I__False
+
+# text_version = 12
+# sent_id = 12_1
+1	IL	il	CLS	CLS	_	0	x	_	=|31=I__False|34=L__False|g=m|n=s|p=3
+
+# text_version = 14
+# sent_id = 14_1
+1	IL	il	CLS	CLS	_	2	suj_impers	_	=|37=I__False|38=L__False|g=m|n=s|p=3
+2	YA	_	_	V	_	0	root	_	=|40=Y__False|41=A__False
+3	LES	les	DET	CLO	_	0	x	_	=|43=L__False|44=E__False|45=S__False|n=p|p=3
+
+# text_version = 16
+# sent_id = 16_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GAR9	_	X	NC	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|71=9__False
+
+# text_version = 17
+# sent_id = 17_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GAR	_	X	NC	_	3	obj	_	=|68=G__True|69=A__True|70=R__True
+
+# text_version = 18
+# sent_id = 18_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	.	.	PONCT	PONCT	_	20	ponct	_	=|133=.__False
+22	e	_	_	NC	_	0	x	_	=|135=e__False
+
+# text_version = 19
+# sent_id = 19_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	.	.	PONCT	PONCT	_	20	ponct	_	=|133=.__False
+
+# text_version = 20
+# sent_id = 20_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	.	.	PONCT	PONCT	_	20	ponct	_	=|133=.__False
+22	E	_	X	NC	_	0	x	_	=|137=E__False
+
+# text_version = 21
+# sent_id = 21_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	garçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+
+# text_version = 22
+# sent_id = 22_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devan	devant	P	NC	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True
+
+# text_version = 23
+# sent_id = 23_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devan	devant	P	NC	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True
+
+# text_version = 24
+# sent_id = 24_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devane	devant	P	NC	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|173=e__False
+
+# text_version = 25
+# sent_id = 25_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devan	devant	P	NC	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True
+
+# text_version = 26
+# sent_id = 26_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devant	devant	P	P	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+28	les	les	DET	CLO	_	0	x	_	=|177=l__False|178=e__False|179=s__False|n=p|p=3
+
+# text_version = 27
+# sent_id = 27_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devant	devant	P	VPR	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True|t=G
+
+# text_version = 28
+# sent_id = 28_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	est	et	CC	V	_	7	coord	_	=|141=e__False|142=s__False|143=t__False|n=s|p=3|t=P
+22	il	il	CLS	CLS	_	23	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+23	dis	dire	V	V	_	21	dep_coord	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+24	des	un	DET	DET	_	26	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+25	gro	gros	ADJ	ADJ	_	26	mod	_	=|157=g__True|158=r__True|159=o__True
+26	mots	mot	NC	NC	_	23	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+27	devant	devant	P	P	_	23	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+28	petit	petit	ADJ	ADJ	_	27	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+29	(	(	PONCT	PONCT	_	28	ponct	_	=|189=(__True
+30	e	_	_	NPP	_	28	goeswith	_	=|190=e__True
+31	)	)	PONCT	PONCT	_	30	ponct	_	=|191=)__True
+
+# text_version = 29
+# sent_id = 29_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	PROREL	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+
+# text_version = 30
+# sent_id = 30_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+
+# text_version = 31
+# sent_id = 31_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	0	x	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	non	ne_avoir	_	ADV	_	0	x	_	=|206=n__False|207=o__True|208=n__True
+
+# text_version = 32
+# sent_id = 32_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	ilon	il_avoir	_	NC	_	0	x	_	=|203=i__True|204=l__True|207=o__True|208=n__True
+
+# text_version = 33
+# sent_id = 33_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	34	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	32	mod	_	=|207=o__True|208=n__True|n=s|p=3
+
+# text_version = 34
+# sent_id = 34_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	34	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	32	mod	_	=|207=o__True|208=n__True|n=s|p=3
+
+# text_version = 35
+# sent_id = 35_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	0	x	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	0	x	_	=|207=o__True|208=n__True|n=s|p=3
+35	n	ne	ADV	ADV	_	34	mod	_	=|215=n__True
+
+# text_version = 36
+# sent_id = 36_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	0	x	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	0	x	_	=|207=o__True|208=n__True|n=s|p=3
+35	n	ne	ADV	ADV	_	34	mod	_	=|215=n__True
+36	pas	pas	ADV	ADV	_	34	mod	_	=|217=p__True|218=a__True|219=s__True
+37	u	_	X	NC	_	0	x	_	=|221=u__False
+
+# text_version = 37
+# sent_id = 37_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	0	x	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	0	x	_	=|207=o__True|208=n__True|n=s|p=3
+35	n	ne	ADV	ADV	_	34	mod	_	=|215=n__True
+36	pas	pas	ADV	ADV	_	34	mod	_	=|217=p__True|218=a__True|219=s__True
+
+# text_version = 38
+# sent_id = 38_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	garçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	QUI	qui	PROREL	NPP	_	7	suj	_	=|77=Q__False|78=U__False|79=I__False
+7	Dis	dire	V	NPP	_	5	mod_rel	_	=|81=D__False|82=i__False|83=s__False
+8	des	un	DET	P+D	_	9	det	_	=|85=d__False|86=e__False|87=s__False|n=p
+9	insulte	insulte	NC	NC	_	7	obj	_	=|89=i__False|90=n__False|91=s__False|92=u__False|93=l__False|94=t__False|95=e__False|g=f|n=s
+10	a	à	P	V	_	7	a_obj	_	=|97=a__False|n=s|p=3|t=P
+11	se	ceux	PRO	CLR	_	10	prep	_	=|100=e__False|99=s__False|n=p,s|p=3
+12	qui	qui	PROREL	PROREL	_	13	suj	_	=|102=q__False|103=u__False|104=i__False|n=s
+13	sont	être	V	V	_	11	mod_rel	_	=|106=s__False|107=o__False|108=n__False|109=t__False|n=p|p=3|t=P
+14	plus	plus	ADV	ADV	_	15	mod	_	=|111=p__False|112=l__False|113=u__False|114=s__False
+15	petit	petit	ADJ	ADJ	_	13	ats	_	=|116=p__False|117=e__False|118=t__False|119=i__False|120=t__False|g=m|n=s
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|122=(__False
+17	e	_	_	NPP	_	15	goeswith	_	=|123=e__False
+18	)	)	PONCT	PONCT	_	17	ponct	_	=|124=)__False
+19	que	que	CS	CS	_	15	arg_comp	_	=|126=q__False|127=u__False|128=e__False
+20	eu	eux	PRO	VPP	_	19	obj	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+21	il	il	CLS	CLS	_	22	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+22	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+23	des	un	DET	DET	_	25	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+24	gro	gros	ADJ	ADJ	_	25	mod	_	=|157=g__True|158=r__True|159=o__True
+25	mots	mot	NC	NC	_	22	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+26	devant	devant	P	P	_	22	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+27	petit	petit	ADJ	ADJ	_	26	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+28	(	(	PONCT	PONCT	_	27	ponct	_	=|189=(__True
+29	e	_	_	NPP	_	27	goeswith	_	=|190=e__True
+30	)	)	PONCT	PONCT	_	29	ponct	_	=|191=)__True
+31	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+32	quand	quand	CS	CS	_	22	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+33	il	il	CLS	CLS	_	37	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+34	on	avoir	V	CLS	_	37	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+35	n	ne	ADV	ADV	_	34	mod	_	=|215=n__True
+36	pas	pas	ADV	ADV	_	34	mod	_	=|217=p__True|218=a__True|219=s__True
+37	gagner	gagner	VPP	VINF	_	32	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+38	.	.	PONCT	PONCT	_	37	ponct	_	=|231=.__True
+39	Il	il	CLS	CLS	_	40	suj	_	=|232=I__True|233=l__True|g=m|n=s|p=3
+40	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+
+# text_version = 39
+# sent_id = 39_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	eu	eux	PRO	VPP	_	0	unknown	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+7	il	il	CLS	CLS	_	8	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+8	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+9	des	un	DET	DET	_	11	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+10	gro	gros	ADJ	ADJ	_	11	mod	_	=|157=g__True|158=r__True|159=o__True
+11	mots	mot	NC	NC	_	8	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+12	devant	devant	P	P	_	8	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+13	petit	petit	ADJ	ADJ	_	12	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+14	(	(	PONCT	PONCT	_	13	ponct	_	=|189=(__True
+15	e	_	_	NPP	_	13	goeswith	_	=|190=e__True
+16	)	)	PONCT	PONCT	_	15	ponct	_	=|191=)__True
+17	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+18	quand	quand	CS	CS	_	8	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+19	il	il	CLS	CLS	_	23	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+20	on	avoir	V	CLS	_	23	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+21	n	ne	ADV	ADV	_	20	mod	_	=|215=n__True
+22	pas	pas	ADV	ADV	_	20	mod	_	=|217=p__True|218=a__True|219=s__True
+23	gagner	gagner	VPP	VINF	_	18	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|231=.__True
+25	Il	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|g=m|n=s|p=3
+26	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+
+# text_version = 40
+# sent_id = 40_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	un	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	gros	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	_	NPP	_	12	goeswith	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	avoir	V	CLS	_	22	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	ne	ADV	ADV	_	19	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	19	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VPP	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	Il	il	CLS	CLS	_	25	suj	_	=|232=I__True|233=l__True|g=m|n=s|p=3
+25	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+26	seu	_	X	NPP	_	0	unknown	_	=|130=e__False|131=u__False|291=s__False
+
+# text_version = 41
+# sent_id = 41_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	eu	eux	PRO	VPP	_	0	unknown	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+7	il	il	CLS	CLS	_	8	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+8	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+9	des	un	DET	DET	_	11	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+10	gro	gros	ADJ	ADJ	_	11	mod	_	=|157=g__True|158=r__True|159=o__True
+11	mots	mot	NC	NC	_	8	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+12	devant	devant	P	P	_	8	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+13	petit	petit	ADJ	ADJ	_	12	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+14	(	(	PONCT	PONCT	_	13	ponct	_	=|189=(__True
+15	e	_	_	NPP	_	13	goeswith	_	=|190=e__True
+16	)	)	PONCT	PONCT	_	15	ponct	_	=|191=)__True
+17	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+18	quand	quand	CS	CS	_	8	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+19	il	il	CLS	CLS	_	23	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+20	on	avoir	V	CLS	_	23	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+21	n	ne	ADV	ADV	_	20	mod	_	=|215=n__True
+22	pas	pas	ADV	ADV	_	20	mod	_	=|217=p__True|218=a__True|219=s__True
+23	gagner	gagner	VPP	VINF	_	18	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|231=.__True
+25	Il	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|g=m|n=s|p=3
+26	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+
+# text_version = 42
+# sent_id = 42_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	eu	eux	PRO	VPP	_	0	unknown	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+7	il	il	CLS	CLS	_	8	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+8	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+9	des	un	DET	DET	_	11	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+10	gro	gros	ADJ	ADJ	_	11	mod	_	=|157=g__True|158=r__True|159=o__True
+11	mots	mot	NC	NC	_	8	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+12	devant	devant	P	P	_	8	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+13	petit	petit	ADJ	ADJ	_	12	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+14	(	(	PONCT	PONCT	_	13	ponct	_	=|189=(__True
+15	e	_	_	NPP	_	13	goeswith	_	=|190=e__True
+16	)	)	PONCT	PONCT	_	15	ponct	_	=|191=)__True
+17	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+18	quand	quand	CS	CS	_	8	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+19	il	il	CLS	CLS	_	23	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+20	on	avoir	V	CLS	_	23	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+21	n	ne	ADV	ADV	_	20	mod	_	=|215=n__True
+22	pas	pas	ADV	ADV	_	20	mod	_	=|217=p__True|218=a__True|219=s__True
+23	gagner	gagner	VPP	VINF	_	18	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|231=.__True
+25	Il	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|g=m|n=s|p=3
+26	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+27	s	_	_	ADV	_	5	goeswith	_	=|294=s__True
+
+# text_version = 43
+# sent_id = 43_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	eu	eux	PRO	VPP	_	0	unknown	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+7	il	il	CLS	CLS	_	8	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+8	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+9	des	un	DET	DET	_	11	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+10	gro	gros	ADJ	ADJ	_	11	mod	_	=|157=g__True|158=r__True|159=o__True
+11	mots	mot	NC	NC	_	8	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+12	devant	devant	P	P	_	8	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+13	petit	petit	ADJ	ADJ	_	12	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+14	(	(	PONCT	PONCT	_	13	ponct	_	=|189=(__True
+15	e	_	_	NPP	_	13	goeswith	_	=|190=e__True
+16	)	)	PONCT	PONCT	_	15	ponct	_	=|191=)__True
+17	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+18	quand	quand	CS	CS	_	8	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+19	il	il	CLS	CLS	_	23	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+20	on	avoir	V	CLS	_	23	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+21	n	ne	ADV	ADV	_	20	mod	_	=|215=n__True
+22	pas	pas	ADV	ADV	_	20	mod	_	=|217=p__True|218=a__True|219=s__True
+23	gagner	gagner	VPP	VINF	_	18	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|231=.__True
+25	cri	xxxcrier	V	NC	_	0	root	_	=|235=c__True|236=r__True|237=i__True|g=m|n=s
+26	s	_	_	ADV	_	5	goeswith	_	=|294=s__True
+27	Ils	il	CLS	CLS	_	25	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+
+# text_version = 44
+# sent_id = 44_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	eu	eux	PRO	VPP	_	0	unknown	_	=|130=e__False|131=u__False|g=m|n=s|t=K
+7	il	il	CLS	CLS	_	8	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+8	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+9	des	un	DET	DET	_	11	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+10	gro	gros	ADJ	ADJ	_	11	mod	_	=|157=g__True|158=r__True|159=o__True
+11	mots	mot	NC	NC	_	8	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+12	devant	devant	P	P	_	8	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+13	petit	petit	ADJ	ADJ	_	12	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+14	(	(	PONCT	PONCT	_	13	ponct	_	=|189=(__True
+15	e	_	_	NPP	_	13	goeswith	_	=|190=e__True
+16	)	)	PONCT	PONCT	_	15	ponct	_	=|191=)__True
+17	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+18	quand	quand	CS	CS	_	8	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+19	il	il	CLS	CLS	_	23	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+20	on	avoir	V	CLS	_	23	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+21	n	ne	ADV	ADV	_	20	mod	_	=|215=n__True
+22	pas	pas	ADV	ADV	_	20	mod	_	=|217=p__True|218=a__True|219=s__True
+23	gagner	gagner	VPP	VINF	_	18	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|231=.__True
+25	s	_	_	ADV	_	5	goeswith	_	=|294=s__True
+26	Ils	il	CLS	CLS	_	27	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+27	crient	crier	V	V	_	0	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+28	sur	sur	P	P	_	27	p_obj	_	=|301=s__True|302=u__True|303=r__True
+29	les	le	DET	DET	_	31	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+30	autre	autre	ADJ	ADJ	_	31	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+31	perssone	personne	NC	NC	_	28	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+32	.	.	PONCT	PONCT	_	31	ponct	_	=|323=.__False
+
+# text_version = 45
+# sent_id = 45_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	un	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	gros	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	_	NPP	_	12	goeswith	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	avoir	V	CLS	_	22	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	ne	ADV	ADV	_	19	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	19	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VPP	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	_	NPP	_	5	goeswith	_	=|294=s__True
+25	Ils	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	0	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	p_obj	_	=|301=s__True|302=u__True|303=r__True
+28	les	le	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssone	personne	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+31	.	.	PONCT	PONCT	_	30	ponct	_	=|323=.__False
+
+# text_version = 46
+# sent_id = 46_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	un	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	gros	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	_	NPP	_	12	goeswith	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	avoir	V	CLS	_	22	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	ne	ADV	ADV	_	19	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	19	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VPP	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	_	NPP	_	5	goeswith	_	=|294=s__True
+25	Ils	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	0	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	p_obj	_	=|301=s__True|302=u__True|303=r__True
+28	les	le	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssone	personne	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+31	.	.	PONCT	PONCT	_	30	ponct	_	=|323=.__False
+32	quand	quand	CS	CS	_	26	mod	_	=|326=q__True|327=u__True|328=a__True|329=n__True|330=d__True
+
+# text_version = 47
+# sent_id = 47_1
+1	IL	il	CLS	CLS	_	3	suj_impers	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	3	aff	_	=|60=Y__True
+3	A	avoir	V	P	_	0	root	_	=|62=A__True
+4	DES	un	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	xxxgarçon	NC	NPP	_	3	obj	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	un	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	gros	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	_	NPP	_	12	goeswith	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	0	x	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	avoir	V	CLS	_	22	aux_tps	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	ne	ADV	ADV	_	19	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	19	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VPP	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	_	NPP	_	5	goeswith	_	=|294=s__True
+25	Ils	il	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	0	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	p_obj	_	=|301=s__True|302=u__True|303=r__True
+28	les	le	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssone	personne	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+31	.	.	PONCT	PONCT	_	30	ponct	_	=|323=.__False
+
+# text_version = 47
+# sent_id = 47_2
+1	quand	quand	ADVWH	ADVWH	_	0	root	_	=|326=q__True|327=u__True|328=a__True|329=n__True|330=d__True
+
+# text_version = 48
+# sent_id = 48_1
+1	IL	il	CLS	CLS	_	7	suj	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	7	mod	_	=|60=Y__True
+3	A	à	P	P	_	7	mod	_	=|62=A__True
+4	DES	des	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	_	NPP	NPP	_	3	prep	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	des	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	_	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	NPP	NPP	_	7	mod	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	24	ponct	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	on	CLS	CLS	_	22	suj	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	_	ADV	ADV	_	22	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	22	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VINF	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	NPP	NPP	_	5	mod	_	=|294=s__True
+25	Ils	ils	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	17	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	mod	_	=|301=s__True|302=u__True|303=r__True
+28	les	les	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssonequand	_	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True|326=q__True|327=u__True|328=a__True|329=n__True|330=d__True
+
+# text_version = 49
+# sent_id = 49_1
+1	IL	il	CLS	CLS	_	7	suj	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	7	mod	_	=|60=Y__True
+3	A	à	P	P	_	7	mod	_	=|62=A__True
+4	DES	des	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	_	NPP	NPP	_	3	prep	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	des	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	_	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	NPP	NPP	_	7	mod	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	24	ponct	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	on	CLS	CLS	_	22	suj	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	_	ADV	ADV	_	22	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	22	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VINF	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	NPP	NPP	_	5	mod	_	=|294=s__True
+25	Ils	ils	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	17	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	mod	_	=|301=s__True|302=u__True|303=r__True
+28	les	les	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssone	_	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+31	quand	quand	CS	CS	_	26	mod	_	=|326=q__True|327=u__True|328=a__True|329=n__True|330=d__True
+
+# text_version = 50
+# sent_id = 50_1
+1	IL	il	CLS	CLS	_	7	suj	_	=|57=I__True|58=L__True|g=m|n=s|p=3
+2	Y	y	CLO	CLO	_	7	mod	_	=|60=Y__True
+3	A	à	P	P	_	7	mod	_	=|62=A__True
+4	DES	des	DET	DET	_	5	det	_	=|64=D__True|65=E__True|66=S__True|n=p
+5	GARçON	_	NPP	NPP	_	3	prep	_	=|68=G__True|69=A__True|70=R__True|73=ç__True|74=O__True|75=N__True
+6	il	il	CLS	CLS	_	7	suj	_	=|146=i__True|147=l__True|g=m|n=s|p=3
+7	dis	dire	V	V	_	0	root	_	=|149=d__True|150=i__True|151=s__True|n=s|p=1,2|t=J,P
+8	des	des	DET	DET	_	10	det	_	=|153=d__True|154=e__True|155=s__True|n=p
+9	gro	_	ADJ	ADJ	_	10	mod	_	=|157=g__True|158=r__True|159=o__True
+10	mots	mot	NC	NC	_	7	obj	_	=|161=m__True|162=o__True|163=t__True|164=s__True|g=m|n=p
+11	devant	devant	P	P	_	7	mod	_	=|166=d__True|167=e__True|168=v__True|169=a__True|170=n__True|175=t__True
+12	petit	petit	ADJ	ADJ	_	11	prep	_	=|183=p__True|184=e__True|185=t__True|186=i__True|187=t__True|g=m|n=s
+13	(	(	PONCT	PONCT	_	12	ponct	_	=|189=(__True
+14	e	_	NPP	NPP	_	7	mod	_	=|190=e__True
+15	)	)	PONCT	PONCT	_	14	ponct	_	=|191=)__True
+16	.	.	PONCT	PONCT	_	24	ponct	_	=|196=.__True
+17	quand	quand	CS	CS	_	7	mod	_	=|197=q__True|198=u__True|199=a__True|200=n__True|201=d__True
+18	il	il	CLS	CLS	_	22	suj	_	=|203=i__True|204=l__True|g=m|n=s|p=3
+19	on	on	CLS	CLS	_	22	suj	_	=|207=o__True|208=n__True|n=s|p=3
+20	n	_	ADV	ADV	_	22	mod	_	=|215=n__True
+21	pas	pas	ADV	ADV	_	22	mod	_	=|217=p__True|218=a__True|219=s__True
+22	gagner	gagner	VINF	VINF	_	17	sub	_	=|225=g__True|226=a__True|227=g__True|228=n__True|229=e__True|230=r__True|t=W
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|231=.__True
+24	s	_	NPP	NPP	_	5	mod	_	=|294=s__True
+25	Ils	ils	CLS	CLS	_	26	suj	_	=|232=I__True|233=l__True|296=s__True|g=m|n=p|p=3
+26	crient	crier	V	V	_	17	root	_	=|235=c__True|236=r__True|237=i__True|297=e__True|298=n__True|299=t__True|n=p|p=3|t=P,S
+27	sur	sur	P	P	_	26	mod	_	=|301=s__True|302=u__True|303=r__True
+28	les	les	DET	DET	_	30	det	_	=|305=l__True|306=e__True|307=s__True|n=p
+29	autre	autre	ADJ	ADJ	_	30	mod	_	=|309=a__True|310=u__True|311=t__True|312=r__True|313=e__True|n=s
+30	perssone	_	NC	NC	_	27	prep	_	=|315=p__True|316=e__True|317=r__True|318=s__True|319=s__True|320=o__True|321=n__True|322=e__True
+31	quand	quand	CS	CS	_	26	mod	_	=|326=q__True|327=u__True|328=a__True|329=n__True|330=d__True
+32	il	il	CLS	CLS	_	33	suj	_	=|336=i__True|337=l__True|g=m|n=s|p=3
+33	sont	être	V	V	_	31	sub	_	=|339=s__True|340=o__True|341=n__True|342=t__True|n=p|p=3|t=P
+34	le	le	DET	DET	_	35	det	_	=|344=l__True|345=e__True|g=m|n=s
+35	ballon	ballon	NC	NC	_	33	obj	_	=|347=b__True|348=a__True|349=l__True|350=l__True|351=o__True|352=n__True|g=m|n=s
+36	.	.	PONCT	PONCT	_	35	ponct	_	=|353=.__True
+

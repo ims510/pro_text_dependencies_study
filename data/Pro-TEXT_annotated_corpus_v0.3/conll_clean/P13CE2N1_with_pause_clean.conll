@@ -1,0 +1,611 @@
+# text_version=0
+# sentence_id=1
+# text = j
+1	j	j	NOUN	_	None	0	root	_	charID=1__char=j__charStatus=False__pause=na
+
+# text_version=1
+# sentence_id=1
+# text = j
+1	j	j	NOUN	_	None	0	root	_	charID=1__char=j__charStatus=False__pause=na
+
+# text_version=2
+# sentence_id=1
+# text = j
+1	j	j	NOUN	_	None	0	root	_	charID=1__char=j__charStatus=False__pause=na
+
+# text_version=4
+# sentence_id=1
+# text = Je hhhhhhh
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+2	hhhhhhh	hhhhhhh	INTJ	_	None	0	root	_	charID=99__char=h__charStatus=False__pause=4851|charID=100__char=h__charStatus=False__pause=531|charID=101__char=h__charStatus=False__pause=109|charID=102__char=h__charStatus=False__pause=31|charID=103__char=h__charStatus=False__pause=78|charID=104__char=h__charStatus=False__pause=46|charID=105__char=h__charStatus=False__pause=94
+
+# text_version=5
+# sentence_id=1
+# text = Je
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+
+# text_version=6
+# sentence_id=1
+# text = Je aa
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+2	aa	aller	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=176__char=a__charStatus=False__pause=6162|charID=177__char=a__charStatus=False__pause=47
+
+# text_version=7
+# sentence_id=1
+# text = Je
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+
+# text_version=8
+# sentence_id=1
+# text = Je joux à le foot
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+2	joux	joutrer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=182__char=j__charStatus=False__pause=9719|charID=183__char=o__charStatus=False__pause=2308|charID=184__char=u__charStatus=False__pause=452|charID=185__char=x__charStatus=False__pause=1311
+3	au	à+le	ADP	_	None	2	case	_	charID=187__char=a__charStatus=False__pause=7581|charID=188__char=u__charStatus=False__pause=2075
+4	foot	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	charID=190__char=f__charStatus=False__pause=4883|charID=191__char=o__charStatus=False__pause=1326|charID=192__char=o__charStatus=False__pause=156|charID=193__char=t__charStatus=False__pause=6989
+
+# text_version=9
+# sentence_id=1
+# text = Je joux à le foot
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+2	joux	joutrer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=182__char=j__charStatus=False__pause=9719|charID=183__char=o__charStatus=False__pause=2308|charID=184__char=u__charStatus=False__pause=452|charID=185__char=x__charStatus=False__pause=1311
+3	au	à+le	ADP	_	None	2	case	_	charID=187__char=a__charStatus=False__pause=7581|charID=188__char=u__charStatus=False__pause=2075
+4	foot	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	charID=190__char=f__charStatus=False__pause=4883|charID=191__char=o__charStatus=False__pause=1326|charID=192__char=o__charStatus=False__pause=156|charID=193__char=t__charStatus=False__pause=6989
+
+# text_version=10
+# sentence_id=1
+# text = Je joux à le foot
+1	Je	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	nsubj	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+2	joux	joutrer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=182__char=j__charStatus=False__pause=9719|charID=183__char=o__charStatus=False__pause=2308|charID=184__char=u__charStatus=False__pause=452|charID=185__char=x__charStatus=False__pause=1311
+3	au	à+le	ADP	_	None	2	case	_	charID=187__char=a__charStatus=False__pause=7581|charID=188__char=u__charStatus=False__pause=2075
+4	foot	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	2	det	_	charID=190__char=f__charStatus=False__pause=4883|charID=191__char=o__charStatus=False__pause=1326|charID=192__char=o__charStatus=False__pause=156|charID=193__char=t__charStatus=False__pause=6989
+
+# text_version=11
+# sentence_id=1
+# text = Je
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+
+# text_version=12
+# sentence_id=1
+# text = Je
+1	Je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	0	root	_	charID=35__char=J__charStatus=False__pause=25787|charID=36__char=e__charStatus=False__pause=15210
+
+# text_version=14
+# sentence_id=1
+# text = IL 2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222
+1	IL	IL	NOUN	_	None	0	root	_	charID=217__char=I__charStatus=False__pause=22433|charID=218__char=L__charStatus=False__pause=21715
+2	2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222	2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222	NUM	_	NumType=Card	1	nmod	_	charID=220__char=2__charStatus=False__pause=41777|charID=221__char=2__charStatus=False__pause=390|charID=222__char=2__charStatus=False__pause=436|charID=223__char=2__charStatus=False__pause=78|charID=224__char=2__charStatus=False__pause=515|charID=225__char=2__charStatus=False__pause=31|charID=226__char=2__charStatus=False__pause=47|charID=227__char=2__charStatus=False__pause=31|charID=228__char=2__charStatus=False__pause=47|charID=229__char=2__charStatus=False__pause=47|charID=230__char=2__charStatus=False__pause=31|charID=231__char=2__charStatus=False__pause=47|charID=232__char=2__charStatus=False__pause=31|charID=233__char=2__charStatus=False__pause=47|charID=234__char=2__charStatus=False__pause=46|charID=235__char=2__charStatus=False__pause=32|charID=236__char=2__charStatus=False__pause=46|charID=237__char=2__charStatus=False__pause=47|charID=238__char=2__charStatus=False__pause=31|charID=239__char=2__charStatus=False__pause=47|charID=240__char=2__charStatus=False__pause=31|charID=241__char=2__charStatus=False__pause=47|charID=242__char=2__charStatus=False__pause=47|charID=243__char=2__charStatus=False__pause=31|charID=244__char=2__charStatus=False__pause=47|charID=245__char=2__charStatus=False__pause=31|charID=246__char=2__charStatus=False__pause=47|charID=247__char=2__charStatus=False__pause=47|charID=248__char=2__charStatus=False__pause=31|charID=249__char=2__charStatus=False__pause=47|charID=250__char=2__charStatus=False__pause=31|charID=251__char=2__charStatus=False__pause=47|charID=252__char=2__charStatus=False__pause=47|charID=253__char=2__charStatus=False__pause=31|charID=254__char=2__charStatus=False__pause=47|charID=255__char=2__charStatus=False__pause=46|charID=256__char=2__charStatus=False__pause=32|charID=257__char=2__charStatus=False__pause=46|charID=258__char=2__charStatus=False__pause=905|charID=259__char=2__charStatus=False__pause=375|charID=260__char=2__charStatus=False__pause=109|charID=261__char=2__charStatus=False__pause=63|charID=262__char=2__charStatus=False__pause=109|charID=263__char=2__charStatus=False__pause=125|charID=264__char=2__charStatus=False__pause=109|charID=265__char=2__charStatus=False__pause=125|charID=266__char=2__charStatus=False__pause=109|charID=267__char=2__charStatus=False__pause=110|charID=268__char=2__charStatus=False__pause=78|charID=269__char=2__charStatus=False__pause=515|charID=270__char=2__charStatus=False__pause=31|charID=271__char=2__charStatus=False__pause=47|charID=272__char=2__charStatus=False__pause=31|charID=273__char=2__charStatus=False__pause=47|charID=274__char=2__charStatus=False__pause=47|charID=275__char=2__charStatus=False__pause=31|charID=276__char=2__charStatus=False__pause=47|charID=277__char=2__charStatus=False__pause=31|charID=278__char=2__charStatus=False__pause=47|charID=279__char=2__charStatus=False__pause=47|charID=280__char=2__charStatus=False__pause=31|charID=281__char=2__charStatus=False__pause=47|charID=282__char=2__charStatus=False__pause=31|charID=283__char=2__charStatus=False__pause=47|charID=284__char=2__charStatus=False__pause=46|charID=285__char=2__charStatus=False__pause=32|charID=286__char=2__charStatus=False__pause=46|charID=287__char=2__charStatus=False__pause=32|charID=288__char=2__charStatus=False__pause=46|charID=289__char=2__charStatus=False__pause=47|charID=290__char=2__charStatus=False__pause=31|charID=291__char=2__charStatus=False__pause=47|charID=292__char=2__charStatus=False__pause=47|charID=293__char=2__charStatus=False__pause=31|charID=294__char=2__charStatus=False__pause=47|charID=295__char=2__charStatus=False__pause=31|charID=296__char=2__charStatus=False__pause=47|charID=297__char=2__charStatus=False__pause=47|charID=298__char=2__charStatus=False__pause=31|charID=299__char=2__charStatus=False__pause=47|charID=300__char=2__charStatus=False__pause=31|charID=301__char=2__charStatus=False__pause=47|charID=302__char=2__charStatus=False__pause=47|charID=303__char=2__charStatus=False__pause=31|charID=304__char=2__charStatus=False__pause=47|charID=305__char=2__charStatus=False__pause=31|charID=306__char=2__charStatus=False__pause=47|charID=307__char=2__charStatus=False__pause=46|charID=308__char=2__charStatus=False__pause=32|charID=309__char=2__charStatus=False__pause=46|charID=310__char=2__charStatus=False__pause=47|charID=311__char=2__charStatus=False__pause=31|charID=312__char=2__charStatus=False__pause=47|charID=313__char=2__charStatus=False__pause=31|charID=314__char=2__charStatus=False__pause=47|charID=315__char=2__charStatus=False__pause=47|charID=316__char=2__charStatus=False__pause=31|charID=317__char=2__charStatus=False__pause=47|charID=318__char=2__charStatus=False__pause=31|charID=319__char=2__charStatus=False__pause=47|charID=320__char=2__charStatus=False__pause=47|charID=321__char=2__charStatus=False__pause=31|charID=322__char=2__charStatus=False__pause=47|charID=323__char=2__charStatus=False__pause=31|charID=324__char=2__charStatus=False__pause=47|charID=325__char=2__charStatus=False__pause=47|charID=326__char=2__charStatus=False__pause=31|charID=327__char=2__charStatus=False__pause=47|charID=328__char=2__charStatus=False__pause=31|charID=329__char=2__charStatus=False__pause=47|charID=330__char=2__charStatus=False__pause=46|charID=331__char=2__charStatus=False__pause=32|charID=332__char=2__charStatus=False__pause=46|charID=333__char=2__charStatus=False__pause=47|charID=334__char=2__charStatus=False__pause=31|charID=335__char=2__charStatus=False__pause=47|charID=336__char=2__charStatus=False__pause=31|charID=337__char=2__charStatus=False__pause=47|charID=338__char=2__charStatus=False__pause=47|charID=339__char=2__charStatus=False__pause=31|charID=340__char=2__charStatus=False__pause=47|charID=341__char=2__charStatus=False__pause=31|charID=342__char=2__charStatus=False__pause=47|charID=343__char=2__charStatus=False__pause=47|charID=344__char=2__charStatus=False__pause=31|charID=345__char=2__charStatus=False__pause=47|charID=346__char=2__charStatus=False__pause=47|charID=347__char=2__charStatus=False__pause=31|charID=348__char=2__charStatus=False__pause=47|charID=349__char=2__charStatus=False__pause=31|charID=350__char=2__charStatus=False__pause=47|charID=351__char=2__charStatus=False__pause=46|charID=352__char=2__charStatus=False__pause=32|charID=353__char=2__charStatus=False__pause=46|charID=354__char=2__charStatus=False__pause=32|charID=355__char=2__charStatus=False__pause=46|charID=356__char=2__charStatus=False__pause=47|charID=357__char=2__charStatus=False__pause=31|charID=358__char=2__charStatus=False__pause=47|charID=359__char=2__charStatus=False__pause=47|charID=360__char=2__charStatus=False__pause=31|charID=361__char=2__charStatus=False__pause=47|charID=362__char=2__charStatus=False__pause=31|charID=363__char=2__charStatus=False__pause=47|charID=364__char=2__charStatus=False__pause=47|charID=365__char=2__charStatus=False__pause=31|charID=366__char=2__charStatus=False__pause=47|charID=367__char=2__charStatus=False__pause=31|charID=368__char=2__charStatus=False__pause=47|charID=369__char=2__charStatus=False__pause=47|charID=370__char=2__charStatus=False__pause=31|charID=371__char=2__charStatus=False__pause=47|charID=372__char=2__charStatus=False__pause=31|charID=373__char=2__charStatus=False__pause=47|charID=374__char=2__charStatus=False__pause=46|charID=375__char=2__charStatus=False__pause=32|charID=376__char=2__charStatus=False__pause=46|charID=377__char=2__charStatus=False__pause=32|charID=378__char=2__charStatus=False__pause=46|charID=379__char=2__charStatus=False__pause=47|charID=380__char=2__charStatus=False__pause=31|charID=381__char=2__charStatus=False__pause=47|charID=382__char=2__charStatus=False__pause=47|charID=383__char=2__charStatus=False__pause=31|charID=384__char=2__charStatus=False__pause=47|charID=385__char=2__charStatus=False__pause=31|charID=386__char=2__charStatus=False__pause=47|charID=387__char=2__charStatus=False__pause=47|charID=388__char=2__charStatus=False__pause=31|charID=389__char=2__charStatus=False__pause=47|charID=390__char=2__charStatus=False__pause=31|charID=391__char=2__charStatus=False__pause=47|charID=392__char=2__charStatus=False__pause=47|charID=393__char=2__charStatus=False__pause=31|charID=394__char=2__charStatus=False__pause=47|charID=395__char=2__charStatus=False__pause=31|charID=396__char=2__charStatus=False__pause=47|charID=397__char=2__charStatus=False__pause=46|charID=398__char=2__charStatus=False__pause=32|charID=399__char=2__charStatus=False__pause=46|charID=400__char=2__charStatus=False__pause=32|charID=401__char=2__charStatus=False__pause=46|charID=402__char=2__charStatus=False__pause=47|charID=403__char=2__charStatus=False__pause=31|charID=404__char=2__charStatus=False__pause=47|charID=405__char=2__charStatus=False__pause=47|charID=406__char=2__charStatus=False__pause=31|charID=407__char=2__charStatus=False__pause=47|charID=408__char=2__charStatus=False__pause=31|charID=409__char=2__charStatus=False__pause=47|charID=410__char=2__charStatus=False__pause=47|charID=411__char=2__charStatus=False__pause=31|charID=412__char=2__charStatus=False__pause=47|charID=413__char=2__charStatus=False__pause=31|charID=414__char=2__charStatus=False__pause=47|charID=415__char=2__charStatus=False__pause=47|charID=416__char=2__charStatus=False__pause=31|charID=417__char=2__charStatus=False__pause=47|charID=418__char=2__charStatus=False__pause=46|charID=419__char=2__charStatus=False__pause=32|charID=420__char=2__charStatus=False__pause=46|charID=421__char=2__charStatus=False__pause=32|charID=422__char=2__charStatus=False__pause=46|charID=423__char=2__charStatus=False__pause=47|charID=424__char=2__charStatus=False__pause=31|charID=425__char=2__charStatus=False__pause=47|charID=426__char=2__charStatus=False__pause=31|charID=427__char=2__charStatus=False__pause=47|charID=428__char=2__charStatus=False__pause=47|charID=429__char=2__charStatus=False__pause=31|charID=430__char=2__charStatus=False__pause=47|charID=431__char=2__charStatus=False__pause=31|charID=432__char=2__charStatus=False__pause=47|charID=433__char=2__charStatus=False__pause=47|charID=434__char=2__charStatus=False__pause=31|charID=435__char=2__charStatus=False__pause=47|charID=436__char=2__charStatus=False__pause=47|charID=437__char=2__charStatus=False__pause=31|charID=438__char=2__charStatus=False__pause=47|charID=439__char=2__charStatus=False__pause=31|charID=440__char=2__charStatus=False__pause=47|charID=441__char=2__charStatus=False__pause=46|charID=442__char=2__charStatus=False__pause=32|charID=443__char=2__charStatus=False__pause=46|charID=444__char=2__charStatus=False__pause=32|charID=445__char=2__charStatus=False__pause=46|charID=446__char=2__charStatus=False__pause=47|charID=447__char=2__charStatus=False__pause=31|charID=448__char=2__charStatus=False__pause=47|charID=449__char=2__charStatus=False__pause=31|charID=450__char=2__charStatus=False__pause=47|charID=451__char=2__charStatus=False__pause=47|charID=452__char=2__charStatus=False__pause=31|charID=453__char=2__charStatus=False__pause=47|charID=454__char=2__charStatus=False__pause=31|charID=455__char=2__charStatus=False__pause=47|charID=456__char=2__charStatus=False__pause=47|charID=457__char=2__charStatus=False__pause=31
+
+# text_version=16
+# sentence_id=1
+# text = IL é
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	é	"	PUNCT	_	None	1	punct	_	charID=702__char=é__charStatus=True__pause=10952
+
+# text_version=17
+# sentence_id=1
+# text = IL é
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	é	"	PUNCT	_	None	1	punct	_	charID=702__char=é__charStatus=True__pause=10952
+
+# text_version=18
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LIN
+1	IL	IL	PROPN	_	None	2	nsubj	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LIN	LIN	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=722__char=I__charStatus=False__pause=266|charID=723__char=N__charStatus=False__pause=1388
+
+# text_version=19
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN L
+1	IL	IL	PROPN	_	None	2	nsubj	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	L	litre	NOUN	_	None	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432
+
+# text_version=20
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX O
+1	IL	IL	PROPN	_	None	2	nsubj	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	O	O	ADJ	_	None	8	amod	_	charID=740__char=O__charStatus=False__pause=1419
+
+# text_version=21
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX
+1	IL	IL	PROPN	_	None	2	nsubj	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	être	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+
+# text_version=22
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVVE
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVVE	savoir	ADV	_	None	1	advmod	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=761__char=V__charStatus=False__pause=109|charID=762__char=E__charStatus=False__pause=265
+
+# text_version=23
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAV
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAV	savoir	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083
+
+# text_version=24
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DEN
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DEN	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=791__char=E__charStatus=False__pause=1061|charID=792__char=N__charStatus=False__pause=1201
+
+# text_version=25
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST D
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	D	_	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900
+
+# text_version=26
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DAND
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DAND	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=797__char=D__charStatus=False__pause=3307
+
+# text_version=27
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DAN
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	PRON	_	PronType=Rel	8	nmod	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DAN	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858
+
+# text_version=28
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NE COLE
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NE	école	ADP	_	None	1	case	_	charID=805__char=N__charStatus=False__pause=4711|charID=806__char=E__charStatus=False__pause=312
+22	COLE	_	DET	_	Number=Sing|Poss=Yes|PronType=Prs	1	det	_	charID=808__char=C__charStatus=False__pause=9392|charID=809__char=O__charStatus=False__pause=1201|charID=810__char=L__charStatus=False__pause=17379|charID=811__char=E__charStatus=False__pause=1014
+
+# text_version=29
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+
+# text_version=30
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL A
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	école	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	il	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	A	à	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=829__char=A__charStatus=False__pause=3151
+
+# text_version=31
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	1	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	1	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+
+# text_version=32
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL à
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	éTAI	PROPN	_	None	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	école	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	il	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	à	à	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=831__char=à__charStatus=False__pause=3058
+
+# text_version=33
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	1	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	1	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+
+# text_version=34
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL avec de la violense ; ;
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	éTAI	PROPN	_	None	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à+le	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	et	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	savoir	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	jouer	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à+le	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	basket	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	et	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	école	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	il	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	avec	avoir	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=833__char=a__charStatus=True__pause=2621|charID=834__char=v__charStatus=True__pause=2106|charID=835__char=e__charStatus=True__pause=265|charID=836__char=c__charStatus=True__pause=5522
+24	de	de+le	PROPN	_	None	23	appos	_	charID=838__char=d__charStatus=True__pause=1794|charID=839__char=e__charStatus=True__pause=156
+25	la	_	ADP	_	None	28	case	_	charID=841__char=l__charStatus=True__pause=2043|charID=842__char=a__charStatus=True__pause=780
+26	violense	violence	ADP	_	None	28	det	_	charID=844__char=v__charStatus=True__pause=1826|charID=845__char=i__charStatus=True__pause=749|charID=846__char=o__charStatus=True__pause=3244|charID=847__char=l__charStatus=True__pause=2698|charID=848__char=e__charStatus=True__pause=7114|charID=849__char=n__charStatus=True__pause=1623|charID=850__char=s__charStatus=True__pause=9001|charID=851__char=e__charStatus=True__pause=265
+27	;	;	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	fixed	_	charID=852__char=;__charStatus=False__pause=19718
+28	;	;	NOUN	_	Gender=Fem|Number=Sing	20	obl:mod	_	charID=853__char=;__charStatus=False__pause=3760
+
+# text_version=35
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL avec de la violense
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	avec	avec	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=833__char=a__charStatus=True__pause=2621|charID=834__char=v__charStatus=True__pause=2106|charID=835__char=e__charStatus=True__pause=265|charID=836__char=c__charStatus=True__pause=5522
+24	de	de	PROPN	_	None	23	appos	_	charID=838__char=d__charStatus=True__pause=1794|charID=839__char=e__charStatus=True__pause=156
+25	la	la	ADP	_	None	1	case	_	charID=841__char=l__charStatus=True__pause=2043|charID=842__char=a__charStatus=True__pause=780
+26	violense	_	ADP	_	None	1	det	_	charID=844__char=v__charStatus=True__pause=1826|charID=845__char=i__charStatus=True__pause=749|charID=846__char=o__charStatus=True__pause=3244|charID=847__char=l__charStatus=True__pause=2698|charID=848__char=e__charStatus=True__pause=7114|charID=849__char=n__charStatus=True__pause=1623|charID=850__char=s__charStatus=True__pause=9001|charID=851__char=e__charStatus=True__pause=265
+
+# text_version=36
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL avec de la violense ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) )
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	éTAI	PROPN	_	None	1	appos	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	PRON	_	PronType=Rel	8	nmod	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	appos	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	2	parataxis	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	avec	avec	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=833__char=a__charStatus=True__pause=2621|charID=834__char=v__charStatus=True__pause=2106|charID=835__char=e__charStatus=True__pause=265|charID=836__char=c__charStatus=True__pause=5522
+24	de	de	X	_	None	23	appos	_	charID=838__char=d__charStatus=True__pause=1794|charID=839__char=e__charStatus=True__pause=156
+25	la	la	ADP	_	None	28	case	_	charID=841__char=l__charStatus=True__pause=2043|charID=842__char=a__charStatus=True__pause=780
+26	violense	_	ADP	_	None	28	det	_	charID=844__char=v__charStatus=True__pause=1826|charID=845__char=i__charStatus=True__pause=749|charID=846__char=o__charStatus=True__pause=3244|charID=847__char=l__charStatus=True__pause=2698|charID=848__char=e__charStatus=True__pause=7114|charID=849__char=n__charStatus=True__pause=1623|charID=850__char=s__charStatus=True__pause=9001|charID=851__char=e__charStatus=True__pause=265
+27	)	)	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	fixed	_	charID=856__char=)__charStatus=False__pause=6615
+28	)	)	NOUN	_	Gender=Fem|Number=Sing	24	nmod	_	charID=857__char=)__charStatus=False__pause=2449
+29	)	)	PUNCT	_	None	14	punct	_	charID=858__char=)__charStatus=False__pause=343
+30	)	)	PUNCT	_	None	2	punct	_	charID=859__char=)__charStatus=False__pause=172
+31	)	)	PUNCT	_	None	2	punct	_	charID=860__char=)__charStatus=False__pause=327
+32	)	)	PUNCT	_	None	2	punct	_	charID=861__char=)__charStatus=False__pause=515
+33	)	)	PUNCT	_	None	2	punct	_	charID=862__char=)__charStatus=False__pause=31
+34	)	)	PUNCT	_	None	2	punct	_	charID=863__char=)__charStatus=False__pause=47
+35	)	)	PUNCT	_	None	2	punct	_	charID=864__char=)__charStatus=False__pause=31
+36	)	)	PUNCT	_	None	2	punct	_	charID=865__char=)__charStatus=False__pause=47
+37	)	)	PUNCT	_	None	2	punct	_	charID=866__char=)__charStatus=False__pause=47
+38	)	)	PUNCT	_	None	2	punct	_	charID=867__char=)__charStatus=False__pause=31
+39	)	)	PUNCT	_	None	2	punct	_	charID=868__char=)__charStatus=False__pause=47
+40	)	)	PUNCT	_	None	2	punct	_	charID=869__char=)__charStatus=False__pause=31
+41	)	)	PUNCT	_	None	2	punct	_	charID=870__char=)__charStatus=False__pause=47
+42	)	)	PUNCT	_	None	2	punct	_	charID=871__char=)__charStatus=False__pause=47
+43	)	)	PUNCT	_	None	2	punct	_	charID=872__char=)__charStatus=False__pause=31
+44	)	)	PUNCT	_	None	2	punct	_	charID=873__char=)__charStatus=False__pause=47
+45	)	)	PUNCT	_	None	2	punct	_	charID=874__char=)__charStatus=False__pause=47
+46	)	)	PUNCT	_	None	2	punct	_	charID=875__char=)__charStatus=False__pause=31
+47	)	)	PUNCT	_	None	2	punct	_	charID=876__char=)__charStatus=False__pause=47
+48	)	)	PUNCT	_	None	2	punct	_	charID=877__char=)__charStatus=False__pause=31
+49	)	)	PUNCT	_	None	2	punct	_	charID=878__char=)__charStatus=False__pause=47
+50	)	)	PUNCT	_	None	2	punct	_	charID=879__char=)__charStatus=False__pause=46
+51	)	)	PUNCT	_	None	2	punct	_	charID=880__char=)__charStatus=False__pause=32
+52	)	)	PUNCT	_	None	2	punct	_	charID=881__char=)__charStatus=False__pause=46
+53	)	)	PUNCT	_	None	2	punct	_	charID=882__char=)__charStatus=False__pause=32
+54	)	)	PUNCT	_	None	2	punct	_	charID=883__char=)__charStatus=False__pause=46
+55	)	)	PUNCT	_	None	2	punct	_	charID=884__char=)__charStatus=False__pause=47
+56	)	)	PUNCT	_	None	2	punct	_	charID=885__char=)__charStatus=False__pause=31
+57	)	)	PUNCT	_	None	2	punct	_	charID=886__char=)__charStatus=False__pause=47
+58	)	)	PUNCT	_	None	2	punct	_	charID=887__char=)__charStatus=False__pause=47
+59	)	)	PUNCT	_	None	2	punct	_	charID=888__char=)__charStatus=False__pause=31
+60	)	)	PUNCT	_	None	2	punct	_	charID=889__char=)__charStatus=False__pause=47
+61	)	)	PUNCT	_	None	2	punct	_	charID=890__char=)__charStatus=False__pause=31
+62	)	)	PUNCT	_	None	2	punct	_	charID=891__char=)__charStatus=False__pause=47
+63	)	)	PUNCT	_	None	2	punct	_	charID=892__char=)__charStatus=False__pause=47
+64	)	)	PUNCT	_	None	2	punct	_	charID=893__char=)__charStatus=False__pause=31
+65	)	)	PUNCT	_	None	2	punct	_	charID=894__char=)__charStatus=False__pause=47
+66	)	)	PUNCT	_	None	2	punct	_	charID=895__char=)__charStatus=False__pause=31
+67	)	)	PUNCT	_	None	2	punct	_	charID=896__char=)__charStatus=False__pause=47
+68	)	)	PUNCT	_	None	2	punct	_	charID=897__char=)__charStatus=False__pause=47
+69	)	)	PUNCT	_	None	2	punct	_	charID=898__char=)__charStatus=False__pause=31
+
+# text_version=37
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL avec de la violense
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	étai	NOUN	_	Gender=Masc|Number=Sing	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	1	nmod	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	SCONJ	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	1	appos	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	avec	avec	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=833__char=a__charStatus=True__pause=2621|charID=834__char=v__charStatus=True__pause=2106|charID=835__char=e__charStatus=True__pause=265|charID=836__char=c__charStatus=True__pause=5522
+24	de	de	PROPN	_	None	23	appos	_	charID=838__char=d__charStatus=True__pause=1794|charID=839__char=e__charStatus=True__pause=156
+25	la	la	ADP	_	None	1	case	_	charID=841__char=l__charStatus=True__pause=2043|charID=842__char=a__charStatus=True__pause=780
+26	violense	_	ADP	_	None	1	det	_	charID=844__char=v__charStatus=True__pause=1826|charID=845__char=i__charStatus=True__pause=749|charID=846__char=o__charStatus=True__pause=3244|charID=847__char=l__charStatus=True__pause=2698|charID=848__char=e__charStatus=True__pause=7114|charID=849__char=n__charStatus=True__pause=1623|charID=850__char=s__charStatus=True__pause=9001|charID=851__char=e__charStatus=True__pause=265
+
+# text_version=38
+# sentence_id=1
+# text = IL éTAI UNE FOIS UN LAPIN QUI JOUX À Le FOOT EST QUI SAVE PAS JOUX À Le BASCKE EST DANS SON NéCOLE IL avec de la violense .
+1	IL	IL	PROPN	_	None	0	root	_	charID=699__char=I__charStatus=True__pause=3120|charID=700__char=L__charStatus=True__pause=359
+2	éTAI	éTAI	PROPN	_	None	1	nmod	_	charID=702__char=é__charStatus=True__pause=10952|charID=705__char=T__charStatus=True__pause=10545|charID=706__char=A__charStatus=True__pause=1201|charID=707__char=I__charStatus=True__pause=920
+3	UNE	un	DET	_	Definite=Ind|Gender=Fem|Number=Sing|PronType=Art	4	det	_	charID=709__char=U__charStatus=True__pause=2855|charID=710__char=N__charStatus=True__pause=4805|charID=711__char=E__charStatus=True__pause=1934
+4	FOIS	FOIS	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=713__char=F__charStatus=True__pause=5180|charID=714__char=O__charStatus=True__pause=1482|charID=715__char=I__charStatus=True__pause=250|charID=716__char=S__charStatus=True__pause=3338
+5	UN	un	ADP	_	None	6	case	_	charID=718__char=U__charStatus=True__pause=4805|charID=719__char=N__charStatus=True__pause=265
+6	LAPIN	lapin	NOUN	_	Gender=Masc|Number=Sing	4	nmod	_	charID=721__char=L__charStatus=True__pause=3432|charID=726__char=A__charStatus=True__pause=1560|charID=727__char=P__charStatus=True__pause=8097|charID=728__char=I__charStatus=True__pause=2636|charID=729__char=N__charStatus=True__pause=733
+7	QUI	qui	ADP	_	None	8	case	_	charID=731__char=Q__charStatus=True__pause=15756|charID=732__char=U__charStatus=True__pause=1279|charID=733__char=I__charStatus=True__pause=281
+8	JOUX	joux	NOUN	_	Gender=Masc|Number=Sing	6	nmod	_	charID=735__char=J__charStatus=True__pause=2230|charID=736__char=O__charStatus=True__pause=436|charID=737__char=U__charStatus=True__pause=312|charID=738__char=X__charStatus=True__pause=982
+9	AU	à	ADP	_	None	11	case	_	charID=742__char=A__charStatus=True__pause=1232|charID=743__char=U__charStatus=True__pause=796
+10	FOOT	foot	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	11	det	_	charID=745__char=F__charStatus=True__pause=1248|charID=746__char=O__charStatus=True__pause=1123|charID=747__char=O__charStatus=True__pause=188|charID=748__char=T__charStatus=True__pause=7161
+11	EST	être	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=750__char=E__charStatus=True__pause=2465|charID=751__char=S__charStatus=True__pause=2137|charID=752__char=T__charStatus=True__pause=1077
+12	QUI	qui	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=754__char=Q__charStatus=True__pause=1357|charID=755__char=U__charStatus=True__pause=920|charID=756__char=I__charStatus=True__pause=218
+13	SAVE	_	DET	_	Number=Sing	14	det	_	charID=758__char=S__charStatus=True__pause=3526|charID=759__char=A__charStatus=True__pause=249|charID=760__char=V__charStatus=True__pause=16083|charID=765__char=E__charStatus=True__pause=1513
+14	PAS	pas	NOUN	_	Gender=Masc|Number=Sing	2	conj	_	charID=767__char=P__charStatus=True__pause=17285|charID=768__char=A__charStatus=True__pause=639|charID=769__char=S__charStatus=True__pause=1950
+15	JOUX	Joux	ADP	_	None	16	case	_	charID=771__char=J__charStatus=True__pause=5257|charID=772__char=O__charStatus=True__pause=249|charID=773__char=U__charStatus=True__pause=203|charID=774__char=X__charStatus=True__pause=951
+16	AU	à	NOUN	_	Gender=Masc|Number=Sing	14	nmod	_	charID=776__char=A__charStatus=True__pause=3713|charID=777__char=U__charStatus=True__pause=1482
+17	BASCKE	_	ADP	_	None	19	case	_	charID=779__char=B__charStatus=True__pause=35069|charID=780__char=A__charStatus=True__pause=437|charID=781__char=S__charStatus=True__pause=499|charID=782__char=C__charStatus=True__pause=6428|charID=783__char=K__charStatus=True__pause=1903|charID=784__char=E__charStatus=True__pause=4992
+18	EST	être	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	19	det	_	charID=786__char=E__charStatus=True__pause=7816|charID=787__char=S__charStatus=True__pause=1544|charID=788__char=T__charStatus=True__pause=421
+19	DANS	dans	NOUN	_	Gender=Masc|Number=Sing	16	nmod	_	charID=790__char=D__charStatus=True__pause=3900|charID=795__char=A__charStatus=True__pause=889|charID=796__char=N__charStatus=True__pause=858|charID=799__char=S__charStatus=True__pause=1077
+20	SON	son	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	charID=801__char=S__charStatus=True__pause=19032|charID=802__char=O__charStatus=True__pause=1248|charID=803__char=N__charStatus=True__pause=1747
+21	NéCOLE	_	ADP	_	None	23	case	_	charID=819__char=N__charStatus=True__pause=22683|charID=820__char=é__charStatus=True__pause=4134|charID=821__char=C__charStatus=True__pause=28423|charID=822__char=O__charStatus=True__pause=1887|charID=823__char=L__charStatus=True__pause=1076|charID=824__char=E__charStatus=True__pause=734
+22	IL	_	DET	_	Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	23	det	_	charID=826__char=I__charStatus=True__pause=7098|charID=827__char=L__charStatus=True__pause=312
+23	avec	avec	NOUN	_	Gender=Masc|Number=Sing	20	obl:arg	_	charID=833__char=a__charStatus=True__pause=2621|charID=834__char=v__charStatus=True__pause=2106|charID=835__char=e__charStatus=True__pause=265|charID=836__char=c__charStatus=True__pause=5522
+24	de	de	PROPN	_	None	23	appos	_	charID=838__char=d__charStatus=True__pause=1794|charID=839__char=e__charStatus=True__pause=156
+25	la	la	ADP	_	None	1	case	_	charID=841__char=l__charStatus=True__pause=2043|charID=842__char=a__charStatus=True__pause=780
+26	violense	_	ADP	_	None	1	det	_	charID=844__char=v__charStatus=True__pause=1826|charID=845__char=i__charStatus=True__pause=749|charID=846__char=o__charStatus=True__pause=3244|charID=847__char=l__charStatus=True__pause=2698|charID=848__char=e__charStatus=True__pause=7114|charID=849__char=n__charStatus=True__pause=1623|charID=850__char=s__charStatus=True__pause=9001|charID=851__char=e__charStatus=True__pause=265
+27	.	.	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	26	fixed	_	charID=942__char=.__charStatus=True__pause=9438

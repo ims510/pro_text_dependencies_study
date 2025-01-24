@@ -1,0 +1,1160 @@
+# text_version = 0
+# sent_id = 0_1
+1	l	_	X	NC	_	0	x	_	=|1=l__False
+
+# text_version = 2
+# sent_id = 2_1
+1	L	_	X	NC	_	0	x	_	=|3=L__False
+
+# text_version = 4
+# sent_id = 4_1
+1	POUR	pour	P	P	_	0	x	_	=|5=P__True|6=O__False|7=U__False|8=R__False
+
+# text_version = 5
+# sent_id = 5_1
+1	P	_	X	NC	_	0	x	_	=|5=P__True
+
+# text_version = 6
+# sent_id = 6_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	x	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	'	'	PONCT	PONCT	_	1	ponct	_	=|20='__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+
+# text_version = 8
+# sent_id = 8_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	x	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	NC	_	0	x	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	te	te	CLO	CLO	_	0	x	_	=|32=t__True|33=e__False|n=s|p=2
+
+# text_version = 9
+# sent_id = 9_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	x	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	0	x	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	t	_	X	ET	_	0	root	_	=|32=t__True
+
+# text_version = 10
+# sent_id = 10_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	pare	parce_	CS	V	_	9	mod	_	=|58=p__True|59=a__True|60=r__False|61=e__False|n=s|p=1,3|t=P,S
+
+# text_version = 11
+# sent_id = 11_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	pa	_	X	NC	_	0	x	_	=|58=p__True|59=a__True
+
+# text_version = 12
+# sent_id = 12_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	qeu	que	ADV	NPP	_	11	goeswith	_	=|69=q__True|70=e__False|71=u__False
+
+# text_version = 13
+# sent_id = 13_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	q	_	X	NPP	_	0	x	_	=|69=q__True
+
+# text_version = 14
+# sent_id = 14_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petite	petit	ADJ	ADJ	_	0	x	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|87=e__False|g=f|n=s
+
+# text_version = 15
+# sent_id = 15_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petit	petit	ADJ	ADJ	_	0	x	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|g=m|n=s
+
+# text_version = 16
+# sent_id = 16_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	i	_	X	ADV	_	0	x	_	=|96=i__False
+
+# text_version = 17
+# sent_id = 17_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	10	mod	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	15	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	mod	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	_	NC	NC	_	0	root	_	=|91=v__True|92=o__True|93=n__True|94=t__True
+
+# text_version = 18
+# sent_id = 18_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	fait	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|104=t__False|g=m|n=s
+
+# text_version = 19
+# sent_id = 19_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	fai	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True
+
+# text_version = 20
+# sent_id = 20_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	àl	à_le	P	NC	_	17	mod	_	=|109=à__True|110=l__False
+
+# text_version = 21
+# sent_id = 21_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+
+# text_version = 22
+# sent_id = 22_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+
+# text_version = 23
+# sent_id = 23_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+
+# text_version = 24
+# sent_id = 24_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	le	le	DET	CLO	_	0	x	_	=|115=l__False|116=e__False|g=m|n=s|p=3
+
+# text_version = 25
+# sent_id = 25_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+
+# text_version = 26
+# sent_id = 26_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	lè	_	X	NC	_	0	x	_	=|119=l__True|120=è__False
+
+# text_version = 27
+# sent_id = 27_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l	le	DET	NC	_	0	x	_	=|119=l__True
+
+# text_version = 28
+# sent_id = 28_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l	le	DET	NPP	_	0	x	_	=|119=l__True
+20	,	,	PONCT	PONCT	_	19	ponct	_	=|122=,__False
+
+# text_version = 29
+# sent_id = 29_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l	le	DET	NC	_	0	x	_	=|119=l__True
+
+# text_version = 30
+# sent_id = 30_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l	le	DET	NPP	_	0	x	_	=|119=l__True
+20	,	,	PONCT	PONCT	_	19	ponct	_	=|124=,__False
+
+# text_version = 31
+# sent_id = 31_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l	le	DET	NC	_	0	x	_	=|119=l__True
+
+# text_version = 32
+# sent_id = 32_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	ee	_	X	NC	_	0	x	_	=|133=e__True|134=e__False
+
+# text_version = 33
+# sent_id = 33_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	e	_	X	NC	_	0	x	_	=|133=e__True
+
+# text_version = 34
+# sent_id = 34_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	etde	et_de	CC	ADV	_	17	coord	_	=|133=e__True|136=t__True|137=d__False|138=e__False
+
+# text_version = 35
+# sent_id = 35_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+
+# text_version = 36
+# sent_id = 36_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	etde	et_de	CC	ADV	_	17	coord	_	=|133=e__True|136=t__True|141=d__False|142=e__False
+
+# text_version = 37
+# sent_id = 37_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+
+# text_version = 38
+# sent_id = 38_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	sel	se	CLR	NC	_	0	x	_	=|149=s__True|150=e__True|151=l__False|g=m|n=s
+
+# text_version = 39
+# sent_id = 39_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	0	root	_	=|149=s__True|150=e__True|n=p,s|p=3
+
+# text_version = 40
+# sent_id = 40_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l	le	DET	NPP	_	0	x	_	=|176=l__False
+29	,	,	PONCT	PONCT	_	28	ponct	_	=|177=,__False
+
+# text_version = 41
+# sent_id = 41_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l	le	DET	NC	_	0	x	_	=|176=l__False
+
+# text_version = 42
+# sent_id = 42_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l	le	DET	NPP	_	0	x	_	=|176=l__False
+29	;	;	PONCT	PONCT	_	28	ponct	_	=|179=;__False
+
+# text_version = 43
+# sent_id = 43_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l	le	DET	NC	_	0	x	_	=|176=l__False
+
+# text_version = 44
+# sent_id = 44_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l'	le	DET	DET	_	0	x	_	=|176=l__False|181='__False|n=s
+29	eo	_	NC	NC	_	0	x	_	=|182=e__False|183=o__False
+
+# text_version = 45
+# sent_id = 45_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l'	le	DET	DET	_	0	x	_	=|176=l__False|181='__False|n=s
+29	e	_	NC	NC	_	0	x	_	=|182=e__False
+
+# text_version = 46
+# sent_id = 46_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	l'	le	DET	DET	_	29	det	_	=|176=l__False|181='__False|n=s
+29	ecole	école	NC	NC	_	27	prep	_	=|182=e__False|185=c__False|186=o__False|187=l__False|188=e__False
+
+# text_version = 47
+# sent_id = 47_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	aff	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	_	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	des	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	0	root	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	CLO	CLO	_	0	root	_	=|173=e__True|174=n__True
+
+# text_version = 48
+# sent_id = 48_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	etse	et_se	CC	ADJ	_	24	coord	_	=|203=e__True|204=t__True|205=s__False|206=e__False
+
+# text_version = 49
+# sent_id = 49_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	aff	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	_	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	des	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	15	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	15	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	15	coord	_	=|203=e__True|204=t__True
+
+# text_version = 50
+# sent_id = 50_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	24	coord	_	=|203=e__True|204=t__True
+30	se	se	CLR	CLR	_	31	aff	_	=|211=s__True|212=e__True|n=p,s|p=3
+31	faih	faire	VINF	VPR	_	0	x	_	=|214=f__True|215=a__True|216=i__True|217=h__False
+
+# text_version = 51
+# sent_id = 51_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	24	coord	_	=|203=e__True|204=t__True
+30	se	se	CLR	CLR	_	0	x	_	=|211=s__True|212=e__True|n=p,s|p=3
+31	fai	_	X	NC	_	0	x	_	=|214=f__True|215=a__True|216=i__True
+
+# text_version = 52
+# sent_id = 52_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	5	mod	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	_	_	PONCT	_	0	x	_	=|22=,__True
+3	la	le	DET	DET	_	4	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	bagarre	NC	ET	_	5	suj	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	tu_être	V	ET	_	0	root	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	à+le	P+D	ET	_	5	p_obj	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	0	x	_	=|42='__True
+8	ecole	école	V	NPP	_	6	prep	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	ce_être	V	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	pas_bien	ADV	NPP	_	9	ats	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	parce_	ADV	NPP	_	9	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	ADV	CS	_	11	fixed	_	=|69=q__True|74=u__True|75=e__True
+13	les	le	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	11	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	CLO	DET	_	17	obj	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	faire	VINF	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	17	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	et	CC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	17	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	a_obj	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	lancer	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	un	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	24	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	24	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	24	coord	_	=|203=e__True|204=t__True
+30	se	se	CLR	CLR	_	31	aff	_	=|211=s__True|212=e__True|n=p,s|p=3
+31	faier	faire	VINF	NC	_	32	aux_caus	_	=|214=f__True|215=a__True|216=i__True|219=e__True|220=r__True
+32	pasé	passer	VINF	NC	_	29	dep_coord	_	=|222=p__True|223=a__True|224=s__True|225=é__False
+
+# text_version = 53
+# sent_id = 53_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	aff	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	_	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	des	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	15	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	15	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	15	coord	_	=|203=e__True|204=t__True
+30	se	se	CLR	CLR	_	31	aff	_	=|211=s__True|212=e__True|n=p,s|p=3
+31	faier	_	VINF	VINF	_	29	dep_coord	_	=|214=f__True|215=a__True|216=i__True|219=e__True|220=r__True
+32	pas	pas	ADV	ADV	_	31	mod	_	=|222=p__True|223=a__True|224=s__True
+
+# text_version = 54
+# sent_id = 54_1
+1	Pourquoi	pourquoi	ADVWH	ADVWH	_	0	root	_	=|12=o__True|13=u__True|14=r__True|15=q__True|16=u__True|17=o__True|18=i__True|5=P__True
+2	,	,	PONCT	PONCT	_	1	ponct	_	=|22=,__True
+3	la	la	DET	DET	_	6	det	_	=|23=l__True|24=a__True|g=f|n=s
+4	bagar	_	ET	ET	_	6	dep	_	=|26=b__True|27=a__True|28=g__True|29=a__True|30=r__True
+5	tézet	_	ET	ET	_	6	dep	_	=|32=t__True|35=é__True|36=z__True|37=e__True|38=t__True
+6	al	_	ET	ET	_	0	root	_	=|40=a__True|41=l__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|42='__True
+8	ecole	_	NPP	NPP	_	0	root	_	=|43=e__True|44=c__True|45=o__True|46=l__True|47=e__True
+9	se	se	CLR	CLR	_	0	root	_	=|49=s__True|50=e__True|n=p,s|p=3
+10	pabin	_	NPP	NPP	_	0	root	_	=|52=p__True|53=a__True|54=b__True|55=i__True|56=n__True
+11	parece	_	NPP	NPP	_	10	mod	_	=|58=p__True|59=a__True|64=r__True|65=e__True|66=c__True|67=e__True
+12	que	que	CS	CS	_	0	root	_	=|69=q__True|74=u__True|75=e__True
+13	les	les	DET	DET	_	14	det	_	=|78=l__True|79=e__True|80=s__True|n=p
+14	petits	petit	ADJ	ADJ	_	15	suj	_	=|82=p__True|83=e__True|84=t__True|85=i__True|86=t__True|89=s__True|g=m|n=p
+15	vont	aller	V	V	_	12	sub	_	=|91=v__True|92=o__True|93=n__True|94=t__True|n=p|p=3|t=P
+16	le	le	DET	DET	_	17	det	_	=|98=l__True|99=e__True|g=m|n=s
+17	faier	_	NC	NC	_	15	obj	_	=|101=f__True|102=a__True|103=i__True|106=e__True|107=r__True
+18	à	à	P	P	_	15	mod	_	=|109=à__True
+19	l'	le	DET	DET	_	20	det	_	=|119=l__True|126='__True|n=s
+20	ecole	_	NC	NC	_	18	prep	_	=|127=e__True|128=c__True|129=o__True|130=l__True|131=e__True
+21	et	et	CC	CC	_	15	coord	_	=|133=e__True|136=t__True
+22	de	de	P	P	_	21	dep_coord	_	=|146=d__True|147=e__True
+23	se	se	CLR	CLR	_	24	aff	_	=|149=s__True|150=e__True|n=p,s|p=3
+24	laner	_	VINF	VINF	_	22	prep	_	=|157=l__True|158=a__True|159=n__True|160=e__True|161=r__True
+25	des	des	DET	DET	_	26	det	_	=|163=d__True|164=e__True|165=s__True|n=p
+26	gomme	gomme	NC	NC	_	15	obj	_	=|167=g__True|168=o__True|169=m__True|170=m__True|171=e__True|g=f|n=s
+27	en	en	P	P	_	15	mod	_	=|173=e__True|174=n__True
+28	classe	classe	NC	NC	_	27	prep	_	=|196=c__True|197=l__True|198=a__True|199=s__True|200=s__True|201=e__True|g=f|n=s
+29	et	et	CC	CC	_	15	coord	_	=|203=e__True|204=t__True
+30	se	se	CLR	CLR	_	32	aff	_	=|211=s__True|212=e__True|n=p,s|p=3
+31	faier	_	VINF	VINF	_	32	aux_caus	_	=|214=f__True|215=a__True|216=i__True|219=e__True|220=r__True
+32	passer	passer	VINF	VINF	_	29	dep_coord	_	=|222=p__True|223=a__True|224=s__True|227=s__True|228=e__True|229=r__True|t=W
+33	des	de	P+D	P+D	_	32	mod	_	=|231=d__True|232=e__True|233=s__True|n=p
+34	motes	_	NC	NC	_	33	prep	_	=|235=m__True|236=o__True|237=t__True|238=e__True|239=s__True
+35	en	en	P	P	_	32	mod	_	=|241=e__True|242=n__True
+36	classe	classe	NC	NC	_	35	prep	_	=|244=c__True|245=l__True|246=a__True|247=s__True|248=s__True|249=e__True|g=f|n=s
+

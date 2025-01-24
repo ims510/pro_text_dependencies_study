@@ -1,0 +1,235 @@
+# text_version = 0
+# sent_id = 0_1
+1	aA	_	X	NPP	_	0	x	_	=|1=a__False|2=A__False
+2	v	_	X	NC	_	0	x	_	=|6=v__False
+
+# text_version = 2
+# sent_id = 2_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NPP	_	0	x	_	=|52=s__False
+10	:	:	PONCT	PONCT	_	9	ponct	_	=|53=:__False
+
+# text_version = 3
+# sent_id = 3_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NC	_	0	x	_	=|52=s__False
+
+# text_version = 4
+# sent_id = 4_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NPP	_	0	x	_	=|52=s__False
+10	;	;	PONCT	PONCT	_	9	ponct	_	=|55=;__False
+
+# text_version = 5
+# sent_id = 5_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NC	_	0	x	_	=|52=s__False
+
+# text_version = 6
+# sent_id = 6_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	ça_devoir	CLR	NPP	_	8	dep_coord	_	=|52=s__False
+10	adoi	_	_	I	_	9	goeswith	_	=|58=a__False|59=d__False|60=o__False|61=i__False
+
+# text_version = 7
+# sent_id = 7_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	ça	PRO	NPP	_	0	x	_	=|52=s__False
+10	a	_	X	V	_	0	x	_	=|58=a__False|n=s|p=3|t=P
+
+# text_version = 8
+# sent_id = 8_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	ça	PRO	NPP	_	0	x	_	=|52=s__False
+10	a	_	X	V	_	0	x	_	=|58=a__False|n=s|p=3|t=P
+
+# text_version = 9
+# sent_id = 9_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NC	_	0	x	_	=|52=s__False
+
+# text_version = 10
+# sent_id = 10_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	sz	ça	PRO	NC	_	0	x	_	=|52=s__False|71=z__False
+
+# text_version = 11
+# sent_id = 11_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NC	_	0	x	_	=|52=s__False
+
+# text_version = 12
+# sent_id = 12_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	sa	ça	PRO	DET	_	10	suj_impers	_	=|52=s__False|73=a__False|g=f|n=s|p=3|poss=s
+10	doi	devoir	NC	NC	_	8	dep_coord	_	=|75=d__False|76=o__False|77=i__False
+11	s	se	CLR	NC	_	0	x	_	=|79=s__False
+
+# text_version = 13
+# sent_id = 13_1
+1	moi	moi	PRO	PRO	_	0	root	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	_	ADV	ADV	_	1	mod	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	1	mod	_	=|28=q__True|29=u__True|30=e__True
+5	les	les	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	_	NC	NC	_	0	root	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	sa	DET	DET	_	8	det	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	_	NC	NC	_	6	mod	_	=|48=d__True|49=o__True|50=i__True
+
+# text_version = 14
+# sent_id = 14_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NPP	_	10	aff	_	=|90=s__True
+10	arrrè	arrêter	VINF	NPP	_	8	mod	_	=|92=a__True|93=r__True|94=r__False|95=r__False|96=è__False
+
+# text_version = 15
+# sent_id = 15_1
+1	moi	moi	PRO	PRO	_	3	suj	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	penser	V	ADV	_	0	root	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	3	obj	_	=|28=q__True|29=u__True|30=e__True
+5	les	le	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	violence	NC	NC	_	8	suj	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	ça	PRO	DET	_	8	suj_impers	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	devoir	V	NC	_	4	comp	_	=|48=d__True|49=o__True|50=i__True
+9	s	se	CLR	NPP	_	10	aff	_	=|90=s__True
+10	ar	arrêter	VINF	NPP	_	8	obj	_	=|92=a__True|93=r__True
+
+# text_version = 16
+# sent_id = 16_1
+1	moi	moi	PRO	PRO	_	0	root	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	_	ADV	ADV	_	1	mod	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	1	mod	_	=|28=q__True|29=u__True|30=e__True
+5	les	les	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	_	NC	NC	_	0	root	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	sa	DET	DET	_	8	det	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	_	NC	NC	_	6	mod	_	=|48=d__True|49=o__True|50=i__True
+9	s	_	NPP	NPP	_	8	mod	_	=|90=s__True
+10	arètè	_	NPP	NPP	_	8	mod	_	=|100=è__True|101=t__True|102=è__True|92=a__True|93=r__True
+11	*	*	PONCT	PONCT	_	10	ponct	_	=|104=*__False
+
+# text_version = 17
+# sent_id = 17_1
+1	moi	moi	PRO	PRO	_	0	root	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	_	ADV	ADV	_	1	mod	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	1	mod	_	=|28=q__True|29=u__True|30=e__True
+5	les	les	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	_	NC	NC	_	0	root	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	sa	DET	DET	_	8	det	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	_	NC	NC	_	6	mod	_	=|48=d__True|49=o__True|50=i__True
+9	s	_	NPP	NPP	_	8	mod	_	=|90=s__True
+10	arètè	_	NPP	NPP	_	8	mod	_	=|100=è__True|101=t__True|102=è__True|92=a__True|93=r__True
+
+# text_version = 18
+# sent_id = 18_1
+1	moi	moi	PRO	PRO	_	0	root	_	=|15=m__True|16=o__True|17=i__True|n=s|p=1
+2	je	je	CLS	CLS	_	3	suj	_	=|19=j__True|20=e__True|n=s|p=1
+3	pence	_	ADV	ADV	_	1	mod	_	=|22=p__True|23=e__True|24=n__True|25=c__True|26=e__True
+4	que	que	CS	CS	_	1	mod	_	=|28=q__True|29=u__True|30=e__True
+5	les	les	DET	DET	_	6	det	_	=|32=l__True|33=e__True|34=s__True|n=p
+6	violance	_	NC	NC	_	14	mod	_	=|36=v__True|37=i__True|38=o__True|39=l__True|40=a__True|41=n__True|42=c__True|43=e__True
+7	sa	sa	DET	DET	_	8	det	_	=|45=s__True|46=a__True|g=f|n=s|p=3|poss=s
+8	doi	_	NC	NC	_	6	mod	_	=|48=d__True|49=o__True|50=i__True
+9	s	_	NPP	NPP	_	8	mod	_	=|90=s__True
+10	arètè	_	NPP	NPP	_	8	mod	_	=|100=è__True|101=t__True|102=è__True|92=a__True|93=r__True
+11	parceque	_	ADV	ADV	_	6	mod	_	=|106=p__True|107=a__True|108=r__True|109=c__True|110=e__True|111=q__True|112=u__True|113=e__True
+12	il	il	CLS	CLS	_	14	suj	_	=|115=i__True|116=l__True|g=m|n=s|p=3
+13	y	y	CLO	CLO	_	14	aff	_	=|118=y__True
+14	a	avoir	V	V	_	4	sub	_	=|120=a__True|n=s|p=3|t=P
+15	des	des	DET	DET	_	16	det	_	=|122=d__True|123=e__True|124=s__True|n=p
+16	plinte	_	NC	NC	_	14	obj	_	=|126=p__True|127=l__True|128=i__True|129=n__True|130=t__True|131=e__True
+17	et	et	CC	CC	_	14	coord	_	=|133=e__True|134=t__True
+18	sa	sa	DET	DET	_	0	root	_	=|136=s__True|137=a__True|g=f|n=s|p=3|poss=s
+
+# text_version = 18
+# sent_id = 18_2
+1	fait	fait	NC	NC	_	0	root	_	=|140=f__True|141=a__True|142=i__True|143=t__True|g=m|n=s
+2	des	de	P+D	P+D	_	1	dep	_	=|146=d__True|147=e__True|148=s__True|n=p
+3	histoire	histoire	NC	NC	_	2	prep	_	=|150=h__True|151=i__True|152=s__True|153=t__True|154=o__True|155=i__True|156=r__True|157=e__True|g=f|n=s
+

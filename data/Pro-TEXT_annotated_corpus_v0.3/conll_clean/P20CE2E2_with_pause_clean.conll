@@ -1,0 +1,1137 @@
+# text_version=0
+# sentence_id=1
+# text = La bagarz
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagarz	bagarz	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=9__char=z__charStatus=False__pause=218
+
+# text_version=1
+# sentence_id=1
+# text = La bagar
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagar	bagar	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340
+
+# text_version=2
+# sentence_id=1
+# text = La bagare se v
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	4	nsubj:pass	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pass	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	v	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=16__char=v__charStatus=False__pause=5476
+
+# text_version=3
+# sentence_id=1
+# text = La bagare se
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	2	amod	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+
+# text_version=4
+# sentence_id=1
+# text = La bagare se n' est pazs
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pazs	paztre	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=26__char=z__charStatus=False__pause=10748|charID=27__char=s__charStatus=False__pause=na
+
+# text_version=5
+# sentence_id=1
+# text = La bagare se n' est pa
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	6	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	6	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	6	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:tense	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pa	pa	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part|Voice=Act	0	root	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203
+
+# text_version=6
+# sentence_id=1
+# text = La bagare se n' est pas tros tros biens
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	biens	bien	NOUN	_	Gender=Masc|Number=Plur	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948|charID=46__char=s__charStatus=False__pause=12496
+
+# text_version=7
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=8
+# sentence_id=1
+# text = La bagare se n' est pas tros tros biens
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADJ	_	Gender=Masc|Number=Plur	9	amod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	biens	bien	NOUN	_	Gender=Masc|Number=Plur	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948|charID=48__char=s__charStatus=False__pause=483
+
+# text_version=9
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=10
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien s df
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	INTJ	_	None	10	discourse	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	INTJ	_	None	10	discourse	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	INTJ	_	None	10	discourse	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	s	s	X	_	None	0	root	_	charID=51__char=s__charStatus=False__pause=515
+11	df	df	X	_	None	10	flat:name	_	charID=54__char=d__charStatus=False__pause=749|charID=55__char=f__charStatus=False__pause=234
+
+# text_version=11
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=12
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtoq
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	10	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	7	fixed	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	10	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtoq	surtoq	ADJ	_	Gender=Masc|Number=Sing	0	root	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=66__char=q__charStatus=False__pause=5101
+
+# text_version=13
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surto
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	10	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	10	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	10	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:tense	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	10	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	INTJ	_	None	10	discourse	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	INTJ	_	None	10	discourse	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	INTJ	_	None	10	discourse	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surto	surto	INTJ	_	None	0	root	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752
+
+# text_version=14
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quandd
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	11	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	11	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	aux:tense	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	11	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	11	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	7	fixed	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	11	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	11	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quandd	quandd	INTJ	_	None	0	root	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938|charID=76__char=d__charStatus=False__pause=125
+
+# text_version=15
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	11	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	11	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	11	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	11	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	11	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	0	root	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+
+# text_version=16
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	11	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	9	advmod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=17
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	11	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	9	advmod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=18
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on a
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	0	root	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	7	fixed	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	7	fixed	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	13	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	13	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	13	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=86__char=a__charStatus=False__pause=577
+
+# text_version=19
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	11	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	9	advmod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=20
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	àun	à_un	ADP	_	None	8	case	_	charID=97__char=à__charStatus=True__pause=2574|charID=98__char=u__charStatus=False__pause=2200|charID=99__char=n__charStatus=False__pause=358
+
+# text_version=21
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	9	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	9	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	14	punct	_	charID=97__char=à__charStatus=True__pause=2574
+
+# text_version=22
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un ppppp
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	ppppp	ppppp	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686|charID=107__char=p__charStatus=False__pause=515|charID=108__char=p__charStatus=False__pause=47|charID=109__char=p__charStatus=False__pause=31|charID=110__char=p__charStatus=False__pause=47
+
+# text_version=23
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un p
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	p	p	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686
+
+# text_version=24
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un pppppppppppppppppppppppppppppppppppp
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	7	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	7	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	7	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	pppppppppppppppppppppppppppppppppppp	pppppppppppppppppppppppppppppppppppp	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686|charID=115__char=p__charStatus=False__pause=1310|charID=116__char=p__charStatus=False__pause=515|charID=117__char=p__charStatus=False__pause=31|charID=118__char=p__charStatus=False__pause=47|charID=119__char=p__charStatus=False__pause=47|charID=120__char=p__charStatus=False__pause=31|charID=121__char=p__charStatus=False__pause=47|charID=122__char=p__charStatus=False__pause=31|charID=123__char=p__charStatus=False__pause=47|charID=124__char=p__charStatus=False__pause=47|charID=125__char=p__charStatus=False__pause=31|charID=126__char=p__charStatus=False__pause=47|charID=127__char=p__charStatus=False__pause=31|charID=128__char=p__charStatus=False__pause=47|charID=129__char=p__charStatus=False__pause=47|charID=130__char=p__charStatus=False__pause=31|charID=131__char=p__charStatus=False__pause=47|charID=132__char=p__charStatus=False__pause=46|charID=133__char=p__charStatus=False__pause=32|charID=134__char=p__charStatus=False__pause=46|charID=135__char=p__charStatus=False__pause=32|charID=136__char=p__charStatus=False__pause=46|charID=137__char=p__charStatus=False__pause=47|charID=138__char=p__charStatus=False__pause=31|charID=139__char=p__charStatus=False__pause=47|charID=140__char=p__charStatus=False__pause=31|charID=141__char=p__charStatus=False__pause=47|charID=142__char=p__charStatus=False__pause=47|charID=143__char=p__charStatus=False__pause=47|charID=144__char=p__charStatus=False__pause=31|charID=145__char=p__charStatus=False__pause=47|charID=146__char=p__charStatus=False__pause=31|charID=147__char=p__charStatus=False__pause=47|charID=148__char=p__charStatus=False__pause=47|charID=149__char=p__charStatus=False__pause=31
+
+# text_version=25
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un p
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	p	p	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686
+
+# text_version=26
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un pluuuuuuuuuuuuuuuuu
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	9	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	9	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	9	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	pluuuuuuuuuuuuuuuuu	pluuuuuuuuuuuuuuuuu	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=187__char=u__charStatus=False__pause=515|charID=188__char=u__charStatus=False__pause=47|charID=189__char=u__charStatus=False__pause=31|charID=190__char=u__charStatus=False__pause=47|charID=191__char=u__charStatus=False__pause=31|charID=192__char=u__charStatus=False__pause=47|charID=193__char=u__charStatus=False__pause=47|charID=194__char=u__charStatus=False__pause=31|charID=195__char=u__charStatus=False__pause=47|charID=196__char=u__charStatus=False__pause=47|charID=197__char=u__charStatus=False__pause=31|charID=198__char=u__charStatus=False__pause=47|charID=199__char=u__charStatus=False__pause=31|charID=200__char=u__charStatus=False__pause=47|charID=201__char=u__charStatus=False__pause=46|charID=202__char=u__charStatus=False__pause=32
+
+# text_version=27
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plu
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	17	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	17	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plu	pleuvoir	NOUN	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569
+
+# text_version=28
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	16	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	obl:arg	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	16	fixed	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+
+# text_version=29
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	16	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	14	obl:arg	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	16	fixed	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+
+# text_version=30
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=247__char=!__charStatus=False__pause=4524
+
+# text_version=31
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=32
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois §
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	§	§	PUNCT	_	None	14	punct	_	charID=249__char=§__charStatus=False__pause=1732
+
+# text_version=33
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=34
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois §
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	§	§	PUNCT	_	None	14	punct	_	charID=251__char=§__charStatus=False__pause=1482
+
+# text_version=35
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=36
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois §
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	§	§	PUNCT	_	None	14	punct	_	charID=253__char=§__charStatus=False__pause=3604
+
+# text_version=37
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=38
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois §
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	§	§	PUNCT	_	None	14	punct	_	charID=255__char=§__charStatus=False__pause=2996
+
+# text_version=38
+# sentence_id=2
+# text = §
+1	§	§	PUNCT	_	None	0	root	_	charID=257__char=§__charStatus=False__pause=951
+
+# text_version=39
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=40
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois §
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	§	§	PUNCT	_	None	14	punct	_	charID=263__char=§__charStatus=False__pause=17893
+
+# text_version=41
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	7	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	9	advmod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	0	root	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	14	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	18	acl:relcl	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	AUX	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	19	cop	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=42
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=42
+# sentence_id=2
+# text = LA
+1	LA	LA	PROPN	_	None	0	root	_	charID=266__char=L__charStatus=True__pause=20936|charID=267__char=A__charStatus=False__pause=483
+
+# text_version=43
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=43
+# sentence_id=2
+# text = L
+1	L	litre	NOUN	_	None	0	root	_	charID=266__char=L__charStatus=True__pause=20936
+
+# text_version=44
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=44
+# sentence_id=2
+# text = La bagare se n'
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	4	nsubj	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	4	expl:pv	_	charID=280__char=s__charStatus=True__pause=671|charID=281__char=e__charStatus=False__pause=344
+4	n'	ne	ADV	_	Polarity=Neg	0	root	_	charID=283__char=n__charStatus=False__pause=3494|charID=284__char='__charStatus=False__pause=2293
+
+# text_version=45
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=45
+# sentence_id=2
+# text = La bagare s
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	s	s	X	_	None	2	appos	_	charID=280__char=s__charStatus=True__pause=671
+
+# text_version=46
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=46
+# sentence_id=2
+# text = La bagare ses aussi pas bien ! !!!!
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	5	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=305__char=n__charStatus=False__pause=2870
+7	!!!!!	!!!!!	PUNCT	_	None	2	punct	_	charID=306__char=!__charStatus=False__pause=15865|charID=307__char=!__charStatus=False__pause=219|charID=308__char=!__charStatus=False__pause=156|charID=309__char=!__charStatus=False__pause=125|charID=310__char=!__charStatus=False__pause=125
+
+# text_version=47
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=47
+# sentence_id=2
+# text = La bagare ses aussi pas bie
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	6	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bie	bie	ADJ	_	Gender=Fem|Number=Sing	2	amod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530
+
+# text_version=48
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=48
+# sentence_id=2
+# text = La bagare ses aussi pas bien caro
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	6	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+7	caro	caro	X	_	None	6	fixed	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734|charID=322__char=o__charStatus=False__pause=10608
+
+# text_version=49
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=49
+# sentence_id=2
+# text = La bagare ses aussi pas bien car
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	5	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+7	car	car	CCONJ	_	None	2	cc	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+
+# text_version=50
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=50
+# sentence_id=2
+# text = La bagare ses aussi pas bien caro
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	6	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+7	caro	caro	X	_	None	6	fixed	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734|charID=324__char=o__charStatus=False__pause=484
+
+# text_version=51
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=51
+# sentence_id=2
+# text = La bagare ses aussi pas bien car
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	6	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	5	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+7	car	car	CCONJ	_	None	2	cc	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+
+# text_version=52
+# sentence_id=1
+# text = La bagare se n' est pas tros tros bien surtout quand on s' ataque à un plus petit que sois !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	8	nsubj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+3	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	8	expl:pv	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+4	n'	ne	ADV	_	Polarity=Neg	8	advmod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+5	est	être	AUX	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+6	pas	pas	ADV	_	Polarity=Neg	8	advmod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+7	tros	tros	ADV	_	None	8	advmod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+8	tros	tros	ADV	_	None	0	root	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+9	bien	bien	ADV	_	None	8	advmod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+10	surtout	surtout	ADV	_	None	8	advmod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+11	quand	quand	SCONJ	_	None	14	mark	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+12	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	14	nsubj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+13	s'	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	14	expl:pv	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+14	ataque	ataquer	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+15	à	à	ADP	_	None	18	case	_	charID=97__char=à__charStatus=True__pause=2574
+16	un	un	DET	_	Definite=Ind|Gender=Masc|Number=Sing|PronType=Art	18	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+17	plus	plus	ADV	_	None	18	advmod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+18	petit	petit	ADJ	_	Gender=Masc|Number=Sing	14	obl:arg	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+19	que	que	PRON	_	PronType=Rel	20	obj	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+20	sois	être	VERB	_	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+21	!	!	PUNCT	_	None	8	punct	_	charID=265__char=!__charStatus=True__pause=3229
+
+# text_version=52
+# sentence_id=2
+# text = La bagare ses aussi pas bien car on peu ce faire mal !
+1	La	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	2	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+2	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+3	ses	son	DET	_	Number=Plur|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	2	det	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+4	aussi	aussi	ADV	_	None	5	advmod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+5	pas	pas	ADV	_	Polarity=Neg	6	advmod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+6	bien	bien	ADV	_	None	2	advmod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+7	car	car	CCONJ	_	None	11	cc	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+8	on	on	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Ind	11	nsubj	_	charID=327__char=o__charStatus=True__pause=733|charID=328__char=n__charStatus=True__pause=5850
+9	peu	peu	ADV	_	None	11	advmod	_	charID=330__char=p__charStatus=True__pause=5538|charID=331__char=e__charStatus=True__pause=858|charID=332__char=u__charStatus=True__pause=967
+10	ce	ce	PRON	_	Gender=Masc|Person=3|PronType=Dem	11	obj	_	charID=334__char=c__charStatus=True__pause=5678|charID=335__char=e__charStatus=True__pause=93
+11	faire	faire	VERB	_	VerbForm=Inf	2	conj	_	charID=337__char=f__charStatus=True__pause=2200|charID=338__char=a__charStatus=True__pause=2949|charID=339__char=i__charStatus=True__pause=749|charID=340__char=r__charStatus=True__pause=3120|charID=341__char=e__charStatus=True__pause=234
+12	mal	mal	NOUN	_	Gender=Masc|Number=Sing	11	obj:lvc	_	charID=343__char=m__charStatus=True__pause=16131|charID=344__char=a__charStatus=True__pause=1077|charID=345__char=l__charStatus=True__pause=9703
+13	!	!	PUNCT	_	None	2	punct	_	charID=346__char=!__charStatus=True__pause=4305
+

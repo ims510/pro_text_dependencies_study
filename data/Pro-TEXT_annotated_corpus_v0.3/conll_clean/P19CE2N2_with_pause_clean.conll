@@ -1,0 +1,413 @@
+# text_version=0
+# sentence_id=1
+# text = n
+1	n	n	INTJ	_	None	0	root	_	charID=1__char=n__charStatus=False__pause=na
+
+# text_version=2
+# sentence_id=1
+# text = N
+1	N	N	NOUN	_	None	0	root	_	charID=3__char=N__charStatus=False__pause=3089
+
+# text_version=4
+# sentence_id=1
+# text = n
+1	n	n	INTJ	_	None	0	root	_	charID=5__char=n__charStatus=False__pause=4539
+
+# text_version=6
+# sentence_id=1
+# text = Neila
+1	Neila	Neila	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=10__char=l__charStatus=False__pause=2433|charID=11__char=a__charStatus=False__pause=608
+
+# text_version=7
+# sentence_id=1
+# text = Nei
+1	Nei	Nei	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593
+
+# text_version=8
+# sentence_id=1
+# text = Neiela etlorine
+1	Neiela	Neiela	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=14__char=e__charStatus=False__pause=1825|charID=15__char=l__charStatus=False__pause=1685|charID=16__char=a__charStatus=False__pause=577
+2	etlorine	etlorine	X	_	None	1	flat:name	_	charID=18__char=e__charStatus=False__pause=17503|charID=19__char=t__charStatus=False__pause=218|charID=20__char=l__charStatus=False__pause=1014|charID=21__char=o__charStatus=False__pause=483|charID=22__char=r__charStatus=False__pause=4570|charID=23__char=i__charStatus=False__pause=952|charID=24__char=n__charStatus=False__pause=265|charID=25__char=e__charStatus=False__pause=2356
+
+# text_version=9
+# sentence_id=1
+# text = Neiela et lorine
+1	Neiela	Neiela	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=14__char=e__charStatus=False__pause=1825|charID=15__char=l__charStatus=False__pause=1685|charID=16__char=a__charStatus=False__pause=577
+2	et	et	CCONJ	_	None	3	cc	_	charID=18__char=e__charStatus=False__pause=17503|charID=19__char=t__charStatus=False__pause=218
+3	lorine	lorine	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	charID=20__char=l__charStatus=False__pause=1014|charID=21__char=o__charStatus=False__pause=483|charID=22__char=r__charStatus=False__pause=4570|charID=23__char=i__charStatus=False__pause=952|charID=24__char=n__charStatus=False__pause=265|charID=25__char=e__charStatus=False__pause=2356
+
+# text_version=10
+# sentence_id=1
+# text = Neiela etlorine
+1	Neiela	Neiela	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=14__char=e__charStatus=False__pause=1825|charID=15__char=l__charStatus=False__pause=1685|charID=16__char=a__charStatus=False__pause=577
+2	etlorine	etlorine	X	_	None	1	flat:name	_	charID=18__char=e__charStatus=False__pause=17503|charID=19__char=t__charStatus=False__pause=218|charID=20__char=l__charStatus=False__pause=1014|charID=21__char=o__charStatus=False__pause=483|charID=22__char=r__charStatus=False__pause=4570|charID=23__char=i__charStatus=False__pause=952|charID=24__char=n__charStatus=False__pause=265|charID=25__char=e__charStatus=False__pause=2356
+
+# text_version=11
+# sentence_id=1
+# text = Neiela et lorine
+1	Neiela	Neiela	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=14__char=e__charStatus=False__pause=1825|charID=15__char=l__charStatus=False__pause=1685|charID=16__char=a__charStatus=False__pause=577
+2	et	et	CCONJ	_	None	3	cc	_	charID=18__char=e__charStatus=False__pause=17503|charID=19__char=t__charStatus=False__pause=218
+3	lorine	lorine	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	charID=20__char=l__charStatus=False__pause=1014|charID=21__char=o__charStatus=False__pause=483|charID=22__char=r__charStatus=False__pause=4570|charID=23__char=i__charStatus=False__pause=952|charID=24__char=n__charStatus=False__pause=265|charID=25__char=e__charStatus=False__pause=2356
+
+# text_version=12
+# sentence_id=1
+# text = Neiela et lorine
+1	Neiela	Neiela	PROPN	_	None	0	root	_	charID=7__char=N__charStatus=False__pause=9953|charID=8__char=e__charStatus=False__pause=13713|charID=9__char=i__charStatus=False__pause=593|charID=14__char=e__charStatus=False__pause=1825|charID=15__char=l__charStatus=False__pause=1685|charID=16__char=a__charStatus=False__pause=577
+2	et	et	CCONJ	_	None	3	cc	_	charID=18__char=e__charStatus=False__pause=17503|charID=19__char=t__charStatus=False__pause=218
+3	lorine	lorine	NOUN	_	Gender=Fem|Number=Sing	1	conj	_	charID=20__char=l__charStatus=False__pause=1014|charID=21__char=o__charStatus=False__pause=483|charID=22__char=r__charStatus=False__pause=4570|charID=23__char=i__charStatus=False__pause=952|charID=24__char=n__charStatus=False__pause=265|charID=25__char=e__charStatus=False__pause=2356
+
+# text_version=14
+# sentence_id=1
+# text = l
+1	l	l	NOUN	_	Number=Sing	0	root	_	charID=47__char=l__charStatus=False__pause=4617
+
+# text_version=16
+# sentence_id=1
+# text = LI
+1	LI	LI	NOUN	_	None	0	root	_	charID=49__char=L__charStatus=False__pause=2792|charID=50__char=I__charStatus=False__pause=3791
+
+# text_version=18
+# sentence_id=1
+# text = i
+1	i	i	INTJ	_	None	0	root	_	charID=53__char=i__charStatus=False__pause=5960
+
+# text_version=20
+# sentence_id=1
+# text = Il ait
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	ait	avoir	VERB	_	Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=58__char=a__charStatus=False__pause=5008|charID=59__char=i__charStatus=False__pause=999|charID=60__char=t__charStatus=False__pause=1202
+
+# text_version=21
+# sentence_id=1
+# text = Il
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+
+# text_version=22
+# sentence_id=1
+# text = Il eitai foi neie
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neie	neie	X	_	None	3	flat:name	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=77__char=e__charStatus=False__pause=10499
+
+# text_version=23
+# sentence_id=1
+# text = Il eitai foi nei
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eitai	X	_	None	3	nmod	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	nei	nei	X	_	None	3	nmod	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092
+
+# text_version=24
+# sentence_id=1
+# text = Il eitai foi neil
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neil	neil	X	_	None	3	flat:name	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=79__char=l__charStatus=False__pause=20139
+
+# text_version=25
+# sentence_id=1
+# text = Il eitai foi nei
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eitai	X	_	None	3	nmod	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	nei	nei	X	_	None	3	nmod	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092
+
+# text_version=26
+# sentence_id=1
+# text = Il eitai foi neie
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neie	neie	X	_	None	3	flat:name	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=81__char=e__charStatus=False__pause=2434
+
+# text_version=27
+# sentence_id=1
+# text = Il eitai foi nei
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	3	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eitai	X	_	None	3	nmod	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	0	root	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	nei	nei	X	_	None	3	nmod	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092
+
+# text_version=28
+# sentence_id=1
+# text = Il eitai foi neila et lorie
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eitai	X	_	None	3	flat:name	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	X	_	Foreign=Yes	0	root	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorie	lorie	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=93__char=e__charStatus=False__pause=811
+
+# text_version=29
+# sentence_id=1
+# text = Il eitai foi neila et lori
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	0	root	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eitai	X	_	Foreign=Yes	1	flat:foreign	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	X	_	Foreign=Yes	1	flat:foreign	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	1	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lori	lori	X	_	Foreign=Yes	1	flat:foreign	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593
+
+# text_version=30
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le me
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	me	moi	PRON	_	Emph=No|Number=Sing|Person=1|PronType=Prs	2	conj	_	charID=121__char=m__charStatus=True__pause=17940|charID=122__char=e__charStatus=False__pause=874
+
+# text_version=31
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le m
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	m	mètre	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	charID=121__char=m__charStatus=True__pause=17940
+
+# text_version=32
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le mm
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	NOUN	_	Gender=Fem|Number=Sing	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	mm	mm	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	charID=121__char=m__charStatus=True__pause=17940|charID=124__char=m__charStatus=False__pause=38876
+
+# text_version=33
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le m
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	m	mètre	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	charID=121__char=m__charStatus=True__pause=17940
+
+# text_version=34
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit àno
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	3	conj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Gender=Masc|Number=Sing|Tense=Pres|VerbForm=Part|Voice=Pass	12	acl	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	àno	àno	NOUN	_	Gender=Masc|Number=Sing	13	xcomp	_	charID=137__char=à__charStatus=True__pause=2341|charID=138__char=n__charStatus=False__pause=5226|charID=139__char=o__charStatus=False__pause=1279
+
+# text_version=35
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	12	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	obj	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	VERB	_	VerbForm=Inf	13	aux:tense	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	2	punct	_	charID=137__char=à__charStatus=True__pause=2341
+
+# text_version=36
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté lab
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:arg	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	lab	lab	NOUN	_	Gender=Masc|Number=Sing	16	appos	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124|charID=156__char=b__charStatus=False__pause=1404
+
+# text_version=37
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	amod	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	obj	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+
+# text_version=38
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la v
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+18	v	v	X	_	None	13	obj	_	charID=159__char=v__charStatus=False__pause=609
+
+# text_version=39
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	12	amod	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	13	obj	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+
+# text_version=40
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la bagare parece qe
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+18	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	charID=161__char=b__charStatus=True__pause=1139|charID=162__char=a__charStatus=True__pause=780|charID=163__char=g__charStatus=True__pause=2932|charID=164__char=a__charStatus=True__pause=437|charID=165__char=r__charStatus=True__pause=656|charID=166__char=e__charStatus=True__pause=187
+19	parece	parece	X	_	Foreign=Yes	18	appos	_	charID=168__char=p__charStatus=True__pause=26989|charID=169__char=a__charStatus=True__pause=1545|charID=170__char=r__charStatus=True__pause=967|charID=171__char=e__charStatus=True__pause=577|charID=172__char=c__charStatus=True__pause=3167|charID=173__char=e__charStatus=True__pause=546
+20	qe	qe	X	_	None	19	flat:foreign	_	charID=175__char=q__charStatus=True__pause=2153|charID=176__char=e__charStatus=False__pause=749
+
+# text_version=41
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la bagare parece q
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+18	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	charID=161__char=b__charStatus=True__pause=1139|charID=162__char=a__charStatus=True__pause=780|charID=163__char=g__charStatus=True__pause=2932|charID=164__char=a__charStatus=True__pause=437|charID=165__char=r__charStatus=True__pause=656|charID=166__char=e__charStatus=True__pause=187
+19	parece	parece	X	_	Foreign=Yes	18	appos	_	charID=168__char=p__charStatus=True__pause=26989|charID=169__char=a__charStatus=True__pause=1545|charID=170__char=r__charStatus=True__pause=967|charID=171__char=e__charStatus=True__pause=577|charID=172__char=c__charStatus=True__pause=3167|charID=173__char=e__charStatus=True__pause=546
+20	q	q	X	_	Foreign=Yes	19	flat:foreign	_	charID=175__char=q__charStatus=True__pause=2153
+
+# text_version=42
+# sentence_id=1
+# text = Il eitai foi neila et lorine bagare en classe et le maiter dit à onu dareté la bagare parece que sont peut se blésé
+1	Il	lui	PRON	_	Emph=No|Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	charID=55__char=I__charStatus=True__pause=1981|charID=56__char=l__charStatus=True__pause=3946
+2	eitai	eiter	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=64__char=e__charStatus=True__pause=2371|charID=65__char=i__charStatus=True__pause=2231|charID=66__char=t__charStatus=True__pause=671|charID=67__char=a__charStatus=True__pause=562|charID=68__char=i__charStatus=True__pause=515
+3	foi	foi	NOUN	_	Gender=Fem|Number=Sing	2	obj	_	charID=70__char=f__charStatus=True__pause=780|charID=71__char=o__charStatus=True__pause=1280|charID=72__char=i__charStatus=True__pause=156
+4	neila	neila	X	_	Foreign=Yes	3	flat:foreign	_	charID=74__char=n__charStatus=True__pause=1950|charID=75__char=e__charStatus=True__pause=1092|charID=76__char=i__charStatus=True__pause=1092|charID=83__char=l__charStatus=True__pause=1310|charID=84__char=a__charStatus=True__pause=562
+5	et	et	CCONJ	_	None	6	cc	_	charID=86__char=e__charStatus=True__pause=796|charID=87__char=t__charStatus=True__pause=483
+6	lorine	lorine	X	_	Foreign=Yes	3	conj	_	charID=89__char=l__charStatus=True__pause=3463|charID=90__char=o__charStatus=True__pause=250|charID=91__char=r__charStatus=True__pause=1154|charID=92__char=i__charStatus=True__pause=593|charID=95__char=n__charStatus=True__pause=1560|charID=96__char=e__charStatus=True__pause=1529
+7	bagare	bagare	X	_	Foreign=Yes	6	flat:foreign	_	charID=98__char=b__charStatus=True__pause=1513|charID=99__char=a__charStatus=True__pause=702|charID=100__char=g__charStatus=True__pause=1857|charID=101__char=a__charStatus=True__pause=1061|charID=102__char=r__charStatus=True__pause=639|charID=103__char=e__charStatus=True__pause=873
+8	en	en	ADP	_	None	9	case	_	charID=105__char=e__charStatus=True__pause=9297|charID=106__char=n__charStatus=True__pause=858
+9	classe	classe	NOUN	_	Gender=Fem|Number=Sing	2	obl:mod	_	charID=108__char=c__charStatus=True__pause=21450|charID=109__char=l__charStatus=True__pause=20717|charID=110__char=a__charStatus=True__pause=998|charID=111__char=s__charStatus=True__pause=4758|charID=112__char=s__charStatus=True__pause=187|charID=113__char=e__charStatus=True__pause=1139
+10	et	et	CCONJ	_	None	13	cc	_	charID=115__char=e__charStatus=True__pause=3494|charID=116__char=t__charStatus=True__pause=873
+11	le	le	DET	_	Definite=Def|Gender=Masc|Number=Sing|PronType=Art	12	det	_	charID=118__char=l__charStatus=True__pause=3947|charID=119__char=e__charStatus=True__pause=514
+12	maiter	maiter	NOUN	_	Gender=Masc|Number=Sing	13	nsubj	_	charID=121__char=m__charStatus=True__pause=17940|charID=126__char=a__charStatus=True__pause=3120|charID=127__char=i__charStatus=True__pause=18502|charID=128__char=t__charStatus=True__pause=1201|charID=129__char=e__charStatus=True__pause=1154|charID=130__char=r__charStatus=True__pause=203
+13	dit	dire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	conj	_	charID=133__char=d__charStatus=True__pause=2730|charID=134__char=i__charStatus=True__pause=1762|charID=135__char=t__charStatus=True__pause=2028
+14	à	à	ADP	_	None	15	case	_	charID=137__char=à__charStatus=True__pause=2341
+15	onu	onu	PROPN	_	None	13	obl:mod	_	charID=143__char=o__charStatus=True__pause=2355|charID=144__char=n__charStatus=True__pause=3464|charID=145__char=u__charStatus=True__pause=1638
+16	dareté	dareté	NOUN	_	Gender=Fem|Number=Sing	15	nmod	_	charID=147__char=d__charStatus=True__pause=8471|charID=148__char=a__charStatus=True__pause=515|charID=149__char=r__charStatus=True__pause=2979|charID=150__char=e__charStatus=True__pause=218|charID=151__char=t__charStatus=True__pause=1607|charID=152__char=é__charStatus=True__pause=2278
+17	la	le	DET	_	Definite=Def|Gender=Fem|Number=Sing|PronType=Art	18	det	_	charID=154__char=l__charStatus=True__pause=1919|charID=155__char=a__charStatus=True__pause=1124
+18	bagare	bagare	NOUN	_	Gender=Fem|Number=Sing	13	obj	_	charID=161__char=b__charStatus=True__pause=1139|charID=162__char=a__charStatus=True__pause=780|charID=163__char=g__charStatus=True__pause=2932|charID=164__char=a__charStatus=True__pause=437|charID=165__char=r__charStatus=True__pause=656|charID=166__char=e__charStatus=True__pause=187
+19	parece	parece	ADJ	_	Gender=Fem|Number=Sing	18	amod	_	charID=168__char=p__charStatus=True__pause=26989|charID=169__char=a__charStatus=True__pause=1545|charID=170__char=r__charStatus=True__pause=967|charID=171__char=e__charStatus=True__pause=577|charID=172__char=c__charStatus=True__pause=3167|charID=173__char=e__charStatus=True__pause=546
+20	que	que	PRON	_	PronType=Rel	24	obj	_	charID=175__char=q__charStatus=True__pause=2153|charID=178__char=u__charStatus=True__pause=2059|charID=179__char=e__charStatus=True__pause=171
+21	sont	être	AUX	_	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	22	aux:tense	_	charID=182__char=s__charStatus=True__pause=6146|charID=183__char=o__charStatus=True__pause=1201|charID=184__char=n__charStatus=True__pause=1264|charID=185__char=t__charStatus=True__pause=2745
+22	peut	pouvoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	charID=187__char=p__charStatus=True__pause=3245|charID=188__char=e__charStatus=True__pause=1077|charID=189__char=u__charStatus=True__pause=4259|charID=190__char=t__charStatus=True__pause=998
+23	se	soi	PRON	_	Person=3|PronType=Prs|Reflex=Yes	24	expl:pass	_	charID=192__char=s__charStatus=True__pause=1326|charID=193__char=e__charStatus=True__pause=374
+24	blésé	bléser	VERB	_	Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part	22	xcomp	_	charID=195__char=b__charStatus=True__pause=3760|charID=196__char=l__charStatus=True__pause=1638|charID=197__char=é__charStatus=True__pause=2777|charID=198__char=s__charStatus=True__pause=7035|charID=199__char=é__charStatus=True__pause=905
+

@@ -1,0 +1,1438 @@
+# text_version = 0
+# sent_id = 0_1
+1	j	_	X	NC	_	0	x	_	=|1=j__False
+
+# text_version = 2
+# sent_id = 2_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	...	...	PONCT	PONCT	_	6	ponct	_	=|28=.__False|29=.__False|30=.__False
+8	eg	_	X	NC	_	0	x	_	=|32=e__False|33=g__False
+
+# text_version = 3
+# sent_id = 3_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	...	...	PONCT	PONCT	_	6	ponct	_	=|28=.__False|29=.__False|30=.__False
+8	e	_	_	NC	_	0	x	_	=|32=e__False
+
+# text_version = 4
+# sent_id = 4_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	...	...	PONCT	PONCT	_	6	ponct	_	=|28=.__False|29=.__False|30=.__False
+8	et	et	CC	CC	_	7	coord	_	=|32=e__False|35=t__False
+9	...	...	PONCT	PONCT	_	8	dep_coord	_	=|37=.__False|38=.__False|39=.__False
+
+# text_version = 5
+# sent_id = 5_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+
+# text_version = 6
+# sent_id = 6_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	C	_	X	NC	_	0	x	_	=|51=C__False
+
+# text_version = 7
+# sent_id = 7_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+
+# text_version = 8
+# sent_id = 8_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	c	_	X	NC	_	0	x	_	=|53=c__False
+
+# text_version = 9
+# sent_id = 9_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+
+# text_version = 10
+# sent_id = 10_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	E	_	X	NPP	_	0	x	_	=|64=E__False
+
+# text_version = 11
+# sent_id = 11_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+
+# text_version = 12
+# sent_id = 12_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	ety	et_y	CC	NPP	_	7	coord	_	=|66=e__True|67=t__True|68=y__False
+
+# text_version = 13
+# sent_id = 13_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+
+# text_version = 14
+# sent_id = 14_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 14
+# sent_id = 14_2
+1	Catalina	Catalina	NPP	NPP	_	0	x	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	li	_	_	NC	_	0	x	_	=|89=l__True|90=i__False|g=m|n=s
+
+# text_version = 15
+# sent_id = 15_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 15
+# sent_id = 15_2
+1	Catalina	Catalina	NPP	NPP	_	0	x	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	l	_	X	NC	_	0	x	_	=|89=l__True
+
+# text_version = 16
+# sent_id = 16_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 16
+# sent_id = 16_2
+1	Catalina	Catalina	NPP	NPP	_	0	x	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	lui	lui	CLO	CLO	_	0	x	_	=|89=l__True|92=u__False|93=i__False|n=s|p=3
+
+# text_version = 17
+# sent_id = 17_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 17
+# sent_id = 17_2
+1	Catalina	Catalina	NPP	NPP	_	0	x	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	l	_	X	NC	_	0	x	_	=|89=l__True
+
+# text_version = 18
+# sent_id = 18_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 18
+# sent_id = 18_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	DET	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s
+3	mis	mettre	VPP	NC	_	0	root	_	=|100=s__False|98=m__True|99=i__True
+
+# text_version = 19
+# sent_id = 19_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 19
+# sent_id = 19_2
+1	Catalina	Catalina	NPP	NPP	_	0	x	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	DET	_	0	x	_	=|89=l__True|96=a__True|g=f|n=s
+3	mi	_	X	NC	_	0	x	_	=|98=m__True|99=i__True|g=m
+
+# text_version = 20
+# sent_id = 20_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 20
+# sent_id = 20_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	pat	_	X	NC	_	0	x	_	=|104=p__True|105=a__True|106=t__False|g=m|n=s
+
+# text_version = 21
+# sent_id = 21_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 21
+# sent_id = 21_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	pa	_	X	ADV	_	0	x	_	=|104=p__True|105=a__True
+
+# text_version = 22
+# sent_id = 22_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 22
+# sent_id = 22_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	luiç	lui_ç	CLO	NC	_	0	x	_	=|145=l__True|146=u__True|147=i__True|148=ç__False
+
+# text_version = 23
+# sent_id = 23_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 23
+# sent_id = 23_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	0	root	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+
+# text_version = 24
+# sent_id = 24_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 24
+# sent_id = 24_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	0	x	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faio	_	X	VPR	_	0	x	_	=|153=f__True|154=a__True|155=i__True|156=o__False
+
+# text_version = 25
+# sent_id = 25_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 25
+# sent_id = 25_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	0	x	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	fai	_	X	VPR	_	0	x	_	=|153=f__True|154=a__True|155=i__True
+
+# text_version = 26
+# sent_id = 26_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 26
+# sent_id = 26_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	-	-	PONCT	PONCT	_	13	ponct	_	=|162=-__False
+
+# text_version = 27
+# sent_id = 27_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 27
+# sent_id = 27_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+
+# text_version = 28
+# sent_id = 28_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 28
+# sent_id = 28_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	0	x	_	=|165=u__True|166=n__True|g=m|n=s
+15	cr	_	X	NC	_	0	x	_	=|168=c__True|169=r__True
+16	(	(	PONCT	PONCT	_	15	ponct	_	=|170=(__False
+17	o	_	X	NC	_	0	x	_	=|171=o__False
+
+# text_version = 29
+# sent_id = 29_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	un	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	bagarre	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	5	dep	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	7	coord	_	=|66=e__True|67=t__True
+9	Mélody	Mélody	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|78=.__True
+11	Catalina	Catalina	NPP	NPP	_	13	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+12	la	le_avoir	V	CLO	_	13	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+13	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+14	par	par	P	P	_	13	p_obj	_	=|104=p__True|105=a__True|108=r__True
+15	terre	terre	NC	NC	_	14	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+16	en	en	P	P	_	13	mod	_	=|116=e__True|117=n__True
+17	moins	moins	ADV	ADV	_	16	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+18	de	de	P	P	_	17	dep	_	=|125=d__True|126=e__True
+19	deux	deux	NUM	DET	_	20	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+20	secondes	seconde	NC	NC	_	18	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+21	en	en	P	P	_	13	mod	_	=|142=e__True|143=n__True
+22	lui	lui	CLO	CLO	_	23	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+23	faisant	faire	VPR	VPR	_	21	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+24	un	un	DET	DET	_	0	x	_	=|165=u__True|166=n__True|g=m|n=s
+25	cr	_	X	NC	_	0	x	_	=|168=c__True|169=r__True
+
+# text_version = 30
+# sent_id = 30_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 30
+# sent_id = 30_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	crocyhe	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|175=c__False|176=y__False|177=h__False|178=e__False
+
+# text_version = 31
+# sent_id = 31_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 31
+# sent_id = 31_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	0	x	_	=|165=u__True|166=n__True|g=m|n=s
+15	cro	_	X	NC	_	0	x	_	=|168=c__True|169=r__True|174=o__True
+
+# text_version = 32
+# sent_id = 32_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 32
+# sent_id = 32_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	'	'	PONCT	PONCT	_	15	ponct	_	=|186='__False
+
+# text_version = 33
+# sent_id = 33_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 33
+# sent_id = 33_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+
+# text_version = 34
+# sent_id = 34_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 34
+# sent_id = 34_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+
+# text_version = 35
+# sent_id = 35_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 35
+# sent_id = 35_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+
+# text_version = 36
+# sent_id = 36_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 36
+# sent_id = 36_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	la	le_avoir	CLO	CLO	_	20	aux_tps	_	=|205=l__False|206=a__False|g=f|n=s|p=3
+20	mit	mettre	V	V	_	0	root	_	=|208=m__False|209=i__False|210=t__False|n=s|p=3|t=J
+21	par	par	P	P	_	20	p_obj	_	=|212=p__False|213=a__False|214=r__False
+
+# text_version = 37
+# sent_id = 37_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 38
+# sent_id = 38_2
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	13	mod	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	7	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+11	Catalina	Catalina	NPP	NPP	_	13	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+12	la	la	CLO	CLO	_	13	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+13	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+14	par	par	P	P	_	13	mod	_	=|104=p__True|105=a__True|108=r__True
+15	terre	terre	NC	NC	_	14	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+16	en	en	P	P	_	13	mod	_	=|116=e__True|117=n__True
+17	moins	moins	ADV	ADV	_	16	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+18	de	de	P	P	_	13	mod	_	=|125=d__True|126=e__True
+19	deux	deux	DET	DET	_	20	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+20	secondes	seconde	NC	NC	_	18	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+21	en	en	P	P	_	13	mod	_	=|142=e__True|143=n__True
+22	lui	lui	CLO	CLO	_	23	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+23	faisant	faire	VPR	VPR	_	21	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+24	un	un	DET	DET	_	25	det	_	=|165=u__True|166=n__True|g=m|n=s
+25	croche	croche	NC	NC	_	23	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+26	pied	pied	NC	NC	_	25	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+27	.	.	PONCT	PONCT	_	26	ponct	_	=|194=.__True
+28	Mélody	_	NPP	NPP	_	13	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+
+# text_version = 38
+# sent_id = 38_1
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	0	x	_	=|242=u__True|243=n__True|g=m|n=s
+23	bé	_	X	NC	_	0	x	_	=|245=b__True|246=é__True
+24	b	_	X	NC	_	0	x	_	=|248=b__False
+
+# text_version = 39
+# sent_id = 39_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 39
+# sent_id = 39_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	0	x	_	=|242=u__True|243=n__True|g=m|n=s
+23	bé	_	X	NC	_	0	x	_	=|245=b__True|246=é__True
+
+# text_version = 40
+# sent_id = 40_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 40
+# sent_id = 40_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+
+# text_version = 41
+# sent_id = 41_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 41
+# sent_id = 41_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	0	x	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	dep_coord	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à+le	P+D	P+D	_	28	dep_coord	_	=|275=a__True|276=u__True|g=m|n=s
+30	secoutr	secours	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|283=t__False|284=r__False
+
+# text_version = 42
+# sent_id = 42_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 42
+# sent_id = 42_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	0	x	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	dep_coord	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à+le	P+D	P+D	_	28	dep_coord	_	=|275=a__True|276=u__True|g=m|n=s
+30	secou	secours	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True
+
+# text_version = 43
+# sent_id = 43_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 43
+# sent_id = 43_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+
+# text_version = 44
+# sent_id = 44_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 44
+# sent_id = 44_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+
+# text_version = 45
+# sent_id = 45_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 45
+# sent_id = 45_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	0	x	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	dep_coord	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à+le	P+D	P+D	_	28	dep_coord	_	=|275=a__True|276=u__True|g=m|n=s
+30	secoure	secours	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True|290=e__False
+
+# text_version = 46
+# sent_id = 46_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 46
+# sent_id = 46_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+
+# text_version = 47
+# sent_id = 47_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 47
+# sent_id = 47_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	0	x	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	dep_coord	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à+le	P+D	P+D	_	28	dep_coord	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	secours	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+31	je	je	CLS	CLS	_	34	suj	_	=|293=j__True|294=e__True|n=s|p=1
+32	me	me	CLR	CLO	_	34	a_obj	_	=|296=m__True|297=e__True|n=s|p=1
+33	suis	être	V	V	_	34	aux_tps	_	=|299=s__True|300=u__True|301=i__True|302=s__True|n=s|p=1|t=P
+34	fait	faire	VPP	VPP	_	29	dep_coord	_	=|304=f__True|305=a__True|306=i__True|307=t__True|g=m|n=s|t=K
+35	mal	mal	ADV	ADV	_	34	obj	_	=|309=m__True|310=a__True|311=l__True
+36	au	à+le	P+D	P+D	_	35	mod	_	=|313=a__True|314=u__True|g=m|n=s
+37	fessz	fesse	NC	NC	_	36	prep	_	=|316=f__True|317=e__True|318=s__True|319=s__True|320=z__False
+
+# text_version = 48
+# sent_id = 48_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 48
+# sent_id = 48_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	le_avoir	V	CLO	_	3	aux_tps	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	VPP	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	p_obj	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	prep	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	7	dep	_	=|125=d__True|126=e__True
+9	deux	deux	NUM	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche-pied	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	_	_	NC	_	15	goeswith	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	_	_	PONCT	_	0	x	_	=|194=.__True
+18	Mélody	Mélody	NPP	NPP	_	20	suj	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	0	root	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	0	x	_	=|263="__True
+27	maman	maman	NC	NC	_	25	obj	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	dep_coord	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à+le	P+D	P+D	_	28	dep_coord	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	secours	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+31	je	je	CLS	CLS	_	34	suj	_	=|293=j__True|294=e__True|n=s|p=1
+32	me	me	CLR	CLO	_	34	a_obj	_	=|296=m__True|297=e__True|n=s|p=1
+33	suis	être	V	V	_	34	aux_tps	_	=|299=s__True|300=u__True|301=i__True|302=s__True|n=s|p=1|t=P
+34	fait	faire	VPP	VPP	_	29	dep_coord	_	=|304=f__True|305=a__True|306=i__True|307=t__True|g=m|n=s|t=K
+35	mal	mal	ADV	ADV	_	34	obj	_	=|309=m__True|310=a__True|311=l__True
+36	au	à+le	P+D	P+D	_	35	mod	_	=|313=a__True|314=u__True|g=m|n=s
+37	fess	fesse	NC	NC	_	36	prep	_	=|316=f__True|317=e__True|318=s__True|319=s__True
+
+# text_version = 49
+# sent_id = 49_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 49
+# sent_id = 49_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+31	je	je	CLS	CLS	_	34	suj	_	=|293=j__True|294=e__True|n=s|p=1
+32	me	me	CLO	CLO	_	34	a_obj	_	=|296=m__True|297=e__True|n=s|p=1
+33	suis	être	V	V	_	34	aux_tps	_	=|299=s__True|300=u__True|301=i__True|302=s__True|n=s|p=1|t=P
+34	fait	faire	VPP	VPP	_	3	mod	_	=|304=f__True|305=a__True|306=i__True|307=t__True|g=m|n=s|t=K
+35	mal	mal	ADV	ADV	_	34	mod	_	=|309=m__True|310=a__True|311=l__True
+36	au	à	P+D	P+D	_	34	mod	_	=|313=a__True|314=u__True|g=m|n=s
+37	fesse	fesse	NC	NC	_	36	prep	_	=|316=f__True|317=e__True|318=s__True|319=s__True|322=e__True|g=f|n=s
+38	"	"	PONCT	PONCT	_	37	ponct	_	=|324="__False
+39	.	.	PONCT	PONCT	_	37	ponct	_	=|325=.__False
+
+# text_version = 50
+# sent_id = 50_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 50
+# sent_id = 50_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+31	je	je	CLS	CLS	_	34	suj	_	=|293=j__True|294=e__True|n=s|p=1
+32	me	me	CLO	CLO	_	34	a_obj	_	=|296=m__True|297=e__True|n=s|p=1
+33	suis	être	V	V	_	34	aux_tps	_	=|299=s__True|300=u__True|301=i__True|302=s__True|n=s|p=1|t=P
+34	fait	faire	VPP	VPP	_	3	mod	_	=|304=f__True|305=a__True|306=i__True|307=t__True|g=m|n=s|t=K
+35	mal	mal	ADV	ADV	_	34	mod	_	=|309=m__True|310=a__True|311=l__True
+36	au	à	P+D	P+D	_	34	mod	_	=|313=a__True|314=u__True|g=m|n=s
+37	fesse	fesse	NC	NC	_	36	prep	_	=|316=f__True|317=e__True|318=s__True|319=s__True|322=e__True|g=f|n=s
+
+# text_version = 51
+# sent_id = 51_1
+1	J'	je	CLS	CLS	_	3	suj	_	=|3=J__True|4='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|5=a__True|6=i__True|n=s|p=1|t=P
+3	vu	voir	VPP	VPP	_	0	root	_	=|8=v__True|9=u__True|g=m|n=s|t=K
+4	une	une	DET	DET	_	5	det	_	=|11=u__True|12=n__True|13=e__True|g=f|n=s
+5	bagare	_	NC	NC	_	3	obj	_	=|15=b__True|16=a__True|17=g__True|18=a__True|19=r__True|20=e__True
+6	entre	entre	P	P	_	3	mod	_	=|22=e__True|23=n__True|24=t__True|25=r__True|26=e__True
+7	Catalina	Catalina	NPP	NPP	_	6	prep	_	=|55=C__True|56=a__True|57=t__True|58=a__True|59=l__True|60=i__True|61=n__True|62=a__True|g=f|n=s
+8	et	et	CC	CC	_	3	coord	_	=|66=e__True|67=t__True
+9	Mélody	_	NPP	NPP	_	8	dep_coord	_	=|71=M__True|72=é__True|73=l__True|74=o__True|75=d__True|76=y__True
+10	.	.	PONCT	PONCT	_	9	ponct	_	=|78=.__True
+
+# text_version = 51
+# sent_id = 51_2
+1	Catalina	Catalina	NPP	NPP	_	3	suj	_	=|80=C__True|81=a__True|82=t__True|83=a__True|84=l__True|85=i__True|86=n__True|87=a__True|g=f|n=s
+2	la	la	CLO	CLO	_	3	obj	_	=|89=l__True|96=a__True|g=f|n=s|p=3
+3	mit	mettre	V	V	_	0	root	_	=|102=t__True|98=m__True|99=i__True|n=s|p=3|t=J
+4	par	par	P	P	_	3	mod	_	=|104=p__True|105=a__True|108=r__True
+5	terre	terre	NC	NC	_	4	prep	_	=|110=t__True|111=e__True|112=r__True|113=r__True|114=e__True|g=f|n=s
+6	en	en	P	P	_	3	mod	_	=|116=e__True|117=n__True
+7	moins	moins	ADV	ADV	_	6	mod	_	=|119=m__True|120=o__True|121=i__True|122=n__True|123=s__True
+8	de	de	P	P	_	3	mod	_	=|125=d__True|126=e__True
+9	deux	deux	DET	DET	_	10	det	_	=|128=d__True|129=e__True|130=u__True|131=x__True|n=p|s=card
+10	secondes	seconde	NC	NC	_	8	prep	_	=|133=s__True|134=e__True|135=c__True|136=o__True|137=n__True|138=d__True|139=e__True|140=s__True|g=f|n=p
+11	en	en	P	P	_	3	mod	_	=|142=e__True|143=n__True
+12	lui	lui	CLO	CLO	_	13	a_obj	_	=|145=l__True|146=u__True|147=i__True|n=s|p=3
+13	faisant	faire	VPR	VPR	_	11	prep	_	=|153=f__True|154=a__True|155=i__True|158=s__True|159=a__True|160=n__True|161=t__True|t=G
+14	un	un	DET	DET	_	15	det	_	=|165=u__True|166=n__True|g=m|n=s
+15	croche	croche	NC	NC	_	13	obj	_	=|168=c__True|169=r__True|174=o__True|183=c__True|184=h__True|185=e__True|g=f|n=s
+16	pied	pied	NC	NC	_	15	mod	_	=|189=p__True|190=i__True|191=e__True|192=d__True|n=s
+17	.	.	PONCT	PONCT	_	16	ponct	_	=|194=.__True
+18	Mélody	_	NPP	NPP	_	3	mod	_	=|198=M__True|199=é__True|200=l__True|201=o__True|202=d__True|203=y__True
+19	a	avoir	V	V	_	20	aux_tps	_	=|227=a__True|n=s|p=3|t=P
+20	pleuré	pleurer	VPP	VPP	_	3	mod	_	=|229=p__True|230=l__True|231=e__True|232=u__True|233=r__True|234=é__True|g=m|n=s|t=K
+21	comme	comme	P	P	_	20	mod	_	=|236=c__True|237=o__True|238=m__True|239=m__True|240=e__True
+22	un	un	DET	DET	_	23	det	_	=|242=u__True|243=n__True|g=m|n=s
+23	bébé	bébé	NC	NC	_	21	prep	_	=|245=b__True|246=é__True|251=b__True|252=é__True|g=m|n=s
+24	en	en	P	P	_	20	mod	_	=|254=e__True|255=n__True
+25	criant	crier	VPR	VPR	_	24	prep	_	=|257=c__True|258=r__True|259=i__True|260=a__True|261=n__True|262=t__True|t=G
+26	"	"	PONCT	PONCT	_	25	ponct	_	=|263="__True
+27	maman	maman	NC	NC	_	25	mod	_	=|264=m__True|265=a__True|266=m__True|267=a__True|268=n__True|g=f|n=s
+28	maman	maman	NC	NC	_	27	mod	_	=|269=m__True|270=a__True|271=m__True|272=a__True|273=n__True|g=f|n=s
+29	au	à	P+D	P+D	_	25	mod	_	=|275=a__True|276=u__True|g=m|n=s
+30	secour	_	NC	NC	_	29	prep	_	=|278=s__True|279=e__True|280=c__True|281=o__True|282=u__True|287=r__True
+31	je	je	CLS	CLS	_	34	suj	_	=|293=j__True|294=e__True|n=s|p=1
+32	me	me	CLO	CLO	_	34	a_obj	_	=|296=m__True|297=e__True|n=s|p=1
+33	suis	être	V	V	_	34	aux_tps	_	=|299=s__True|300=u__True|301=i__True|302=s__True|n=s|p=1|t=P
+34	fait	faire	VPP	VPP	_	3	mod	_	=|304=f__True|305=a__True|306=i__True|307=t__True|g=m|n=s|t=K
+35	mal	mal	ADV	ADV	_	34	mod	_	=|309=m__True|310=a__True|311=l__True
+36	au	à	P+D	P+D	_	34	mod	_	=|313=a__True|314=u__True|g=m|n=s
+37	fesse	fesse	NC	NC	_	36	prep	_	=|316=f__True|317=e__True|318=s__True|319=s__True|322=e__True|g=f|n=s
+38	"	"	PONCT	PONCT	_	37	ponct	_	=|329="__True
+39	.	.	PONCT	PONCT	_	37	ponct	_	=|330=.__True
+

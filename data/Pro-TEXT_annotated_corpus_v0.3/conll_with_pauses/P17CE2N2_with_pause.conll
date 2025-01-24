@@ -1,0 +1,178 @@
+# text_version=0
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	3	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	3	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+3	bbagar	bagarrer	NC	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=13__char=b__charStatus=False__pause=905|charID=14__char=a__charStatus=False__pause=811|charID=15__char=g__charStatus=False__pause=5023|charID=16__char=a__charStatus=False__pause=1653|charID=17__char=r__charStatus=False__pause=5180
+
+# text_version=1
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	4	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	4	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+4	b	bagarre	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520
+
+# text_version=2
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+7	q	Côme	NPP	NC	_	6	prep	_	charID=34__char=q__charStatus=False__pause=7332
+
+# text_version=3
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	0	_	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	0	_	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+
+# text_version=4
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+8	c	Côme	NPP	NC	_	6	prep	_	charID=36__char=c__charStatus=False__pause=2106
+
+# text_version=5
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	0	_	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	0	_	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+
+# text_version=6
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	Côme	NPP	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+10	et	et	CC	CC	_	9	coord	_	charID=44__char=e__charStatus=False__pause=7394|charID=45__char=t__charStatus=False__pause=15428
+11	aminn	Amine	NC	NC	_	10	dep_coord	_	charID=47__char=a__charStatus=False__pause=2028|charID=48__char=m__charStatus=False__pause=2450|charID=49__char=i__charStatus=False__pause=1294|charID=50__char=n__charStatus=False__pause=4181|charID=51__char=n__charStatus=False__pause=7582
+
+# text_version=7
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	0	_	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	0	_	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	_	NC	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+
+# text_version=8
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	Côme	NPP	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	Amine	NPP	NC	n=s|g=f	9	dep_coord	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	12	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	Tobias	NPP	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	0	root	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	Alicia	NPP	NC	_	0	x	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+17	vavs	aller	V	NC	_	0	x	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=91__char=v__charStatus=False__pause=4150|charID=92__char=s__charStatus=False__pause=2060
+
+# text_version=9
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	Côme	NPP	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	Amine	NPP	NC	n=s|g=f	9	dep_coord	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	12	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	Tobias	NPP	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	0	root	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	Alicia	NPP	NPP	_	0	x	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+18	va	aller	V	VIMP	n=s|t=Y|p=2	0	x	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482
+
+# text_version=10
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	Côme	NPP	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	Amine	NPP	NC	n=s|g=f	9	dep_coord	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	12	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	Tobias	NPP	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	0	root	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	Alicia	NPP	NPP	_	21	suj	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+19	vas	aller	V	V	n=s|t=P|p=2	21	aux_tps	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=97__char=s__charStatus=True__pause=3011
+20	le	le	CLO	DET	n=s|g=m	21	obj	_	charID=99__char=l__charStatus=True__pause=2308|charID=100__char=e__charStatus=True__pause=1997
+21	dire	dire	VINF	NC	n=s|g=m	15	dep_coord	_	charID=102__char=d__charStatus=True__pause=2122|charID=103__char=i__charStatus=True__pause=1607|charID=104__char=r__charStatus=True__pause=1950|charID=105__char=e__charStatus=True__pause=1435
+22	aux	à+le	P+D	P+D	n=p	21	a_obj	_	charID=107__char=a__charStatus=True__pause=3728|charID=108__char=u__charStatus=True__pause=1809|charID=109__char=x__charStatus=True__pause=6146
+23	adil	adulte	NC	NC	_	22	prep	_	charID=111__char=a__charStatus=True__pause=2543|charID=112__char=d__charStatus=True__pause=6957|charID=113__char=i__charStatus=False__pause=1404|charID=114__char=l__charStatus=False__pause=1154
+
+# text_version=11
+# sentence_id=1
+1	AIECIA	Alicia	NPP	ADV	_	5	suj	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	se	CLR	DET	n=s|g=m	5	aff	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	bagarrer	V	NC	_	0	root	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	mod	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	Côme	NPP	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	Amine	NPP	NC	n=s|g=f	9	dep_coord	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	12	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	Tobias	NPP	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	0	root	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	Alicia	NPP	NPP	_	21	suj	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+19	vas	aller	V	V	n=s|t=P|p=2	21	aux_tps	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=97__char=s__charStatus=True__pause=3011
+20	le	le	CLO	DET	n=s|g=m	21	obj	_	charID=99__char=l__charStatus=True__pause=2308|charID=100__char=e__charStatus=True__pause=1997
+21	dire	dire	VINF	NC	n=s|g=m	15	dep_coord	_	charID=102__char=d__charStatus=True__pause=2122|charID=103__char=i__charStatus=True__pause=1607|charID=104__char=r__charStatus=True__pause=1950|charID=105__char=e__charStatus=True__pause=1435
+22	aux	à+le	P+D	P+D	n=p	21	a_obj	_	charID=107__char=a__charStatus=True__pause=3728|charID=108__char=u__charStatus=True__pause=1809|charID=109__char=x__charStatus=True__pause=6146
+24	ad	adulte	NC	NC	_	22	prep	_	charID=111__char=a__charStatus=True__pause=2543|charID=112__char=d__charStatus=True__pause=6957
+
+# text_version=12
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	19	mod	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	19	suj	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	_	NC	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	amine	NC	NC	n=s|g=f	9	mod	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	5	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	_	NC	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	5	coord	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	_	NPP	NPP	_	5	mod	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+19	vas	aller	V	V	n=s|t=P|p=2	0	root	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=97__char=s__charStatus=True__pause=3011
+20	le	le	DET	DET	n=s|g=m	21	det	_	charID=99__char=l__charStatus=True__pause=2308|charID=100__char=e__charStatus=True__pause=1997
+21	dire	dire	NC	NC	n=s|g=m	19	obj	_	charID=102__char=d__charStatus=True__pause=2122|charID=103__char=i__charStatus=True__pause=1607|charID=104__char=r__charStatus=True__pause=1950|charID=105__char=e__charStatus=True__pause=1435
+22	aux	à	P+D	P+D	n=p	19	mod	_	charID=107__char=a__charStatus=True__pause=3728|charID=108__char=u__charStatus=True__pause=1809|charID=109__char=x__charStatus=True__pause=6146
+25	adulte	adulte	NC	NC	n=s	22	prep	_	charID=111__char=a__charStatus=True__pause=2543|charID=112__char=d__charStatus=True__pause=6957|charID=117__char=u__charStatus=True__pause=4181|charID=118__char=l__charStatus=True__pause=20467|charID=119__char=t__charStatus=True__pause=1685|charID=120__char=e__charStatus=True__pause=1467
+
+# text_version=13
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	19	mod	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	19	suj	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	_	NC	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	amine	NC	NC	n=s|g=f	9	mod	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	5	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	_	NC	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	5	coord	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	_	NPP	NPP	_	5	mod	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+19	vas	aller	V	V	n=s|t=P|p=2	0	root	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=97__char=s__charStatus=True__pause=3011
+20	le	le	DET	DET	n=s|g=m	21	det	_	charID=99__char=l__charStatus=True__pause=2308|charID=100__char=e__charStatus=True__pause=1997
+21	dire	dire	NC	NC	n=s|g=m	19	obj	_	charID=102__char=d__charStatus=True__pause=2122|charID=103__char=i__charStatus=True__pause=1607|charID=104__char=r__charStatus=True__pause=1950|charID=105__char=e__charStatus=True__pause=1435
+22	aux	à	P+D	P+D	n=p	19	mod	_	charID=107__char=a__charStatus=True__pause=3728|charID=108__char=u__charStatus=True__pause=1809|charID=109__char=x__charStatus=True__pause=6146
+25	adulte	adulte	NC	NC	n=s	22	prep	_	charID=111__char=a__charStatus=True__pause=2543|charID=112__char=d__charStatus=True__pause=6957|charID=117__char=u__charStatus=True__pause=4181|charID=118__char=l__charStatus=True__pause=20467|charID=119__char=t__charStatus=True__pause=1685|charID=120__char=e__charStatus=True__pause=1467
+
+# text_version=14
+# sentence_id=1
+1	AIECIA	_	ADV	ADV	_	19	mod	_	charID=1__char=A__charStatus=True__pause=na|charID=2__char=I__charStatus=True__pause=1654|charID=3__char=E__charStatus=True__pause=3245|charID=4__char=C__charStatus=True__pause=10234|charID=5__char=I__charStatus=True__pause=3432|charID=6__char=A__charStatus=True__pause=1263
+2	ce	ce	DET	DET	n=s|g=m	5	det	_	charID=9__char=c__charStatus=True__pause=4352|charID=10__char=e__charStatus=True__pause=1061
+5	bagard	_	NC	NC	_	19	suj	_	charID=12__char=b__charStatus=True__pause=26520|charID=23__char=a__charStatus=True__pause=2356|charID=24__char=g__charStatus=True__pause=22901|charID=25__char=a__charStatus=True__pause=1029|charID=26__char=r__charStatus=True__pause=5039|charID=27__char=d__charStatus=True__pause=2184
+6	avec	avec	P	P	_	5	dep	_	charID=29__char=a__charStatus=True__pause=2667|charID=30__char=v__charStatus=True__pause=3338|charID=31__char=e__charStatus=True__pause=1248|charID=32__char=c__charStatus=True__pause=1966
+9	quome	_	NC	NC	_	6	prep	_	charID=38__char=q__charStatus=True__pause=1436|charID=39__char=u__charStatus=True__pause=1201|charID=40__char=o__charStatus=True__pause=42339|charID=41__char=m__charStatus=True__pause=2418|charID=42__char=e__charStatus=True__pause=2793
+12	amine	amine	NC	NC	n=s|g=f	9	mod	_	charID=62__char=a__charStatus=True__pause=3900|charID=63__char=m__charStatus=True__pause=2450|charID=64__char=i__charStatus=True__pause=2605|charID=65__char=n__charStatus=True__pause=1903|charID=66__char=e__charStatus=True__pause=2277
+13	et	et	CC	CC	_	5	coord	_	charID=68__char=e__charStatus=True__pause=5694|charID=69__char=t__charStatus=True__pause=1171
+14	tobiace	_	NC	NC	_	13	dep_coord	_	charID=71__char=t__charStatus=True__pause=2918|charID=72__char=o__charStatus=True__pause=4977|charID=73__char=b__charStatus=True__pause=2418|charID=74__char=i__charStatus=True__pause=983|charID=75__char=a__charStatus=True__pause=3104|charID=76__char=c__charStatus=True__pause=1264|charID=77__char=e__charStatus=True__pause=4275
+15	et	et	CC	CC	_	5	coord	_	charID=79__char=e__charStatus=True__pause=86893|charID=80__char=t__charStatus=True__pause=468
+16	alicia	_	NPP	NPP	_	5	mod	_	charID=82__char=a__charStatus=True__pause=1654|charID=83__char=l__charStatus=True__pause=2683|charID=84__char=i__charStatus=True__pause=1186|charID=85__char=c__charStatus=True__pause=8674|charID=86__char=i__charStatus=True__pause=18580|charID=87__char=a__charStatus=True__pause=2090
+19	vas	aller	V	V	n=s|t=P|p=2	0	root	_	charID=89__char=v__charStatus=True__pause=9657|charID=90__char=a__charStatus=True__pause=1482|charID=97__char=s__charStatus=True__pause=3011
+20	le	le	DET	DET	n=s|g=m	21	det	_	charID=99__char=l__charStatus=True__pause=2308|charID=100__char=e__charStatus=True__pause=1997
+21	dire	dire	NC	NC	n=s|g=m	19	obj	_	charID=102__char=d__charStatus=True__pause=2122|charID=103__char=i__charStatus=True__pause=1607|charID=104__char=r__charStatus=True__pause=1950|charID=105__char=e__charStatus=True__pause=1435
+22	aux	à	P+D	P+D	n=p	19	mod	_	charID=107__char=a__charStatus=True__pause=3728|charID=108__char=u__charStatus=True__pause=1809|charID=109__char=x__charStatus=True__pause=6146
+26	adultes	adulte	NC	NC	n=p	22	prep	_	charID=111__char=a__charStatus=True__pause=2543|charID=112__char=d__charStatus=True__pause=6957|charID=117__char=u__charStatus=True__pause=4181|charID=118__char=l__charStatus=True__pause=20467|charID=119__char=t__charStatus=True__pause=1685|charID=120__char=e__charStatus=True__pause=1467|charID=123__char=s__charStatus=True__pause=8346
+

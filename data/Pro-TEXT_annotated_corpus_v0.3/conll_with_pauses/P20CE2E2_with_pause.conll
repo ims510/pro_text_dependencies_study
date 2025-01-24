@@ -1,0 +1,1038 @@
+# text_version=0
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	2	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+2	bagarz	bagarre	NC	NC	_	0	x	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=9__char=z__charStatus=False__pause=218
+
+# text_version=1
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	3	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+3	bagar	bagarre	NC	NC	_	0	x	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340
+
+# text_version=2
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	0	x	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	0	x	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+6	v	_	X	VPR	_	0	x	_	charID=16__char=v__charStatus=False__pause=5476
+
+# text_version=3
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+
+# text_version=4
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+9	pazs	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=26__char=z__charStatus=False__pause=10748|charID=27__char=s__charStatus=False__pause=na
+
+# text_version=5
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+10	pa	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203
+
+# text_version=6
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	14	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ET	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+14	biens	bien	NC	NC	n=p|g=m	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948|charID=46__char=s__charStatus=False__pause=12496
+
+# text_version=7
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	0	_	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	0	_	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	0	_	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	0	_	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=8
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	16	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ET	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+16	biens	bien	NC	NC	n=p|g=m	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948|charID=48__char=s__charStatus=False__pause=483
+
+# text_version=9
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	0	_	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	0	_	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	0	_	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	0	_	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=10
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+17	s	_	X	ADV	_	0	x	_	charID=51__char=s__charStatus=False__pause=515
+18	df	_	X	ADV	_	0	x	_	charID=54__char=d__charStatus=False__pause=749|charID=55__char=f__charStatus=False__pause=234
+
+# text_version=11
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	0	_	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	0	_	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	0	_	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	0	_	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+
+# text_version=12
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+19	surtoq	surtout	ADV	VPP	_	0	x	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=66__char=q__charStatus=False__pause=5101
+
+# text_version=13
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+20	surto	surtout	ADV	VPP	_	0	root	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752
+
+# text_version=14
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	22	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+22	quandd	quand	CS	ADV	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938|charID=76__char=d__charStatus=False__pause=125
+
+# text_version=15
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+
+# text_version=16
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	0	_	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=17
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	0	_	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=18
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+25	a	avoir	V	VS	_	23	sub	_	charID=86__char=a__charStatus=False__pause=577
+
+# text_version=19
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	0	_	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+
+# text_version=20
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	NC	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+28	àun	à_un	P	NC	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574|charID=98__char=u__charStatus=False__pause=2200|charID=99__char=n__charStatus=False__pause=358
+
+# text_version=21
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+
+# text_version=22
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+31	ppppp	_	X	NC	_	0	x	_	charID=106__char=p__charStatus=True__pause=10686|charID=107__char=p__charStatus=False__pause=515|charID=108__char=p__charStatus=False__pause=47|charID=109__char=p__charStatus=False__pause=31|charID=110__char=p__charStatus=False__pause=47
+
+# text_version=23
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+32	p	_	X	NC	_	0	x	_	charID=106__char=p__charStatus=True__pause=10686
+
+# text_version=24
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+33	pppppppppppppppppppppppppppppppppppp	_	X	NC	_	0	x	_	charID=106__char=p__charStatus=True__pause=10686|charID=115__char=p__charStatus=False__pause=1310|charID=116__char=p__charStatus=False__pause=515|charID=117__char=p__charStatus=False__pause=31|charID=118__char=p__charStatus=False__pause=47|charID=119__char=p__charStatus=False__pause=47|charID=120__char=p__charStatus=False__pause=31|charID=121__char=p__charStatus=False__pause=47|charID=122__char=p__charStatus=False__pause=31|charID=123__char=p__charStatus=False__pause=47|charID=124__char=p__charStatus=False__pause=47|charID=125__char=p__charStatus=False__pause=31|charID=126__char=p__charStatus=False__pause=47|charID=127__char=p__charStatus=False__pause=31|charID=128__char=p__charStatus=False__pause=47|charID=129__char=p__charStatus=False__pause=47|charID=130__char=p__charStatus=False__pause=31|charID=131__char=p__charStatus=False__pause=47|charID=132__char=p__charStatus=False__pause=46|charID=133__char=p__charStatus=False__pause=32|charID=134__char=p__charStatus=False__pause=46|charID=135__char=p__charStatus=False__pause=32|charID=136__char=p__charStatus=False__pause=46|charID=137__char=p__charStatus=False__pause=47|charID=138__char=p__charStatus=False__pause=31|charID=139__char=p__charStatus=False__pause=47|charID=140__char=p__charStatus=False__pause=31|charID=141__char=p__charStatus=False__pause=47|charID=142__char=p__charStatus=False__pause=47|charID=143__char=p__charStatus=False__pause=47|charID=144__char=p__charStatus=False__pause=31|charID=145__char=p__charStatus=False__pause=47|charID=146__char=p__charStatus=False__pause=31|charID=147__char=p__charStatus=False__pause=47|charID=148__char=p__charStatus=False__pause=47|charID=149__char=p__charStatus=False__pause=31
+
+# text_version=25
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+32	p	_	X	NC	_	0	x	_	charID=106__char=p__charStatus=True__pause=10686
+
+# text_version=26
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+34	pluuuuuuuuuuuuuuuuu	plus	ADV	NC	_	0	x	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=187__char=u__charStatus=False__pause=515|charID=188__char=u__charStatus=False__pause=47|charID=189__char=u__charStatus=False__pause=31|charID=190__char=u__charStatus=False__pause=47|charID=191__char=u__charStatus=False__pause=31|charID=192__char=u__charStatus=False__pause=47|charID=193__char=u__charStatus=False__pause=47|charID=194__char=u__charStatus=False__pause=31|charID=195__char=u__charStatus=False__pause=47|charID=196__char=u__charStatus=False__pause=47|charID=197__char=u__charStatus=False__pause=31|charID=198__char=u__charStatus=False__pause=47|charID=199__char=u__charStatus=False__pause=31|charID=200__char=u__charStatus=False__pause=47|charID=201__char=u__charStatus=False__pause=46|charID=202__char=u__charStatus=False__pause=32
+
+# text_version=27
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+35	plu	plus	ADV	ADJ	n=s|g=m|t=K	0	x	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569
+
+# text_version=28
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	0	_	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	0	_	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+
+# text_version=29
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	0	_	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	0	_	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+
+# text_version=30
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+40	!	!	PONCT	PONCT	_	39	ponct	_	charID=247__char=!__charStatus=False__pause=4524
+
+# text_version=31
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=32
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	ADJ	_	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+41	§	§	PONCT	PONCT	_	39	ponct	_	charID=249__char=§__charStatus=False__pause=1732
+
+# text_version=33
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=34
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	ADJ	_	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+42	§	§	PONCT	PONCT	_	39	ponct	_	charID=251__char=§__charStatus=False__pause=1482
+
+# text_version=35
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=36
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	ADJ	_	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+43	§	§	PONCT	PONCT	_	39	ponct	_	charID=253__char=§__charStatus=False__pause=3604
+
+# text_version=37
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=38
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	ADJ	_	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+44	§	§	PONCT	PONCT	_	39	ponct	_	charID=255__char=§__charStatus=False__pause=2996
+
+# sentence_id=2
+45	§	§	PONCT	PONCT	_	0	x	_	charID=257__char=§__charStatus=False__pause=951
+
+# text_version=39
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=40
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	ADJ	_	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+46	§	§	PONCT	PONCT	_	39	ponct	_	charID=263__char=§__charStatus=False__pause=17893
+
+# text_version=41
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	être	VS	VS	n=s|t=S|p=1,2	38	sub	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+
+# text_version=42
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+48	LA	le	DET	CLO	n=s|g=f|p=3	0	root	_	charID=266__char=L__charStatus=True__pause=20936|charID=267__char=A__charStatus=False__pause=483
+
+# text_version=43
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+49	L	_	X	NC	_	0	x	_	charID=266__char=L__charStatus=True__pause=20936
+
+# text_version=44
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	le	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	bagarre	NC	NC	_	0	x	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+52	se	ce	CLS	CLR	n=p,s|p=3	0	root	_	charID=280__char=s__charStatus=True__pause=671|charID=281__char=e__charStatus=False__pause=344
+53	n'	ne	ADV	VS	_	0	x	_	charID=283__char=n__charStatus=False__pause=3494|charID=284__char='__charStatus=False__pause=2293
+
+# text_version=45
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	le	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	bagarre	NC	NC	_	0	x	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+54	s	_	X	NC	_	0	x	_	charID=280__char=s__charStatus=True__pause=671
+
+# text_version=46
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	le	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	bagarre	NC	NC	_	55	suj	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ce_être	V	DET	n=p|p=3|poss=s	0	root	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	55	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	55	mod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+58	bien	bien	ADV	ADV	_	55	ats	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=305__char=n__charStatus=False__pause=2870
+59	!!!!!	!!!!!	PONCT	PONCT	_	58	ponct	_	charID=306__char=!__charStatus=False__pause=15865|charID=307__char=!__charStatus=False__pause=219|charID=308__char=!__charStatus=False__pause=156|charID=309__char=!__charStatus=False__pause=125|charID=310__char=!__charStatus=False__pause=125
+
+# text_version=47
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	le	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	bagarre	NC	NC	_	55	suj	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ce_être	V	DET	n=p|p=3|poss=s	0	root	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	55	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	55	mod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+60	bie	bien	ADV	NC	_	55	ats	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530
+
+# text_version=48
+# sentence_id=1
+1	La	le	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	bagarre	NC	NC	_	8	suj	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	ce	CLS	CLR	n=p,s|p=3	8	suj	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	root	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	8	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	trop	ADV	ET	_	15	mod	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	trop	ADV	ADV	_	12	dep_coord	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	8	ats	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	23	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	attaquer	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	a_obj	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	PRO	DET	n=s|g=m	29	prep	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	30	mod	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	CS	PROREL	_	36	arg_comp	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	PRO	NC	n=p|g=m	38	obj	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	.	PONCT	PONCT	_	0	x	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	le	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	bagarre	NC	NC	_	55	suj	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ce_être	V	DET	n=p|p=3|poss=s	0	root	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	55	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	55	mod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+61	bien	bien	ADV	ADV	_	55	ats	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+62	caro	car	CS	NC	_	55	mod	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734|charID=322__char=o__charStatus=False__pause=10608
+
+# text_version=49
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	NC	NC	n=p|g=m	0	_	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	!	PONCT	PONCT	_	39	ponct	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	la	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	_	NC	NC	_	0	_	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	57	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	0	_	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+61	bien	bien	ADV	ADV	_	0	_	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+63	car	car	CS	CS	_	61	dep	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+
+# text_version=50
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	NC	NC	n=p|g=m	0	_	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	!	PONCT	PONCT	_	39	ponct	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	la	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	_	NC	NC	_	0	_	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	57	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	0	_	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+61	bien	bien	ADV	ADV	_	0	_	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+64	caro	_	NC	NC	_	0	_	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734|charID=324__char=o__charStatus=False__pause=484
+
+# text_version=51
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	NC	NC	n=p|g=m	0	_	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	!	PONCT	PONCT	_	39	ponct	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	la	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	_	NC	NC	_	0	_	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	57	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	0	_	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+61	bien	bien	ADV	ADV	_	0	_	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+63	car	car	CS	CS	_	61	dep	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+
+# text_version=52
+# sentence_id=1
+1	La	la	DET	DET	n=s|g=f	4	det	_	charID=1__char=L__charStatus=True__pause=na|charID=2__char=a__charStatus=True__pause=2152
+4	bagare	_	NC	NC	_	0	_	_	charID=4__char=b__charStatus=True__pause=2121|charID=5__char=a__charStatus=True__pause=7753|charID=6__char=g__charStatus=True__pause=25475|charID=7__char=a__charStatus=True__pause=2075|charID=8__char=r__charStatus=True__pause=2340|charID=11__char=e__charStatus=True__pause=1997
+5	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=13__char=s__charStatus=True__pause=1638|charID=14__char=e__charStatus=True__pause=297
+7	n'	ne	ADV	ADV	_	8	mod	_	charID=18__char=n__charStatus=True__pause=11248|charID=19__char='__charStatus=True__pause=3573
+8	est	être	V	V	n=s|t=P|p=3	0	_	_	charID=20__char=e__charStatus=True__pause=4805|charID=21__char=s__charStatus=True__pause=3869|charID=22__char=t__charStatus=True__pause=1061
+11	pas	pas	ADV	ADV	_	21	mod	_	charID=24__char=p__charStatus=True__pause=9048|charID=25__char=a__charStatus=True__pause=203|charID=30__char=s__charStatus=True__pause=1030
+12	tros	_	ET	ET	_	21	aux_pass	_	charID=32__char=t__charStatus=True__pause=9267|charID=33__char=r__charStatus=True__pause=1045|charID=34__char=o__charStatus=True__pause=1061|charID=35__char=s__charStatus=True__pause=1965
+13	tros	_	ADV	ADV	_	21	mod	_	charID=37__char=t__charStatus=True__pause=717|charID=38__char=r__charStatus=True__pause=265|charID=39__char=o__charStatus=True__pause=1061|charID=40__char=s__charStatus=True__pause=967
+15	bien	bien	ADV	ADV	_	21	mod	_	charID=42__char=b__charStatus=True__pause=17457|charID=43__char=i__charStatus=True__pause=967|charID=44__char=e__charStatus=True__pause=4867|charID=45__char=n__charStatus=True__pause=2948
+21	surtout	surtout	ADV	ADV	_	8	mod	_	charID=61__char=s__charStatus=True__pause=3526|charID=62__char=u__charStatus=True__pause=7176|charID=63__char=r__charStatus=True__pause=5616|charID=64__char=t__charStatus=True__pause=608|charID=65__char=o__charStatus=True__pause=8752|charID=68__char=u__charStatus=True__pause=6552|charID=69__char=t__charStatus=True__pause=2293
+23	quand	quand	CS	CS	_	8	mod	_	charID=71__char=q__charStatus=True__pause=2137|charID=72__char=u__charStatus=True__pause=2901|charID=73__char=a__charStatus=True__pause=2059|charID=74__char=n__charStatus=True__pause=8268|charID=75__char=d__charStatus=True__pause=8938
+24	on	on	CLS	CLS	n=s|p=3	27	suj	_	charID=79__char=o__charStatus=True__pause=2652|charID=80__char=n__charStatus=True__pause=2372
+26	s'	se	CLR	CLR	n=p,s|p=3	27	aff	_	charID=88__char=s__charStatus=True__pause=5600|charID=89__char='__charStatus=True__pause=3042
+27	ataque	_	V	V	_	23	sub	_	charID=90__char=a__charStatus=True__pause=1545|charID=91__char=t__charStatus=True__pause=1185|charID=92__char=a__charStatus=True__pause=858|charID=93__char=q__charStatus=True__pause=4258|charID=94__char=u__charStatus=True__pause=1326|charID=95__char=e__charStatus=True__pause=468
+29	à	à	P	P	_	27	mod	_	charID=97__char=à__charStatus=True__pause=2574
+30	un	un	DET	DET	n=s|g=m	37	det	_	charID=103__char=u__charStatus=True__pause=14258|charID=104__char=n__charStatus=True__pause=249
+36	plus	plus	ADV	ADV	_	37	mod	_	charID=106__char=p__charStatus=True__pause=10686|charID=185__char=l__charStatus=True__pause=5569|charID=186__char=u__charStatus=True__pause=5569|charID=219__char=s__charStatus=True__pause=2215
+37	petit	petit	ADJ	ADJ	n=s|g=m	29	prep	_	charID=233__char=p__charStatus=True__pause=19532|charID=234__char=e__charStatus=True__pause=1497|charID=235__char=t__charStatus=True__pause=2200|charID=236__char=i__charStatus=True__pause=1295|charID=237__char=t__charStatus=True__pause=1388
+38	que	que	PROREL	PROREL	_	0	_	_	charID=239__char=q__charStatus=True__pause=1185|charID=240__char=u__charStatus=True__pause=1435|charID=241__char=e__charStatus=True__pause=967
+39	sois	soi	NC	NC	n=p|g=m	0	_	_	charID=243__char=s__charStatus=True__pause=250|charID=244__char=o__charStatus=True__pause=2512|charID=245__char=i__charStatus=True__pause=266|charID=246__char=s__charStatus=True__pause=952
+47	!	!	PONCT	PONCT	_	39	ponct	_	charID=265__char=!__charStatus=True__pause=3229
+50	La	la	DET	DET	n=s|g=f	51	det	_	charID=266__char=L__charStatus=True__pause=20936|charID=271__char=a__charStatus=True__pause=2153
+51	bagare	_	NC	NC	_	0	_	_	charID=273__char=b__charStatus=True__pause=3510|charID=274__char=a__charStatus=True__pause=702|charID=275__char=g__charStatus=True__pause=1810|charID=276__char=a__charStatus=True__pause=2106|charID=277__char=r__charStatus=True__pause=749|charID=278__char=e__charStatus=True__pause=344
+55	ses	ses	DET	DET	n=p|p=3|poss=s	0	_	_	charID=280__char=s__charStatus=True__pause=671|charID=289__char=e__charStatus=True__pause=1982|charID=290__char=s__charStatus=True__pause=234
+56	aussi	aussi	ADV	ADV	_	57	mod	_	charID=292__char=a__charStatus=True__pause=733|charID=293__char=u__charStatus=True__pause=1232|charID=294__char=s__charStatus=True__pause=1154|charID=295__char=s__charStatus=True__pause=141|charID=296__char=i__charStatus=True__pause=3557
+57	pas	pas	ADV	ADV	_	68	mod	_	charID=298__char=p__charStatus=True__pause=4540|charID=299__char=a__charStatus=True__pause=858|charID=300__char=s__charStatus=True__pause=702
+61	bien	bien	ADV	ADV	_	68	mod	_	charID=302__char=b__charStatus=True__pause=4555|charID=303__char=i__charStatus=True__pause=2683|charID=304__char=e__charStatus=True__pause=530|charID=317__char=n__charStatus=True__pause=2746
+63	car	car	CS	CS	_	61	dep	_	charID=319__char=c__charStatus=True__pause=2324|charID=320__char=a__charStatus=True__pause=203|charID=321__char=r__charStatus=True__pause=734
+65	on	on	CLS	CLS	n=s|p=3	68	suj	_	charID=327__char=o__charStatus=True__pause=733|charID=328__char=n__charStatus=True__pause=5850
+66	peu	peu	ADV	ADV	_	68	mod	_	charID=330__char=p__charStatus=True__pause=5538|charID=331__char=e__charStatus=True__pause=858|charID=332__char=u__charStatus=True__pause=967
+67	ce	ce	PRO	PRO	n=s	68	obj	_	charID=334__char=c__charStatus=True__pause=5678|charID=335__char=e__charStatus=True__pause=93
+68	faire	faire	VINF	VINF	t=W	0	_	_	charID=337__char=f__charStatus=True__pause=2200|charID=338__char=a__charStatus=True__pause=2949|charID=339__char=i__charStatus=True__pause=749|charID=340__char=r__charStatus=True__pause=3120|charID=341__char=e__charStatus=True__pause=234
+69	mal	mal	ADV	ADV	_	68	mod	_	charID=343__char=m__charStatus=True__pause=16131|charID=344__char=a__charStatus=True__pause=1077|charID=345__char=l__charStatus=True__pause=9703
+70	!	!	PONCT	PONCT	_	69	ponct	_	charID=346__char=!__charStatus=True__pause=4305
+

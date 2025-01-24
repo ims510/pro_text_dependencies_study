@@ -1,0 +1,974 @@
+# text_version = 0
+# sent_id = 0_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	qu	_	X	NC	_	0	x	_	=|10=u__False|9=q__False
+
+# text_version = 1
+# sent_id = 1_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	qu	_	X	NC	_	0	x	_	=|10=u__False|9=q__False
+
+# text_version = 2
+# sent_id = 2_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quel	quel	DETWH	DETWH	_	0	x	_	=|10=u__False|13=e__False|14=l__False|9=q__False|g=m|n=s
+
+# text_version = 3
+# sent_id = 3_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quel	quel	DETWH	DETWH	_	0	x	_	=|10=u__False|13=e__False|14=l__False|9=q__False|g=m|n=s
+
+# text_version = 4
+# sent_id = 4_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	jh	_	X	NC	_	0	x	_	=|23=j__True|24=h__False
+
+# text_version = 5
+# sent_id = 5_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j	_	X	NC	_	0	x	_	=|23=j__True
+
+# text_version = 6
+# sent_id = 6_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j	_	X	NC	_	0	x	_	=|23=j__True
+6	,	,	PONCT	PONCT	_	5	ponct	_	=|26=,__False
+
+# text_version = 7
+# sent_id = 7_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j	_	X	NC	_	0	x	_	=|23=j__True
+
+# text_version = 8
+# sent_id = 8_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	7	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j'	je	CLS	CLS	_	7	suj	_	=|23=j__True|28='__True|n=s|p=1
+6	ai	avoir	V	V	_	7	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+7	vubn	voir	VPP	NC	_	0	root	_	=|33=v__True|34=u__False|35=b__False|36=n__False
+
+# text_version = 9
+# sent_id = 9_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j'	je	CLS	CLS	_	0	x	_	=|23=j__True|28='__True|n=s|p=1
+6	ai	avoir	V	V	_	0	x	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+7	v	_	X	ADV	_	0	x	_	=|33=v__True
+
+# text_version = 10
+# sent_id = 10_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	7	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j'	je	CLS	CLS	_	7	suj	_	=|23=j__True|28='__True|n=s|p=1
+6	ai	avoir	V	V	_	7	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+7	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+8	e	_	X	NC	_	0	x	_	=|42=e__False
+
+# text_version = 11
+# sent_id = 11_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	7	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j'	je	CLS	CLS	_	7	suj	_	=|23=j__True|28='__True|n=s|p=1
+6	ai	avoir	V	V	_	7	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+7	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+
+# text_version = 12
+# sent_id = 12_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	7	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	=|10=u__False|13=e__False|14=l__False|17=q__False|18=u__False|19='__False|9=q__False
+4	un	_	_	DET	_	3	goeswith	_	=|20=u__False|21=n__False|g=m|n=s
+5	j'	je	CLS	CLS	_	7	suj	_	=|23=j__True|28='__True|n=s|p=1
+6	ai	avoir	V	V	_	7	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+7	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+8	une	un	DET	DET	_	9	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+9	bagarre	bagarre	NC	NC	_	7	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+
+# text_version = 13
+# sent_id = 13_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+
+# text_version = 14
+# sent_id = 14_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	o	_	X	NC	_	0	x	_	=|65=o__False
+
+# text_version = 15
+# sent_id = 15_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+
+# text_version = 16
+# sent_id = 16_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	0	x	_	=|67=o__True|68=ù__True
+9	quej	_	X	ADV	_	0	x	_	=|70=q__True|71=u__True|72=e__True|73=j__False
+
+# text_version = 17
+# sent_id = 17_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	0	x	_	=|67=o__True|68=ù__True
+9	que	que	PROWH	PROWH	_	0	x	_	=|70=q__True|71=u__True|72=e__True
+
+# text_version = 18
+# sent_id = 18_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	une	un	DET	DET	_	16	det	_	=|102=u__False|103=n__False|104=e__False|g=f|n=s
+16	dri	_	X	NC	_	0	x	_	=|106=d__True|107=r__True|108=i__False
+
+# text_version = 19
+# sent_id = 19_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	une	un	DET	DET	_	16	det	_	=|102=u__False|103=n__False|104=e__False|g=f|n=s
+16	dr	_	X	NC	_	0	x	_	=|106=d__True|107=r__True
+
+# text_version = 20
+# sent_id = 20_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	une	un	DET	DET	_	16	det	_	=|102=u__False|103=n__False|104=e__False|g=f|n=s
+16	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+
+# text_version = 21
+# sent_id = 21_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+
+# text_version = 22
+# sent_id = 22_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	DET	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+
+# text_version = 23
+# sent_id = 23_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	e	_	X	NC	_	0	x	_	=|128=e__False
+
+# text_version = 24
+# sent_id = 24_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	DET	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+
+# text_version = 25
+# sent_id = 25_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	ballé	_	X	VPR	_	0	x	_	=|134=b__True|135=a__True|136=l__True|137=l__False|138=é__False
+
+# text_version = 26
+# sent_id = 26_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	ball	balle	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|137=l__False|g=m|n=s
+
+# text_version = 27
+# sent_id = 27_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balle	balle	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|137=l__False|140=e__False|g=f|n=s
+
+# text_version = 28
+# sent_id = 28_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	bal	bal	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|g=m|n=s
+
+# text_version = 29
+# sent_id = 29_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	bale	balle	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True
+
+# text_version = 30
+# sent_id = 30_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	bale	balle	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True
+
+# text_version = 31
+# sent_id = 31_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	a	à	P	V	_	0	x	_	=|185=a__False|n=s|p=3|t=P
+
+# text_version = 32
+# sent_id = 32_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	DET	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	une	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	_	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	_	NPP	NPP	_	19	mod	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	une	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	12	mod	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	12	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+
+# text_version = 33
+# sent_id = 33_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	0	x	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	0	x	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	0	x	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	0	x	_	=|203=a__True|n=s|p=3|t=P
+32	encg	_	X	ADV	_	0	x	_	=|205=e__True|206=n__True|207=c__True|208=g__False
+
+# text_version = 34
+# sent_id = 34_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	0	x	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	0	x	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	0	x	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	0	x	_	=|203=a__True|n=s|p=3|t=P
+32	enc	_	X	ADV	_	0	x	_	=|205=e__True|206=n__True|207=c__True
+
+# text_version = 35
+# sent_id = 35_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	0	x	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	0	x	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	0	x	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	0	x	_	=|203=a__True|n=s|p=3|t=P
+32	encheb	_	X	ADV	_	0	x	_	=|205=e__True|206=n__True|207=c__True|210=h__True|211=e__False|212=b__False
+
+# text_version = 36
+# sent_id = 36_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	0	x	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	0	x	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	0	x	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	0	x	_	=|203=a__True|n=s|p=3|t=P
+32	enche	_	X	VPP	_	0	x	_	=|205=e__True|206=n__True|207=c__True|210=h__True|211=e__False
+
+# text_version = 37
+# sent_id = 37_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchene	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|211=e__False|214=n__False|215=e__False
+
+# text_version = 38
+# sent_id = 38_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	0	x	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	0	x	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	0	x	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	0	x	_	=|203=a__True|n=s|p=3|t=P
+32	ench	_	X	ADV	_	0	x	_	=|205=e__True|206=n__True|207=c__True|210=h__True
+
+# text_version = 39
+# sent_id = 39_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	cou	cou	NC	NC	_	0	x	_	=|226=c__True|227=o__False|228=u__False|g=m|n=s
+
+# text_version = 40
+# sent_id = 40_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	c	_	X	ADV	_	0	x	_	=|226=c__True
+
+# text_version = 41
+# sent_id = 41_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	contre	contre	P	P	_	32	mod	_	=|226=c__True|231=o__True|232=n__True|233=t__True|234=r__True|235=e__True
+34	le	le	DET	DET	_	35	det	_	=|237=l__True|238=e__True|g=m|n=s
+35	grillage	grillage	NC	NC	_	33	prep	_	=|240=g__True|241=r__True|242=i__True|243=l__True|244=l__True|245=a__True|246=g__True|247=e__True|g=m|n=s
+36	avuc	avec	ADV	NC	_	32	mod	_	=|249=a__True|250=v__True|251=u__False|252=c__False
+
+# text_version = 42
+# sent_id = 42_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	contre	contre	P	P	_	32	mod	_	=|226=c__True|231=o__True|232=n__True|233=t__True|234=r__True|235=e__True
+34	le	le	DET	DET	_	35	det	_	=|237=l__True|238=e__True|g=m|n=s
+35	grillage	grillage	NC	NC	_	33	prep	_	=|240=g__True|241=r__True|242=i__True|243=l__True|244=l__True|245=a__True|246=g__True|247=e__True|g=m|n=s
+36	av	_	X	NC	_	0	x	_	=|249=a__True|250=v__True
+
+# text_version = 43
+# sent_id = 43_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	un	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelqu'un	ADV	ADV	_	12	suj	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	_	_	PRO	_	9	goeswith	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	a_obj	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	NUM	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	un	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	balayette	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	après	ADV	NPP	_	19	coord	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	un	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	20	dep_coord	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	14	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	32	mod	_	=|189=à__True
+27	la	le	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	32	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	32	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	32	aux_tps	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	enchaîner	VPP	ADV	_	0	root	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	contre	contre	P	P	_	32	mod	_	=|226=c__True|231=o__True|232=n__True|233=t__True|234=r__True|235=e__True
+34	le	le	DET	DET	_	35	det	_	=|237=l__True|238=e__True|g=m|n=s
+35	grillage	grillage	NC	NC	_	33	prep	_	=|240=g__True|241=r__True|242=i__True|243=l__True|244=l__True|245=a__True|246=g__True|247=e__True|g=m|n=s
+36	avec	avec	P	P	_	32	mod	_	=|249=a__True|250=v__True|257=e__True|258=c__True
+37	un	un	DET	DET	_	38	det	_	=|260=u__True|261=n__True|g=m|n=s
+38	coude	coup_de	NC	NC	_	36	prep	_	=|263=c__True|264=o__True|265=u__True|266=d__False|267=e__False|g=m|n=s
+
+# text_version = 44
+# sent_id = 44_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	DET	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	une	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	_	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	_	NPP	NPP	_	19	mod	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	une	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	12	mod	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	12	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	12	mod	_	=|189=à__True
+27	la	la	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	31	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	31	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	5	mod	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	_	ADV	ADV	_	31	mod	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	contre	contre	P	P	_	31	mod	_	=|226=c__True|231=o__True|232=n__True|233=t__True|234=r__True|235=e__True
+34	le	le	DET	DET	_	35	det	_	=|237=l__True|238=e__True|g=m|n=s
+35	grillage	grillage	NC	NC	_	33	prep	_	=|240=g__True|241=r__True|242=i__True|243=l__True|244=l__True|245=a__True|246=g__True|247=e__True|g=m|n=s
+36	avec	avec	P	P	_	31	mod	_	=|249=a__True|250=v__True|257=e__True|258=c__True
+37	un	un	DET	DET	_	38	det	_	=|260=u__True|261=n__True|g=m|n=s
+38	cou	cou	NC	NC	_	36	prep	_	=|263=c__True|264=o__True|265=u__True|g=m|n=s
+
+# text_version = 45
+# sent_id = 45_1
+1	un	un	DET	DET	_	2	det	_	=|1=u__True|2=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|4=j__True|5=o__True|6=u__True|7=r__True|g=m|n=s
+3	j'	je	CLS	CLS	_	5	suj	_	=|23=j__True|28='__True|n=s|p=1
+4	ai	avoir	V	V	_	5	aux_tps	_	=|30=a__True|31=i__True|n=s|p=1|t=P
+5	vu	voir	VPP	VPP	_	0	root	_	=|33=v__True|40=u__True|g=m|n=s|t=K
+6	une	une	DET	DET	_	7	det	_	=|44=u__True|45=n__True|46=e__True|g=f|n=s
+7	bagarre	bagarre	NC	NC	_	5	obj	_	=|48=b__True|49=a__True|50=g__True|51=a__True|52=r__True|53=r__True|54=e__True|g=f|n=s
+8	où	où	PROREL	PROREL	_	12	mod	_	=|67=o__True|68=ù__True
+9	quelqu'	quelque	ADV	ADV	_	10	mod	_	=|70=q__True|71=u__True|72=e__True|75=l__True|76=q__True|77=u__True|78='__True
+10	un	un	PRO	PRO	_	12	suj	_	=|79=u__True|80=n__True|g=m|n=s
+11	a	avoir	V	V	_	12	aux_tps	_	=|82=a__True|n=s|p=3|t=P
+12	commencé	commencer	VPP	VPP	_	7	mod_rel	_	=|84=c__True|85=o__True|86=m__True|87=m__True|88=e__True|89=n__True|90=c__True|91=é__True|g=m|n=s|t=K
+13	à	à	P	P	_	12	mod	_	=|93=à__True
+14	donner	donner	VINF	VINF	_	13	prep	_	=|100=r__True|95=d__True|96=o__True|97=n__True|98=n__True|99=e__True|t=W
+15	droite	droite	NC	NC	_	14	obj	_	=|106=d__True|107=r__True|110=o__True|111=i__True|112=t__True|113=e__True|g=f|n=s
+16	deux	deux	DET	DET	_	15	det	_	=|118=d__True|119=e__True|120=u__True|121=x__True|n=p|s=card
+17	puis	puis	CC	CC	_	15	coord	_	=|123=p__True|124=u__True|125=i__True|126=s__True
+18	une	une	DET	DET	_	19	det	_	=|130=u__True|131=n__True|132=e__True|g=f|n=s
+19	balellette	_	NC	NC	_	17	dep_coord	_	=|134=b__True|135=a__True|136=l__True|143=e__True|146=l__True|147=l__True|148=e__True|149=t__True|150=t__True|151=e__True
+20	apres	_	NPP	NPP	_	19	mod	_	=|153=a__True|154=p__True|155=r__True|156=e__True|157=s__True
+21	une	une	DET	DET	_	22	det	_	=|159=u__True|160=n__True|161=e__True|g=f|n=s
+22	droite	droite	NC	NC	_	12	mod	_	=|163=d__True|164=r__True|165=o__True|166=i__True|167=t__True|168=e__True|g=f|n=s
+23	dans	dans	P	P	_	12	mod	_	=|170=d__True|171=a__True|172=n__True|173=s__True
+24	le	le	DET	DET	_	25	det	_	=|175=l__True|176=e__True|g=m|n=s
+25	ventre	ventre	NC	NC	_	23	prep	_	=|178=v__True|179=e__True|180=n__True|181=t__True|182=r__True|183=e__True|g=m|n=s
+26	à	à	P	P	_	12	mod	_	=|189=à__True
+27	la	la	DET	DET	_	28	det	_	=|191=l__True|192=a__True|g=f|n=s
+28	fin	fin	NC	NC	_	26	prep	_	=|194=f__True|195=i__True|196=n__True|n=s
+29	il	il	CLS	CLS	_	31	suj	_	=|198=i__True|199=l__True|g=m|n=s|p=3
+30	l'	le	CLO	CLO	_	31	obj	_	=|201=l__True|202='__True|n=s|p=3
+31	a	avoir	V	V	_	5	mod	_	=|203=a__True|n=s|p=3|t=P
+32	enchéné	_	ADV	ADV	_	31	mod	_	=|205=e__True|206=n__True|207=c__True|210=h__True|221=é__True|222=n__True|223=é__True
+33	contre	contre	P	P	_	31	mod	_	=|226=c__True|231=o__True|232=n__True|233=t__True|234=r__True|235=e__True
+34	le	le	DET	DET	_	35	det	_	=|237=l__True|238=e__True|g=m|n=s
+35	grillage	grillage	NC	NC	_	33	prep	_	=|240=g__True|241=r__True|242=i__True|243=l__True|244=l__True|245=a__True|246=g__True|247=e__True|g=m|n=s
+36	avec	avec	P	P	_	31	mod	_	=|249=a__True|250=v__True|257=e__True|258=c__True
+37	un	un	DET	DET	_	38	det	_	=|260=u__True|261=n__True|g=m|n=s
+38	coup	coup	NC	NC	_	36	prep	_	=|263=c__True|264=o__True|265=u__True|272=p__True|g=m|n=s
+39	de	de	P	P	_	31	mod	_	=|274=d__True|275=e__True
+40	boule	boule	NC	NC	_	39	prep	_	=|277=b__True|278=o__True|279=u__True|280=l__True|281=e__True|g=f|n=s
+

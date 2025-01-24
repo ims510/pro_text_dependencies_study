@@ -1,0 +1,1914 @@
+# text_version = 0
+# sent_id = 0_1
+1	un	un	DET	DET	_	0	x	_	=|1=u__False|2=n__False|g=m|n=s
+
+# text_version = 2
+# sent_id = 2_1
+1	Unj	un	DET	NC	_	0	x	_	=|5=U__True|6=n__True|7=j__False
+
+# text_version = 3
+# sent_id = 3_1
+1	Un	un	DET	DET	_	0	root	_	=|5=U__True|6=n__True|g=m|n=s
+
+# text_version = 4
+# sent_id = 4_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	x	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	;	;	PONCT	PONCT	_	2	ponct	_	=|15=;__False
+
+# text_version = 5
+# sent_id = 5_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+
+# text_version = 6
+# sent_id = 6_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	aq	_	X	NC	_	0	x	_	=|47=a__True|48=q__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	a	_	X	V	_	0	x	_	=|47=a__True|n=s|p=3|t=P
+
+# text_version = 8
+# sent_id = 8_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	amià	ami_à	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|60=à__False
+
+# text_version = 9
+# sent_id = 9_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+
+# text_version = 10
+# sent_id = 10_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	amià	ami_à	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|62=à__False
+
+# text_version = 11
+# sent_id = 11_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+
+# text_version = 12
+# sent_id = 12_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	;	;	PONCT	PONCT	_	13	ponct	_	=|72=;__False
+
+# text_version = 13
+# sent_id = 13_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	CLO	CLO	_	0	root	_	=|69=l__True|70=u__True|71=i__True|n=s|p=3
+
+# text_version = 14
+# sent_id = 14_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	,	,	PONCT	PONCT	_	13	ponct	_	=|74=,__False
+
+# text_version = 15
+# sent_id = 15_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	CLO	CLO	_	0	root	_	=|69=l__True|70=u__True|71=i__True|n=s|p=3
+
+# text_version = 16
+# sent_id = 16_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	:	:	PONCT	PONCT	_	13	ponct	_	=|76=:__False
+
+# text_version = 17
+# sent_id = 17_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	CLO	CLO	_	0	root	_	=|69=l__True|70=u__True|71=i__True|n=s|p=3
+
+# text_version = 18
+# sent_id = 18_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	.	.	PONCT	PONCT	_	13	ponct	_	=|78=.__False
+
+# text_version = 19
+# sent_id = 19_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	CLO	CLO	_	0	root	_	=|69=l__True|70=u__True|71=i__True|n=s|p=3
+
+# text_version = 20
+# sent_id = 20_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	NC	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|g=m
+16	f	_	X	NC	_	0	x	_	=|89=f__False
+
+# text_version = 21
+# sent_id = 21_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sens	NC	NC	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|g=m
+
+# text_version = 22
+# sent_id = 22_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	ex	_	X	NC	_	0	x	_	=|100=e__False|101=x__False
+
+# text_version = 23
+# sent_id = 23_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+
+# text_version = 24
+# sent_id = 24_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	ee	_	X	ADV	_	0	x	_	=|109=e__True|110=e__False
+
+# text_version = 25
+# sent_id = 25_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	e	_	X	ADV	_	0	x	_	=|109=e__True
+
+# text_version = 26
+# sent_id = 26_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	NC	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	'	'	PONCT	PONCT	_	17	ponct	_	=|118='__False
+
+# text_version = 27
+# sent_id = 27_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	NC	NC	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+
+# text_version = 28
+# sent_id = 28_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	0	x	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	NC	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	'	'	PONCT	PONCT	_	17	ponct	_	=|121='__False
+
+# text_version = 29
+# sent_id = 29_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	NC	NC	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+
+# text_version = 30
+# sent_id = 30_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	abaffer	a_baffer	VPP	VINF	_	0	root	_	=|155=a__False|156=b__False|157=a__False|158=f__False|159=f__False|160=e__False|161=r__False
+
+# text_version = 31
+# sent_id = 31_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	0	root	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	0	root	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	0	root	_	=|153=m__True|154='__True|n=s|p=1
+
+# text_version = 32
+# sent_id = 32_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	I	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True
+29	!	!	PONCT	PONCT	_	28	ponct	_	=|177=!__False
+
+# text_version = 33
+# sent_id = 33_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	a_obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	_	I	I	_	27	dep	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True
+
+# text_version = 34
+# sent_id = 34_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	bafferalo	baffer_alors	VPP	NPP	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|179=a__False|180=l__False|181=o__False
+
+# text_version = 35
+# sent_id = 35_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	a_obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	_	I	I	_	27	dep	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True
+
+# text_version = 36
+# sent_id = 36_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	bafferalo	baffer_alors	VPP	NPP	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|185=a__False|186=l__False|187=o__False
+
+# text_version = 37
+# sent_id = 37_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	a_obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	_	I	I	_	27	dep	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True
+
+# text_version = 38
+# sent_id = 38_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	0	x	_	=|192=a__True|193=l__True|194=o__True|195=r__True|196=s__False
+
+# text_version = 39
+# sent_id = 39_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alor	alors	ADV	NPP	_	0	x	_	=|192=a__True|193=l__True|194=o__True|195=r__True
+
+# text_version = 40
+# sent_id = 40_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	0	x	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	0	x	_	=|200=j__True|201='__True|n=s|p=1
+31	aie	avoir	V	VS	_	0	x	_	=|202=a__True|203=i__True|204=e__False|n=s|p=1|t=S
+
+# text_version = 41
+# sent_id = 41_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	0	root	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	0	root	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+
+# text_version = 42
+# sent_id = 42_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	tré	très	ADV	NC	_	0	x	_	=|210=t__True|211=r__True|212=é__False
+
+# text_version = 43
+# sent_id = 43_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	tr	_	X	NC	_	0	x	_	=|210=t__True|211=r__True
+
+# text_version = 44
+# sent_id = 44_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	q	_	X	NC	_	0	x	_	=|221=q__False
+
+# text_version = 45
+# sent_id = 45_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+
+# text_version = 46
+# sent_id = 46_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Ets	et	CC	NC	_	0	root	_	=|223=E__True|224=t__False|225=s__False
+
+# text_version = 47
+# sent_id = 47_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|224=t__False
+
+# text_version = 48
+# sent_id = 48_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Etses	et_ce_être	CC	NC	_	0	root	_	=|223=E__True|224=t__False|227=s__False|228=e__False|229=s__False
+37	la	là	ADV	ADV	_	36	p_obj	_	=|231=l__False|232=a__False
+38	que	que	CS	CS	_	36	mod_cleft	_	=|234=q__False|235=u__False|236=e__False
+
+# text_version = 49
+# sent_id = 49_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	E	_	X	NC	_	0	x	_	=|223=E__True
+
+# text_version = 50
+# sent_id = 50_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Etess	_	X	NC	_	0	x	_	=|223=E__True|248=t__True|249=e__False|250=s__False|251=s__False
+
+# text_version = 51
+# sent_id = 51_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+
+# text_version = 52
+# sent_id = 52_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	es	être	V	NC	_	0	unknown	_	=|256=e__False|257=s__False
+
+# text_version = 53
+# sent_id = 53_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+
+# text_version = 54
+# sent_id = 54_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	CLO	_	37	p_obj	_	=|264=l__True|265=a__False|g=f|n=s|p=3
+
+# text_version = 55
+# sent_id = 55_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	l	_	X	NC	_	0	x	_	=|264=l__True
+
+# text_version = 56
+# sent_id = 56_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	l<	_	X	NC	_	0	x	_	=|264=l__True|267=<__False
+
+# text_version = 57
+# sent_id = 57_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	l	_	X	NC	_	0	x	_	=|264=l__True
+
+# text_version = 58
+# sent_id = 58_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	DET	_	37	p_obj	_	=|264=l__True|269=a__True|g=f|n=s
+39	qeu	que	CS	NC	_	37	mod_cleft	_	=|271=q__True|272=e__False|273=u__False
+
+# text_version = 59
+# sent_id = 59_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	DET	_	37	p_obj	_	=|264=l__True|269=a__True|g=f|n=s
+39	qe	que	CS	NC	_	37	mod_cleft	_	=|271=q__True|272=e__False
+
+# text_version = 60
+# sent_id = 60_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	DET	_	37	p_obj	_	=|264=l__True|269=a__True|g=f|n=s
+39	qeu	que	CS	NC	_	37	mod_cleft	_	=|271=q__True|272=e__False|275=u__False
+
+# text_version = 61
+# sent_id = 61_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	DET	_	37	p_obj	_	=|264=l__True|269=a__True|g=f|n=s
+39	q	_	X	NC	_	0	x	_	=|271=q__True
+
+# text_version = 62
+# sent_id = 62_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+
+# text_version = 63
+# sent_id = 63_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+
+# text_version = 64
+# sent_id = 64_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	5	mod	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	0	x	_	=|17=,__True
+4	matisse	Mathis	NPP	NC	_	5	suj	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	faire	V	NPP	_	0	root	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de_le	DET	P	_	8	det	_	=|33=d__True|34=e__True
+7	la	_	_	DET	_	6	fixed	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	5	obj	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	5	p_obj	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	11	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	0	root	_	=|81=e__True|82=t__True
+15	sens	sans	P	V	_	20	mod	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	prep	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	exprès	NC	ADV	_	16	obj	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	20	suj	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	20	aux_tps	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VPP	VINF	_	14	dep_coord	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	p_obj	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	0	x	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	28	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	28	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	28	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	28	aux_tps	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VPP	VINF	_	0	root	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	32	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	0	root	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	34	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	obj	_	=|217=m__True|218=a__True|219=l__True
+35	!	.	PONCT	PONCT	_	0	x	_	=|220=!__True
+36	Et	et	CC	CC	_	0	root	_	=|223=E__True|248=t__True
+37	ses	ce_être	V	DET	_	36	dep_coord	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	là	ADV	ADV	_	37	p_obj	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	37	mod_cleft	_	=|271=q__True|278=u__True|279=e__True
+40	la	le	DET	DET	_	41	det	_	=|283=l__True|284=a__True|g=f|n=s
+41	bagareà	bagarre_avoir	NC	NC	_	0	x	_	=|286=b__True|287=a__True|288=g__True|289=a__True|290=r__True|291=e__True|292=à__False
+
+# text_version = 65
+# sent_id = 65_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+40	la	la	DET	DET	_	41	det	_	=|283=l__True|284=a__True|g=f|n=s
+41	bagare	_	NC	NC	_	0	root	_	=|286=b__True|287=a__True|288=g__True|289=a__True|290=r__True|291=e__True
+
+# text_version = 66
+# sent_id = 66_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+40	la	la	DET	DET	_	41	det	_	=|283=l__True|284=a__True|g=f|n=s
+41	bagareà	_	NC	NC	_	0	root	_	=|286=b__True|287=a__True|288=g__True|289=a__True|290=r__True|291=e__True|294=à__False
+
+# text_version = 67
+# sent_id = 67_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+40	la	la	DET	DET	_	41	det	_	=|283=l__True|284=a__True|g=f|n=s
+41	bagare	_	NC	NC	_	0	root	_	=|286=b__True|287=a__True|288=g__True|289=a__True|290=r__True|291=e__True
+
+# text_version = 68
+# sent_id = 68_1
+1	Un	un	DET	DET	_	2	det	_	=|5=U__True|6=n__True|g=m|n=s
+2	jour	jour	NC	NC	_	0	root	_	=|10=j__True|11=o__True|12=u__True|13=r__True|g=m|n=s
+3	,	,	PONCT	PONCT	_	2	ponct	_	=|17=,__True
+4	matisse	_	NC	NC	_	2	mod	_	=|19=m__True|20=a__True|21=t__True|22=i__True|23=s__True|24=s__True|25=e__True
+5	feser	_	NPP	NPP	_	4	mod	_	=|27=f__True|28=e__True|29=s__True|30=e__True|31=r__True
+6	de	de	P	P	_	2	dep	_	=|33=d__True|34=e__True
+7	la	la	DET	DET	_	8	det	_	=|36=l__True|37=a__True|g=f|n=s
+8	bagarre	bagarre	NC	NC	_	6	prep	_	=|39=b__True|40=a__True|41=g__True|42=a__True|43=r__True|44=r__True|45=e__True|g=f|n=s
+9	avec	avec	P	P	_	2	dep	_	=|47=a__True|50=v__True|51=e__True|52=c__True
+10	un	un	DET	DET	_	11	det	_	=|54=u__True|55=n__True|g=m|n=s
+11	ami	ami	NC	NC	_	9	prep	_	=|57=a__True|58=m__True|59=i__True|g=m|n=s
+12	à	à	P	P	_	2	dep	_	=|67=à__True
+13	lui	lui	PRO	PRO	_	12	prep	_	=|69=l__True|70=u__True|71=i__True|g=m|n=s|p=3
+14	et	et	CC	CC	_	2	coord	_	=|81=e__True|82=t__True
+15	sens	sentir	V	V	_	14	dep_coord	_	=|84=s__True|85=e__True|86=n__True|87=s__True|n=s|p=1,2|t=P
+16	faire	faire	VINF	VINF	_	15	obj	_	=|91=f__True|92=a__True|93=i__True|94=r__True|95=e__True|t=W
+17	exprait	_	ADV	ADV	_	16	mod	_	=|109=e__True|112=x__True|113=p__True|114=r__True|115=a__True|116=i__True|117=t__True
+18	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|124='__True|n=s|p=1
+19	ai	avoir	V	V	_	0	root	_	=|125=a__True|126=i__True|n=s|p=1|t=P
+20	marcher	marcher	VINF	VINF	_	19	obj	_	=|128=m__True|129=a__True|130=r__True|131=c__True|132=h__True|133=e__True|134=r__True|t=W
+21	sur	sur	P	P	_	20	mod	_	=|136=s__True|137=u__True|138=r__True
+22	lui	lui	PRO	PRO	_	21	prep	_	=|140=l__True|141=u__True|142=i__True|g=m|n=s|p=3
+23	.	.	PONCT	PONCT	_	22	ponct	_	=|143=.__True
+24	Alors	alors	ADV	ADV	_	27	mod	_	=|144=A__True|145=l__True|146=o__True|147=r__True|148=s__True
+25	il	il	CLS	CLS	_	27	suj	_	=|150=i__True|151=l__True|g=m|n=s|p=3
+26	m'	me	CLO	CLO	_	27	obj	_	=|153=m__True|154='__True|n=s|p=1
+27	a	avoir	V	V	_	19	mod	_	=|169=a__True|n=s|p=3|t=P
+28	baffer	baffer	VINF	VINF	_	27	obj	_	=|171=b__True|172=a__True|173=f__True|174=f__True|175=e__True|176=r__True|t=W
+29	alors	alors	ADV	ADV	_	28	mod	_	=|192=a__True|193=l__True|194=o__True|195=r__True|198=s__True
+30	j'	je	CLS	CLS	_	32	suj	_	=|200=j__True|201='__True|n=s|p=1
+31	ai	avoir	V	V	_	32	aux_tps	_	=|202=a__True|203=i__True|n=s|p=1|t=P
+32	eu	avoir	VPP	VPP	_	28	mod	_	=|207=e__True|208=u__True|g=m|n=s|t=K
+33	très	très	ADV	ADV	_	32	mod	_	=|210=t__True|211=r__True|214=è__True|215=s__True
+34	mal	mal	ADV	ADV	_	32	mod	_	=|217=m__True|218=a__True|219=l__True
+35	!	!	PONCT	PONCT	_	34	ponct	_	=|220=!__True
+36	Et	et	CC	CC	_	27	coord	_	=|223=E__True|248=t__True
+37	ses	ses	DET	DET	_	0	root	_	=|260=s__True|261=e__True|262=s__True|n=p|p=3|poss=s
+38	la	_	ADV	ADV	_	0	root	_	=|264=l__True|269=a__True
+39	que	que	CS	CS	_	38	dep	_	=|271=q__True|278=u__True|279=e__True
+40	la	la	DET	DET	_	41	det	_	=|283=l__True|284=a__True|g=f|n=s
+41	bagare	_	NPP	NPP	_	42	suj	_	=|286=b__True|287=a__True|288=g__True|289=a__True|290=r__True|291=e__True
+42	a	avoir	V	V	_	39	sub	_	=|297=a__True|n=s|p=3|t=P
+43	comencer	_	VINF	VINF	_	42	obj	_	=|299=c__True|300=o__True|301=m__True|302=e__True|303=n__True|304=c__True|305=e__True|306=r__True
+44	!	!	PONCT	PONCT	_	43	ponct	_	=|307=!__True
+

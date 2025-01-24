@@ -1,0 +1,1738 @@
+# text_version = 0
+# sent_id = 0_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	le	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	violence	NC	NC	_	0	x	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	neres	_	X	ADJ	_	0	x	_	=|26=n__True|27=e__True|28=r__False|29=e__False|30=s__False
+
+# text_version = 1
+# sent_id = 1_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	0	root	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	0	root	_	=|26=n__True|27=e__True
+
+# text_version = 2
+# sent_id = 2_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 2
+# sent_id = 2_2
+1	lavi	_	X	NC	_	0	x	_	=|49=l__True|50=a__True|51=v__False|52=i__False
+
+# text_version = 3
+# sent_id = 3_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 3
+# sent_id = 3_2
+1	la	la	DET	DET	_	0	root	_	=|49=l__True|50=a__True|g=f|n=s
+
+# text_version = 4
+# sent_id = 4_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 4
+# sent_id = 4_2
+1	la	le	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	violence	NC	NC	_	3	suj	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	arriver	V	ADJ	_	0	root	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	3	mod	_	=|72=s__True|73=i__True
+5	l'	_	_	DET	_	6	fixed	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	x	_	=|77=o__True|78=n__True|n=s|p=3
+7	en	en	CLO	CLO	_	0	x	_	=|80=e__True|81=n__False
+
+# text_version = 5
+# sent_id = 5_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 5
+# sent_id = 5_2
+1	la	le	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	violence	NC	NC	_	3	suj	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	arriver	V	ADJ	_	0	root	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	3	mod	_	=|72=s__True|73=i__True
+5	l'	_	_	DET	_	6	fixed	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	x	_	=|77=o__True|78=n__True|n=s|p=3
+7	e	_	X	ADV	_	0	x	_	=|80=e__True
+
+# text_version = 6
+# sent_id = 6_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 6
+# sent_id = 6_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 6
+# sent_id = 6_3
+1	par	par	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exen	_	X	NC	_	0	x	_	=|103=e__True|104=x__True|105=e__True|106=n__False
+
+# text_version = 7
+# sent_id = 7_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 7
+# sent_id = 7_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 7
+# sent_id = 7_3
+1	par	par	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exe	_	X	NC	_	0	x	_	=|103=e__True|104=x__True|105=e__True
+
+# text_version = 8
+# sent_id = 8_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 8
+# sent_id = 8_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 8
+# sent_id = 8_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	jette	jeter	VS	VS	_	3	sub	_	=|123=j__True|124=e__True|125=t__True|126=t__True|127=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 9
+# sent_id = 9_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 9
+# sent_id = 9_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 9
+# sent_id = 9_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	j	jeter	V	NPP	_	3	sub	_	=|123=j__True
+7	'	'	PONCT	PONCT	_	6	ponct	_	=|129='__False
+8	ette	_	_	NPP	_	6	goeswith	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+
+# text_version = 10
+# sent_id = 10_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 10
+# sent_id = 10_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 10
+# sent_id = 10_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	jette	jeter	VS	VS	_	3	sub	_	=|123=j__True|124=e__True|125=t__True|126=t__True|127=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 11
+# sent_id = 11_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 11
+# sent_id = 11_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 11
+# sent_id = 11_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	0	root	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+
+# text_version = 12
+# sent_id = 12_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 12
+# sent_id = 12_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 12
+# sent_id = 12_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	jeter	V	ADV	_	3	sub	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	PRO	CLS	_	6	goeswith	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	6	mod	_	=|134=p__True|135=a__True|136=r__True
+9	terrr	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|141=r__False|142=r__False
+
+# text_version = 13
+# sent_id = 13_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 13
+# sent_id = 13_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 13
+# sent_id = 13_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	jeter	V	ADV	_	3	sub	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	PRO	CLS	_	6	goeswith	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	6	mod	_	=|134=p__True|135=a__True|136=r__True
+9	ter	terre	NC	VIMP	_	8	root	_	=|138=t__True|139=e__True|140=r__True
+
+# text_version = 14
+# sent_id = 14_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 14
+# sent_id = 14_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 14
+# sent_id = 14_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	jeter	V	ADV	_	3	sub	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	PRO	CLS	_	6	goeswith	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	6	mod	_	=|134=p__True|135=a__True|136=r__True
+9	terrela	terre_le	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|147=l__True|148=a__True
+10	trousse	trousse	NC	NC	_	6	obj	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|155=s__False|156=e__False|g=f|n=s
+
+# text_version = 15
+# sent_id = 15_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 15
+# sent_id = 15_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 15
+# sent_id = 15_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	jeter	V	ADV	_	3	sub	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	PRO	CLS	_	6	goeswith	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	6	mod	_	=|134=p__True|135=a__True|136=r__True
+9	terrela	terre_le	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|147=l__True|148=a__True
+10	trous	trousse	NC	NC	_	6	obj	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|g=m|n=p
+
+# text_version = 16
+# sent_id = 16_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 16
+# sent_id = 16_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 16
+# sent_id = 16_3
+1	par	par+exemple	P	P	_	0	x	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	fixed	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	x	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	fixed	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	6	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	jeter	V	ADV	_	3	sub	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	PRO	CLS	_	6	goeswith	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	6	mod	_	=|134=p__True|135=a__True|136=r__True
+9	terrela	terre_le	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|147=l__True|148=a__True
+10	trouse	trousse	NC	NC	_	6	obj	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+
+# text_version = 17
+# sent_id = 17_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 17
+# sent_id = 17_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 17
+# sent_id = 17_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 18
+# sent_id = 18_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 18
+# sent_id = 18_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 18
+# sent_id = 18_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 18
+# sent_id = 18_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	qu'	que	CS	CS	_	0	x	_	=|165=q__True|166=u__True|167='__False
+3	elle	il	CLS	CLS	_	0	x	_	=|168=e__False|169=l__False|170=l__False|171=e__False|g=f|n=s|p=3
+
+# text_version = 19
+# sent_id = 19_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 19
+# sent_id = 19_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 19
+# sent_id = 19_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 19
+# sent_id = 19_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	qu	que	CS	NC	_	0	x	_	=|165=q__True|166=u__True
+
+# text_version = 20
+# sent_id = 20_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 20
+# sent_id = 20_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 20
+# sent_id = 20_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 20
+# sent_id = 20_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	que	que	CS	CS	_	0	x	_	=|165=q__True|166=u__True|177=e__False
+
+# text_version = 21
+# sent_id = 21_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 21
+# sent_id = 21_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 21
+# sent_id = 21_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 21
+# sent_id = 21_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	qu	que	CS	NC	_	0	x	_	=|165=q__True|166=u__True
+
+# text_version = 22
+# sent_id = 22_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 22
+# sent_id = 22_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 22
+# sent_id = 22_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 22
+# sent_id = 22_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	u	_	X	NC	_	0	x	_	=|191=u__False
+
+# text_version = 23
+# sent_id = 23_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 23
+# sent_id = 23_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 23
+# sent_id = 23_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 23
+# sent_id = 23_4
+1	de	de	P	P	_	0	root	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	ato	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	0	root	_	=|186=u__True|187=n__True|g=m|n=s
+
+# text_version = 24
+# sent_id = 24_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 24
+# sent_id = 24_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 24
+# sent_id = 24_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 24
+# sent_id = 24_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	l'	l'	DET	DET	_	8	fixed	_	=|199=l__False|200='__False|n=s
+8	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+9	insulte	insulte	NC	V	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 25
+# sent_id = 25_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 25
+# sent_id = 25_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 25
+# sent_id = 25_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 25
+# sent_id = 25_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	8	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	V	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|n=s|p=1,3|t=P,S
+9	'	'	PONCT	PONCT	_	6	ponct	_	=|200='__False
+
+# text_version = 26
+# sent_id = 26_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 26
+# sent_id = 26_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 26
+# sent_id = 26_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 26
+# sent_id = 26_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	8	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	V	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|n=s|p=1,3|t=P,S
+9	'	'	PONCT	PONCT	_	6	ponct	_	=|200='__False
+
+# text_version = 27
+# sent_id = 27_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 27
+# sent_id = 27_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 27
+# sent_id = 27_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 27
+# sent_id = 27_4
+1	de	de	P	P	_	0	root	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	0	root	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	8	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulter	V	V	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|n=s|p=1,3|t=P,S
+
+# text_version = 28
+# sent_id = 28_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 28
+# sent_id = 28_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 28
+# sent_id = 28_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 28
+# sent_id = 28_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+
+# text_version = 29
+# sent_id = 29_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 29
+# sent_id = 29_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 29
+# sent_id = 29_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 29
+# sent_id = 29_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	l'	le	CLO	DET	_	9	obj	_	=|215=l__True|216='__True|n=s
+9	insulteil	insulter	V	NC	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|217=i__False|218=l__False
+
+# text_version = 30
+# sent_id = 30_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 30
+# sent_id = 30_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 30
+# sent_id = 30_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 30
+# sent_id = 30_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+
+# text_version = 31
+# sent_id = 31_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 31
+# sent_id = 31_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 31
+# sent_id = 31_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 31
+# sent_id = 31_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	8	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	CLO	DET	_	8	obj	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	x	_	=|222=i__True|223=l__False|g=m|n=s|p=3
+
+# text_version = 32
+# sent_id = 32_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 32
+# sent_id = 32_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 32
+# sent_id = 32_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 32
+# sent_id = 32_4
+1	de	de	P	P	_	0	x	_	=|162=d__True|163=e__True
+2	quellequ	quelque	PRO	ADV	_	1	prep	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	_	_	PONCT	_	0	x	_	=|185='__True
+4	un	un	DET	DET	_	2	fixed	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	0	x	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	x	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	8	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	6	sub	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	CLO	DET	_	8	obj	_	=|215=l__True|216='__True|n=s
+10	i	_	X	NC	_	0	x	_	=|222=i__True
+
+# text_version = 33
+# sent_id = 33_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 33
+# sent_id = 33_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 33
+# sent_id = 33_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 33
+# sent_id = 33_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 33
+# sent_id = 33_5
+1	s'	se	CLR	CLR	_	0	x	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enr	_	X	VPR	_	0	x	_	=|234=e__True|235=n__True|236=r__False
+
+# text_version = 34
+# sent_id = 34_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 34
+# sent_id = 34_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 34
+# sent_id = 34_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 34
+# sent_id = 34_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 34
+# sent_id = 34_5
+1	s'	se	CLR	CLR	_	0	x	_	=|232=s__True|233='__True|n=p,s|p=3
+2	en	en	CLO	CLO	_	0	x	_	=|234=e__True|235=n__True
+
+# text_version = 35
+# sent_id = 35_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 35
+# sent_id = 35_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 35
+# sent_id = 35_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 35
+# sent_id = 35_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 35
+# sent_id = 35_5
+1	s'	se	CLR	CLR	_	0	x	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerveret	énerver_et	VINF	NC	_	0	x	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True|243=e__False|244=t__False
+
+# text_version = 36
+# sent_id = 36_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 36
+# sent_id = 36_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 36
+# sent_id = 36_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 36
+# sent_id = 36_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 36
+# sent_id = 36_5
+1	s'	se	CLR	CLR	_	2	aff	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	_	VPR	VPR	_	0	root	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+
+# text_version = 37
+# sent_id = 37_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 37
+# sent_id = 37_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 37
+# sent_id = 37_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 37
+# sent_id = 37_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 37
+# sent_id = 37_5
+1	s'	se	CLR	CLR	_	2	aff	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	énerver	VINF	VINF	_	0	x	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+3	et	et+puis	CC	CC	_	0	root	_	=|249=e__True|250=t__True
+4	puis	puis	ADV	ADV	_	3	fixed	_	=|253=p__True|254=u__True|255=i__True|256=s__True
+5	sa	ça	PRO	DET	_	6	suj_impers	_	=|259=s__True|260=a__True|g=f|n=s|p=3|poss=s
+6	provoque	provoquer	V	VPR	_	3	dep_coord	_	=|262=p__True|263=r__True|264=o__True|265=v__True|266=o__True|267=q__True|268=u__True|269=e__True
+7	des	un	DET	P+D	_	8	det	_	=|271=d__True|272=e__True|273=s__True|n=p
+8	bagar	bagarre	NC	NC	_	6	obj	_	=|275=b__True|276=a__True|277=g__True|278=a__True|279=r__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|280=.__False
+
+# text_version = 38
+# sent_id = 38_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 38
+# sent_id = 38_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 38
+# sent_id = 38_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 38
+# sent_id = 38_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 38
+# sent_id = 38_5
+1	s'	se	CLR	CLR	_	0	root	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	_	VINF	VINF	_	1	prep	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+3	et	et	CC	CC	_	2	coord	_	=|249=e__True|250=t__True
+4	puis	_	ADV	ADV	_	3	mod	_	=|253=p__True|254=u__True|255=i__True|256=s__True
+5	sa	sa	DET	DET	_	0	root	_	=|259=s__True|260=a__True|g=f|n=s|p=3|poss=s
+6	provoque	_	VPR	VPR	_	5	mod	_	=|262=p__True|263=r__True|264=o__True|265=v__True|266=o__True|267=q__True|268=u__True|269=e__True
+7	des	de	P+D	P+D	_	6	mod	_	=|271=d__True|272=e__True|273=s__True|n=p
+8	bagar	_	NC	NC	_	7	prep	_	=|275=b__True|276=a__True|277=g__True|278=a__True|279=r__True
+
+# text_version = 39
+# sent_id = 39_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 39
+# sent_id = 39_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 39
+# sent_id = 39_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 39
+# sent_id = 39_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 39
+# sent_id = 39_5
+1	s'	se	CLR	CLR	_	0	root	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	_	VINF	VINF	_	1	prep	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+3	et	et	CC	CC	_	2	coord	_	=|249=e__True|250=t__True
+4	puis	_	ADV	ADV	_	3	mod	_	=|253=p__True|254=u__True|255=i__True|256=s__True
+5	sa	sa	DET	DET	_	9	det	_	=|259=s__True|260=a__True|g=f|n=s|p=3|poss=s
+6	provoque	_	VPR	VPR	_	5	mod	_	=|262=p__True|263=r__True|264=o__True|265=v__True|266=o__True|267=q__True|268=u__True|269=e__True
+7	des	de	P+D	P+D	_	6	mod	_	=|271=d__True|272=e__True|273=s__True|n=p
+8	bagar	_	ET	ET	_	7	prep	_	=|275=b__True|276=a__True|277=g__True|278=a__True|279=r__True
+9	on	on	CLS	CLS	_	0	root	_	=|283=o__False|284=n__False|n=s|p=3
+
+# text_version = 40
+# sent_id = 40_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 40
+# sent_id = 40_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 40
+# sent_id = 40_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 40
+# sent_id = 40_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 40
+# sent_id = 40_5
+1	s'	se	CLR	CLR	_	0	root	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	_	VINF	VINF	_	1	prep	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+3	et	et	CC	CC	_	2	coord	_	=|249=e__True|250=t__True
+4	puis	_	ADV	ADV	_	3	mod	_	=|253=p__True|254=u__True|255=i__True|256=s__True
+5	sa	sa	DET	DET	_	0	root	_	=|259=s__True|260=a__True|g=f|n=s|p=3|poss=s
+6	provoque	_	VPR	VPR	_	5	mod	_	=|262=p__True|263=r__True|264=o__True|265=v__True|266=o__True|267=q__True|268=u__True|269=e__True
+7	des	de	P+D	P+D	_	6	mod	_	=|271=d__True|272=e__True|273=s__True|n=p
+8	bagar	_	NC	NC	_	7	prep	_	=|275=b__True|276=a__True|277=g__True|278=a__True|279=r__True
+
+# text_version = 41
+# sent_id = 41_1
+1	je	je	CLS	CLS	_	2	suj	_	=|1=j__True|2=e__True|n=s|p=1
+2	pense	penser	V	V	_	0	root	_	=|4=p__True|5=e__True|6=n__True|7=s__True|8=e__True|n=s|p=1,3|t=P,S
+3	que	que	CS	CS	_	2	obj	_	=|10=q__True|11=u__True|12=e__True
+4	la	la	DET	DET	_	5	det	_	=|14=l__True|15=a__True|g=f|n=s
+5	violense	_	NC	NC	_	7	suj	_	=|17=v__True|18=i__True|19=o__True|20=l__True|21=e__True|22=n__True|23=s__True|24=e__True
+6	ne	ne	ADV	ADV	_	7	mod	_	=|26=n__True|27=e__True
+7	ressou	_	V	V	_	3	sub	_	=|35=r__True|36=e__True|37=s__True|38=s__True|39=o__True|40=u__True
+8	rien	rien	PRO	PRO	_	7	obj	_	=|42=r__True|43=i__True|44=e__True|45=n__True|g=m|n=s
+
+# text_version = 41
+# sent_id = 41_2
+1	la	la	DET	DET	_	2	det	_	=|49=l__True|50=a__True|g=f|n=s
+2	violense	_	NC	NC	_	0	root	_	=|57=v__True|58=i__True|59=o__True|60=l__True|61=e__True|62=n__True|63=s__True|64=e__True
+3	arive	_	ADJ	ADJ	_	2	mod	_	=|66=a__True|67=r__True|68=i__True|69=v__True|70=e__True
+4	si	si	CS	CS	_	2	mod	_	=|72=s__True|73=i__True
+5	l'	le	DET	DET	_	6	det	_	=|75=l__True|76='__True|n=s
+6	on	on	CLS	CLS	_	0	root	_	=|77=o__True|78=n__True|n=s|p=3
+7	embette	_	NPP	NPP	_	0	root	_	=|80=e__True|83=m__True|84=b__True|85=e__True|86=t__True|87=t__True|88=e__True
+8	un	un	DET	DET	_	0	root	_	=|90=u__True|91=n__True|g=m|n=s
+9	autre	autre	ADJ	ADJ	_	0	root	_	=|93=a__True|94=u__True|95=t__True|96=r__True|97=e__True|n=s
+
+# text_version = 41
+# sent_id = 41_3
+1	par	par	P	P	_	0	root	_	=|100=a__True|101=r__True|99=p__True
+2	exemple	exemple	NC	NC	_	1	prep	_	=|103=e__True|104=x__True|105=e__True|110=m__True|111=p__True|112=l__True|113=e__True|g=m|n=s
+3	si	si	CS	CS	_	0	root	_	=|115=s__True|116=i__True
+4	l'	le	DET	DET	_	5	det	_	=|118=l__True|119='__True|n=s
+5	on	on	CLS	CLS	_	7	suj	_	=|120=o__True|121=n__True|n=s|p=3
+6	ette	_	ADV	ADV	_	0	root	_	=|124=e__True|125=t__True|126=t__True|127=e__True
+7	j'	je	CLS	CLS	_	0	root	_	=|123=j__True|132='__True|n=s|p=1
+8	par	par	P	P	_	0	root	_	=|134=p__True|135=a__True|136=r__True
+9	trouse	_	NC	NC	_	0	root	_	=|150=t__True|151=r__True|152=o__True|153=u__True|154=s__True|159=e__True
+10	terre	terre	NC	NC	_	8	prep	_	=|138=t__True|139=e__True|140=r__True|145=r__True|146=e__True|g=f|n=s
+11	la	la	DET	DET	_	9	det	_	=|147=l__True|148=a__True|g=f|n=s
+
+# text_version = 41
+# sent_id = 41_4
+1	de	de	P	P	_	6	mod	_	=|162=d__True|163=e__True
+2	quellequ	_	ADV	ADV	_	4	mod	_	=|165=q__True|166=u__True|179=e__True|180=l__True|181=l__True|182=e__True|183=q__True|184=u__True
+3	'	'	PONCT	PONCT	_	2	ponct	_	=|185='__True
+4	un	un	DET	DET	_	6	mod_rel	_	=|186=u__True|187=n__True|g=m|n=s
+5	ou	ou	CC	CC	_	4	coord	_	=|193=o__True|194=u__True
+6	si	si	CS	CS	_	0	root	_	=|196=s__True|197=i__True
+7	on	on	CLS	CLS	_	9	suj	_	=|201=o__True|202=n__True|n=s|p=3
+8	insulte	insulte	NC	NC	_	0	root	_	=|204=i__True|205=n__True|206=s__True|207=u__True|208=l__True|209=t__True|210=e__True|g=f|n=s
+9	l'	le	DET	DET	_	8	det	_	=|215=l__True|216='__True|n=s
+10	il	il	CLS	CLS	_	0	root	_	=|222=i__True|225=l__True|g=m|n=s|p=3
+11	peux	_	VS	VS	_	0	root	_	=|227=p__True|228=e__True|229=u__True|230=x__True
+
+# text_version = 41
+# sent_id = 41_5
+1	s'	se	CLR	CLR	_	0	root	_	=|232=s__True|233='__True|n=p,s|p=3
+2	enerver	_	VINF	VINF	_	1	prep	_	=|234=e__True|235=n__True|238=e__True|239=r__True|240=v__True|241=e__True|242=r__True
+3	et	et	CC	CC	_	2	coord	_	=|249=e__True|250=t__True
+4	puis	_	ADV	ADV	_	3	mod	_	=|253=p__True|254=u__True|255=i__True|256=s__True
+5	sa	sa	DET	DET	_	0	root	_	=|259=s__True|260=a__True|g=f|n=s|p=3|poss=s
+6	provoque	_	VPR	VPR	_	5	mod	_	=|262=p__True|263=r__True|264=o__True|265=v__True|266=o__True|267=q__True|268=u__True|269=e__True
+7	des	de	P+D	P+D	_	6	mod	_	=|271=d__True|272=e__True|273=s__True|n=p
+8	bagar	_	NC	NC	_	7	prep	_	=|275=b__True|276=a__True|277=g__True|278=a__True|279=r__True
+
+# text_version = 41
+# sent_id = 41_6
+1	on	on	CLS	CLS	_	2	suj	_	=|290=o__True|291=n__True|n=s|p=3
+2	peux	pouvoir	V	V	_	0	root	_	=|293=p__True|294=e__True|295=u__True|296=x__True|n=s|p=1,2|t=P
+3	fair	_	VINF	VINF	_	2	obj	_	=|299=f__True|300=a__True|301=i__True|302=r__True
+4	de	de	P	P	_	3	mod	_	=|304=d__True|305=e__True
+5	la	la	DET	DET	_	6	det	_	=|307=l__True|308=a__True|g=f|n=s
+6	paine	_	NC	NC	_	4	prep	_	=|310=p__True|311=a__True|312=i__True|313=n__True|314=e__True
+7	.	.	PONCT	PONCT	_	6	ponct	_	=|315=.__True
+

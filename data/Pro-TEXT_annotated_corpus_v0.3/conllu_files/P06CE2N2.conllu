@@ -1,0 +1,1447 @@
+# text_version = 0
+# sent_id = 0_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	coue	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|38=e__False
+9	de	de	P	P	_	8	dep	_	=|40=d__False|41=e__False
+10	re	_	X	NC	_	0	x	_	=|43=r__False|44=e__False
+
+# text_version = 1
+# sent_id = 1_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cou	cou	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|g=m|n=s
+
+# text_version = 2
+# sent_id = 2_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	courde	cour_de	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|53=d__False|54=e__False
+
+# text_version = 3
+# sent_id = 3_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+
+# text_version = 4
+# sent_id = 4_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	0	x	_	=|72=l__True|73='__True|n=s
+12	api	_	X	NC	_	0	x	_	=|74=a__True|75=p__True|76=i__False|g=m
+
+# text_version = 5
+# sent_id = 5_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	0	x	_	=|72=l__True|73='__True|n=s
+12	ap	_	X	NC	_	0	x	_	=|74=a__True|75=p__True
+
+# text_version = 6
+# sent_id = 6_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	0	x	_	=|72=l__True|73='__True|n=s
+12	apro	_	X	NC	_	0	x	_	=|74=a__True|75=p__True|78=r__True|79=o__False
+
+# text_version = 7
+# sent_id = 7_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	0	x	_	=|72=l__True|73='__True|n=s
+12	apr	_	X	NC	_	0	x	_	=|74=a__True|75=p__True|78=r__True
+
+# text_version = 8
+# sent_id = 8_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VS	VS	_	14	dep_coord	_	=|100=r__True|101=e__False|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+
+# text_version = 9
+# sent_id = 9_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleur	pleurer	VPP	NC	_	14	dep_coord	_	=|100=r__True|96=p__True|97=l__True|98=e__True|99=u__True|g=m|n=s
+
+# text_version = 10
+# sent_id = 10_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleuré	pleurer	VPP	VPP	_	14	dep_coord	_	=|100=r__True|103=é__False|96=p__True|97=l__True|98=e__True|99=u__True|g=m|n=s|t=K
+
+# text_version = 11
+# sent_id = 11_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleur	pleurer	VPP	NC	_	14	dep_coord	_	=|100=r__True|96=p__True|97=l__True|98=e__True|99=u__True|g=m|n=s
+
+# text_version = 12
+# sent_id = 12_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	&	&	PONCT	PONCT	_	18	ponct	_	=|110=&__False
+
+# text_version = 13
+# sent_id = 13_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+
+# text_version = 14
+# sent_id = 14_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etais	être	V	ADV	_	23	aux_pass	_	=|123=e__False|124=t__False|125=a__False|126=i__False|127=s__False
+23	punit	punir	VPP	NC	_	18	dep_coord	_	=|129=p__False|130=u__False|131=n__False|132=i__False|133=t__False
+
+# text_version = 15
+# sent_id = 15_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	0	x	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	e	_	X	ADV	_	0	x	_	=|123=e__False
+
+# text_version = 16
+# sent_id = 16_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	0	x	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etz	_	X	ADV	_	0	x	_	=|123=e__False|144=t__False|145=z__False
+
+# text_version = 17
+# sent_id = 17_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	_	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	0	x	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	et	et	CC	CC	_	0	root	_	=|123=e__False|144=t__False
+
+# text_version = 18
+# sent_id = 18_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	0	x	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	et	et	CC	CC	_	0	root	_	=|123=e__False|144=t__False
+23	&	&	PONCT	PONCT	_	22	ponct	_	=|147=&__False
+
+# text_version = 19
+# sent_id = 19_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	_	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	0	x	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	et	et	CC	CC	_	0	root	_	=|123=e__False|144=t__False
+
+# text_version = 20
+# sent_id = 20_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	V	_	23	aux_pass	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	pni	_	NC	NC	_	18	dep_coord	_	=|153=p__False|154=n__False|155=i__False
+
+# text_version = 21
+# sent_id = 21_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	22	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	V	_	0	x	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	p	_	X	ADV	_	0	x	_	=|153=p__False
+
+# text_version = 22
+# sent_id = 22_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	22	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	V	_	0	x	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	pjhk	_	X	ADV	_	0	x	_	=|153=p__False|158=j__False|159=h__False|160=k__False
+
+# text_version = 23
+# sent_id = 23_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	22	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	V	_	0	x	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	p	_	X	ADV	_	0	x	_	=|153=p__False
+
+# text_version = 24
+# sent_id = 24_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	V	_	23	aux_pass	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	punini	punir	VPP	ADV	_	18	dep_coord	_	=|153=p__False|164=u__False|165=n__False|166=i__False|167=n__False|168=i__False
+
+# text_version = 25
+# sent_id = 25_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	_	ADV	ADV	_	23	aux_tps	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	puni	puni	VPP	NC	_	18	dep_coord	_	=|153=p__False|164=u__False|165=n__False|166=i__False|g=m|n=s
+
+# text_version = 26
+# sent_id = 26_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	NPP	_	23	aux_pass	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	punit	punir	V	V	_	18	dep_coord	_	=|153=p__False|164=u__False|165=n__False|166=i__False|171=t__False|n=s|p=3|t=J,P
+24	de	de	P	P	_	23	mod	_	=|173=d__False|174=e__False
+25	recreationnnjj	récréation	NC	NC	_	24	prep	_	=|176=r__False|177=e__False|178=c__False|179=r__False|180=e__False|181=a__False|182=t__False|183=i__False|184=o__False|185=n__False|186=n__False|187=n__False|188=j__False|189=j__False
+
+# text_version = 27
+# sent_id = 27_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	NPP	_	23	aux_pass	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	punit	punir	V	V	_	18	dep_coord	_	=|153=p__False|164=u__False|165=n__False|166=i__False|171=t__False|n=s|p=3|t=J,P
+24	de	de	P	P	_	23	mod	_	=|173=d__False|174=e__False
+25	recreatio	récréation	NC	NC	_	24	prep	_	=|176=r__False|177=e__False|178=c__False|179=r__False|180=e__False|181=a__False|182=t__False|183=i__False|184=o__False
+
+# text_version = 28
+# sent_id = 28_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	aussi	ADV	P+D	_	18	fixed	_	=|114=a__True|115=u__True|g=m|n=s
+20	si	_	_	CS	_	19	goeswith	_	=|117=s__False|118=i__False
+21	il	il	CLS	CLS	_	23	suj	_	=|120=i__False|121=l__False|g=m|n=s|p=3
+22	etait	être	V	NPP	_	23	aux_pass	_	=|123=e__False|144=t__False|149=a__False|150=i__False|151=t__False
+23	punit	punir	V	V	_	18	dep_coord	_	=|153=p__False|164=u__False|165=n__False|166=i__False|171=t__False|n=s|p=3|t=J,P
+24	de	de	P	P	_	23	mod	_	=|173=d__False|174=e__False
+25	recreation	récréation	NC	NC	_	24	prep	_	=|176=r__False|177=e__False|178=c__False|179=r__False|180=e__False|181=a__False|182=t__False|183=i__False|184=o__False|195=n__False
+
+# text_version = 29
+# sent_id = 29_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	au	à+le	P+D	P+D	_	0	x	_	=|114=a__True|115=u__True|g=m|n=s
+
+# text_version = 30
+# sent_id = 30_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	aussi	aussi	ADV	ADV	_	22	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+20	il	il	CLS	CLS	_	22	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+21	etait	être	V	NPP	_	22	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+22	punit	punir	VPP	V	_	18	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+23	de	de	P	P	_	22	de_obj	_	=|247=d__True|248=e__True
+24	recreatin	récréation	NC	NC	_	23	prep	_	=|250=r__False|251=e__False|252=c__False|253=r__False|254=e__False|255=a__False|256=t__False|257=i__False|258=n__False
+
+# text_version = 31
+# sent_id = 31_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	aussi	aussi	ADV	ADV	_	22	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+20	il	il	CLS	CLS	_	22	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+21	etait	être	V	NPP	_	22	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+22	punit	punir	VPP	V	_	18	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+23	de	de	P	P	_	22	de_obj	_	=|247=d__True|248=e__True
+24	recreat	récréation	NC	NC	_	23	prep	_	=|250=r__False|251=e__False|252=c__False|253=r__False|254=e__False|255=a__False|256=t__False
+
+# text_version = 32
+# sent_id = 32_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	aussi	aussi	ADV	ADV	_	22	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+20	il	il	CLS	CLS	_	22	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+21	etait	être	V	NPP	_	22	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+22	punit	punir	VPP	V	_	18	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+23	de	de	P	P	_	22	de_obj	_	=|247=d__True|248=e__True
+24	recreation	récréation	NC	NC	_	23	prep	_	=|250=r__False|251=e__False|252=c__False|253=r__False|254=e__False|255=a__False|256=t__False|261=i__False|262=o__False|263=n__False
+
+# text_version = 33
+# sent_id = 33_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	aussi	aussi	ADV	ADV	_	22	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+20	il	il	CLS	CLS	_	22	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+21	etait	être	V	NPP	_	22	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+22	punit	punir	VPP	V	_	18	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+23	de	de	P	P	_	22	de_obj	_	=|247=d__True|248=e__True
+
+# text_version = 34
+# sent_id = 34_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	recreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|62=e__False|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+11	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+12	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+13	midi	_	_	NC	_	12	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+14	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+15	il	il	CLS	CLS	_	17	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+16	a	avoir	V	V	_	17	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+17	pleure	pleurer	VPP	V	_	14	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+18	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+19	aussi	aussi	ADV	ADV	_	22	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+20	il	il	CLS	CLS	_	22	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+21	etait	être	V	NPP	_	22	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+22	punit	punir	VPP	V	_	18	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+23	de	de	P	P	_	22	de_obj	_	=|247=d__True|248=e__True
+24	récréation	récréation	NC	NC	_	23	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+
+# text_version = 35
+# sent_id = 35_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	rcreation	récréation	NC	NC	_	9	prep	_	=|61=r__True|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+
+# text_version = 36
+# sent_id = 36_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récreation	récréation	NC	NC	_	9	prep	_	=|288=é__True|61=r__True|63=c__True|64=r__True|65=e__False|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+
+# text_version = 37
+# sent_id = 37_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récration	récréation	NC	NC	_	9	prep	_	=|288=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True
+
+# text_version = 38
+# sent_id = 38_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+
+# text_version = 39
+# sent_id = 39_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	b	_	X	NC	_	0	x	_	=|291=b__False
+
+# text_version = 40
+# sent_id = 40_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+
+# text_version = 41
+# sent_id = 41_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	etsi	et_si	CC	NPP	_	0	root	_	=|293=e__True|294=t__True|295=s__False|296=i__False
+26	ya	y_avoir	V	NPP	_	29	mod	_	=|298=y__False|299=a__False
+27	pasdeviolantion	pas_de_violence	NC	NPP	_	26	obj	_	=|301=p__False|302=a__False|303=s__False|304=d__False|305=e__False|306=v__False|307=i__False|308=o__False|309=l__False|310=a__False|311=n__False|312=t__False|313=i__False|314=o__False|315=n__False
+28	on	on	CLS	CLS	_	29	suj	_	=|317=o__False|318=n__False|n=s|p=3
+29	peut	pouvoir	V	V	_	25	dep_coord	_	=|320=p__False|321=e__False|322=u__False|323=t__False|n=s|p=3|t=P
+30	joue	jouer	V	V	_	29	obj	_	=|325=j__False|326=o__False|327=u__False|328=e__False|n=s|p=1,3|t=P,S
+31	tre	_	X	ADV	_	0	x	_	=|330=t__False|331=r__False|332=e__False
+
+# text_version = 42
+# sent_id = 42_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	etsi	et_si	CC	NPP	_	0	root	_	=|293=e__True|294=t__True|295=s__False|296=i__False
+26	ya	y_avoir	V	NPP	_	29	mod	_	=|298=y__False|299=a__False
+27	pasdeviolantion	pas_de_violence	NC	NPP	_	26	obj	_	=|301=p__False|302=a__False|303=s__False|304=d__False|305=e__False|306=v__False|307=i__False|308=o__False|309=l__False|310=a__False|311=n__False|312=t__False|313=i__False|314=o__False|315=n__False
+28	on	on	CLS	CLS	_	29	suj	_	=|317=o__False|318=n__False|n=s|p=3
+29	peut	pouvoir	V	V	_	25	dep_coord	_	=|320=p__False|321=e__False|322=u__False|323=t__False|n=s|p=3|t=P
+30	joue	jouer	V	V	_	29	obj	_	=|325=j__False|326=o__False|327=u__False|328=e__False|n=s|p=1,3|t=P,S
+31	tr	_	X	ADV	_	0	x	_	=|330=t__False|331=r__False
+
+# text_version = 43
+# sent_id = 43_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	etsi	et_si	CC	NPP	_	0	root	_	=|293=e__True|294=t__True|295=s__False|296=i__False
+26	ya	y_avoir	V	NPP	_	29	mod	_	=|298=y__False|299=a__False
+27	pasdeviolantion	pas_de_violence	NC	NPP	_	26	obj	_	=|301=p__False|302=a__False|303=s__False|304=d__False|305=e__False|306=v__False|307=i__False|308=o__False|309=l__False|310=a__False|311=n__False|312=t__False|313=i__False|314=o__False|315=n__False
+28	on	on	CLS	CLS	_	29	suj	_	=|317=o__False|318=n__False|n=s|p=3
+29	peut	pouvoir	V	V	_	25	dep_coord	_	=|320=p__False|321=e__False|322=u__False|323=t__False|n=s|p=3|t=P
+30	joue	jouer	V	V	_	29	obj	_	=|325=j__False|326=o__False|327=u__False|328=e__False|n=s|p=1,3|t=P,S
+31	tranquilliman	tranquillement	ADV	NC	_	30	mod	_	=|330=t__False|331=r__False|334=a__False|335=n__False|336=q__False|337=u__False|338=i__False|339=l__False|340=l__False|341=i__False|342=m__False|343=a__False|344=n__False
+
+# text_version = 44
+# sent_id = 44_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	etsi	et_si	CC	NPP	_	0	root	_	=|293=e__True|294=t__True|295=s__False|296=i__False
+26	ya	y_avoir	V	NPP	_	29	mod	_	=|298=y__False|299=a__False
+27	pasdeviolantion	pas_de_violence	NC	NPP	_	26	obj	_	=|301=p__False|302=a__False|303=s__False|304=d__False|305=e__False|306=v__False|307=i__False|308=o__False|309=l__False|310=a__False|311=n__False|312=t__False|313=i__False|314=o__False|315=n__False
+28	on	on	CLS	CLS	_	29	suj	_	=|317=o__False|318=n__False|n=s|p=3
+29	peut	pouvoir	V	V	_	25	dep_coord	_	=|320=p__False|321=e__False|322=u__False|323=t__False|n=s|p=3|t=P
+30	joue	jouer	V	V	_	29	obj	_	=|325=j__False|326=o__False|327=u__False|328=e__False|n=s|p=1,3|t=P,S
+31	tranqui	_	X	NC	_	0	x	_	=|330=t__False|331=r__False|334=a__False|335=n__False|336=q__False|337=u__False|338=i__False
+
+# text_version = 45
+# sent_id = 45_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	etsi	et_si	CC	NPP	_	0	root	_	=|293=e__True|294=t__True|295=s__False|296=i__False
+26	ya	y_avoir	V	NPP	_	29	mod	_	=|298=y__False|299=a__False
+27	pasdeviolantion	pas_de_violence	NC	NPP	_	26	obj	_	=|301=p__False|302=a__False|303=s__False|304=d__False|305=e__False|306=v__False|307=i__False|308=o__False|309=l__False|310=a__False|311=n__False|312=t__False|313=i__False|314=o__False|315=n__False
+28	on	on	CLS	CLS	_	29	suj	_	=|317=o__False|318=n__False|n=s|p=3
+29	peut	pouvoir	V	V	_	25	dep_coord	_	=|320=p__False|321=e__False|322=u__False|323=t__False|n=s|p=3|t=P
+30	joue	jouer	V	V	_	29	obj	_	=|325=j__False|326=o__False|327=u__False|328=e__False|n=s|p=1,3|t=P,S
+31	tranquilllman	tranquillement	ADV	NC	_	30	mod	_	=|330=t__False|331=r__False|334=a__False|335=n__False|336=q__False|337=u__False|338=i__False|351=l__False|352=l__False|353=l__False|354=m__False|355=a__False|356=n__False
+
+# text_version = 46
+# sent_id = 46_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	21	coord	_	=|293=e__True|294=t__True
+
+# text_version = 47
+# sent_id = 47_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	0	root	_	=|293=e__True|294=t__True
+26	si	si	CLR	CS	_	32	mod	_	=|406=s__True|407=i__True
+27	ya	il_y_a 	V	ADV	_	26	sub	_	=|409=y__True|410=a__True
+28	pas	avoir	V	ADV	_	27	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	27	obj	_	=|416=d__True|417=e__True
+30	violantion	violence	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	25	dep_coord	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	VINF	V	_	32	obj	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	tranquillement	ADV	NC	_	33	mod	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	-	-	PONCT	PONCT	_	34	ponct	_	=|455=-__False
+
+# text_version = 48
+# sent_id = 48_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	21	coord	_	=|293=e__True|294=t__True
+26	si	si	CS	CS	_	25	dep_coord	_	=|406=s__True|407=i__True
+27	ya	_	ADV	ADV	_	32	mod	_	=|409=y__True|410=a__True
+28	pas	pas	ADV	ADV	_	32	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	32	mod	_	=|416=d__True|417=e__True
+30	violantion	_	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	26	sub	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	V	V	_	32	mod	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	_	NC	NC	_	33	obj	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+
+# text_version = 49
+# sent_id = 49_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	0	root	_	=|293=e__True|294=t__True
+26	si	si	CLR	CS	_	32	mod	_	=|406=s__True|407=i__True
+27	ya	il_y_a 	V	ADV	_	26	sub	_	=|409=y__True|410=a__True
+28	pas	avoir	V	ADV	_	27	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	27	obj	_	=|416=d__True|417=e__True
+30	violantion	violence	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	25	dep_coord	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	VINF	V	_	32	obj	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	tranquillement	ADV	VINF	_	33	mod	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	dans	dans	P	P	_	33	mod	_	=|458=d__True|459=a__True|460=n__True|461=s__True
+36	la	le	DET	DET	_	37	det	_	=|463=l__True|464=a__True|g=f|n=s
+37	cour	cour	NC	NC	_	35	prep	_	=|466=c__True|467=o__True|468=u__True|469=r__True|g=f|n=s
+38	de	de	P	P	_	37	dep	_	=|471=d__True|472=e__True
+39	récréation	récréation	NC	NC	_	38	prep	_	=|474=r__True|475=é__True|476=c__True|477=r__True|478=é__True|479=a__True|480=t__True|481=i__True|482=o__True|483=n__True|g=f|n=s
+40	pour	pour	P	P	_	32	mod	_	=|485=p__True|486=o__True|487=u__True|488=r__True
+41	pa	pas	ADV	NC	_	40	fixed	_	=|490=p__True|491=a__True
+42	quon	que_on	CS	NC	_	41	fixed	_	=|493=q__True|494=u__True|495=o__False|496=n__False
+43	se	se	CLR	CLR	_	44	aff	_	=|498=s__False|499=e__False|n=p,s|p=3
+44	dispute	disputer	V	V	_	40	sub	_	=|501=d__False|502=i__False|503=s__False|504=p__False|505=u__False|506=t__False|507=e__False|n=s|p=1,3|t=P,S
+45	pd	_	X	ADV	_	0	x	_	=|509=p__False|510=d__False
+
+# text_version = 50
+# sent_id = 50_1
+1	j'	je	CLS	CLS	_	3	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	3	aux_tps	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	déjà_voir	VPP	ADV	_	0	root	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	un	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	violence	NC	NC	_	3	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	3	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	le	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	11	det	_	=|72=l__True|73='__True|n=s
+11	apri	après-midi	NC	ADJ	_	3	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	_	_	NC	_	11	goeswith	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	0	root	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	aux_tps	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	VPP	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	0	root	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	être	V	NPP	_	21	aux_tps	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	VPP	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	de_obj	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	0	root	_	=|293=e__True|294=t__True
+26	si	si	CLR	CS	_	32	mod	_	=|406=s__True|407=i__True
+27	ya	il_y_a 	V	ADV	_	26	sub	_	=|409=y__True|410=a__True
+28	pas	avoir	V	ADV	_	27	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	27	obj	_	=|416=d__True|417=e__True
+30	violantion	violence	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	25	dep_coord	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	VINF	V	_	32	obj	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	tranquillement	ADV	VINF	_	33	mod	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	dans	dans	P	P	_	33	mod	_	=|458=d__True|459=a__True|460=n__True|461=s__True
+36	la	le	DET	DET	_	37	det	_	=|463=l__True|464=a__True|g=f|n=s
+37	cour	cour	NC	NC	_	35	prep	_	=|466=c__True|467=o__True|468=u__True|469=r__True|g=f|n=s
+38	de	de	P	P	_	37	dep	_	=|471=d__True|472=e__True
+39	récréation	récréation	NC	NC	_	38	prep	_	=|474=r__True|475=é__True|476=c__True|477=r__True|478=é__True|479=a__True|480=t__True|481=i__True|482=o__True|483=n__True|g=f|n=s
+40	pour	pour	P	P	_	32	mod	_	=|485=p__True|486=o__True|487=u__True|488=r__True
+41	pa	pas	ADV	NC	_	40	fixed	_	=|490=p__True|491=a__True
+42	qu	que	CS	NC	_	41	fixed	_	=|493=q__True|494=u__True
+
+# text_version = 51
+# sent_id = 51_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	21	coord	_	=|293=e__True|294=t__True
+26	si	si	CS	CS	_	25	dep_coord	_	=|406=s__True|407=i__True
+27	ya	_	ADV	ADV	_	32	mod	_	=|409=y__True|410=a__True
+28	pas	pas	ADV	ADV	_	32	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	32	mod	_	=|416=d__True|417=e__True
+30	violantion	_	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	26	sub	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	V	V	_	32	mod	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	_	VINF	VINF	_	33	obj	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	dans	dans	P	P	_	34	mod	_	=|458=d__True|459=a__True|460=n__True|461=s__True
+36	la	la	DET	DET	_	37	det	_	=|463=l__True|464=a__True|g=f|n=s
+37	cour	cour	NC	NC	_	35	prep	_	=|466=c__True|467=o__True|468=u__True|469=r__True|g=f|n=s
+38	de	de	P	P	_	34	mod	_	=|471=d__True|472=e__True
+39	récréation	récréation	NC	NC	_	38	prep	_	=|474=r__True|475=é__True|476=c__True|477=r__True|478=é__True|479=a__True|480=t__True|481=i__True|482=o__True|483=n__True|g=f|n=s
+40	pour	pour	P	P	_	34	mod	_	=|485=p__True|486=o__True|487=u__True|488=r__True
+41	pa	_	NPP	NPP	_	40	prep	_	=|490=p__True|491=a__True
+42	qu'	que	PROREL	PROREL	_	0	root	_	=|493=q__True|494=u__True|527='__True
+43	on	on	CLS	CLS	_	0	root	_	=|528=o__True|529=n__True|n=s|p=3
+44	pa	_	ADV	ADV	_	0	root	_	=|531=p__False|532=a__False
+
+# text_version = 52
+# sent_id = 52_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	21	coord	_	=|293=e__True|294=t__True
+26	si	si	CS	CS	_	25	dep_coord	_	=|406=s__True|407=i__True
+27	ya	_	ADV	ADV	_	32	mod	_	=|409=y__True|410=a__True
+28	pas	pas	ADV	ADV	_	32	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	32	mod	_	=|416=d__True|417=e__True
+30	violantion	_	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	26	sub	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	V	V	_	32	mod	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	_	VINF	VINF	_	33	obj	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	dans	dans	P	P	_	34	mod	_	=|458=d__True|459=a__True|460=n__True|461=s__True
+36	la	la	DET	DET	_	37	det	_	=|463=l__True|464=a__True|g=f|n=s
+37	cour	cour	NC	NC	_	35	prep	_	=|466=c__True|467=o__True|468=u__True|469=r__True|g=f|n=s
+38	de	de	P	P	_	34	mod	_	=|471=d__True|472=e__True
+39	récréation	récréation	NC	NC	_	38	prep	_	=|474=r__True|475=é__True|476=c__True|477=r__True|478=é__True|479=a__True|480=t__True|481=i__True|482=o__True|483=n__True|g=f|n=s
+40	pour	pour	P	P	_	34	mod	_	=|485=p__True|486=o__True|487=u__True|488=r__True
+41	pa	_	NPP	NPP	_	40	prep	_	=|490=p__True|491=a__True
+42	qu'	que	PROREL	PROREL	_	0	root	_	=|493=q__True|494=u__True|527='__True
+43	on	on	CLS	CLS	_	0	root	_	=|528=o__True|529=n__True|n=s|p=3
+
+# text_version = 53
+# sent_id = 53_1
+1	j'	je	CLS	CLS	_	2	suj	_	=|1=j__True|2='__True|n=s|p=1
+2	ai	avoir	V	V	_	0	root	_	=|3=a__True|4=i__True|n=s|p=1|t=P
+3	javue	_	ADV	ADV	_	2	mod	_	=|10=e__True|6=j__True|7=a__True|8=v__True|9=u__True
+4	une	une	DET	DET	_	5	det	_	=|12=u__True|13=n__True|14=e__True|g=f|n=s
+5	violantion	_	NC	NC	_	2	obj	_	=|16=v__True|17=i__True|18=o__True|19=l__True|20=a__True|21=n__True|22=t__True|23=i__True|24=o__True|25=n__True
+6	dans	dans	P	P	_	2	mod	_	=|27=d__True|28=a__True|29=n__True|30=s__True
+7	la	la	DET	DET	_	8	det	_	=|32=l__True|33=a__True|g=f|n=s
+8	cour	cour	NC	NC	_	6	prep	_	=|35=c__True|36=o__True|37=u__True|52=r__True|g=f|n=s
+9	de	de	P	P	_	8	dep	_	=|58=d__True|59=e__True
+10	l'	le	DET	DET	_	12	det	_	=|72=l__True|73='__True|n=s
+11	apri	_	ADJ	ADJ	_	12	mod	_	=|74=a__True|75=p__True|78=r__True|81=i__True
+12	midi	midi	NC	NC	_	2	obj	_	=|83=m__True|84=i__True|85=d__True|86=i__True|g=m|n=s
+13	et	et	CC	CC	_	2	coord	_	=|88=e__True|89=t__True
+14	il	il	CLS	CLS	_	16	suj	_	=|91=i__True|92=l__True|g=m|n=s|p=3
+15	a	avoir	V	V	_	16	mod	_	=|94=a__True|n=s|p=3|t=P
+16	pleure	pleurer	V	V	_	13	dep_coord	_	=|100=r__True|105=e__True|96=p__True|97=l__True|98=e__True|99=u__True|n=s|p=1,3|t=P,S
+17	et	et	CC	CC	_	16	coord	_	=|107=e__True|108=t__True
+18	aussi	aussi	ADV	ADV	_	21	mod	_	=|114=a__True|115=u__True|228=s__True|229=s__True|230=i__True
+19	il	il	CLS	CLS	_	21	suj	_	=|232=i__True|233=l__True|g=m|n=s|p=3
+20	etait	_	NPP	NPP	_	21	suj	_	=|235=e__True|236=t__True|237=a__True|238=i__True|239=t__True
+21	punit	punir	V	V	_	17	dep_coord	_	=|241=p__True|242=u__True|243=n__True|244=i__True|245=t__True|n=s|p=3|t=J,P
+22	de	de	P	P	_	21	mod	_	=|247=d__True|248=e__True
+23	récréation	récréation	NC	NC	_	22	prep	_	=|276=r__True|277=é__True|278=c__True|279=r__True|280=é__True|281=a__True|282=t__True|283=i__True|284=o__True|285=n__True|g=f|n=s
+24	récréation	récréation	NC	NC	_	9	prep	_	=|288=é__True|290=é__True|61=r__True|63=c__True|64=r__True|66=a__True|67=t__True|68=i__True|69=o__True|70=n__True|g=f|n=s
+25	et	et	CC	CC	_	21	coord	_	=|293=e__True|294=t__True
+26	si	si	CS	CS	_	25	dep_coord	_	=|406=s__True|407=i__True
+27	ya	_	ADV	ADV	_	32	mod	_	=|409=y__True|410=a__True
+28	pas	pas	ADV	ADV	_	32	mod	_	=|412=p__True|413=a__True|414=s__True
+29	de	de	P	P	_	32	mod	_	=|416=d__True|417=e__True
+30	violantion	_	NC	NC	_	29	prep	_	=|419=v__True|420=i__True|421=o__True|422=l__True|423=a__True|424=n__True|425=t__True|426=i__True|427=o__True|428=n__True
+31	on	on	CLS	CLS	_	32	suj	_	=|430=o__True|431=n__True|n=s|p=3
+32	peut	pouvoir	V	V	_	26	sub	_	=|433=p__True|434=e__True|435=u__True|436=t__True|n=s|p=3|t=P
+33	joue	jouer	V	V	_	32	mod	_	=|438=j__True|439=o__True|440=u__True|441=e__True|n=s|p=1,3|t=P,S
+34	tranquillman	_	VINF	VINF	_	33	obj	_	=|443=t__True|444=r__True|445=a__True|446=n__True|447=q__True|448=u__True|449=i__True|450=l__True|451=l__True|452=m__True|453=a__True|454=n__True
+35	dans	dans	P	P	_	34	mod	_	=|458=d__True|459=a__True|460=n__True|461=s__True
+36	la	la	DET	DET	_	37	det	_	=|463=l__True|464=a__True|g=f|n=s
+37	cour	cour	NC	NC	_	35	prep	_	=|466=c__True|467=o__True|468=u__True|469=r__True|g=f|n=s
+38	de	de	P	P	_	34	mod	_	=|471=d__True|472=e__True
+39	récréation	récréation	NC	NC	_	38	prep	_	=|474=r__True|475=é__True|476=c__True|477=r__True|478=é__True|479=a__True|480=t__True|481=i__True|482=o__True|483=n__True|g=f|n=s
+40	pour	pour	P	P	_	34	mod	_	=|485=p__True|486=o__True|487=u__True|488=r__True
+41	pa	_	NPP	NPP	_	40	prep	_	=|490=p__True|491=a__True
+42	qu'	que	CS	CS	_	34	mod	_	=|493=q__True|494=u__True|527='__True
+43	on	on	CLS	CLS	_	0	root	_	=|528=o__True|529=n__True|n=s|p=3
+44	se	se	CLR	CLR	_	0	root	_	=|535=s__True|536=e__True|n=p,s|p=3
+45	dispute	dispute	NC	NC	_	0	root	_	=|538=d__True|539=i__True|540=s__True|541=p__True|542=u__True|543=t__True|544=e__True|g=f|n=s
+

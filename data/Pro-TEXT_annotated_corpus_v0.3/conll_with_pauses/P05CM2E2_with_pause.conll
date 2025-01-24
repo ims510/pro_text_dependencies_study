@@ -1,0 +1,872 @@
+# text_version=0
+# sentence_id=1
+1	JE	je	CLS	CLS	n=s|p=1	0	x	_	charID=1__char=J__charStatus=True__pause=na|charID=2__char=E__charStatus=False__pause=328
+
+# text_version=1
+# sentence_id=1
+2	J	_	X	NC	_	0	x	_	charID=1__char=J__charStatus=True__pause=na
+
+# text_version=2
+# sentence_id=1
+3	JE	je	CLS	CLS	n=s|p=1	0	x	_	charID=1__char=J__charStatus=True__pause=na|charID=4__char=E__charStatus=False__pause=2012
+4	P	_	X	NPP	_	0	x	_	charID=6__char=P__charStatus=False__pause=2231
+
+# text_version=3
+# sentence_id=1
+2	J	_	X	NC	_	0	x	_	charID=1__char=J__charStatus=True__pause=na
+
+# text_version=4
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	obj	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj_impers	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	comp	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	ats	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	0	x	_	charID=37__char=.__charStatus=True__pause=1154
+13	pou	pou	X	NC	n=s|g=m	0	x	_	charID=39__char=p__charStatus=False__pause=4430|charID=40__char=o__charStatus=False__pause=453|charID=41__char=u__charStatus=False__pause=515
+
+# text_version=5
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# text_version=6
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	20	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	14	fixed	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	le	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	18	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	arrêter	V	ADV	_	14	sub	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj_impers	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+21	q	_	X	ADV	_	0	x	_	charID=81__char=q__charStatus=True__pause=7488
+22	'	'	PONCT	PONCT	_	21	ponct	_	charID=82__char='__charStatus=False__pause=1123
+
+# text_version=7
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	20	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	14	fixed	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	le	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	18	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	arrêter	V	ADV	_	14	sub	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj_impers	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+21	q	_	X	ADV	_	0	x	_	charID=81__char=q__charStatus=True__pause=7488
+
+# text_version=8
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	obj	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	même	ADV	NC	_	39	mod	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	d'	P	P	_	37	dep_coord	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	à	P	V	n=s|t=P|p=3	40	p_obj	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	hôpital	NC	NC	_	41	prep	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+44	/	/	PONCT	PONCT	_	43	ponct	_	charID=167__char=/__charStatus=False__pause=8455
+
+# text_version=9
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+
+# text_version=10
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	47	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+47	fai	faire	V	ADV	_	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=176__char=i__charStatus=False__pause=125
+
+# text_version=11
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+48	fa	_	X	NC	g=m	0	x	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092
+
+# text_version=12
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+49	fat	fat	NC	NC	n=s|g=m	0	x	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=178__char=t__charStatus=False__pause=1061
+
+# text_version=13
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+48	fa	_	X	NC	g=m	0	x	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092
+
+# text_version=14
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj_impers	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	être	VINF	ADV	_	59	obj	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	un	DET	ADJ	_	62	det	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	peu	ADV	NC	_	63	mod	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	0	x	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+64	inte	_	X	ADJ	_	0	x	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421
+
+# text_version=15
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj_impers	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	être	VINF	ADV	_	59	obj	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	un	DET	ADJ	_	62	det	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	peu	ADV	NC	_	63	mod	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	0	x	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+64	inte	_	X	ADJ	_	0	x	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421
+
+# text_version=16
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	_	ADV	ADV	_	59	mod	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	in	ADJ	ADJ	_	62	mod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	_	NC	NC	_	59	obj	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	65	mod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+65	inteligent	_	ADJ	ADJ	_	62	mod	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+66	et	et	CC	CC	_	59	coord	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+67	plus	plus	ADV	ADV	_	68	mod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+68	soit	être	VS	VS	n=s|t=S|p=3	66	dep_coord	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+69	meme	_	ADV	ADV	_	68	mod	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+70	.	.	PONCT	PONCT	_	69	ponct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# sentence_id=6
+71	Il	il	CLS	CLS	n=s|g=m|p=3	72	suj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+72	fai	faire	V	ADV	_	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=278__char=i__charStatus=False__pause=499
+
+# text_version=17
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	_	ADV	ADV	_	59	mod	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	in	ADJ	ADJ	_	62	mod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	_	NC	NC	_	59	obj	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	65	mod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+65	inteligent	_	ADJ	ADJ	_	62	mod	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+66	et	et	CC	CC	_	59	coord	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+67	plus	plus	ADV	ADV	_	68	mod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+68	soit	être	VS	VS	n=s|t=S|p=3	66	dep_coord	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+69	meme	_	ADV	ADV	_	68	mod	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+70	.	.	PONCT	PONCT	_	69	ponct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# sentence_id=6
+71	Il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+73	fa	fa	NC	NC	g=m	0	x	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419
+
+# text_version=18
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	_	ADV	ADV	_	59	mod	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	in	ADJ	ADJ	_	62	mod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	_	NC	NC	_	59	obj	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	65	mod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+65	inteligent	_	ADJ	ADJ	_	62	mod	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+66	et	et	CC	CC	_	59	coord	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+67	plus	plus	ADV	ADV	_	68	mod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+68	soit	être	VS	VS	n=s|t=S|p=3	66	dep_coord	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+69	meme	_	ADV	ADV	_	68	mod	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+70	.	.	PONCT	PONCT	_	69	ponct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# sentence_id=6
+71	Il	il	CLS	CLS	n=s|g=m|p=3	74	suj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+74	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+75	etre	_	ADV	ADV	_	74	mod	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+76	respansable	_	NC	NC	_	74	obj	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+77	de	de	P	P	_	74	mod	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+78	ses	ses	DET	DET	n=p|p=3|poss=s	79	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+79	acte	acte	NC	NC	n=s|g=m	77	prep	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+80	;	;	PONCT	PONCT	_	79	ponct	_	charID=312__char=;__charStatus=False__pause=1513
+
+# text_version=19
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	_	ADV	ADV	_	59	mod	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	in	ADJ	ADJ	_	62	mod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	_	NC	NC	_	59	obj	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	65	mod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+65	inteligent	_	ADJ	ADJ	_	62	mod	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+66	et	et	CC	CC	_	59	coord	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+67	plus	plus	ADV	ADV	_	68	mod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+68	soit	être	VS	VS	n=s|t=S|p=3	66	dep_coord	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+69	meme	_	ADV	ADV	_	68	mod	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+70	.	.	PONCT	PONCT	_	69	ponct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# sentence_id=6
+71	Il	il	CLS	CLS	n=s|g=m|p=3	74	suj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+74	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+75	etre	_	ADV	ADV	_	74	mod	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+76	respansable	_	NC	NC	_	74	obj	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+77	de	de	P	P	_	74	mod	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+78	ses	ses	DET	DET	n=p|p=3|poss=s	79	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+79	acte	acte	NC	NC	n=s|g=m	77	prep	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+
+# text_version=20
+# sentence_id=1
+5	Je	je	CLS	CLS	n=s|p=1	6	suj	_	charID=1__char=J__charStatus=True__pause=na|charID=10__char=e__charStatus=True__pause=1092
+6	pense	penser	V	V	n=s|t=P,S|p=1,3	0	root	_	charID=12__char=p__charStatus=True__pause=3806|charID=13__char=e__charStatus=True__pause=405|charID=14__char=n__charStatus=True__pause=1139|charID=15__char=s__charStatus=True__pause=858|charID=16__char=e__charStatus=True__pause=125
+7	que	que	CS	CS	_	6	mod	_	charID=18__char=q__charStatus=True__pause=9875|charID=19__char=u__charStatus=True__pause=1669|charID=20__char=e__charStatus=True__pause=94
+8	c'	ce	CLS	CLS	_	9	suj	_	charID=22__char=c__charStatus=True__pause=1825|charID=23__char='__charStatus=True__pause=1654
+9	est	être	V	V	n=s|t=P|p=3	7	sub	_	charID=24__char=e__charStatus=True__pause=1794|charID=25__char=s__charStatus=True__pause=312|charID=26__char=t__charStatus=True__pause=1077
+10	pas	pas	ADV	ADV	_	9	mod	_	charID=28__char=p__charStatus=True__pause=2652|charID=29__char=a__charStatus=True__pause=63|charID=30__char=s__charStatus=True__pause=343
+11	bien	bien	ADV	ADV	_	9	mod	_	charID=32__char=b__charStatus=True__pause=1544|charID=33__char=i__charStatus=True__pause=749|charID=34__char=e__charStatus=True__pause=1872|charID=35__char=n__charStatus=True__pause=437
+12	.	.	PONCT	PONCT	_	11	ponct	_	charID=37__char=.__charStatus=True__pause=1154
+
+# sentence_id=2
+14	Pour	pour	P	P	_	15	mod	_	charID=45__char=P__charStatus=True__pause=1498|charID=46__char=o__charStatus=True__pause=624|charID=47__char=u__charStatus=True__pause=327|charID=48__char=r__charStatus=True__pause=483
+15	que	que	CS	CS	_	0	root	_	charID=50__char=q__charStatus=True__pause=22184|charID=51__char=u__charStatus=True__pause=686|charID=52__char=e__charStatus=True__pause=515
+16	la	la	DET	DET	n=s|g=f	17	det	_	charID=54__char=l__charStatus=True__pause=1950|charID=55__char=a__charStatus=True__pause=718
+17	violence	violence	NC	NC	n=s|g=f	20	suj	_	charID=57__char=v__charStatus=True__pause=10577|charID=58__char=i__charStatus=True__pause=577|charID=59__char=o__charStatus=True__pause=109|charID=60__char=l__charStatus=True__pause=1918|charID=61__char=e__charStatus=True__pause=1201|charID=62__char=n__charStatus=True__pause=983|charID=63__char=c__charStatus=True__pause=3370|charID=64__char=e__charStatus=True__pause=156
+18	arrete	_	ADV	ADV	_	20	mod	_	charID=66__char=a__charStatus=True__pause=905|charID=67__char=r__charStatus=True__pause=4368|charID=68__char=r__charStatus=True__pause=140|charID=69__char=e__charStatus=True__pause=172|charID=70__char=t__charStatus=True__pause=842|charID=71__char=e__charStatus=True__pause=655
+19	il	il	CLS	CLS	n=s|g=m|p=3	20	suj	_	charID=73__char=i__charStatus=True__pause=4227|charID=74__char=l__charStatus=True__pause=125
+20	faut	falloir	V	V	n=s|t=P|p=3	15	sub	_	charID=76__char=f__charStatus=True__pause=1919|charID=77__char=a__charStatus=True__pause=499|charID=78__char=u__charStatus=True__pause=484|charID=79__char=t__charStatus=True__pause=858
+23	qu'	que	CS	CS	_	20	obj	_	charID=81__char=q__charStatus=True__pause=7488|charID=84__char=u__charStatus=True__pause=1716|charID=85__char='__charStatus=True__pause=858
+24	on	on	CLS	CLS	n=s|p=3	25	suj	_	charID=86__char=o__charStatus=True__pause=624|charID=87__char=n__charStatus=True__pause=842
+25	joue	jouer	V	V	n=s|t=P,S|p=1,3	23	ponct	_	charID=89__char=j__charStatus=True__pause=15616|charID=90__char=o__charStatus=True__pause=982|charID=91__char=u__charStatus=True__pause=1700|charID=92__char=e__charStatus=True__pause=983
+26	a	avoir	V	V	n=s|t=P|p=3	23	root	_	charID=94__char=a__charStatus=True__pause=780
+27	des	des	DET	DET	n=p	28	det	_	charID=96__char=d__charStatus=True__pause=686|charID=97__char=e__charStatus=True__pause=125|charID=98__char=s__charStatus=True__pause=203
+28	jeux	jeu	NC	NC	n=p|g=m	26	obj	_	charID=100__char=j__charStatus=True__pause=952|charID=101__char=e__charStatus=True__pause=1076|charID=102__char=u__charStatus=True__pause=437|charID=103__char=x__charStatus=True__pause=1372
+29	pas	pas	ADV	ADV	_	30	mod	_	charID=105__char=p__charStatus=True__pause=16287|charID=106__char=a__charStatus=True__pause=920|charID=107__char=s__charStatus=True__pause=19812
+30	violent	violent	ADJ	ADJ	n=s|g=m	28	mod	_	charID=109__char=v__charStatus=True__pause=4649|charID=110__char=i__charStatus=True__pause=546|charID=111__char=o__charStatus=True__pause=156|charID=112__char=l__charStatus=True__pause=1342|charID=113__char=e__charStatus=True__pause=2403|charID=114__char=n__charStatus=True__pause=826|charID=115__char=t__charStatus=True__pause=1982
+31	.	.	PONCT	PONCT	_	30	ponct	_	charID=116__char=.__charStatus=True__pause=2060
+
+# sentence_id=3
+32	On	on	CLS	CLS	n=s|p=3	33	suj	_	charID=118__char=O__charStatus=True__pause=4352|charID=119__char=n__charStatus=True__pause=2403
+33	peux	pouvoir	V	V	n=s|t=P|p=1,2	0	root	_	charID=121__char=p__charStatus=True__pause=4072|charID=122__char=e__charStatus=True__pause=687|charID=123__char=u__charStatus=True__pause=4150|charID=124__char=x__charStatus=True__pause=1825
+34	se	se	CLR	CLR	n=p,s|p=3	35	aff	_	charID=126__char=s__charStatus=True__pause=2340|charID=127__char=e__charStatus=True__pause=124
+35	faire	faire	VINF	VINF	t=W	33	obj	_	charID=129__char=f__charStatus=True__pause=3463|charID=130__char=a__charStatus=True__pause=359|charID=131__char=i__charStatus=True__pause=1575|charID=132__char=r__charStatus=True__pause=1170|charID=133__char=e__charStatus=True__pause=156
+36	mal	mal	ADV	ADV	_	35	mod	_	charID=135__char=m__charStatus=True__pause=3868|charID=136__char=a__charStatus=True__pause=312|charID=137__char=l__charStatus=True__pause=312
+37	ou	ou	CC	CC	_	35	coord	_	charID=139__char=o__charStatus=True__pause=3292|charID=140__char=u__charStatus=True__pause=5398
+38	meme	_	NC	NC	_	37	dep_coord	_	charID=142__char=m__charStatus=True__pause=2184|charID=143__char=e__charStatus=True__pause=218|charID=144__char=m__charStatus=True__pause=141|charID=145__char=e__charStatus=True__pause=156
+39	d'	de	P	P	_	35	mod	_	charID=147__char=d__charStatus=True__pause=842|charID=148__char='__charStatus=True__pause=3447
+40	aller	aller	VINF	VINF	t=W	39	prep	_	charID=149__char=a__charStatus=True__pause=2480|charID=150__char=l__charStatus=True__pause=1014|charID=151__char=l__charStatus=True__pause=109|charID=152__char=e__charStatus=True__pause=1388|charID=153__char=r__charStatus=True__pause=280
+41	a	avoir	V	V	n=s|t=P|p=3	33	mod	_	charID=155__char=a__charStatus=True__pause=811
+42	l'	le	DET	DET	n=s	43	det	_	charID=157__char=l__charStatus=True__pause=11092|charID=158__char='__charStatus=True__pause=1809
+43	hopital	_	NC	NC	_	41	suj	_	charID=159__char=h__charStatus=True__pause=2870|charID=160__char=o__charStatus=True__pause=1466|charID=161__char=p__charStatus=True__pause=2933|charID=162__char=i__charStatus=True__pause=1950|charID=163__char=t__charStatus=True__pause=2434|charID=164__char=a__charStatus=True__pause=405|charID=165__char=l__charStatus=True__pause=968
+45	.	.	PONCT	PONCT	_	43	ponct	_	charID=169__char=.__charStatus=True__pause=639
+
+# sentence_id=4
+46	Il	il	CLS	CLS	n=s|g=m|p=3	50	suj	_	charID=171__char=I__charStatus=True__pause=11872|charID=172__char=l__charStatus=True__pause=1092
+50	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=174__char=f__charStatus=True__pause=1872|charID=175__char=a__charStatus=True__pause=1092|charID=180__char=u__charStatus=True__pause=1279|charID=181__char=t__charStatus=True__pause=62
+51	plus	plus	ADV	ADV	_	50	mod	_	charID=183__char=p__charStatus=True__pause=14929|charID=184__char=l__charStatus=True__pause=234|charID=185__char=u__charStatus=True__pause=624|charID=186__char=s__charStatus=True__pause=733
+52	se	se	CLR	CLR	n=p,s|p=3	53	det	_	charID=188__char=s__charStatus=True__pause=1825|charID=189__char=e__charStatus=True__pause=141
+53	bagarer	_	NPP	NPP	_	50	obj	_	charID=191__char=b__charStatus=True__pause=5273|charID=192__char=a__charStatus=True__pause=609|charID=193__char=g__charStatus=True__pause=2059|charID=194__char=a__charStatus=True__pause=218|charID=195__char=r__charStatus=True__pause=1154|charID=196__char=e__charStatus=True__pause=156|charID=197__char=r__charStatus=True__pause=3011
+54	,	,	PONCT	PONCT	_	53	ponct	_	charID=199__char=,__charStatus=True__pause=8003
+55	se	se	CLR	CLR	n=p,s|p=3	0	_	_	charID=201__char=s__charStatus=True__pause=5897|charID=202__char=e__charStatus=True__pause=249
+56	frape	frape	NC	NC	n=s|g=f	0	_	_	charID=204__char=f__charStatus=True__pause=13166|charID=205__char=r__charStatus=True__pause=125|charID=206__char=a__charStatus=True__pause=748|charID=207__char=p__charStatus=True__pause=4977|charID=208__char=e__charStatus=True__pause=531
+57	...	...	PONCT	PONCT	_	56	ponct	_	charID=210__char=.__charStatus=True__pause=1545|charID=211__char=.__charStatus=True__pause=265|charID=212__char=.__charStatus=True__pause=297
+
+# sentence_id=5
+58	Il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=214__char=I__charStatus=True__pause=14477|charID=215__char=l__charStatus=True__pause=249
+59	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=217__char=f__charStatus=True__pause=2761|charID=218__char=a__charStatus=True__pause=983|charID=219__char=u__charStatus=True__pause=2403|charID=220__char=t__charStatus=True__pause=250
+60	etre	_	ADV	ADV	_	59	mod	_	charID=222__char=e__charStatus=True__pause=4072|charID=223__char=t__charStatus=True__pause=1467|charID=224__char=r__charStatus=True__pause=140|charID=225__char=e__charStatus=True__pause=141
+61	in	in	ADJ	ADJ	_	62	mod	_	charID=227__char=i__charStatus=True__pause=5960|charID=228__char=n__charStatus=True__pause=936
+62	peux	_	NC	NC	_	59	obj	_	charID=230__char=p__charStatus=True__pause=3400|charID=231__char=e__charStatus=True__pause=609|charID=232__char=u__charStatus=True__pause=1841|charID=233__char=x__charStatus=True__pause=4166
+63	plus	plus	ADV	ADV	_	65	mod	_	charID=235__char=p__charStatus=True__pause=1467|charID=236__char=l__charStatus=True__pause=796|charID=237__char=u__charStatus=True__pause=905|charID=238__char=s__charStatus=True__pause=2075
+65	inteligent	_	ADJ	ADJ	_	62	mod	_	charID=240__char=i__charStatus=True__pause=2637|charID=241__char=n__charStatus=True__pause=2152|charID=242__char=t__charStatus=True__pause=1607|charID=243__char=e__charStatus=True__pause=421|charID=246__char=l__charStatus=True__pause=1997|charID=247__char=i__charStatus=True__pause=249|charID=248__char=g__charStatus=True__pause=11794|charID=249__char=e__charStatus=True__pause=546|charID=250__char=n__charStatus=True__pause=2745|charID=251__char=t__charStatus=True__pause=577
+66	et	et	CC	CC	_	59	coord	_	charID=253__char=e__charStatus=True__pause=1982|charID=254__char=t__charStatus=True__pause=281
+67	plus	plus	ADV	ADV	_	68	mod	_	charID=256__char=p__charStatus=True__pause=1919|charID=257__char=l__charStatus=True__pause=967|charID=258__char=u__charStatus=True__pause=1029|charID=259__char=s__charStatus=True__pause=2387
+68	soit	être	VS	VS	n=s|t=S|p=3	66	dep_coord	_	charID=261__char=s__charStatus=True__pause=2917|charID=262__char=o__charStatus=True__pause=1108|charID=263__char=i__charStatus=True__pause=422|charID=264__char=t__charStatus=True__pause=827
+69	meme	_	ADV	ADV	_	68	mod	_	charID=266__char=m__charStatus=True__pause=1825|charID=267__char=e__charStatus=True__pause=1232|charID=268__char=m__charStatus=True__pause=327|charID=269__char=e__charStatus=True__pause=952
+70	.	.	PONCT	PONCT	_	69	ponct	_	charID=271__char=.__charStatus=True__pause=1233
+
+# sentence_id=6
+71	Il	il	CLS	CLS	n=s|g=m|p=3	74	suj	_	charID=273__char=I__charStatus=True__pause=12979|charID=274__char=l__charStatus=True__pause=327
+74	faut	falloir	V	V	n=s|t=P|p=3	0	root	_	charID=276__char=f__charStatus=True__pause=405|charID=277__char=a__charStatus=True__pause=1419|charID=280__char=u__charStatus=True__pause=531|charID=281__char=t__charStatus=True__pause=2153
+75	etre	_	ADV	ADV	_	74	mod	_	charID=283__char=e__charStatus=True__pause=780|charID=284__char=t__charStatus=True__pause=1295|charID=285__char=r__charStatus=True__pause=1232|charID=286__char=e__charStatus=True__pause=171
+76	respansable	_	NC	NC	_	74	obj	_	charID=288__char=r__charStatus=True__pause=3713|charID=289__char=e__charStatus=True__pause=109|charID=290__char=s__charStatus=True__pause=3947|charID=291__char=p__charStatus=True__pause=3042|charID=292__char=a__charStatus=True__pause=780|charID=293__char=n__charStatus=True__pause=1451|charID=294__char=s__charStatus=True__pause=3151|charID=295__char=a__charStatus=True__pause=1217|charID=296__char=b__charStatus=True__pause=6693|charID=297__char=l__charStatus=True__pause=2434|charID=298__char=e__charStatus=True__pause=405
+77	de	de	P	P	_	74	mod	_	charID=300__char=d__charStatus=True__pause=1528|charID=301__char=e__charStatus=True__pause=78
+78	ses	ses	DET	DET	n=p|p=3|poss=s	79	det	_	charID=303__char=s__charStatus=True__pause=1061|charID=304__char=e__charStatus=True__pause=125|charID=305__char=s__charStatus=True__pause=156
+79	acte	acte	NC	NC	n=s|g=m	77	prep	_	charID=307__char=a__charStatus=True__pause=1529|charID=308__char=c__charStatus=True__pause=3822|charID=309__char=t__charStatus=True__pause=702|charID=310__char=e__charStatus=True__pause=1045
+81	.	.	PONCT	PONCT	_	79	ponct	_	charID=314__char=.__charStatus=True__pause=1545
+

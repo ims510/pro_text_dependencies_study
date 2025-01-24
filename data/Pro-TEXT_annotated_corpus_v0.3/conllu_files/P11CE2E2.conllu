@@ -1,0 +1,660 @@
+# text_version = 0
+# sent_id = 0_1
+1	Al	à_le	P	NPP	_	0	x	_	=|1=A__True|2=l__False|g=m|n=s
+2	'	'	PONCT	PONCT	_	1	goeswith	_	=|3='__False
+
+# text_version = 1
+# sent_id = 1_1
+1	A	à	P	P	_	0	root	_	=|1=A__True
+
+# text_version = 2
+# sent_id = 2_1
+1	A	à	P	P	_	0	x	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècoleil	école_il	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|14=i__False|15=l__False|9=è__True
+
+# text_version = 3
+# sent_id = 3_1
+1	A	à	P	P	_	0	root	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+
+# text_version = 4
+# sent_id = 4_1
+1	A	à	P	P	_	0	x	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècoleil	école_il	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|18=i__False|19=l__False|9=è__True
+
+# text_version = 5
+# sent_id = 5_1
+1	A	à	P	P	_	0	root	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+
+# text_version = 6
+# sent_id = 6_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violent	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|47=t__False|g=m|n=s
+
+# text_version = 7
+# sent_id = 7_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violen	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True
+
+# text_version = 8
+# sent_id = 8_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	il4	il	CLS	NC	_	0	x	_	=|51=i__False|52=l__False|53=4__False
+
+# text_version = 9
+# sent_id = 9_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+
+# text_version = 10
+# sent_id = 10_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	i	_	X	NC	_	0	x	_	=|58=i__False
+
+# text_version = 11
+# sent_id = 11_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+
+# text_version = 12
+# sent_id = 12_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	IL	il	CLS	CLS	_	0	x	_	=|60=I__True|61=L__False|g=m|n=s|p=3
+
+# text_version = 13
+# sent_id = 13_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	I	_	X	NC	_	0	x	_	=|60=I__True
+
+# text_version = 14
+# sent_id = 14_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Ifo	il_falloir	V	NC	_	0	root	_	=|60=I__True|63=f__False|64=o__False
+
+# text_version = 15
+# sent_id = 15_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	I	_	X	NC	_	0	x	_	=|60=I__True
+
+# text_version = 16
+# sent_id = 16_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	0	x	_	=|60=I__True|67=l__False|g=m|n=s|p=3
+
+# text_version = 17
+# sent_id = 17_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	I	_	X	NC	_	0	x	_	=|60=I__True
+
+# text_version = 18
+# sent_id = 18_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	0	x	_	=|60=I__True|69=l__False|g=m|n=s|p=3
+
+# text_version = 19
+# sent_id = 19_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	I	_	X	NC	_	0	x	_	=|60=I__True
+
+# text_version = 20
+# sent_id = 20_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Ilfodré	il_falloir	V	NPP	_	0	root	_	=|60=I__True|71=l__True|72=f__False|73=o__False|74=d__False|75=r__False|76=é__False
+
+# text_version = 21
+# sent_id = 21_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	0	x	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+
+# text_version = 22
+# sent_id = 22_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	12	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+12	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+13	quil	que_il	CS	NC	_	12	obj	_	=|89=q__False|90=u__False|91=i__False|92=l__False
+
+# text_version = 23
+# sent_id = 23_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	12	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+12	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+13	qui	que_il	CS	PROREL	_	12	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+
+# text_version = 24
+# sent_id = 24_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	12	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+12	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+13	qui	que	CS	PROREL	_	12	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+14	li	il	CLS	NC	_	15	suj_impers	_	=|97=l__False|98=i__False|g=m|n=s
+15	ya	y_avoir	V	NC	_	13	sub	_	=|100=y__False|101=a__False
+
+# text_version = 25
+# sent_id = 25_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	12	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+12	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+13	qui	que	CS	PROREL	_	12	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+14	li	il	CLS	NC	_	0	x	_	=|97=l__False|98=i__False|g=m|n=s
+15	y	y	CLO	CLO	_	0	x	_	=|100=y__False
+
+# text_version = 26
+# sent_id = 26_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	beaucou	beaucoup	ADV	ADV	_	6	obj	_	=|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+8	de	de	P	P	_	7	dep	_	=|38=d__True|39=e__True
+9	violens	violence	NC	NC	_	8	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+10	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+11	Il	il	CLS	CLS	_	12	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+12	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+13	qui	que	CS	PROREL	_	12	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+14	li	il	CLS	NC	_	0	x	_	=|97=l__False|98=i__False|g=m|n=s
+15	y	y	CLO	CLO	_	0	x	_	=|100=y__False
+
+# text_version = 27
+# sent_id = 27_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	15	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	qui	que	CS	PROREL	_	11	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+13	li	il	CLS	NC	_	0	x	_	=|97=l__False|98=i__False|g=m|n=s
+14	y	y	CLO	CLO	_	0	x	_	=|100=y__False
+15	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+
+# text_version = 28
+# sent_id = 28_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	15	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	qui	qui	CS	PROREL	_	11	obj	_	=|89=q__False|90=u__False|91=i__False|n=s
+13	li	il	CLS	NC	_	16	suj_impers	_	=|97=l__False|98=i__False|g=m|n=s
+14	y	y	CLO	CLO	_	16	aff	_	=|100=y__False
+15	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+16	a	avoir	V	VPR	_	12	sub	_	=|106=a__False
+
+# text_version = 29
+# sent_id = 29_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	V	V	_	6	mod	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+
+# text_version = 30
+# sent_id = 30_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreé	arrêter	V	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True
+
+# text_version = 31
+# sent_id = 31_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreé	arrêter	V	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True
+
+# text_version = 32
+# sent_id = 32_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	arrêter	V	NC	_	13	comp	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	deta	de_ta	P	NC	_	14	p_obj	_	=|131=d__True|132=e__True|133=t__False|134=a__False
+
+# text_version = 33
+# sent_id = 33_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	dep	_	=|131=d__True|132=e__True
+
+# text_version = 34
+# sent_id = 34_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	arrêter	V	NC	_	13	comp	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	p_obj	_	=|131=d__True|132=e__True
+16	tape	taper	VINF	NC	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|141=e__False|g=f|n=s
+
+# text_version = 35
+# sent_id = 35_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	arrêter	V	NC	_	13	comp	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	p_obj	_	=|131=d__True|132=e__True
+16	tap	taper	VINF	NC	_	15	prep	_	=|138=t__True|139=a__True|140=p__True
+
+# text_version = 36
+# sent_id = 36_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	arrêter	V	NC	_	13	comp	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	p_obj	_	=|131=d__True|132=e__True
+16	tapéet	taper_et	VINF	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True|144=e__False|145=t__False
+
+# text_version = 37
+# sent_id = 37_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	ponct	_	=|131=d__True|132=e__True
+16	tapé	_	I	I	_	15	root	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+
+# text_version = 38
+# sent_id = 38_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	école	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj_impers	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	12	dep	_	=|38=d__True|39=e__True
+8	violens	violence	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	0	x	_	=|57=.__True
+10	Il	il	CLS	CLS	_	11	suj_impers	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	falloir	V	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	beaucoup	ADV	ADV	_	6	obj	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	que_il	CS	NC	_	11	obj	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	arrêter	V	NC	_	13	comp	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	14	p_obj	_	=|131=d__True|132=e__True
+16	tapé	taper	VINF	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+17	et	et	CC	CC	_	15	coord	_	=|149=e__True|150=t__True
+18	de	de	P	P	_	17	dep_coord	_	=|152=d__True|153=e__True
+19	doné	donner	VINF	NC	_	18	prep	_	=|155=d__True|156=o__True|157=n__True|158=é__True
+20	des	un	DET	P+D	_	21	det	_	=|160=d__True|161=e__True|162=s__True|n=p
+21	coup	coup	NC	NC	_	19	obj	_	=|164=c__True|165=o__True|166=u__True|167=p__True|g=m|n=s
+22	de	de	P	P	_	21	dep	_	=|169=d__True|170=e__True
+
+# text_version = 39
+# sent_id = 39_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	11	dep	_	=|131=d__True|132=e__True
+16	tapé	_	NPP	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+17	et	et	CC	CC	_	15	coord	_	=|149=e__True|150=t__True
+18	de	de	P	P	_	17	dep_coord	_	=|152=d__True|153=e__True
+19	des	de	P+D	P+D	_	22	mod	_	=|160=d__True|161=e__True|162=s__True|n=p
+20	coup	coup	NC	NC	_	19	prep	_	=|164=c__True|165=o__True|166=u__True|167=p__True|g=m|n=s
+21	de	de	P	P	_	22	mod	_	=|169=d__True|170=e__True
+22	donné	donner	VPP	VPP	_	18	prep	_	=|155=d__True|156=o__True|157=n__True|158=é__True|171=n__True|g=m|n=s|t=K
+
+# text_version = 40
+# sent_id = 40_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	11	dep	_	=|131=d__True|132=e__True
+16	tapé	_	NPP	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+17	et	et	CC	CC	_	15	coord	_	=|149=e__True|150=t__True
+18	de	de	P	P	_	17	dep_coord	_	=|152=d__True|153=e__True
+19	des	de	P+D	P+D	_	21	mod	_	=|160=d__True|161=e__True|162=s__True|n=p
+20	coup	coup	NC	NC	_	19	prep	_	=|164=c__True|165=o__True|166=u__True|167=p__True|g=m|n=s
+21	donné	donner	VPP	VPP	_	18	prep	_	=|155=d__True|156=o__True|157=n__True|158=é__True|171=n__True|g=m|n=s|t=K
+22	depie	_	NC	NC	_	20	mod	_	=|169=d__True|170=e__True|172=p__False|173=i__False|174=e__False
+
+# text_version = 41
+# sent_id = 41_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	11	dep	_	=|131=d__True|132=e__True
+16	tapé	_	NPP	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+17	et	et	CC	CC	_	15	coord	_	=|149=e__True|150=t__True
+18	de	de	P	P	_	17	dep_coord	_	=|152=d__True|153=e__True
+19	des	de	P+D	P+D	_	22	mod	_	=|160=d__True|161=e__True|162=s__True|n=p
+20	coup	coup	NC	NC	_	19	prep	_	=|164=c__True|165=o__True|166=u__True|167=p__True|g=m|n=s
+21	de	de	P	P	_	22	mod	_	=|169=d__True|170=e__True
+22	donné	donner	VPP	VPP	_	18	prep	_	=|155=d__True|156=o__True|157=n__True|158=é__True|171=n__True|g=m|n=s|t=K
+
+# text_version = 42
+# sent_id = 42_1
+1	A	à	P	P	_	6	mod	_	=|1=A__True
+2	l'	le	DET	DET	_	3	det	_	=|7=l__True|8='__True|n=s
+3	ècole	_	NC	NC	_	1	prep	_	=|10=c__True|11=o__True|12=l__True|13=e__True|9=è__True
+4	il	il	CLS	CLS	_	6	suj	_	=|23=i__True|24=l__True|g=m|n=s|p=3
+5	y	y	CLO	CLO	_	6	aff	_	=|26=y__True
+6	a	avoir	V	V	_	0	root	_	=|28=a__True|n=s|p=3|t=P
+7	de	de	P	P	_	6	mod	_	=|38=d__True|39=e__True
+8	violens	_	NC	NC	_	7	prep	_	=|41=v__True|42=i__True|43=o__True|44=l__True|45=e__True|46=n__True|49=s__True
+9	.	.	PONCT	PONCT	_	8	ponct	_	=|57=.__True
+10	Il	il	CLS	CLS	_	0	root	_	=|60=I__True|71=l__True|g=m|n=s|p=3
+11	fodré	_	NPP	NPP	_	0	root	_	=|83=f__True|84=o__True|85=d__True|86=r__True|87=é__True
+12	abeaucou	_	ADV	ADV	_	6	mod	_	=|104=a__True|30=b__True|31=e__True|32=a__True|33=u__True|34=c__True|35=o__True|36=u__True
+13	quil	_	NC	NC	_	11	mod	_	=|117=q__True|118=u__True|119=i__True|120=l__True
+14	arreét	_	NC	NC	_	13	mod	_	=|122=a__True|123=r__True|124=r__True|125=e__True|126=é__True|129=t__True
+15	de	de	P	P	_	11	dep	_	=|131=d__True|132=e__True
+16	tapé	_	NPP	NPP	_	15	prep	_	=|138=t__True|139=a__True|140=p__True|143=é__True
+17	et	et	CC	CC	_	15	coord	_	=|149=e__True|150=t__True
+18	de	de	P	P	_	17	dep_coord	_	=|152=d__True|153=e__True
+19	des	de	P+D	P+D	_	22	mod	_	=|160=d__True|161=e__True|162=s__True|n=p
+20	coup	coup	NC	NC	_	19	prep	_	=|164=c__True|165=o__True|166=u__True|167=p__True|g=m|n=s
+21	de	de	P	P	_	22	mod	_	=|169=d__True|170=e__True
+22	donné	donner	VPP	VPP	_	18	prep	_	=|155=d__True|156=o__True|157=n__True|158=é__True|171=n__True|g=m|n=s|t=K
+23	pied	pied	NC	NC	_	21	prep	_	=|179=p__True|180=i__True|181=e__True|182=d__True|n=s
+24	.	.	PONCT	PONCT	_	23	ponct	_	=|183=.__True
+

@@ -1,0 +1,254 @@
+# text_version=0
+# sentence_id=1
+# text = aA v
+1	aA	aA	X	_	None	0	root	_	charID=1__char=a__charStatus=False__pause=na|charID=2__char=A__charStatus=False__pause=8159
+2	v	v	NOUN	_	None	1	nmod	_	charID=6__char=v__charStatus=False__pause=6006
+
+# text_version=2
+# sentence_id=1
+# text = moi je pence que les violance sa doi s :
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+10	:	:	PUNCT	_	None	3	punct	_	charID=53__char=:__charStatus=False__pause=2870
+
+# text_version=3
+# sentence_id=1
+# text = moi je pence que les violance sa doi s
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+
+# text_version=4
+# sentence_id=1
+# text = moi je pence que les violance sa doi s ;
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+10	;	;	PUNCT	_	None	3	punct	_	charID=55__char=;__charStatus=False__pause=5522
+
+# text_version=5
+# sentence_id=1
+# text = moi je pence que les violance sa doi s
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+
+# text_version=6
+# sentence_id=1
+# text = moi je pence que les violance sa doi s adoi
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+10	adoi	adoire	VERB	_	None	3	ccomp	_	charID=58__char=a__charStatus=False__pause=3432|charID=59__char=d__charStatus=False__pause=1981|charID=60__char=o__charStatus=False__pause=1934|charID=61__char=i__charStatus=False__pause=343
+
+# text_version=7
+# sentence_id=1
+# text = moi je pence que les violance sa doi s a
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	10	mark	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	10	nsubj	_	charID=52__char=s__charStatus=False__pause=7566
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	charID=58__char=a__charStatus=False__pause=3432
+
+# text_version=8
+# sentence_id=1
+# text = moi je pence que les violance sa doi s a
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	10	mark	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	10	dislocated	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	10	nsubj	_	charID=52__char=s__charStatus=False__pause=7566
+10	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	charID=58__char=a__charStatus=False__pause=3432
+
+# text_version=9
+# sentence_id=1
+# text = moi je pence que les violance sa doi s
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+
+# text_version=10
+# sentence_id=1
+# text = moi je pence que les violance sa doi sz
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	sz	sz	X	_	None	8	flat:name	_	charID=52__char=s__charStatus=False__pause=7566|charID=71__char=z__charStatus=False__pause=3479
+
+# text_version=11
+# sentence_id=1
+# text = moi je pence que les violance sa doi s
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=52__char=s__charStatus=False__pause=7566
+
+# text_version=12
+# sentence_id=1
+# text = moi je pence que les violance sa doi sa doi s
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	10	det	_	charID=52__char=s__charStatus=False__pause=7566|charID=73__char=a__charStatus=False__pause=1607
+10	doi	doi	NOUN	_	Gender=Fem|Number=Sing	8	flat	_	charID=75__char=d__charStatus=False__pause=9345|charID=76__char=o__charStatus=False__pause=1622|charID=77__char=i__charStatus=False__pause=422
+11	s	s	X	_	None	10	nmod:appos	_	charID=79__char=s__charStatus=False__pause=3790
+
+# text_version=13
+# sentence_id=1
+# text = moi je pence que les violance sa doi
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+
+# text_version=14
+# sentence_id=1
+# text = moi je pence que les violance sa doi s arrrè
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	10	mark	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=90__char=s__charStatus=True__pause=4617
+10	arrrè	arrrer	VERB	_	None	3	ccomp	_	charID=92__char=a__charStatus=True__pause=6443|charID=93__char=r__charStatus=True__pause=670|charID=94__char=r__charStatus=False__pause=47|charID=95__char=r__charStatus=False__pause=1108|charID=96__char=è__charStatus=False__pause=6911
+
+# text_version=15
+# sentence_id=1
+# text = moi je pence que les violance sa doi s ar
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=90__char=s__charStatus=True__pause=4617
+10	ar	ar	X	_	None	9	flat:name	_	charID=92__char=a__charStatus=True__pause=6443|charID=93__char=r__charStatus=True__pause=670
+
+# text_version=16
+# sentence_id=1
+# text = moi je pence que les violance sa doi s arètè *
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=90__char=s__charStatus=True__pause=4617
+10	arètè	arster	VERB	_	None	9	fixed	_	charID=92__char=a__charStatus=True__pause=6443|charID=93__char=r__charStatus=True__pause=670|charID=100__char=è__charStatus=True__pause=12917|charID=101__char=t__charStatus=True__pause=9657|charID=102__char=è__charStatus=True__pause=4914
+11	*	*	PUNCT	_	None	3	punct	_	charID=104__char=*__charStatus=False__pause=21512
+
+# text_version=17
+# sentence_id=1
+# text = moi je pence que les violance sa doi s arètè
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	6	case	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	3	obj	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	nmod:appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	X	_	None	8	nmod:appos	_	charID=90__char=s__charStatus=True__pause=4617
+10	arètè	arètè	NOUN	_	Number=Sing	9	flat	_	charID=92__char=a__charStatus=True__pause=6443|charID=93__char=r__charStatus=True__pause=670|charID=100__char=è__charStatus=True__pause=12917|charID=101__char=t__charStatus=True__pause=9657|charID=102__char=è__charStatus=True__pause=4914
+
+# text_version=18
+# sentence_id=1
+# text = moi je pence que les violance sa doi s arètè parceque il y a des plinte et sa
+1	moi	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	dislocated	_	charID=15__char=m__charStatus=True__pause=5850|charID=16__char=o__charStatus=True__pause=499|charID=17__char=i__charStatus=True__pause=515
+2	je	moi	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	charID=19__char=j__charStatus=True__pause=9063|charID=20__char=e__charStatus=True__pause=1825
+3	pence	pencer	VERB	_	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	0	root	_	charID=22__char=p__charStatus=True__pause=26395|charID=23__char=e__charStatus=True__pause=2465|charID=24__char=n__charStatus=True__pause=1841|charID=25__char=c__charStatus=True__pause=5523|charID=26__char=e__charStatus=True__pause=718
+4	que	que	SCONJ	_	None	14	mark	_	charID=28__char=q__charStatus=True__pause=16380|charID=29__char=u__charStatus=True__pause=6989|charID=30__char=e__charStatus=True__pause=998
+5	les	le	DET	_	Definite=Def|Number=Plur|PronType=Art	6	det	_	charID=32__char=l__charStatus=True__pause=3073|charID=33__char=e__charStatus=True__pause=1107|charID=34__char=s__charStatus=True__pause=3697
+6	violance	violance	NOUN	_	Gender=Fem|Number=Sing	14	dislocated	_	charID=36__char=v__charStatus=True__pause=13759|charID=37__char=i__charStatus=True__pause=9953|charID=38__char=o__charStatus=True__pause=5320|charID=39__char=l__charStatus=True__pause=827|charID=40__char=a__charStatus=True__pause=2605|charID=41__char=n__charStatus=True__pause=1826|charID=42__char=c__charStatus=True__pause=2933|charID=43__char=e__charStatus=True__pause=3448
+7	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	8	det	_	charID=45__char=s__charStatus=True__pause=3464|charID=46__char=a__charStatus=True__pause=4227
+8	doi	doi	NOUN	_	Gender=Fem|Number=Sing	6	appos	_	charID=48__char=d__charStatus=True__pause=6864|charID=49__char=o__charStatus=True__pause=8299|charID=50__char=i__charStatus=True__pause=1497
+9	s	s	ADP	_	None	8	nmod:appos	_	charID=90__char=s__charStatus=True__pause=4617
+10	arètè	arètè	NOUN	_	Gender=Masc|Number=Sing	8	nmod	_	charID=92__char=a__charStatus=True__pause=6443|charID=93__char=r__charStatus=True__pause=670|charID=100__char=è__charStatus=True__pause=12917|charID=101__char=t__charStatus=True__pause=9657|charID=102__char=è__charStatus=True__pause=4914
+11	parceque	parceque	INTJ	_	None	14	discourse	_	charID=106__char=p__charStatus=True__pause=47829|charID=107__char=a__charStatus=True__pause=1731|charID=108__char=r__charStatus=True__pause=2121|charID=109__char=c__charStatus=True__pause=5944|charID=110__char=e__charStatus=True__pause=1513|charID=111__char=q__charStatus=True__pause=5179|charID=112__char=u__charStatus=True__pause=5491|charID=113__char=e__charStatus=True__pause=1904
+12	il	lui	PRON	_	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	expl:subj	_	charID=115__char=i__charStatus=True__pause=5803|charID=116__char=l__charStatus=True__pause=484
+13	y	y	PRON	_	Person=3|PronType=Prs	14	expl:comp	_	charID=118__char=y__charStatus=True__pause=4961
+14	a	avoir	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	charID=120__char=a__charStatus=True__pause=2028
+15	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	16	det	_	charID=122__char=d__charStatus=True__pause=18689|charID=123__char=e__charStatus=True__pause=1030|charID=124__char=s__charStatus=True__pause=2917
+16	plinte	plinte	NOUN	_	Gender=Fem|Number=Plur	14	obj	_	charID=126__char=p__charStatus=True__pause=9547|charID=127__char=l__charStatus=True__pause=733|charID=128__char=i__charStatus=True__pause=2855|charID=129__char=n__charStatus=True__pause=4414|charID=130__char=t__charStatus=True__pause=3791|charID=131__char=e__charStatus=True__pause=733
+17	et	et	CCONJ	_	None	18	cc	_	charID=133__char=e__charStatus=True__pause=55240|charID=134__char=t__charStatus=True__pause=577
+18	sa	son	DET	_	Gender=Fem|Number=Sing|Number[psor]=Sing|Person[psor]=3|Poss=Yes|PronType=Prs	14	conj	_	charID=136__char=s__charStatus=True__pause=5756|charID=137__char=a__charStatus=True__pause=484
+
+# text_version=18
+# sentence_id=2
+# text = fait des histoire
+1	fait	faire	VERB	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	charID=140__char=f__charStatus=True__pause=4165|charID=141__char=a__charStatus=True__pause=1092|charID=142__char=i__charStatus=True__pause=1077|charID=143__char=t__charStatus=True__pause=2403
+2	des	un	DET	_	Definite=Ind|Number=Plur|PronType=Art	3	det	_	charID=146__char=d__charStatus=True__pause=13260|charID=147__char=e__charStatus=True__pause=1077|charID=148__char=s__charStatus=True__pause=6505
+3	histoire	histoire	NOUN	_	Gender=Fem|Number=Sing	1	obj	_	charID=150__char=h__charStatus=True__pause=5304|charID=151__char=i__charStatus=True__pause=2293|charID=152__char=s__charStatus=True__pause=6038|charID=153__char=t__charStatus=True__pause=29156|charID=154__char=o__charStatus=True__pause=1388|charID=155__char=i__charStatus=True__pause=1420|charID=156__char=r__charStatus=True__pause=4290|charID=157__char=e__charStatus=True__pause=686
+

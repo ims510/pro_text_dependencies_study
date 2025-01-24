@@ -1,0 +1,377 @@
+# text_version = 0
+# sent_id = 0_1
+1	n	_	X	NC	_	0	x	_	=|1=n__False
+
+# text_version = 2
+# sent_id = 2_1
+1	N	_	X	NC	_	0	x	_	=|3=N__False
+
+# text_version = 4
+# sent_id = 4_1
+1	n	_	X	NC	_	0	x	_	=|5=n__False
+
+# text_version = 6
+# sent_id = 6_1
+1	Neila	Neila	NPP	NPP	_	0	x	_	=|10=l__False|11=a__False|7=N__False|8=e__False|9=i__False
+
+# text_version = 7
+# sent_id = 7_1
+1	Nei	_	X	NC	_	0	x	_	=|7=N__False|8=e__False|9=i__False
+
+# text_version = 8
+# sent_id = 8_1
+1	Neiela	Neiela	NPP	NPP	_	0	x	_	=|14=e__False|15=l__False|16=a__False|7=N__False|8=e__False|9=i__False
+2	etlorine	et_Lorine	CC	NPP	_	1	coord	_	=|18=e__False|19=t__False|20=l__False|21=o__False|22=r__False|23=i__False|24=n__False|25=e__False
+
+# text_version = 9
+# sent_id = 9_1
+1	Neiela	Neiela	NPP	NPP	_	0	x	_	=|14=e__False|15=l__False|16=a__False|7=N__False|8=e__False|9=i__False
+2	et	et	CC	CC	_	1	coord	_	=|18=e__False|19=t__False
+3	lorine	Lorine	NPP	NC	_	2	dep_coord	_	=|20=l__False|21=o__False|22=r__False|23=i__False|24=n__False|25=e__False
+
+# text_version = 10
+# sent_id = 10_1
+1	Neiela	Neiela	NPP	NPP	_	0	x	_	=|14=e__False|15=l__False|16=a__False|7=N__False|8=e__False|9=i__False
+2	etlorine	et_Lorine	CC	NPP	_	1	coord	_	=|18=e__False|19=t__False|20=l__False|21=o__False|22=r__False|23=i__False|24=n__False|25=e__False
+
+# text_version = 11
+# sent_id = 11_1
+1	Neiela	Neiela	NPP	NPP	_	0	x	_	=|14=e__False|15=l__False|16=a__False|7=N__False|8=e__False|9=i__False
+2	et	et	CC	CC	_	1	coord	_	=|18=e__False|19=t__False
+3	lorine	Lorine	NPP	NC	_	2	dep_coord	_	=|20=l__False|21=o__False|22=r__False|23=i__False|24=n__False|25=e__False
+
+# text_version = 12
+# sent_id = 12_1
+1	Neiela	Neiela	NPP	NPP	_	0	x	_	=|14=e__False|15=l__False|16=a__False|7=N__False|8=e__False|9=i__False
+2	et	et	CC	CC	_	1	coord	_	=|18=e__False|19=t__False
+3	lorine	Lorine	NPP	NC	_	2	dep_coord	_	=|20=l__False|21=o__False|22=r__False|23=i__False|24=n__False|25=e__False
+
+# text_version = 14
+# sent_id = 14_1
+1	l	_	X	NC	_	0	x	_	=|47=l__False
+
+# text_version = 16
+# sent_id = 16_1
+1	LI	li	NC	NC	_	0	x	_	=|49=L__False|50=I__False|g=m|n=s
+
+# text_version = 18
+# sent_id = 18_1
+1	i	_	X	NC	_	0	x	_	=|53=i__False
+
+# text_version = 20
+# sent_id = 20_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	ait	être	V	VS	_	1	fixed	_	=|58=a__False|59=i__False|60=t__False|n=s|p=3|t=S
+
+# text_version = 21
+# sent_id = 21_1
+1	Il	il	CLS	CLS	_	0	root	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+
+# text_version = 22
+# sent_id = 22_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neie	_	X	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True|77=e__False
+
+# text_version = 23
+# sent_id = 23_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	nei	_	X	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True
+
+# text_version = 24
+# sent_id = 24_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neil	Neila	NPP	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True|79=l__False
+
+# text_version = 25
+# sent_id = 25_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	nei	_	X	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True
+
+# text_version = 26
+# sent_id = 26_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neie	_	X	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True|81=e__False
+
+# text_version = 27
+# sent_id = 27_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	nei	_	X	NC	_	0	x	_	=|74=n__True|75=e__True|76=i__True
+
+# text_version = 28
+# sent_id = 28_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	0	x	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorie	Lorine	NPP	NC	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|93=e__False
+
+# text_version = 29
+# sent_id = 29_1
+1	Il	il	CLS	CLS	_	0	x	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	0	x	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lori	Lorine	NPP	NC	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|g=m|n=s
+
+# text_version = 30
+# sent_id = 30_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	0	x	_	=|118=l__True|119=e__True|g=m|n=s
+12	me	me	CLO	CLO	_	0	x	_	=|121=m__True|122=e__False|n=s|p=1
+
+# text_version = 31
+# sent_id = 31_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	0	x	_	=|118=l__True|119=e__True|g=m|n=s
+12	m	_	X	NC	_	0	x	_	=|121=m__True
+
+# text_version = 32
+# sent_id = 32_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	mm	millimètre	NC	NC	_	0	x	_	=|121=m__True|124=m__False|g=m
+
+# text_version = 33
+# sent_id = 33_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	0	x	_	=|118=l__True|119=e__True|g=m|n=s
+12	m	_	X	NC	_	0	x	_	=|121=m__True
+
+# text_version = 34
+# sent_id = 34_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	maître	NC	NC	_	13	suj	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	10	dep_coord	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	àno	à_un	P	ADV	_	13	a_obj	_	=|137=à__True|138=n__False|139=o__False
+
+# text_version = 35
+# sent_id = 35_1
+1	Il	il	CLS	CLS	_	3	det	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	_	ADJ	ADJ	_	3	mod	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	foi	NC	NC	_	13	suj	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	_	ADJ	ADJ	_	3	mod	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	_	ADJ	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	_	NC	NC	_	3	mod	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	3	dep	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	3	coord	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	_	NC	NC	_	10	dep_coord	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	0	root	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	mod	_	=|137=à__True
+
+# text_version = 36
+# sent_id = 36_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	maître	NC	NC	_	13	suj	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	10	dep_coord	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	a_obj	_	=|137=à__True
+15	onu	un	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	de_arrêter	P	NC	_	13	obj	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	lab	la_bagarre	NC	NC	_	16	obj	_	=|154=l__True|155=a__True|156=b__False
+
+# text_version = 37
+# sent_id = 37_1
+1	Il	il	CLS	CLS	_	3	det	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	_	ADJ	ADJ	_	3	mod	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	foi	NC	NC	_	13	suj	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	_	ADJ	ADJ	_	3	mod	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	_	ADJ	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	_	NC	NC	_	3	mod	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	3	dep	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	3	coord	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	_	NC	NC	_	10	dep_coord	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	0	root	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	mod	_	=|137=à__True
+15	onu	_	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	_	ADV	ADV	_	13	mod	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	la	CLO	CLO	_	0	root	_	=|154=l__True|155=a__True|g=f|n=s|p=3
+
+# text_version = 38
+# sent_id = 38_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	maître	NC	NC	_	13	suj	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	10	dep_coord	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	a_obj	_	=|137=à__True
+15	onu	un	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	de_arrêter	P	ADV	_	13	obj	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	le	DET	DET	_	18	det	_	=|154=l__True|155=a__True|g=f|n=s
+18	v	_	X	NC	_	16	obj	_	=|159=v__False
+
+# text_version = 39
+# sent_id = 39_1
+1	Il	il	CLS	CLS	_	3	det	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	_	ADJ	ADJ	_	3	mod	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	foi	NC	NC	_	13	suj	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	_	ADJ	ADJ	_	3	mod	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	_	ADJ	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	_	NC	NC	_	3	mod	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	3	dep	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	3	coord	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	_	NC	NC	_	10	dep_coord	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	0	root	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	mod	_	=|137=à__True
+15	onu	_	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	_	ADV	ADV	_	13	mod	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	la	CLO	CLO	_	0	root	_	=|154=l__True|155=a__True|g=f|n=s|p=3
+
+# text_version = 40
+# sent_id = 40_1
+1	Il	il	CLS	CLS	_	7	obj	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	être	V	ADJ	_	1	fixed	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	fois	NC	NC	_	2	fixed	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	Neila	NPP	ADJ	_	7	suj	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	Lorine	NPP	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	bagarrer	V	NC	_	0	root	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	7	mod	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	0	root	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	maître	NC	NC	_	13	suj	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	10	dep_coord	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	a_obj	_	=|137=à__True
+15	onu	un	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	de_arrêter	P	ADV	_	13	obj	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	le	DET	DET	_	18	det	_	=|154=l__True|155=a__True|g=f|n=s
+18	bagare	bagarre	NC	NC	_	16	obj	_	=|161=b__True|162=a__True|163=g__True|164=a__True|165=r__True|166=e__True
+19	parece	parce	CS	ADJ	_	16	mod	_	=|168=p__True|169=a__True|170=r__True|171=e__True|172=c__True|173=e__True
+20	qe	que	CLS	NC	_	19	fixed	_	=|175=q__True|176=e__False
+
+# text_version = 41
+# sent_id = 41_1
+1	Il	il	CLS	CLS	_	3	det	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	_	ADJ	ADJ	_	3	mod	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	foi	NC	NC	_	13	suj	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	_	ADJ	ADJ	_	3	mod	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	_	ADJ	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	_	NC	NC	_	3	mod	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	3	dep	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	3	coord	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	_	NC	NC	_	10	dep_coord	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	0	root	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	mod	_	=|137=à__True
+15	onu	_	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	_	ADV	ADV	_	13	mod	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	la	DET	DET	_	18	det	_	=|154=l__True|155=a__True|g=f|n=s
+18	bagare	_	NC	NC	_	13	obj	_	=|161=b__True|162=a__True|163=g__True|164=a__True|165=r__True|166=e__True
+19	parece	_	ADJ	ADJ	_	18	mod	_	=|168=p__True|169=a__True|170=r__True|171=e__True|172=c__True|173=e__True
+20	q	_	NC	NC	_	18	mod	_	=|175=q__True
+
+# text_version = 42
+# sent_id = 42_1
+1	Il	il	CLS	CLS	_	3	det	_	=|55=I__True|56=l__True|g=m|n=s|p=3
+2	eitai	_	ADJ	ADJ	_	3	mod	_	=|64=e__True|65=i__True|66=t__True|67=a__True|68=i__True
+3	foi	foi	NC	NC	_	13	suj	_	=|70=f__True|71=o__True|72=i__True|g=f|n=s
+4	neila	_	ADJ	ADJ	_	3	mod	_	=|74=n__True|75=e__True|76=i__True|83=l__True|84=a__True
+5	et	et	CC	CC	_	4	coord	_	=|86=e__True|87=t__True
+6	lorine	_	ADJ	ADJ	_	5	dep_coord	_	=|89=l__True|90=o__True|91=r__True|92=i__True|95=n__True|96=e__True
+7	bagare	_	NC	NC	_	3	mod	_	=|100=g__True|101=a__True|102=r__True|103=e__True|98=b__True|99=a__True
+8	en	en	P	P	_	3	dep	_	=|105=e__True|106=n__True
+9	classe	classe	NC	NC	_	8	prep	_	=|108=c__True|109=l__True|110=a__True|111=s__True|112=s__True|113=e__True|g=f|n=s
+10	et	et	CC	CC	_	3	coord	_	=|115=e__True|116=t__True
+11	le	le	DET	DET	_	12	det	_	=|118=l__True|119=e__True|g=m|n=s
+12	maiter	_	NC	NC	_	10	dep_coord	_	=|121=m__True|126=a__True|127=i__True|128=t__True|129=e__True|130=r__True
+13	dit	dire	V	V	_	0	root	_	=|133=d__True|134=i__True|135=t__True|n=s|p=3|t=J,P
+14	à	à	P	P	_	13	mod	_	=|137=à__True
+15	onu	_	NC	NC	_	14	prep	_	=|143=o__True|144=n__True|145=u__True
+16	dareté	_	ADV	ADV	_	13	mod	_	=|147=d__True|148=a__True|149=r__True|150=e__True|151=t__True|152=é__True
+17	la	la	DET	DET	_	18	det	_	=|154=l__True|155=a__True|g=f|n=s
+18	bagare	_	NC	NC	_	13	obj	_	=|161=b__True|162=a__True|163=g__True|164=a__True|165=r__True|166=e__True
+19	parece	_	ADV	ADV	_	0	root	_	=|168=p__True|169=a__True|170=r__True|171=e__True|172=c__True|173=e__True
+20	que	que	PROREL	PROREL	_	0	root	_	=|175=q__True|178=u__True|179=e__True
+21	sont	être	V	V	_	0	root	_	=|182=s__True|183=o__True|184=n__True|185=t__True|n=p|p=3|t=P
+22	peut	pouvoir	V	V	_	0	root	_	=|187=p__True|188=e__True|189=u__True|190=t__True|n=s|p=3|t=P
+23	se	se	CLR	CLR	_	24	aff	_	=|192=s__True|193=e__True|n=p,s|p=3
+24	blésé	_	VPR	VPR	_	22	mod	_	=|195=b__True|196=l__True|197=é__True|198=s__True|199=é__True
+

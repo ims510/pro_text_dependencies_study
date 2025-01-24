@@ -1,0 +1,1039 @@
+# text_version = 0
+# sent_id = 0_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagarz	bagarre	NC	NC	_	0	x	_	=|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True|9=z__False
+
+# text_version = 1
+# sent_id = 1_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagar	bagarre	NC	NC	_	0	x	_	=|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+
+# text_version = 2
+# sent_id = 2_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	0	x	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	0	x	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	v	_	X	VPR	_	0	x	_	=|16=v__False
+
+# text_version = 3
+# sent_id = 3_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+
+# text_version = 4
+# sent_id = 4_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pazs	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|26=z__False|27=s__False
+
+# text_version = 5
+# sent_id = 5_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pa	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True
+
+# text_version = 6
+# sent_id = 6_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ET	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	biens	bien	NC	NC	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True|46=s__False|g=m|n=p
+
+# text_version = 7
+# sent_id = 7_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	0	root	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	0	root	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	0	root	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	0	root	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+
+# text_version = 8
+# sent_id = 8_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ET	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	biens	bien	NC	NC	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True|48=s__False|g=m|n=p
+
+# text_version = 9
+# sent_id = 9_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	0	root	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	0	root	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	0	root	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	0	root	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+
+# text_version = 10
+# sent_id = 10_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	s	_	X	ADV	_	0	x	_	=|51=s__False
+11	df	_	X	ADV	_	0	x	_	=|54=d__False|55=f__False
+
+# text_version = 11
+# sent_id = 11_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	0	root	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	0	root	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	0	root	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	0	root	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+
+# text_version = 12
+# sent_id = 12_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtoq	surtout	ADV	VPP	_	0	x	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|66=q__False
+
+# text_version = 13
+# sent_id = 13_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surto	surtout	ADV	VPP	_	0	root	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True
+
+# text_version = 14
+# sent_id = 14_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quandd	quand	CS	ADV	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True|76=d__False
+
+# text_version = 15
+# sent_id = 15_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+
+# text_version = 16
+# sent_id = 16_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	0	root	_	=|79=o__True|80=n__True|n=s|p=3
+
+# text_version = 17
+# sent_id = 17_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	0	root	_	=|79=o__True|80=n__True|n=s|p=3
+
+# text_version = 18
+# sent_id = 18_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	13	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	a	avoir	V	VS	_	11	sub	_	=|86=a__False
+
+# text_version = 19
+# sent_id = 19_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	0	root	_	=|79=o__True|80=n__True|n=s|p=3
+
+# text_version = 20
+# sent_id = 20_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	NC	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	àun	à_un	P	NC	_	14	a_obj	_	=|97=à__True|98=u__False|99=n__False
+
+# text_version = 21
+# sent_id = 21_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+
+# text_version = 22
+# sent_id = 22_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	ppppp	_	X	NC	_	0	x	_	=|106=p__True|107=p__False|108=p__False|109=p__False|110=p__False
+
+# text_version = 23
+# sent_id = 23_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	p	_	X	NC	_	0	x	_	=|106=p__True
+
+# text_version = 24
+# sent_id = 24_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	pppppppppppppppppppppppppppppppppppp	_	X	NC	_	0	x	_	=|106=p__True|115=p__False|116=p__False|117=p__False|118=p__False|119=p__False|120=p__False|121=p__False|122=p__False|123=p__False|124=p__False|125=p__False|126=p__False|127=p__False|128=p__False|129=p__False|130=p__False|131=p__False|132=p__False|133=p__False|134=p__False|135=p__False|136=p__False|137=p__False|138=p__False|139=p__False|140=p__False|141=p__False|142=p__False|143=p__False|144=p__False|145=p__False|146=p__False|147=p__False|148=p__False|149=p__False
+
+# text_version = 25
+# sent_id = 25_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	p	_	X	NC	_	0	x	_	=|106=p__True
+
+# text_version = 26
+# sent_id = 26_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	pluuuuuuuuuuuuuuuuu	plus	ADV	NC	_	0	x	_	=|106=p__True|185=l__True|186=u__True|187=u__False|188=u__False|189=u__False|190=u__False|191=u__False|192=u__False|193=u__False|194=u__False|195=u__False|196=u__False|197=u__False|198=u__False|199=u__False|200=u__False|201=u__False|202=u__False
+
+# text_version = 27
+# sent_id = 27_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plu	plus	ADV	ADJ	_	0	x	_	=|106=p__True|185=l__True|186=u__True|g=m|n=s|t=K
+
+# text_version = 28
+# sent_id = 28_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	0	root	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	0	root	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+
+# text_version = 29
+# sent_id = 29_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	0	root	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	0	root	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+
+# text_version = 30
+# sent_id = 30_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	!	PONCT	PONCT	_	20	ponct	_	=|247=!__False
+
+# text_version = 31
+# sent_id = 31_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 32
+# sent_id = 32_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	ADJ	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True
+21	§	§	PONCT	PONCT	_	20	ponct	_	=|249=§__False
+
+# text_version = 33
+# sent_id = 33_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 34
+# sent_id = 34_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	ADJ	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True
+21	§	§	PONCT	PONCT	_	20	ponct	_	=|251=§__False
+
+# text_version = 35
+# sent_id = 35_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 36
+# sent_id = 36_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	ADJ	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True
+21	§	§	PONCT	PONCT	_	20	ponct	_	=|253=§__False
+
+# text_version = 37
+# sent_id = 37_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 38
+# sent_id = 38_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	ADJ	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True
+21	§	§	PONCT	PONCT	_	20	ponct	_	=|255=§__False
+
+# text_version = 38
+# sent_id = 38_2
+1	§	§	PONCT	PONCT	_	0	x	_	=|257=§__False
+
+# text_version = 39
+# sent_id = 39_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 40
+# sent_id = 40_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	ADJ	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True
+21	§	§	PONCT	PONCT	_	20	ponct	_	=|263=§__False
+
+# text_version = 41
+# sent_id = 41_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	être	VS	VS	_	19	sub	_	=|243=s__True|244=o__True|245=i__True|246=s__True|n=s|p=1,2|t=S
+
+# text_version = 42
+# sent_id = 42_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	LA	le	DET	CLO	_	0	root	_	=|266=L__True|267=A__False|g=f|n=s|p=3
+
+# text_version = 43
+# sent_id = 43_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	L	_	X	NC	_	0	x	_	=|266=L__True
+
+# text_version = 44
+# sent_id = 44_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	La	le	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	bagarre	NC	NC	_	0	x	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	se	ce	CLS	CLR	_	0	root	_	=|280=s__True|281=e__False|n=p,s|p=3
+25	n'	ne	ADV	VS	_	0	x	_	=|283=n__False|284='__False
+
+# text_version = 45
+# sent_id = 45_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	La	le	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	bagarre	NC	NC	_	0	x	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	s	_	X	NC	_	0	x	_	=|280=s__True
+
+# text_version = 46
+# sent_id = 46_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	La	le	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	bagarre	NC	NC	_	24	suj	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ce_être	V	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	24	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	24	mod	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	24	ats	_	=|302=b__True|303=i__True|304=e__True|305=n__False
+28	!!!!!	!!!!!	PONCT	PONCT	_	27	ponct	_	=|306=!__False|307=!__False|308=!__False|309=!__False|310=!__False
+
+# text_version = 47
+# sent_id = 47_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	La	le	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	bagarre	NC	NC	_	24	suj	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ce_être	V	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	24	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	24	mod	_	=|298=p__True|299=a__True|300=s__True
+27	bie	bien	ADV	NC	_	24	ats	_	=|302=b__True|303=i__True|304=e__True
+
+# text_version = 48
+# sent_id = 48_1
+1	La	le	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	bagarre	NC	NC	_	5	suj	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	ce	CLS	CLR	_	5	suj	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	5	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	trop	ADV	ET	_	9	mod	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	trop	ADV	ADV	_	7	dep_coord	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	5	ats	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	11	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	attaquer	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	a_obj	_	=|97=à__True
+16	un	un	PRO	DET	_	15	prep	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	16	mod	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	CS	PROREL	_	17	arg_comp	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	PRO	NC	_	19	obj	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	.	PONCT	PONCT	_	0	x	_	=|265=!__True
+22	La	le	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	bagarre	NC	NC	_	24	suj	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ce_être	V	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	24	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	24	mod	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	24	ats	_	=|302=b__True|303=i__True|304=e__True|317=n__True
+28	caro	car	CS	NC	_	24	mod	_	=|319=c__True|320=a__True|321=r__True|322=o__False
+
+# text_version = 49
+# sent_id = 49_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	NC	NC	_	0	root	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	!	PONCT	PONCT	_	20	ponct	_	=|265=!__True
+22	La	la	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	_	NC	NC	_	0	root	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ses	DET	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	26	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	0	root	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	0	root	_	=|302=b__True|303=i__True|304=e__True|317=n__True
+28	car	car	CS	CS	_	27	dep	_	=|319=c__True|320=a__True|321=r__True
+
+# text_version = 50
+# sent_id = 50_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	NC	NC	_	0	root	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	!	PONCT	PONCT	_	20	ponct	_	=|265=!__True
+22	La	la	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	_	NC	NC	_	0	root	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ses	DET	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	26	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	0	root	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	0	root	_	=|302=b__True|303=i__True|304=e__True|317=n__True
+28	caro	_	NC	NC	_	0	root	_	=|319=c__True|320=a__True|321=r__True|324=o__False
+
+# text_version = 51
+# sent_id = 51_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	NC	NC	_	0	root	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	!	PONCT	PONCT	_	20	ponct	_	=|265=!__True
+22	La	la	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	_	NC	NC	_	0	root	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ses	DET	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	26	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	0	root	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	0	root	_	=|302=b__True|303=i__True|304=e__True|317=n__True
+28	car	car	CS	CS	_	27	dep	_	=|319=c__True|320=a__True|321=r__True
+
+# text_version = 52
+# sent_id = 52_1
+1	La	la	DET	DET	_	2	det	_	=|1=L__True|2=a__True|g=f|n=s
+2	bagare	_	NC	NC	_	0	root	_	=|11=e__True|4=b__True|5=a__True|6=g__True|7=a__True|8=r__True
+3	se	se	CLR	CLR	_	0	root	_	=|13=s__True|14=e__True|n=p,s|p=3
+4	n'	ne	ADV	ADV	_	5	mod	_	=|18=n__True|19='__True
+5	est	être	V	V	_	0	root	_	=|20=e__True|21=s__True|22=t__True|n=s|p=3|t=P
+6	pas	pas	ADV	ADV	_	10	mod	_	=|24=p__True|25=a__True|30=s__True
+7	tros	_	ET	ET	_	10	aux_pass	_	=|32=t__True|33=r__True|34=o__True|35=s__True
+8	tros	_	ADV	ADV	_	10	mod	_	=|37=t__True|38=r__True|39=o__True|40=s__True
+9	bien	bien	ADV	ADV	_	10	mod	_	=|42=b__True|43=i__True|44=e__True|45=n__True
+10	surtout	surtout	ADV	ADV	_	5	mod	_	=|61=s__True|62=u__True|63=r__True|64=t__True|65=o__True|68=u__True|69=t__True
+11	quand	quand	CS	CS	_	5	mod	_	=|71=q__True|72=u__True|73=a__True|74=n__True|75=d__True
+12	on	on	CLS	CLS	_	14	suj	_	=|79=o__True|80=n__True|n=s|p=3
+13	s'	se	CLR	CLR	_	14	aff	_	=|88=s__True|89='__True|n=p,s|p=3
+14	ataque	_	V	V	_	11	sub	_	=|90=a__True|91=t__True|92=a__True|93=q__True|94=u__True|95=e__True
+15	à	à	P	P	_	14	mod	_	=|97=à__True
+16	un	un	DET	DET	_	18	det	_	=|103=u__True|104=n__True|g=m|n=s
+17	plus	plus	ADV	ADV	_	18	mod	_	=|106=p__True|185=l__True|186=u__True|219=s__True
+18	petit	petit	ADJ	ADJ	_	15	prep	_	=|233=p__True|234=e__True|235=t__True|236=i__True|237=t__True|g=m|n=s
+19	que	que	PROREL	PROREL	_	0	root	_	=|239=q__True|240=u__True|241=e__True
+20	sois	soi	NC	NC	_	0	root	_	=|243=s__True|244=o__True|245=i__True|246=s__True|g=m|n=p
+21	!	!	PONCT	PONCT	_	20	ponct	_	=|265=!__True
+22	La	la	DET	DET	_	23	det	_	=|266=L__True|271=a__True|g=f|n=s
+23	bagare	_	NC	NC	_	0	root	_	=|273=b__True|274=a__True|275=g__True|276=a__True|277=r__True|278=e__True
+24	ses	ses	DET	DET	_	0	root	_	=|280=s__True|289=e__True|290=s__True|n=p|p=3|poss=s
+25	aussi	aussi	ADV	ADV	_	26	mod	_	=|292=a__True|293=u__True|294=s__True|295=s__True|296=i__True
+26	pas	pas	ADV	ADV	_	32	mod	_	=|298=p__True|299=a__True|300=s__True
+27	bien	bien	ADV	ADV	_	32	mod	_	=|302=b__True|303=i__True|304=e__True|317=n__True
+28	car	car	CS	CS	_	27	dep	_	=|319=c__True|320=a__True|321=r__True
+29	on	on	CLS	CLS	_	32	suj	_	=|327=o__True|328=n__True|n=s|p=3
+30	peu	peu	ADV	ADV	_	32	mod	_	=|330=p__True|331=e__True|332=u__True
+31	ce	ce	PRO	PRO	_	32	obj	_	=|334=c__True|335=e__True|n=s
+32	faire	faire	VINF	VINF	_	0	root	_	=|337=f__True|338=a__True|339=i__True|340=r__True|341=e__True|t=W
+33	mal	mal	ADV	ADV	_	32	mod	_	=|343=m__True|344=a__True|345=l__True
+34	!	!	PONCT	PONCT	_	33	ponct	_	=|346=!__True
+

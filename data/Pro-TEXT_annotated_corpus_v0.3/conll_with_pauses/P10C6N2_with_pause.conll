@@ -1,0 +1,974 @@
+# text_version=0
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+3	qu	_	X	NC	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31
+
+# text_version=1
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+3	qu	_	X	NC	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31
+
+# text_version=2
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+4	quel	quel	DETWH	DETWH	n=s|g=m	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343
+
+# text_version=3
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+4	quel	quel	DETWH	DETWH	n=s|g=m	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343
+
+# text_version=4
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+7	jh	_	X	NC	_	0	x	_	charID=23__char=j__charStatus=True__pause=45895|charID=24__char=h__charStatus=False__pause=na
+
+# text_version=5
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+8	j	_	X	NC	_	0	x	_	charID=23__char=j__charStatus=True__pause=45895
+
+# text_version=6
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+8	j	_	X	NC	_	0	x	_	charID=23__char=j__charStatus=True__pause=45895
+9	,	,	PONCT	PONCT	_	8	ponct	_	charID=26__char=,__charStatus=False__pause=2262
+
+# text_version=7
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+8	j	_	X	NC	_	0	x	_	charID=23__char=j__charStatus=True__pause=45895
+
+# text_version=8
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	12	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+10	j'	je	CLS	CLS	n=s|p=1	12	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	12	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+12	vubn	voir	VPP	NC	_	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=34__char=u__charStatus=False__pause=374|charID=35__char=b__charStatus=False__pause=140|charID=36__char=n__charStatus=False__pause=na
+
+# text_version=9
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	0	x	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	x	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+10	j'	je	CLS	CLS	n=s|p=1	0	x	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	0	x	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+13	v	_	X	ADV	_	0	x	_	charID=33__char=v__charStatus=True__pause=1264
+
+# text_version=10
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+15	e	_	X	NC	_	0	x	_	charID=42__char=e__charStatus=False__pause=1373
+
+# text_version=11
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+
+# text_version=12
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+5	quelqu'	quelqu'un	ADV	ADV	_	0	unknown	_	charID=9__char=q__charStatus=False__pause=3073|charID=10__char=u__charStatus=False__pause=31|charID=13__char=e__charStatus=False__pause=905|charID=14__char=l__charStatus=False__pause=343|charID=17__char=q__charStatus=False__pause=733|charID=18__char=u__charStatus=False__pause=546|charID=19__char='__charStatus=False__pause=2153
+6	un	_	_	DET	n=s|g=m	5	goeswith	_	charID=20__char=u__charStatus=False__pause=1451|charID=21__char=n__charStatus=False__pause=156
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+
+# text_version=13
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+
+# text_version=14
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+18	o	_	X	NC	_	0	x	_	charID=65__char=o__charStatus=False__pause=23228
+
+# text_version=15
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+
+# text_version=16
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	0	x	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+20	quej	_	X	ADV	_	0	x	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=73__char=j__charStatus=False__pause=421
+
+# text_version=17
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	0	x	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+21	que	que	PROWH	PROWH	_	0	x	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028
+
+# text_version=18
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+28	une	un	DET	DET	n=s|g=f	29	det	_	charID=102__char=u__charStatus=False__pause=14601|charID=103__char=n__charStatus=False__pause=187|charID=104__char=e__charStatus=False__pause=468
+29	dri	_	X	NC	_	0	x	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=108__char=i__charStatus=False__pause=624
+
+# text_version=19
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+28	une	un	DET	DET	n=s|g=f	30	det	_	charID=102__char=u__charStatus=False__pause=14601|charID=103__char=n__charStatus=False__pause=187|charID=104__char=e__charStatus=False__pause=468
+30	dr	_	X	NC	_	0	x	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140
+
+# text_version=20
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+28	une	un	DET	DET	n=s|g=f	31	det	_	charID=102__char=u__charStatus=False__pause=14601|charID=103__char=n__charStatus=False__pause=187|charID=104__char=e__charStatus=False__pause=468
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+
+# text_version=21
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+
+# text_version=22
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	DET	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+
+# text_version=23
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+34	e	_	X	NC	_	0	x	_	charID=128__char=e__charStatus=False__pause=983
+
+# text_version=24
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	DET	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+
+# text_version=25
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	36	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+36	ballé	_	X	VPR	_	0	x	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=137__char=l__charStatus=False__pause=874|charID=138__char=é__charStatus=False__pause=936
+
+# text_version=26
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	37	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+37	ball	balle	NC	NC	n=s|g=m	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=137__char=l__charStatus=False__pause=874
+
+# text_version=27
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	38	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+38	balle	balle	NC	NC	n=s|g=f	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=137__char=l__charStatus=False__pause=874|charID=140__char=e__charStatus=False__pause=780
+
+# text_version=28
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	39	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+39	bal	bal	NC	NC	n=s|g=m	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336
+
+# text_version=29
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	40	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+40	bale	balle	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061
+
+# text_version=30
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	40	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+40	bale	balle	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061
+
+# text_version=31
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+48	a	à	P	V	n=s|t=P|p=3	0	x	_	charID=185__char=a__charStatus=False__pause=7675
+
+# text_version=32
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	DET	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	une	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	_	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	_	NPP	NPP	_	41	mod	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	une	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	25	mod	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	25	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+
+# text_version=33
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	0	x	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	0	x	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	0	x	_	charID=203__char=a__charStatus=True__pause=484
+55	encg	_	X	ADV	_	0	x	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=208__char=g__charStatus=False__pause=265
+
+# text_version=34
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	0	x	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	0	x	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	0	x	_	charID=203__char=a__charStatus=True__pause=484
+56	enc	_	X	ADV	_	0	x	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842
+
+# text_version=35
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	0	x	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	0	x	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	0	x	_	charID=203__char=a__charStatus=True__pause=484
+57	encheb	_	X	ADV	_	0	x	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=211__char=e__charStatus=False__pause=296|charID=212__char=b__charStatus=False__pause=655
+
+# text_version=36
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	0	x	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	0	x	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	0	x	_	charID=203__char=a__charStatus=True__pause=484
+58	enche	_	X	VPP	_	0	x	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=211__char=e__charStatus=False__pause=296
+
+# text_version=37
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	59	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	59	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	59	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	59	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+59	enchene	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=211__char=e__charStatus=False__pause=296|charID=214__char=n__charStatus=False__pause=328|charID=215__char=e__charStatus=False__pause=312
+
+# text_version=38
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	0	x	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	0	x	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	0	x	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	0	x	_	charID=203__char=a__charStatus=True__pause=484
+60	ench	_	X	ADV	_	0	x	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562
+
+# text_version=39
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	61	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	61	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	61	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	61	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+62	cou	cou	NC	NC	n=s|g=m	0	x	_	charID=226__char=c__charStatus=True__pause=889|charID=227__char=o__charStatus=False__pause=1045|charID=228__char=u__charStatus=False__pause=187
+
+# text_version=40
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	61	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	61	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	61	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	61	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+63	c	_	X	ADV	_	0	x	_	charID=226__char=c__charStatus=True__pause=889
+
+# text_version=41
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	61	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	61	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	61	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	61	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+64	contre	contre	P	P	_	61	mod	_	charID=226__char=c__charStatus=True__pause=889|charID=231__char=o__charStatus=True__pause=1123|charID=232__char=n__charStatus=True__pause=297|charID=233__char=t__charStatus=True__pause=717|charID=234__char=r__charStatus=True__pause=156|charID=235__char=e__charStatus=True__pause=140
+65	le	le	DET	DET	n=s|g=m	66	det	_	charID=237__char=l__charStatus=True__pause=3089|charID=238__char=e__charStatus=True__pause=390
+66	grillage	grillage	NC	NC	n=s|g=m	64	prep	_	charID=240__char=g__charStatus=True__pause=1107|charID=241__char=r__charStatus=True__pause=110|charID=242__char=i__charStatus=True__pause=390|charID=243__char=l__charStatus=True__pause=265|charID=244__char=l__charStatus=True__pause=109|charID=245__char=a__charStatus=True__pause=234|charID=246__char=g__charStatus=True__pause=1592|charID=247__char=e__charStatus=True__pause=78
+67	avuc	avec	ADV	NC	_	61	mod	_	charID=249__char=a__charStatus=True__pause=3308|charID=250__char=v__charStatus=True__pause=1622|charID=251__char=u__charStatus=False__pause=484|charID=252__char=c__charStatus=False__pause=1076
+
+# text_version=42
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	61	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	61	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	61	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	61	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+64	contre	contre	P	P	_	61	mod	_	charID=226__char=c__charStatus=True__pause=889|charID=231__char=o__charStatus=True__pause=1123|charID=232__char=n__charStatus=True__pause=297|charID=233__char=t__charStatus=True__pause=717|charID=234__char=r__charStatus=True__pause=156|charID=235__char=e__charStatus=True__pause=140
+65	le	le	DET	DET	n=s|g=m	66	det	_	charID=237__char=l__charStatus=True__pause=3089|charID=238__char=e__charStatus=True__pause=390
+66	grillage	grillage	NC	NC	n=s|g=m	64	prep	_	charID=240__char=g__charStatus=True__pause=1107|charID=241__char=r__charStatus=True__pause=110|charID=242__char=i__charStatus=True__pause=390|charID=243__char=l__charStatus=True__pause=265|charID=244__char=l__charStatus=True__pause=109|charID=245__char=a__charStatus=True__pause=234|charID=246__char=g__charStatus=True__pause=1592|charID=247__char=e__charStatus=True__pause=78
+68	av	_	X	NC	_	0	x	_	charID=249__char=a__charStatus=True__pause=3308|charID=250__char=v__charStatus=True__pause=1622
+
+# text_version=43
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	un	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelqu'un	ADV	ADV	_	25	suj	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	_	_	PRO	n=s|g=m	22	goeswith	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	a_obj	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	NUM	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	un	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	balayette	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	après	ADV	NPP	_	41	coord	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	un	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	42	dep_coord	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	27	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	61	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	le	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	61	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	61	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	61	aux_tps	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	enchaîner	VPP	ADV	_	0	root	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+64	contre	contre	P	P	_	61	mod	_	charID=226__char=c__charStatus=True__pause=889|charID=231__char=o__charStatus=True__pause=1123|charID=232__char=n__charStatus=True__pause=297|charID=233__char=t__charStatus=True__pause=717|charID=234__char=r__charStatus=True__pause=156|charID=235__char=e__charStatus=True__pause=140
+65	le	le	DET	DET	n=s|g=m	66	det	_	charID=237__char=l__charStatus=True__pause=3089|charID=238__char=e__charStatus=True__pause=390
+66	grillage	grillage	NC	NC	n=s|g=m	64	prep	_	charID=240__char=g__charStatus=True__pause=1107|charID=241__char=r__charStatus=True__pause=110|charID=242__char=i__charStatus=True__pause=390|charID=243__char=l__charStatus=True__pause=265|charID=244__char=l__charStatus=True__pause=109|charID=245__char=a__charStatus=True__pause=234|charID=246__char=g__charStatus=True__pause=1592|charID=247__char=e__charStatus=True__pause=78
+69	avec	avec	P	P	_	61	mod	_	charID=249__char=a__charStatus=True__pause=3308|charID=250__char=v__charStatus=True__pause=1622|charID=257__char=e__charStatus=True__pause=1139|charID=258__char=c__charStatus=True__pause=109
+70	un	un	DET	DET	n=s|g=m	71	det	_	charID=260__char=u__charStatus=True__pause=3885|charID=261__char=n__charStatus=True__pause=156
+71	coude	coup_de	NC	NC	n=s|g=m	69	prep	_	charID=263__char=c__charStatus=True__pause=671|charID=264__char=o__charStatus=True__pause=702|charID=265__char=u__charStatus=True__pause=188|charID=266__char=d__charStatus=False__pause=499|charID=267__char=e__charStatus=False__pause=140
+
+# text_version=44
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	DET	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	une	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	_	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	_	NPP	NPP	_	41	mod	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	une	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	25	mod	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	25	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	25	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	la	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	54	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	54	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	14	mod	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	_	ADV	ADV	_	54	mod	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+64	contre	contre	P	P	_	54	mod	_	charID=226__char=c__charStatus=True__pause=889|charID=231__char=o__charStatus=True__pause=1123|charID=232__char=n__charStatus=True__pause=297|charID=233__char=t__charStatus=True__pause=717|charID=234__char=r__charStatus=True__pause=156|charID=235__char=e__charStatus=True__pause=140
+65	le	le	DET	DET	n=s|g=m	66	det	_	charID=237__char=l__charStatus=True__pause=3089|charID=238__char=e__charStatus=True__pause=390
+66	grillage	grillage	NC	NC	n=s|g=m	64	prep	_	charID=240__char=g__charStatus=True__pause=1107|charID=241__char=r__charStatus=True__pause=110|charID=242__char=i__charStatus=True__pause=390|charID=243__char=l__charStatus=True__pause=265|charID=244__char=l__charStatus=True__pause=109|charID=245__char=a__charStatus=True__pause=234|charID=246__char=g__charStatus=True__pause=1592|charID=247__char=e__charStatus=True__pause=78
+69	avec	avec	P	P	_	54	mod	_	charID=249__char=a__charStatus=True__pause=3308|charID=250__char=v__charStatus=True__pause=1622|charID=257__char=e__charStatus=True__pause=1139|charID=258__char=c__charStatus=True__pause=109
+70	un	un	DET	DET	n=s|g=m	72	det	_	charID=260__char=u__charStatus=True__pause=3885|charID=261__char=n__charStatus=True__pause=156
+72	cou	cou	NC	NC	n=s|g=m	69	prep	_	charID=263__char=c__charStatus=True__pause=671|charID=264__char=o__charStatus=True__pause=702|charID=265__char=u__charStatus=True__pause=188
+
+# text_version=45
+# sentence_id=1
+1	un	un	DET	DET	n=s|g=m	2	det	_	charID=1__char=u__charStatus=True__pause=na|charID=2__char=n__charStatus=True__pause=218
+2	jour	jour	NC	NC	n=s|g=m	14	mod	_	charID=4__char=j__charStatus=True__pause=1310|charID=5__char=o__charStatus=True__pause=842|charID=6__char=u__charStatus=True__pause=141|charID=7__char=r__charStatus=True__pause=281
+10	j'	je	CLS	CLS	n=s|p=1	14	suj	_	charID=23__char=j__charStatus=True__pause=45895|charID=28__char='__charStatus=True__pause=998
+11	ai	avoir	V	V	n=s|t=P|p=1	14	aux_tps	_	charID=30__char=a__charStatus=True__pause=1092|charID=31__char=i__charStatus=True__pause=1076
+14	vu	voir	VPP	VPP	n=s|g=m|t=K	0	root	_	charID=33__char=v__charStatus=True__pause=1264|charID=40__char=u__charStatus=True__pause=1248
+16	une	une	DET	DET	n=s|g=f	17	det	_	charID=44__char=u__charStatus=True__pause=1263|charID=45__char=n__charStatus=True__pause=561|charID=46__char=e__charStatus=True__pause=156
+17	bagarre	bagarre	NC	NC	n=s|g=f	14	obj	_	charID=48__char=b__charStatus=True__pause=2465|charID=49__char=a__charStatus=True__pause=390|charID=50__char=g__charStatus=True__pause=795|charID=51__char=a__charStatus=True__pause=343|charID=52__char=r__charStatus=True__pause=484|charID=53__char=r__charStatus=True__pause=172|charID=54__char=e__charStatus=True__pause=187
+19	où	où	PROREL	PROREL	_	25	mod	_	charID=67__char=o__charStatus=True__pause=2059|charID=68__char=ù__charStatus=True__pause=4212
+22	quelqu'	quelque	ADV	ADV	_	23	mod	_	charID=70__char=q__charStatus=True__pause=30326|charID=71__char=u__charStatus=True__pause=47|charID=72__char=e__charStatus=True__pause=2028|charID=75__char=l__charStatus=True__pause=359|charID=76__char=q__charStatus=True__pause=500|charID=77__char=u__charStatus=True__pause=219|charID=78__char='__charStatus=True__pause=1186
+23	un	un	PRO	PRO	n=s|g=m	25	suj	_	charID=79__char=u__charStatus=True__pause=1201|charID=80__char=n__charStatus=True__pause=280
+24	a	avoir	V	V	n=s|t=P|p=3	25	aux_tps	_	charID=82__char=a__charStatus=True__pause=2277
+25	commencé	commencer	VPP	VPP	n=s|g=m|t=K	17	mod_rel	_	charID=84__char=c__charStatus=True__pause=671|charID=85__char=o__charStatus=True__pause=795|charID=86__char=m__charStatus=True__pause=281|charID=87__char=m__charStatus=True__pause=140|charID=88__char=e__charStatus=True__pause=546|charID=89__char=n__charStatus=True__pause=265|charID=90__char=c__charStatus=True__pause=1825|charID=91__char=é__charStatus=True__pause=656
+26	à	à	P	P	_	25	mod	_	charID=93__char=à__charStatus=True__pause=14383
+27	donner	donner	VINF	VINF	t=W	26	prep	_	charID=95__char=d__charStatus=True__pause=733|charID=96__char=o__charStatus=True__pause=609|charID=97__char=n__charStatus=True__pause=374|charID=98__char=n__charStatus=True__pause=125|charID=99__char=e__charStatus=True__pause=998|charID=100__char=r__charStatus=True__pause=109
+32	deux	deux	DET	DET	s=card|n=p	31	det	_	charID=118__char=d__charStatus=True__pause=1326|charID=119__char=e__charStatus=True__pause=141|charID=120__char=u__charStatus=True__pause=624|charID=121__char=x__charStatus=True__pause=624
+31	droite	droite	NC	NC	n=s|g=f	27	obj	_	charID=106__char=d__charStatus=True__pause=639|charID=107__char=r__charStatus=True__pause=140|charID=110__char=o__charStatus=True__pause=250|charID=111__char=i__charStatus=True__pause=140|charID=112__char=t__charStatus=True__pause=702|charID=113__char=e__charStatus=True__pause=234
+33	puis	puis	CC	CC	_	31	coord	_	charID=123__char=p__charStatus=True__pause=9594|charID=124__char=u__charStatus=True__pause=765|charID=125__char=i__charStatus=True__pause=171|charID=126__char=s__charStatus=True__pause=1124
+35	une	une	DET	DET	n=s|g=f	41	det	_	charID=130__char=u__charStatus=True__pause=375|charID=131__char=n__charStatus=True__pause=203|charID=132__char=e__charStatus=True__pause=484
+41	balellette	_	NC	NC	_	33	dep_coord	_	charID=134__char=b__charStatus=True__pause=281|charID=135__char=a__charStatus=True__pause=577|charID=136__char=l__charStatus=True__pause=5336|charID=143__char=e__charStatus=True__pause=1061|charID=146__char=l__charStatus=True__pause=7379|charID=147__char=l__charStatus=True__pause=125|charID=148__char=e__charStatus=True__pause=2481|charID=149__char=t__charStatus=True__pause=358|charID=150__char=t__charStatus=True__pause=125|charID=151__char=e__charStatus=True__pause=390
+42	apres	_	NPP	NPP	_	41	mod	_	charID=153__char=a__charStatus=True__pause=2683|charID=154__char=p__charStatus=True__pause=1154|charID=155__char=r__charStatus=True__pause=531|charID=156__char=e__charStatus=True__pause=156|charID=157__char=s__charStatus=True__pause=202
+43	une	une	DET	DET	n=s|g=f	44	det	_	charID=159__char=u__charStatus=True__pause=25241|charID=160__char=n__charStatus=True__pause=358|charID=161__char=e__charStatus=True__pause=312
+44	droite	droite	NC	NC	n=s|g=f	25	mod	_	charID=163__char=d__charStatus=True__pause=5086|charID=164__char=r__charStatus=True__pause=109|charID=165__char=o__charStatus=True__pause=1046|charID=166__char=i__charStatus=True__pause=109|charID=167__char=t__charStatus=True__pause=515|charID=168__char=e__charStatus=True__pause=203
+45	dans	dans	P	P	_	25	mod	_	charID=170__char=d__charStatus=True__pause=1061|charID=171__char=a__charStatus=True__pause=265|charID=172__char=n__charStatus=True__pause=515|charID=173__char=s__charStatus=True__pause=390
+46	le	le	DET	DET	n=s|g=m	47	det	_	charID=175__char=l__charStatus=True__pause=1826|charID=176__char=e__charStatus=True__pause=297
+47	ventre	ventre	NC	NC	n=s|g=m	45	prep	_	charID=178__char=v__charStatus=True__pause=983|charID=179__char=e__charStatus=True__pause=328|charID=180__char=n__charStatus=True__pause=515|charID=181__char=t__charStatus=True__pause=593|charID=182__char=r__charStatus=True__pause=125|charID=183__char=e__charStatus=True__pause=124
+49	à	à	P	P	_	25	mod	_	charID=189__char=à__charStatus=True__pause=1981
+50	la	la	DET	DET	n=s|g=f	51	det	_	charID=191__char=l__charStatus=True__pause=1124|charID=192__char=a__charStatus=True__pause=874
+51	fin	fin	NC	NC	n=s	49	prep	_	charID=194__char=f__charStatus=True__pause=1404|charID=195__char=i__charStatus=True__pause=530|charID=196__char=n__charStatus=True__pause=234
+52	il	il	CLS	CLS	n=s|g=m|p=3	54	suj	_	charID=198__char=i__charStatus=True__pause=4384|charID=199__char=l__charStatus=True__pause=265
+53	l'	le	CLO	CLO	n=s|p=3	54	obj	_	charID=201__char=l__charStatus=True__pause=2621|charID=202__char='__charStatus=True__pause=936
+54	a	avoir	V	V	n=s|t=P|p=3	14	mod	_	charID=203__char=a__charStatus=True__pause=484
+61	enchéné	_	ADV	ADV	_	54	mod	_	charID=205__char=e__charStatus=True__pause=1903|charID=206__char=n__charStatus=True__pause=1029|charID=207__char=c__charStatus=True__pause=842|charID=210__char=h__charStatus=True__pause=562|charID=221__char=é__charStatus=True__pause=1529|charID=222__char=n__charStatus=True__pause=1123|charID=223__char=é__charStatus=True__pause=437
+64	contre	contre	P	P	_	54	mod	_	charID=226__char=c__charStatus=True__pause=889|charID=231__char=o__charStatus=True__pause=1123|charID=232__char=n__charStatus=True__pause=297|charID=233__char=t__charStatus=True__pause=717|charID=234__char=r__charStatus=True__pause=156|charID=235__char=e__charStatus=True__pause=140
+65	le	le	DET	DET	n=s|g=m	66	det	_	charID=237__char=l__charStatus=True__pause=3089|charID=238__char=e__charStatus=True__pause=390
+66	grillage	grillage	NC	NC	n=s|g=m	64	prep	_	charID=240__char=g__charStatus=True__pause=1107|charID=241__char=r__charStatus=True__pause=110|charID=242__char=i__charStatus=True__pause=390|charID=243__char=l__charStatus=True__pause=265|charID=244__char=l__charStatus=True__pause=109|charID=245__char=a__charStatus=True__pause=234|charID=246__char=g__charStatus=True__pause=1592|charID=247__char=e__charStatus=True__pause=78
+69	avec	avec	P	P	_	54	mod	_	charID=249__char=a__charStatus=True__pause=3308|charID=250__char=v__charStatus=True__pause=1622|charID=257__char=e__charStatus=True__pause=1139|charID=258__char=c__charStatus=True__pause=109
+70	un	un	DET	DET	n=s|g=m	73	det	_	charID=260__char=u__charStatus=True__pause=3885|charID=261__char=n__charStatus=True__pause=156
+73	coup	coup	NC	NC	n=s|g=m	69	prep	_	charID=263__char=c__charStatus=True__pause=671|charID=264__char=o__charStatus=True__pause=702|charID=265__char=u__charStatus=True__pause=188|charID=272__char=p__charStatus=True__pause=2043
+74	de	de	P	P	_	54	mod	_	charID=274__char=d__charStatus=True__pause=124|charID=275__char=e__charStatus=True__pause=110
+75	boule	boule	NC	NC	n=s|g=f	74	prep	_	charID=277__char=b__charStatus=True__pause=765|charID=278__char=o__charStatus=True__pause=468|charID=279__char=u__charStatus=True__pause=390|charID=280__char=l__charStatus=True__pause=562|charID=281__char=e__charStatus=True__pause=171
+
